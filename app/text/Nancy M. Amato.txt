@@ -1,0 +1,34 @@
+brief: Title: Robot Motion and Task Planning, Multi-Agent Systems, Crowd Simulation
+Nancy M. Amato
+Nancy M. Amato she/her/hers
+Abel Bliss Professor of Engineering and Department Head
+(217) 333-3426
+namato@illinois.edu
+2248 Siebel Center for Comp Sci
+For More Information
+Nancy Amato's CV
+Parasol Lab
+Biography
+Nancy M. Amato is Head of the Computer Science Department and Abel Bliss Professor of Engineering at the University of Illinois at Urbana-Champaign. She received undergraduate degrees in Mathematical Sciences and Economics from Stanford, and M.S. and Ph.D. degrees in Computer Science from UC Berkeley and the University of Illinois, respectively. Before returning to her alma mater in 2019, she was Unocal Professor and Regents Professor at Texas A&M University and Senior Director of Engineering Honors Programs.
+
+Research and student mentoring. Amato is known for algorithmic contributions to robotics task and motion planning, computational biology and geometry, and parallel and distributed computing. She has graduated 25 PhD students, with most going to faculty positions (12) or research positions in government or industry (9), and has worked with 30+ master's students, 100+ undergraduate researchers, and 10+ high school students. A majority of her students are from groups underrepresented in computing. Her group has developed several groundbreaking approaches for biasing sampling that have enabled sampling-based motion planning, the dominant approach in use today in robotics, to be applied in areas where it was not feasible before. She and her students were the first to use these methods to study protein motion and folding. She is also known for her work in computational geometry, including the development of approximate convex decomposition (ACD) for partitioning polyhedra, and parallel algorithms, including novel approaches for parallel graph traversals.
+
+Amato's current research focus for robotics is exploring task planning and interaction in dynamic multi-robot systems, including collaboration with other robots and humans. In computational biology, she is interested studying protein-drug interaction and binding site accessibility. For all these, she is investigating methods that incorporate learning at various levels and leverage workspace topology. In parallel and distributed computing, she is continuing her longstanding collaboration with Lawrence Rauchwerger on the STAPL (Standard Templates Adaptive Parallel Library) project with a particular interest on approximate parallel algorithms for large and dynamic graphs.  She is also co-leading an exciting new multi-disciplinary and multi-university NSF Expeditions in Computing project – Mind in Vitro – that is seeking to build a computing system based on living biological neurons.
+
+Leadership roles and broadening participation in computing. Amato has served in numerous leadership roles including CRA Board Chair (2021-2025), AAAS Section-T Chair (2021-2022), ACM Council Member-at-Large (2020-2024), and IEEE Robotics and Automation Society Vice President (2018-2021). She is passionate about broadening participation in computing and has worked at the international, national and local level. She has served as CRA-WP Co-Chair (2014-2017) and as NCWIT Academic Alliance Co-Chair (2009-2011). She has Co-Directed the CRA-WP Distributed REU (DREU) program since 2000; DREU is a national program that matches students from groups underrepresented in computing, including women, ethnic minorities and persons with disabilities, with a faculty mentor for a summer research experience at the faculty member's home institution. She was Program Chair for the 2015 IEEE International Conference on Robotics and Automation (ICRA) which featured an all-female organizing committee and 50% female invited speakers.
+
+Recognition. Amato's honors include the 2019 IEEE RAS Saridis Leadership Award in Robotics and Automation, the inaugural NCWIT Harrold and Notkin Research and Graduate Mentoring Award in 2014, the inaugural NCWIT Harrold and Notkin Research and Graduate Mentoring Award in 2014, the A. Nico Habermann Award from the CRA in 2014 for her contributions to increasing diversity in computing, and the 2013 IEEE Education Society Hewlett-Packard/Harriet B. Rigas Award. She received Texas A&M university-level awards in research (2018) and teaching (2011), and the Betty M. Unterberger Award for Outstanding Service to Honors Education at Texas A&M in 2013. She received a CAREER Award from the National Science Foundation, and was an AT&T Bell Laboratories PhD Scholar. Amato is a Fellow of the Association for the Advancement of Artificial Intelligence (AAAI), the American Association for the Advancement of Science (AAAS), the Association for Computing Machinery (ACM), and of the Institute of Electrical and Electronics Engineers (IEEE).
+
+Research Interests
+Parallel and distributed computing, parallel algorithms, performance modeling and optimization.
+Motion planning, robotics, computational biology, computational geometry, animation, CAD, VR.
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Artificial Intelligence
+Bioinformatics and Computational Biology
+Scientific Computing
+Theory and Algorithms
+Recent Courses Taught
+CS 199 STR - CS Stars Seminar
+CS 491 PD (CS 491 PDO) - Professional Development
+CS 591 CS (CS 591 CSO, CS 591 PHD) - PHD Orientation Seminar
