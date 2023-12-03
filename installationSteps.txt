@@ -1,0 +1,159 @@
+PS C:\Users\E5734C> pip install fastapi[all] uvicorn
+Collecting fastapi[all]
+  Obtaining dependency information for fastapi[all] from https://files.pythonhosted.org/packages/db/30/b8d323119c37e15b7fa639e65e0eb7d81eb675ba166ac83e695aad3bd321/fastapi-0.104.0-py3-none-any.whl.metadata
+  Downloading fastapi-0.104.0-py3-none-any.whl.metadata (24 kB)
+Collecting uvicorn
+  Obtaining dependency information for uvicorn from https://files.pythonhosted.org/packages/79/96/b0882a1c3f7ef3dd86879e041212ae5b62b4bd352320889231cc735a8e8f/uvicorn-0.23.2-py3-none-any.whl.metadata
+  Downloading uvicorn-0.23.2-py3-none-any.whl.metadata (6.2 kB)
+Collecting anyio<4.0.0,>=3.7.1 (from fastapi[all])
+  Obtaining dependency information for anyio<4.0.0,>=3.7.1 from https://files.pythonhosted.org/packages/19/24/44299477fe7dcc9cb58d0a57d5a7588d6af2ff403fdd2d47a246c91a3246/anyio-3.7.1-py3-none-any.whl.metadata
+  Downloading anyio-3.7.1-py3-none-any.whl.metadata (4.7 kB)
+Collecting pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4 (from fastapi[all])
+  Obtaining dependency information for pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4 from https://files.pythonhosted.org/packages/73/66/0a72c9fcde42e5650c8d8d5c5c1873b9a3893018020c77ca8eb62708b923/pydantic-2.4.2-py3-none-any.whl.metadata
+  Downloading pydantic-2.4.2-py3-none-any.whl.metadata (158 kB)
+     ---------------------------------------- 158.6/158.6 kB 1.3 MB/s eta 0:00:00
+Collecting starlette<0.28.0,>=0.27.0 (from fastapi[all])
+  Obtaining dependency information for starlette<0.28.0,>=0.27.0 from https://files.pythonhosted.org/packages/58/f8/e2cca22387965584a409795913b774235752be4176d276714e15e1a58884/starlette-0.27.0-py3-none-any.whl.metadata
+  Downloading starlette-0.27.0-py3-none-any.whl.metadata (5.8 kB)
+Collecting typing-extensions>=4.8.0 (from fastapi[all])
+  Obtaining dependency information for typing-extensions>=4.8.0 from https://files.pythonhosted.org/packages/24/21/7d397a4b7934ff4028987914ac1044d3b7d52712f30e2ac7a2ae5bc86dd0/typing_extensions-4.8.0-py3-none-any.whl.metadata
+  Downloading typing_extensions-4.8.0-py3-none-any.whl.metadata (3.0 kB)
+Collecting email-validator>=2.0.0 (from fastapi[all])
+  Obtaining dependency information for email-validator>=2.0.0 from https://files.pythonhosted.org/packages/09/68/d237a603d524ba052e292d71c89939bfa70e3ec7963b255cc3ef7a8770a0/email_validator-2.1.0.post1-py3-none-any.whl.metadata
+  Downloading email_validator-2.1.0.post1-py3-none-any.whl.metadata (25 kB)
+Collecting httpx>=0.23.0 (from fastapi[all])
+  Obtaining dependency information for httpx>=0.23.0 from https://files.pythonhosted.org/packages/33/0d/d9ce469af019741c8999711d36b270ff992ceb1a0293f73f9f34fdf131e9/httpx-0.25.0-py3-none-any.whl.metadata
+  Downloading httpx-0.25.0-py3-none-any.whl.metadata (7.6 kB)
+Collecting itsdangerous>=1.1.0 (from fastapi[all])
+  Downloading itsdangerous-2.1.2-py3-none-any.whl (15 kB)
+Collecting jinja2>=2.11.2 (from fastapi[all])
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ---------------------------------------- 133.1/133.1 kB 2.6 MB/s eta 0:00:00
+Collecting orjson>=3.2.1 (from fastapi[all])
+  Obtaining dependency information for orjson>=3.2.1 from https://files.pythonhosted.org/packages/03/96/4fd0da4f4a5a450054e69439875b4e856654dcbbfea6907d7753b827c937/orjson-3.9.10-cp312-none-win_amd64.whl.metadata
+  Downloading orjson-3.9.10-cp312-none-win_amd64.whl.metadata (50 kB)
+     ---------------------------------------- 50.5/50.5 kB 2.5 MB/s eta 0:00:00
+Collecting pydantic-extra-types>=2.0.0 (from fastapi[all])
+  Obtaining dependency information for pydantic-extra-types>=2.0.0 from https://files.pythonhosted.org/packages/cc/a8/ec9c44384336c6b1b4c2c59a486fdd9204db8a3115a8d9021a8929fdfe3c/pydantic_extra_types-2.1.0-py3-none-any.whl.metadata
+  Downloading pydantic_extra_types-2.1.0-py3-none-any.whl.metadata (2.5 kB)
+Collecting pydantic-settings>=2.0.0 (from fastapi[all])
+  Obtaining dependency information for pydantic-settings>=2.0.0 from https://files.pythonhosted.org/packages/46/92/918ef6b14d54c6a4fccdecd65b3ee15360ca2b4aa52d5c9c4f39f99b4c56/pydantic_settings-2.0.3-py3-none-any.whl.metadata
+  Downloading pydantic_settings-2.0.3-py3-none-any.whl.metadata (2.9 kB)
+Collecting python-multipart>=0.0.5 (from fastapi[all])
+  Downloading python_multipart-0.0.6-py3-none-any.whl (45 kB)
+     ---------------------------------------- 45.7/45.7 kB 2.4 MB/s eta 0:00:00
+Collecting pyyaml>=5.3.1 (from fastapi[all])
+  Obtaining dependency information for pyyaml>=5.3.1 from https://files.pythonhosted.org/packages/2b/9f/fbade56564ad486809c27b322d0f7e6a89c01f6b4fe208402e90d4443a99/PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl.metadata (2.1 kB)
+Collecting ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1 (from fastapi[all])
+  Obtaining dependency information for ujson!=4.0.2,!=4.1.0,!=4.2.0,!=4.3.0,!=5.0.0,!=5.1.0,>=4.0.1 from https://files.pythonhosted.org/packages/c1/af/886d82ad014b95a31d9f6600dab38aff9f0f441afede7e56c8915d9011c5/ujson-5.8.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading ujson-5.8.0-cp312-cp312-win_amd64.whl.metadata (8.9 kB)
+Collecting click>=7.0 (from uvicorn)
+  Obtaining dependency information for click>=7.0 from https://files.pythonhosted.org/packages/00/2e/d53fa4befbf2cfa713304affc7ca780ce4fc1fd8710527771b58311a3229/click-8.1.7-py3-none-any.whl.metadata
+  Downloading click-8.1.7-py3-none-any.whl.metadata (3.0 kB)
+Collecting h11>=0.8 (from uvicorn)
+  Downloading h11-0.14.0-py3-none-any.whl (58 kB)
+     ---------------------------------------- 58.3/58.3 kB 1.5 MB/s eta 0:00:00
+Collecting idna>=2.8 (from anyio<4.0.0,>=3.7.1->fastapi[all])
+  Downloading idna-3.4-py3-none-any.whl (61 kB)
+     ---------------------------------------- 61.5/61.5 kB 3.4 MB/s eta 0:00:00
+Collecting sniffio>=1.1 (from anyio<4.0.0,>=3.7.1->fastapi[all])
+  Downloading sniffio-1.3.0-py3-none-any.whl (10 kB)
+Collecting colorama (from click>=7.0->uvicorn)
+  Downloading colorama-0.4.6-py2.py3-none-any.whl (25 kB)
+Collecting dnspython>=2.0.0 (from email-validator>=2.0.0->fastapi[all])
+  Obtaining dependency information for dnspython>=2.0.0 from https://files.pythonhosted.org/packages/f6/b4/0a9bee52c50f226a3cbfb54263d02bb421c7f2adc136520729c2c689c1e5/dnspython-2.4.2-py3-none-any.whl.metadata
+  Downloading dnspython-2.4.2-py3-none-any.whl.metadata (4.9 kB)
+Collecting certifi (from httpx>=0.23.0->fastapi[all])
+  Obtaining dependency information for certifi from https://files.pythonhosted.org/packages/4c/dd/2234eab22353ffc7d94e8d13177aaa050113286e93e7b40eae01fbf7c3d9/certifi-2023.7.22-py3-none-any.whl.metadata
+  Downloading certifi-2023.7.22-py3-none-any.whl.metadata (2.2 kB)
+Collecting httpcore<0.19.0,>=0.18.0 (from httpx>=0.23.0->fastapi[all])
+  Obtaining dependency information for httpcore<0.19.0,>=0.18.0 from https://files.pythonhosted.org/packages/ac/97/724afbb7925339f6214bf1fdb5714d1a462690466832bf8fb3fd497649f1/httpcore-0.18.0-py3-none-any.whl.metadata
+  Downloading httpcore-0.18.0-py3-none-any.whl.metadata (18 kB)
+Collecting MarkupSafe>=2.0 (from jinja2>=2.11.2->fastapi[all])
+  Obtaining dependency information for MarkupSafe>=2.0 from https://files.pythonhosted.org/packages/44/44/dbaf65876e258facd65f586dde158387ab89963e7f2235551afc9c2e24c2/MarkupSafe-2.1.3-cp312-cp312-win_amd64.whl.metadata
+  Downloading MarkupSafe-2.1.3-cp312-cp312-win_amd64.whl.metadata (3.0 kB)
+Collecting annotated-types>=0.4.0 (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4->fastapi[all])
+  Obtaining dependency information for annotated-types>=0.4.0 from https://files.pythonhosted.org/packages/28/78/d31230046e58c207284c6b2c4e8d96e6d3cb4e52354721b944d3e1ee4aa5/annotated_types-0.6.0-py3-none-any.whl.metadata
+  Downloading annotated_types-0.6.0-py3-none-any.whl.metadata (12 kB)
+Collecting pydantic-core==2.10.1 (from pydantic!=1.8,!=1.8.1,!=2.0.0,!=2.0.1,!=2.1.0,<3.0.0,>=1.7.4->fastapi[all])
+  Obtaining dependency information for pydantic-core==2.10.1 from https://files.pythonhosted.org/packages/a4/5e/f8436267bb9a35099a75237325107beb640a5a8c8b718492381e9b836719/pydantic_core-2.10.1-cp312-none-win_amd64.whl.metadata
+  Downloading pydantic_core-2.10.1-cp312-none-win_amd64.whl.metadata (6.6 kB)
+Collecting python-dotenv>=0.21.0 (from pydantic-settings>=2.0.0->fastapi[all])
+  Downloading python_dotenv-1.0.0-py3-none-any.whl (19 kB)
+Collecting httptools>=0.5.0 (from uvicorn)
+  Obtaining dependency information for httptools>=0.5.0 from https://files.pythonhosted.org/packages/d3/97/60860e9ee87a7d4712b98f7e1411730520053b9d69e9e42b0b9751809c17/httptools-0.6.1-cp312-cp312-win_amd64.whl.metadata
+  Downloading httptools-0.6.1-cp312-cp312-win_amd64.whl.metadata (3.7 kB)
+Collecting watchfiles>=0.13 (from uvicorn)
+  Obtaining dependency information for watchfiles>=0.13 from https://files.pythonhosted.org/packages/da/f2/6b1de38aeb21eb9dac1ae6a1ee4521566e79690117032036c737cfab52fa/watchfiles-0.21.0-cp312-none-win_amd64.whl.metadata
+  Downloading watchfiles-0.21.0-cp312-none-win_amd64.whl.metadata (5.0 kB)
+Collecting websockets>=10.4 (from uvicorn)
+  Obtaining dependency information for websockets>=10.4 from https://files.pythonhosted.org/packages/20/52/8915f51f9aaef4e4361c89dd6cf69f72a0159f14e0d25026c81b6ad22525/websockets-12.0-cp312-cp312-win_amd64.whl.metadata
+  Downloading websockets-12.0-cp312-cp312-win_amd64.whl.metadata (6.8 kB)
+Downloading uvicorn-0.23.2-py3-none-any.whl (59 kB)
+   ---------------------------------------- 59.5/59.5 kB 1.6 MB/s eta 0:00:00
+Downloading anyio-3.7.1-py3-none-any.whl (80 kB)
+   ---------------------------------------- 80.9/80.9 kB 2.3 MB/s eta 0:00:00
+Downloading click-8.1.7-py3-none-any.whl (97 kB)
+   ---------------------------------------- 97.9/97.9 kB 2.8 MB/s eta 0:00:00
+Downloading email_validator-2.1.0.post1-py3-none-any.whl (32 kB)
+Downloading httpx-0.25.0-py3-none-any.whl (75 kB)
+   ---------------------------------------- 75.7/75.7 kB 2.1 MB/s eta 0:00:00
+Downloading orjson-3.9.10-cp312-none-win_amd64.whl (135 kB)
+   ---------------------------------------- 135.1/135.1 kB 4.0 MB/s eta 0:00:00
+Downloading pydantic-2.4.2-py3-none-any.whl (395 kB)
+   ---------------------------------------- 395.8/395.8 kB 2.8 MB/s eta 0:00:00
+Downloading pydantic_core-2.10.1-cp312-none-win_amd64.whl (2.0 MB)
+   ---------------------------------------- 2.0/2.0 MB 2.7 MB/s eta 0:00:00
+Downloading pydantic_extra_types-2.1.0-py3-none-any.whl (16 kB)
+Downloading pydantic_settings-2.0.3-py3-none-any.whl (11 kB)
+Downloading PyYAML-6.0.1-cp312-cp312-win_amd64.whl (138 kB)
+   ---------------------------------------- 138.7/138.7 kB 8.0 MB/s eta 0:00:00
+Downloading starlette-0.27.0-py3-none-any.whl (66 kB)
+   ---------------------------------------- 67.0/67.0 kB 3.5 MB/s eta 0:00:00
+Downloading typing_extensions-4.8.0-py3-none-any.whl (31 kB)
+Downloading ujson-5.8.0-cp312-cp312-win_amd64.whl (42 kB)
+   ---------------------------------------- 42.6/42.6 kB 1.0 MB/s eta 0:00:00
+Downloading fastapi-0.104.0-py3-none-any.whl (92 kB)
+   ---------------------------------------- 92.9/92.9 kB 5.2 MB/s eta 0:00:00
+Downloading annotated_types-0.6.0-py3-none-any.whl (12 kB)
+Downloading dnspython-2.4.2-py3-none-any.whl (300 kB)
+   ---------------------------------------- 300.4/300.4 kB 4.6 MB/s eta 0:00:00
+Downloading httpcore-0.18.0-py3-none-any.whl (76 kB)
+   ---------------------------------------- 76.0/76.0 kB 2.1 MB/s eta 0:00:00
+Downloading httptools-0.6.1-cp312-cp312-win_amd64.whl (55 kB)
+   ---------------------------------------- 55.7/55.7 kB 2.8 MB/s eta 0:00:00
+Downloading MarkupSafe-2.1.3-cp312-cp312-win_amd64.whl (16 kB)
+Downloading watchfiles-0.21.0-cp312-none-win_amd64.whl (280 kB)
+   ---------------------------------------- 280.3/280.3 kB 4.4 MB/s eta 0:00:00
+Downloading websockets-12.0-cp312-cp312-win_amd64.whl (124 kB)
+   ---------------------------------------- 125.0/125.0 kB 7.2 MB/s eta 0:00:00
+Downloading certifi-2023.7.22-py3-none-any.whl (158 kB)
+   ---------------------------------------- 158.3/158.3 kB 4.8 MB/s eta 0:00:00
+Installing collected packages: websockets, ujson, typing-extensions, sniffio, pyyaml, python-multipart, python-dotenv, orjson, MarkupSafe, itsdangerous, idna, httptools, h11, dnspython, colorama, certifi, annotated-types, pydantic-core, jinja2, email-validator, click, anyio, watchfiles, uvicorn, starlette, pydantic, httpcore, pydantic-settings, pydantic-extra-types, httpx, fastapi
+Successfully installed MarkupSafe-2.1.3 annotated-types-0.6.0 anyio-3.7.1 certifi-2023.7.22 click-8.1.7 colorama-0.4.6 dnspython-2.4.2 email-validator-2.1.0.post1 fastapi-0.104.0 h11-0.14.0 httpcore-0.18.0 httptools-0.6.1 httpx-0.25.0 idna-3.4 itsdangerous-2.1.2 jinja2-3.1.2 orjson-3.9.10 pydantic-2.4.2 pydantic-core-2.10.1 pydantic-extra-types-2.1.0 pydantic-settings-2.0.3 python-dotenv-1.0.0 python-multipart-0.0.6 pyyaml-6.0.1 sniffio-1.3.0 starlette-0.27.0 typing-extensions-4.8.0 ujson-5.8.0 uvicorn-0.23.2 watchfiles-0.21.0 websockets-12.0
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+PS C:\Users\E5734C>
+PS C:\Users\E5734C\Documents\UIUC\CS410\projects> pip install jinja2 aiofiles
+Requirement already satisfied: jinja2 in c:\users\e5734c\appdata\local\programs\python\python312\lib\site-packages (3.1.2)
+Collecting aiofiles
+  Obtaining dependency information for aiofiles from https://files.pythonhosted.org/packages/c5/19/5af6804c4cc0fed83f47bff6e413a98a36618e7d40185cd36e69737f3b0e/aiofiles-23.2.1-py3-none-any.whl.metadata
+  Downloading aiofiles-23.2.1-py3-none-any.whl.metadata (9.7 kB)
+Requirement already satisfied: MarkupSafe>=2.0 in c:\users\e5734c\appdata\local\programs\python\python312\lib\site-packages (from jinja2) (2.1.3)
+Downloading aiofiles-23.2.1-py3-none-any.whl (15 kB)
+Installing collected packages: aiofiles
+Successfully installed aiofiles-23.2.1
+
+[notice] A new release of pip is available: 23.2.1 -> 23.3.1
+[notice] To update, run: python.exe -m pip install --upgrade pip
+
+pip install rank-bm25
+
+Bring up uvicorn:
+uvicorn main:app --reload
+
+
+
+
