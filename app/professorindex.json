@@ -1,0 +1,184 @@
+[
+    {
+      "name": "Arindam Banerjee",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=16353&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/all-faculty/arindamb",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Founder Professor in Engineering",
+        "research_area": [
+          "Artificial Intelligence",
+          "Data and Information Systems"
+        ],
+        "courses_taught": [
+          "CS 412 A3 (CS 412 A4, CS 412 P3, CS 412 P4, CS 412 PG, CS 412 PU) - Introduction to Data Mining",
+          "CS 591 MLR - ML Reading Group",
+          "CS 598 BAN (CS 598 BOF) - Deep Gen & Dyn Models"
+        ]
+      }
+    },
+    {
+      "name": "David M Dalpiaz",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=18217&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/all-faculty/dalpiaz2",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Teaching Associate Professor",
+        "research_area": [
+          "need to fill",
+          "need to fill",
+          "need to fill"
+        ],
+        "courses_taught": [
+          "CS 307 - Model & Learning in Data Sci",
+          "CS 498 DD3 (CS 498 DDG, CS 498 DDU) - Special Topics",
+          "STAT 385 - Statistics Programming Methods",
+          "STAT 400 (MATH 463) - Statistics and Probability I",
+          "STAT 430 - Basics of Statistical Learning"
+        ]
+      }
+    },
+    {
+      "name": "Jana Diesner",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=8910&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/all-faculty/jdiesner",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Associate Professor, Information Sciences",
+        "research_area": [
+          "need to fill",
+          "need to fill",
+          "need to fill"
+        ],
+        "courses_taught": [
+          "NFO 590 - Seminar in AI and Social Compu",
+          "INFO 597 JD2 - Individual Study",
+          "IS 524 - Data Governance",
+          "IS 527 (IS 559) - Network Analysis",
+          "IS 569 - Internshipe"
+        ]
+      }
+    },
+    {
+      "name": "Katie Driggs-Campbell",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=11590&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/all-faculty/krdc",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Assistant Professor, Electrical & Computer Engineering",
+        "research_area": [
+          "Computers and Education",
+          "National Science Foundation Graduate Research Fellow",
+          "Computing Innovation Fellow"
+        ],
+        "courses_taught": [
+          "ECE 470 (AE 482, ME 445) - Introduction to Robotics",
+          "ECE 484 - Principles of Safe Autonomy",
+          "ECE 498 SM (ECE 498 SMA) - Principles of Safe Autonomy",
+          "ECE 590 K - Human-Centered Autonomy",
+          "ECE 598 HCO (ECE 598 HRI, ECE 598 HRO, ECE 598 KDC) - Human Robot Interaction"
+        ]
+      }
+    },
+    {
+      "name": "Kevin Chenchuan Chang",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=10323&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/all-faculty/kcchang",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Professor",
+        "research_area": [
+          "Artificial Intelligence",
+          "Data and Information Systems"
+        ],
+        "courses_taught": [
+          "CS 411 - Database Systems",
+          "CS 412 CSP - Introduction to Data Mining",
+          "CS 511 - Advanced Data Management",
+          "CS 598 KCC (CS 598 KCO) - Listening to Social Universe"
+        ]
+      }
+    },
+    {
+      "name": "Mark A Anastasio",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=17005&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/faculty/namato",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Donald Biggar Willett Professor in Engineering Head, Department of Bioengineering",
+        "research_area": [
+          "Artificial Intelligence",
+          "Scientific Computing"
+        ],
+        "courses_taught": [
+          "BIOE 501 - Seminar Discussion",
+          "BIOE 588 - Biomedical Image Computing Cap",
+          "BIOE 589 - Biomed Img Comp Capstone Prjct",
+          "BIOE 598 MAA - Theoretical Image Science"
+        ]
+      }
+    },
+    {
+      "name": "Nancy M. Amato",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=17005&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/faculty/namato",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Abel Bliss Professor of Engineering and Department Head",
+        "research_area": [
+          "Robot Motion and Task Planning",
+          "Multi-Agent Systems",
+          "Crowd Simulation"
+        ],
+        "courses_taught": [
+          "CS 199 STR - CS Stars Seminar",
+          "CS 491 PD (CS 491 PDO) - Professional Development",
+          "CS 591 CS (CS 591 CSO, CS 591 PHD) - PHD Orientation Seminar"
+        ]
+      }
+    },
+    {
+      "name": "George Chacko",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=12935&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/faculty/chackoge",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "title": "Scientometrics, Knowledge Diffusion, Data Mining, Network Analysis",
+        "research_area": [
+          "Data and Information Systems"
+        ],
+        "courses_taught": [
+          "CS 598 GGC - Computational Scientometrics"
+        ]
+      }
+    },
+    {
+      "name": "ChengXiang Zhai",
+      "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?photo=8328&s=300",
+      "personal_site": "https://cs.illinois.edu/about/people/faculty/czhai",
+      "university": "University of Illinois at Urbana-Champaign",
+      "department": "Computer Science",
+      "brief": {
+        "Title": "Donald Biggar Willett Professor in Engineering",
+        "research_area": [
+          "Bioinformatics and Computational Biology",
+          "Computers and Education",
+          "Data and Information Systems"
+        ],
+        "courses_taught": [
+          "CS 410 - Text Information Systems",
+          "CS 510 - Advanced Information Retrieval",
+          "CS 598 DM (CS 598 DM1, CS 598 DM2) - Data Mining Capstone",
+          "CS 591 TXT - Text Mining Seminar"
+        ]
+      }
+    }
+]

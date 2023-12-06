@@ -1,0 +1,128 @@
+
+
+
+
+
+
+
+ 
+
+
+Minjoo Lawrence Lee 
+
+
+
+Professor
+(217) 300-4430
+mllee@illinois.edu
+2000 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Lee Group at ECE Illinois website
+
+Education
+Ph.D., MIT, 2003
+Sc.B., Brown University, 1998
+
+Academic Positions
+Intel Alumni Endowed Faculty Scholar, ECE Illinois, 8/2023-present
+Director, HMNTL, 1/2023-present
+Professor, ECE Illinois, 8/2021-present
+Associate Professor, ECE Illinois, 8/2016-8/2021
+
+Assistant, Associate Professor, Yale University, Electrical Engineering, 1/2008-8/2016
+
+
+Research Areas
+Microelectronics and Photonics
+Nano-materials
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Click for more
+
+Research Topics
+Beyond CMOS
+Electronics, Plasmonics, and Photonics
+Energy
+Photonics: optical engineering and systems
+Semiconductor devices and manufacturing
+Solar and renewable technology
+Click for more
+Selected Articles in Journals
+Jung, D., J. Faucher, S. Mukherjee, A. Akey, D. J. Ironside, M. Cabral, X. Sang, J. Lebeau, S. R. Bank, T. Buonassisi, O. Moutanabbir and M. L. Lee (2017). "Highly tensile-strained Ge/InAlAs nanocomposites." Nature Communications 8: 14204.
+Vaisman, M., S. Fan, K. Nay Yaung, E. Perl, D. Martin-Martin, Z. J. Yu, M. Leilaeioun, Z. C. Holman and M. L. Lee (2017). "15.3%-Efficient GaAsP Solar Cells on GaP/Si Templates." ACS Energy Letters 2(8): 1911-1918.
+S. Fan, Z. J. Yu, R.D. Hool, P. Dhingra, W. Weigand, M. Kim, E. D. Ratta, B.D. Li, Y. Sun, Z. C. Holman and M. L. Lee (2020). "Current-Matched III-V/Si Epitaxial Tandem Solar Cells with 25.0% Efficiency," Cell Reports Physical Science, 1(9), p.100208.
+P. Dhingra, P. Su, B.D. Li, R.D. Hool, A.J. Muhowski, M. Kim, D. Wasserman, J. Dallesasse, M. L. Lee (2021). "Low-threshold InP quantum dot and InGaP quantum well visible lasers on silicon (001)," Optica 8 (11), 1495-1500
+Sun, Y., Li, B. D., Hool, R. D., Fan, S., Kim, M., & Lee, M. L. (2022). Improving the performance of GaInP solar cells through rapid thermal annealing and delta doping. Solar Energy Materials and Solar Cells, 241, 111725.
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students, ECE 444 IC Device Theory & Fabrication (Spring 2020, Spring 2021, Spring 2022)
+Engineering Council Outstanding Advisors List (Spring 2019)
+List of Teachers Ranked as Excellent by Their Students, ECE 329 Fields & Waves I (Spring 2017)
+Ackerman Award for Teaching and Mentoring (Yale) (2015)
+
+Research Honors
+Intel Faculty Scholar (2023)
+Outstanding Student MBE Award for advisee Pankul Dhingra for his talk, "InP quantum dot and InGaP quantum well visible lasers on Si," International Conference on Molecular Beam Epitaxy (2022)
+Dean's Award for Excellence in Research, Associate Professor (2021)
+Best student presentation award to advisee Ryan Hool for his talk, “Strategies to reduce threading dislocation density of relaxed n-type GaP on Si,” IEEE Photovoltaic Specialists Conference (2021)
+Best student presentation award to advisee Ryan Hool for his talk, "Electron irradiation study of metamorphic 1.7 eV GaAsP solar cells," IEEE Photovoltaic Specialists Conference (2020)
+Best student presentation award to advisee Pankul Dhingra for his talk, "InP Quantum Dots for Dislocation-tolerant, Visible Light Emitters on Si," North American Conference on Molecular Beam Epitaxy (2019)
+Best poster prize to advisee Yukun Sun for "2.0-2.2 eV AlGaInP solar cells grown by MBE," IEEE Photovoltaic Specialists Conference (2019)
+Best student presentation award to advisee Michelle Vaisman for her talk, "Record-efficiency GaAsP Solar Cells Grown by MBE on GaP/Si," North American Conference on Molecular Beam Epitaxy (2016)
+IBM Faculty Award (2016)
+Best student presentation award to advisee Joseph Faucher for his talk, "Initiation strategies for simultaneous control of antiphase domains and stacking faults in GaAs solar cells on Ge," North American Conference on Molecular Beam Epitaxy (2015)
+Best student presentation award to advisee Kevin Nay Yaung for his talk, "Towards high efficiency GaAsP solar cells on (001) GaP/Si," IEEE Photovoltaic Specialists Conference (2014)
+Best student presentation award to advisee Stephanie Tomasulo for her talk, "2.2 eV InGaP solar cells on GaP substrates," IEEE Photovoltaic Specialists Conference (2013)
+Best poster prize to advisee Jordan Lang for "GaAsP solar cells grown on GaP/Si by molecular beam epitaxy," IEEE Photovoltaic Specialists Conference (2013)
+Young Investigator Award, North American conference on Molecular Beam Epitaxy (2012)
+Best oral presentation award to advisee Joseph Faucher for his talk, "GaAsP solar cells on SiGe/Si virtual substrates with high open-circuit voltage," Materials Research Society Fall meeting (2012)
+Best student presentation to advisee Christopher Yerino for his talk, "Tensile strained III-V quantum dots on a (110) surface," Electronic Materials Conference (2012)
+Lange Lecturer in Materials (UCSB) (2012)
+DARPA Young Faculty Award (2011)
+NSF CAREER Award (2010)
+Click for more
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 329 - Fields and Waves I
+ECE 340 - Semiconductor Electronics
+ECE 444 - IC Device Theory & Fabrication
+
+
+
+
+
+
+
+Related News
+
+
+ECE faculty bring home MURI Awards
+
+
+Lee named HMNTL interim director
+
+
+ECE congratulates five faculty on recent promotions and welcomes three others
+
+
+ECE faculty members receive 2021 College of Engineering Awards
+
+
+ECE researchers' work on light emitters chosen as APL Editor's Pick
+
+
+Illinois ECE Graduate Program Ignites New Features for Advanced Learning
+
+
+
+
+
+
+
+

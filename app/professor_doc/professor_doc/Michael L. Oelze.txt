@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+ 
+
+
+Michael L Oelze 
+
+
+
+Professor
+(217) 333-9226
+oelze@illinois.edu
+4251 Beckman Institute
+
+
+
+For More Information
+Oelze - Ultrasound Research Laboratories
+Bioacoustics Research Laboratory Page
+
+Education
+PhD in Physics, University of Mississippi, 2000
+
+Teaching StatementProfessor Oelze is interested in teaching wave propagation, acoustics, ultrasonic imaging, electromagnetics, biomedical imaging and mentoring students in research activities.
+Research StatementProfessor Oelze's research deals with several aspects of ultrasound/tissue interaction including: cancer detection using quantitative ultrasound, ultrasound microscopy, bioeffects of ultrasound, ultrasound-based therapies and coded excitation. Professor Oelze is using quantitative ultrasound techniques to analyze ultrasonic backscatter for breast cancer and thyroid cancer detection and for detection and grading of fatty liver disease.  Professor Oelze has examined the effects of ultrasound on hemorrhaging of lung tissue. Dr. Oelze is also studying the use of very high frequency ultrasound for experiments in ultrasound backscatter microscopy. Dr. Oelze has been studying inverse scattering techniques to create tomographic reconstructions of the sound speed, density and attenuation of materials.  Dr. Oelze is researching means to estimate the concentration of ultrasound contrast agents in vivo from the backscattered signals.  Dr. Oelze has developed a novel coded excitation technique combined with pulse compression to double the bandwidth of an ultrasonic imaging system. The additional bandwidth can be used to improve spatial resolution, improve contrast resolution, and/or improve the estimation of scatterer properties. Dr. Oelze is also interested in using coded excitation to improve harmonic imaging in ultrasound. Dr. Oelze is working on a project involving ultrasound-activated microbubbles to enhance cancer therapy. Finally, Dr. Oelze is working on techniques to stage, monitor, and assess high-intensity focused ultrasound treatment of solid tumors. The technique is based on using quantitative ultrasound imaging to detect tissue changes due to temperature rise in tissues, and  assessing noninvasively the effects of thermal ablation and hyperthermia on tissues. Dr. Oelze is also interested in monitoring therapy in tumors and in novel ultrasonic therapies for cancer treatment.
+Undergraduate Research OpportunitiesSeveral projects are available for undergraduate research including the use of coding schemes to enhance ultrasonic imaging capabilities, devising improved measurement and calibration techniques for ultrasonic imaging, and quantifying materials using ultrasound. Students involved in these research opportunities will learn to characterize and calibrate ultrasonic sources, process data, and develop important laboratory skills.
+Research Interests
+Acoustic Communications
+Ultrasound therapy
+Coded Excitation and Ultrasound
+Ultrasound Computed Tomography
+Bioeffects of ultrasound
+Treatment monitoring using ultrasound
+Cancer diagnosis using ultrasound
+Quantitative ultrasound imaging
+Ultrasound backscatter microscopy
+Click for more
+
+Research Areas
+Acoustics
+Biomedical imaging
+Biomedical Imaging, Bioengineering, and Acoustics
+
+
+Research Topics
+Healthcare and medical technologies
+Imaging science and systems
+Machine learning
+Medical imaging
+Point-of-care diagnostics
+Sensing systems
+Click for more
+Honors
+Invited participant, 2014 Japan-America Frontiers of Engineering Symposium (JAFOE), Sponsored by the NAE and Japan Science and Technology Agency, Tokyo, Japan, 2014
+Senior member, IEEE and IEEE Ultrasonics, Ferroelectronics, and Frequency Control
+Fellow, American Institute of Ultrasound in Medicine
+Fulbright Scholar, 2012-2013
+HP Travel Award, 2012-2013
+3M Nontenured faculty award, 2006, 2007 and 2008
+F32 NIH Individual Postdoctoral Fellowship, 2002-2004
+National Dean's list, 1999-2000
+Physics Graduate Student of the Year, 1998-1999
+Phi Kappa Phi, 1998
+Alpha Chi, 1993
+Click for more
+Teaching Honors
+Teacher Ranked as Excellent by Students,  Spring 2015
+Teacher Ranked as Excellent by Students,  Fall 2014
+Teacher Ranked as Excellent by Students,  Spring 2014
+Teacher Ranked as Excellent by Students,  Fall 2013
+Teacher Ranked as Excellent by Students, Spring 2012 (for both ECE 472 and ECE 473)
+Teacher Ranked as Excellent by Students, Spring 2011 (Listed as Outstanding)
+Teacher Ranked as Excellent by Students, Spring 2010
+Teacher Ranked as Excellent by Students, Spring 2008
+Teacher Ranked as Excellent by Students,  Fall 2006
+Click for more
+Research Honors
+2nd Place Student Paper Competition, 153rd meeting of ASA (2007)
+
+Public Service Honors
+Officer, Basic Science and Instrumentation Community of Practice, AIUM, 2013-
+Technical Program Committee, IEEE Ultrasonics Symposium, 2013-
+Associate Editor, Ultrasonic Imaging, 2013-
+Associate Editor, IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, 2013-2018
+Associate Editor, IEEE Transactions on Biomedical Engineering, 2012-
+Member, Advisory Editorial Board, Ultrasound in Medicine and Biology, 2008-2016
+Click for more
+
+Recent Courses TaughtBIOE 571 - Biological Measurement I
+ECE 445 - Senior Design Project Lab
+ECE 472 - Biomedical Ultrasound Imaging
+ECE 473 (TAM 413) - Fund of Engrg Acoustics
+ECE 590 BRL (ECE 590 D) - Bioacoustics
+
+
+
+
+
+
+
+Related News
+
+
+$2.5M NIH grant awarded to Oelze to advance ultrasound monitoring for breast cancer
+
+
+New seizure-monitoring baseball cap innovated by ECE and Carle Illinois students
+
+
+Carle Illinois researchers advance breast cancer imaging device, supported by new NIH grant
+
+
+Seed Awards Support Collaborative Cancer Research
+
+
+Carle Illinois welcomes Haran and Oelze
+
+
+Illinois ECE researchers publish article describing Illinois RapidVent emergency ventilator
+
+
+
+
+
+
+
+

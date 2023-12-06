@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+ 
+
+
+Yuting Wu Chen 
+
+
+
+Teaching Associate Professor
+(217) 300-2813
+ywchen@illinois.edu
+3064 Electrical & Computer Eng Bldg
+
+
+
+Education
+B.S., Electrical Engineering, University of Illinois at Urbana-Champaign, 2007
+M.S., Electrical Engineering, Rensselaer Polytechnic Institute, 2009 
+Ph.D., Electrical Engineering, Rensselaer Polytechnic Institute, 2011
+
+Resident Instruction
+ENG 598 - Teaching and Leadership
+ECE 220 - Computer Systems & Programming
+
+
+
+Selected Articles in Journals
+Y. W. Chen and X.-C. Zhang, “Anti-reflection implementations for terahertz waves,” Frontiers of Optoelectronics, vol. 7, no. 2, pp.243-262, Jun. 2014.
+Y. W. Chen, P. Y. Han, M-L Kuo, S-L Lin, and X.-C. Zhang, “Terahertz broadband antireflection photonic device with graded refractive indices,” Acta Physica Sinica, vol. 61, no. 8, pp. 0884011 – 0884016, Apr. 2012.
+Y. W. Chen, P. Y. Han, X.-C. Zhang, M-L Kuo, and S-L Lin, “Three-dimensional inverted photonic grating with engineerable refractive indices for broadband antireflection of terahertz waves,” Opt. Lett., vol. 35, no. 19, pp. 3159 – 3161, Oct. 2010.
+P. Y. Han, Y. W. Chen, and X.-C. Zhang, “Application of silicon micropyramid structures for antireflection of terahertz waves,” IEEE J. of Sel. Topics in Quantum Electronics, vol. 16, no. 1, pp. 338 – 343, Jan. 2010.
+Y. W. Chen, P. Y. Han, and X.-C. Zhang, “Tunable broadband antireflection structures for silicon at terahertz frequency,” Appl. Phys. Lett., vol. 94, no.4, pp. 0411061 – 0411063, Jan. 2009. * Featured in Research Highlights, Nature Photonics, vol. 3, no. 4, pp. 186 – 187, Apr. 2009.
+
+Articles in Conference Proceedings
+C. Radhakrishnan, Y. W. Chen, "Teaching Electronic Circuits with a Balance of Rigor, Intuition, Approximation, and Inspection Analysis", in Proc. of the 2022 American Society for Engineering Education Annual Conference & Exposition, Jun. 26 – 29, 2022, Minneapolis, Minnesota.
+
+Y. W. Chen, B. E. Johnson, M. Pool, S. Shehab, B. K. Johnson, "Engagement in Practice: Toward Building University of Illinois at Urbana-Champaign's Multi-disciplinary Service-Learning Ecosystem", in Proc. of the 2022 American Society for Engineering Education Annual Conference & Exposition, Jun. 26 – 29, 2022, Minneapolis, Minnesota.
+
+Z. Zhu, U. K. Bhowmik, Y. Wang, Z. Cheng, Y. W. Chen, "Having it All: Infusing Parallel Computational Thinking in the Lower-level Computer Engineering Curriculum Using Extended Learning Modules", in Proc. of the 2021 American Society for Engineering Education Virtual Annual Conference, Jul. 26 – 29, 2021.
+
+H. H. Choi, S. Havan, C. Hathaway, B. E. Johnson, M. A. Beckman, Y. W. Chen, L. Anderson, "Inform Track: Integrated Teaching and Leadership Development Program for Graduate Teaching Assistants", in Proc. of the 2021 American Society for Engineering Education Virtual Annual Conference, Jul. 26 – 29, 2021.
+
+Z. Li and Y. W. Chen, “Not standing at the same starting line – investigation of prior programming experience on student performance in an introductory programming course in ECE,” in Proc. of the 2020 American Society for Engineering Education Virtual Annual Conference, Jun. 21 – 24, 2020.
+
+Y. W. Chen, J. S. Asgarpoor, R. Sandekian, J. K. Nelson, L. K. Rynearson, S. Bartelt-Hunt, and J. Callahan, “Managing dual academic careers,” in Proc. of the 2020 American Society for Engineering Education Virtual Annual Conference, Jun. 21 – 24, 2020.
+
+W. Monroe, M. Witt, M. Pantoja, C. Lupo, A. C. Elster, J.C. Adams, M. C. Wissink, H. Liu, C. Liao, R.B. Yehezkael, B. H. Glick, R. Tripathi, B. Smith, M. J. Mache, T. Estrada, D. Deb, U. Bhowmik, Y. W. Chen, D. S. Choi, Z. Cheng, G. K. Andino, P. E. Pascuzzi, and M. D. Ward, “Lightning talks of EduHPC 2019,” presented at the 2019 IEEE/ACM Workshop on Education for High-Performance Computing (EduHPC), Nov. 17, 2019, Denver, Colorado.
+Y. W. Chen, “Work in progress: a balancing act – evolution of assessments in an introductory programming course in ECE after curriculum redesign,” in Proc. of the 2019 American Society for Engineering Education Annual Conference & Exposition, Jun. 18 – 21, 2019, Tampa, Florida.
+Y. W. Chen, H. H. Choi, M. Beckman, B. E. Johnson, and L. Anderson, “Integrative engineering leadership initiative for teaching excellence (iELITE) year two: assessment of intermediate-term outcome for graduate teaching assistant training,” in Proc. of the 2019 American Society for Engineering Education Annual Conference & Exposition, Jun. 18 – 21, 2019, Tampa, Florida.
+H. H. Choi, Y. W. Chen, M. Beckman, L. Anderson, B. E. Johnson, M. D. Goodman, C. Migotsky, and N. Johnson-Glauch, “Integrative engineering leadership initiative for teaching excellence (iELITE),” in Proc. of the 2018 American Society for Engineering Education Annual Conference & Exposition, Jun. 26 – 29, 2018, Salt Lake City, Utah.
+Click for more
+Patents
+X.-C. Zhang, P. Y. Han, Y. W. Chen (2012). U.S. Patent No. 8,299,435. Washington, DC: U.S. Patent and Trademark Office. Tunable Broadband Anti-reflection Apparatus.
+X.-C. Zhang, P. Y. Han, Y. W. Chen (2012). U.S. Patent No. 8,338,802. Washington, DC: U.S. Patent and Trademark Office. Terahertz Radiation Anti-reflection Devices and Methods for Handling Terahertz Radiation.
+
+Honors
+National Science Foundation IGERT Fellowship (2007 - 2010)
+Rensselaer Founders Award of Excellence (2009)
+Illinois ECE Oakley Scholarship
+ (2004
+)
+
+Teaching Honors
+University of Illinois Urbana-Champaign Campus Award for Excellence in Undergraduate Teaching (2023)
+Illinois ECE Ronald W. Pratt Outstanding Teaching Award for Faculty
+ (2020)
+
+
+Recent Courses TaughtCS 591 TA - Teaching Assistant Training
+ECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 220 - Computer Systems & Programming
+ECE 590 TL - Teaching and Leadership
+ENG 177 SL2 - GFX Leadership Scholars
+ENG 580 - Teaching and Leadership
+ENG 598 TL (ENG 598 TL2) - Teaching and Leadership 2
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Yuting Wu Chen receives Campus Award for Excellence in Instruction 
+
+
+ECE congratulates five faculty on recent promotions and welcomes three others
+
+
+ECE ILLINOIS adds nine tenure-track and teaching faculty members
+
+
+Kim, Chen join ECE ILLINOIS faculty for fall 2015
+
+
+
+
+
+
+
+

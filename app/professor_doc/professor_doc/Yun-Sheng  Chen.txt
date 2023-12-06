@@ -1,0 +1,95 @@
+
+
+
+
+
+
+
+ 
+
+
+Yun-Sheng Chen 
+
+
+
+Assistant Professor
+(217) 300-2801
+yunsheng@illinois.edu
+4255 Beckman Institute
+
+
+
+For More Information
+Yun-Sheng Chen Lab Page
+
+Education
+Doctor of Philosophy in Electrical and Computer Engineering (2012), Department of Electrical and Computer Engineering, the University of Texas at Austin, TX, USA. Mentor: Prof. Stanislav Emelianov
+Certification in Nanoscience and Nanotechnology (2012), Graduate Portfolio Program, Center for Nano- and Molecular Science, the University of Texas at Austin, TX, USA
+
+Academic Positions
+Assistant Professor (2021-Present), Beckman Institute for Advanced Science and Technology, Department of Electrical and Computer Engineering, University of Illinois, Urbana-Champaign, IL, USA
+
+
+
+Research Areas
+Biomedical Imaging, Bioengineering, and Acoustics
+Nanotechnology
+
+
+Research Topics
+Electronics, Plasmonics, and Photonics
+Medical imaging
+Nanomedicine and bio-nanotechnology
+
+Selected Articles in Journals
+Y.-S. Chen, S. Yoon, W. Frey, M. Dockery, S. Emelianov*, "Dynamic contrast-enhanced photoacoustic imaging using photothermal stimuli-responsive composite nanomodulators", Nature Communications, 2017, 8, 15782. DOI:10.1038/ncomms15782
+Y.-S. Chen, Y. Zhao, S. Yoon, S. Emelianov*, S. S. Gambhir*, "Miniature gold nanorods for photoacoustic molecular imaging in the second near-infrared optical window", Nature Nanotechnology, 2019, 14, 465–472. DOI: 10.1038/s41565-019-0392-3
+G. Song, M. Kenney, Y.-S. Chen, X. Zheng, Y. Deng, S. X. Wang, S. S. Gambhir, H. Dai, J. Rao*, "Carbon-coated FeCo nanoparticles as sensitive magnetic-particle-imaging tracers with photothermal and magnetothermal properties", Nature Biomedical Engineering, 2020, 4, 325. DOI: 10.1038/s41551-019-0506-0
+Y.-S. Chen*, Y. Zhao, C. Beinat, A. Zlitni, E.-C. Hsu, D.-H. Chen, H. Wang, T. Stoyanova, J. A. Dionne, and S. S. Gambhir*, "Ultra-high-frequency-radio-frequency-acoustic molecular imaging with saline nanodroplets in living subjects", Nature Nanotechnology, 2021. DOI: 10.1038/s41565-021-00
+S. Zhao, J. Hartanto, R. Joseph, C.-H. Wu, Y. Zhao, and Y.-S. Chen*, â€œHybrid Photoacoustic and Fast Super Resolution Ultrasound Imagingâ€, Nature Communications, accepted, 2023.
+
+Patents
+S. Emelianov, B. Wang, J. Shah, K. Sokolov, J. Su, Y.-S. Chen, W. Frey, "Temperature dependent photoacoustic imaging", U.S. Patent 20120125107 A1, (2012).
+S. Emelianov, J. Su, B. Wang, A. Karpiouk, Y.-S. Chen, W. Frey, R. Bouchard, "Combined ultrasound and photoacoustic imaging of metal objects", U.S. Patent 20,120,253,180, (2012).
+
+Honors
+JumpARCHES fund (2020)
+Google Faculty Research Award (2020)
+
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 329 - Fields and Waves I
+ECE 398 AS - Progm Mthds - Machine Learning
+ECE 467 (BIOE 467) - Biophotonics
+ECE 564 - Modern Light Microscopy
+
+
+
+
+
+
+
+Related News
+
+
+Seed grants fund ECE faculty research into AI-powered brain mapping, plant resilience
+
+
+Researchers develop new lower cost, dual-modality imaging technique to facilitate earlier disease detection
+
+
+ECE faculty and student receive funding from Jump ARCHES program
+
+
+Researchers explore wireless charging of pacemakers, internal medical devices via wearable metasurface
+
+
+ECE congratulates five faculty on recent promotions and welcomes three others
+
+
+
+
+
+
+
+

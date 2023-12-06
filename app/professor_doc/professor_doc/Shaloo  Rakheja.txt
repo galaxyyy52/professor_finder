@@ -1,0 +1,275 @@
+
+
+
+
+
+
+
+ 
+
+
+Shaloo Rakheja 
+
+
+
+Assistant Professor
+(217) 244-3616
+rakheja@illinois.edu
+3104 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Center for Aggressive Scaling by Advanced Processes (ASAP)
+G-Scholar Page
+Research Gate Profile
+
+Education
+Ph.D., Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA
+M.S., Electrical and Computer Engineering, Georgia Institute of Technology, Atlanta, GA
+Bachelor of Technology, Electrical Engineering, Indian Institute of Technology, Kanpur, India 
+
+BiographyI am an expert in physics-based modeling of nanoelectronic and magnetic devices for energy-efficient computing and communication. The models I create are predictive in nature, provide guidance to experiments, reduce costs of test-structures, improve the turnaround and success rate of laboratory tests by preventing trial and error, and enable correct interpretation of experimental data. I have been actively disseminating the simulation programs I develop via the open-source platform, nanoHUB, since 2013. The purpose of my computational outreach is to strengthen the innovation loop between materials scientists, device engineers, and circuit designers and eventually enable new functionalities in the next-generation sensing, memory, computing, and communication technologies. 
+Academic Positions
+[2019-present] Assistant Professor, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL
+[2015-2019] Assistant Professor, Electrical and Computer Engineering, New York University, Brooklyn, NY
+[2012-2014] Postdoctoral Associate, Microsystems Technology Laboratory, Massachusetts Institute of Technology, Cambridge, MA
+
+Other Professional Employment
+[2006-2007] Design Engineer, Freescale Semiconductors, India
+
+[2005-2006] Design Engineer, Sandisk, India 
+[2005] Component Design Engineer, Intel, India
+
+Resident Instruction
+EL-GY 6473 Introduction to VLSI [New York University, Fa. 2015-Fa. 2018 ]
+EL-GY 6523 Nanoelectronic Devices [New York University, Sp. 2016-2019]
+EE-UY 4423 Nanoelectronic Devices and Circuits [New York University, Sp. 2017-2019]
+ECE 441 Physics and Modeling of Semiconductor Devices [University of Illinois at Urbana-Champaign, Sp. 2020; Fa. 2020; Sp. 2022]
+ECE 340 Semiconductor Devices [University of Illinois at Urbana-Champaign, Fa. 2021]
+
+Short Courses
+Emerging CMOS technology at 5 nm and beyond: Device options and trade-offs. IEEE International Electron Devices Meeting (IEDM), Washington D.C., Dec. 07-09, 2015.
+
+Other Undergraduate Advising Activities
+Organized annual hands-on summer workshop called creative circuit design C2D at NYU. The workshop was conducted every summer from 2016 to 2018, until I relocated to UIUC. This was the first of its kind workshop organized within the ECE department at NYU, aimed at inspiring high school rising juniors and seniors to build circuits and understand how electrical and computer engineering has shaped our daily lives and to further motivate them for pursuing an engineering degree in college. Each year approximately 20 high school students were selected out of a total of 100-120 applicants to participate in the one-week workshop help on the engineering campus of NYU in Brooklyn. The workshop was geared toward building circuits including light sensors, logic gates, potato batteries, AM radio circuit, and programming Raspberry pi. The basic concept underlying this workshop is to increase awareness about electrical engineering and to lead young students on a path of self- discovery. I have also steered my undergraduate and Ph.D. students to supervise portions of the workshop, providing relatable models to high school students for how an engineering career can take off. To sustain and grow the workshop in future, my plan is to submit an NSF grant proposal that supports K-12 outreach activities particularly to provide access to circuit building blocks to underrepresented minorities in high school to increase their awareness and motivate them to pursue college in STEM fields.
+
+Research StatementMy research interests are in understanding, predicting, and modeling physical phenomena in materials that drive their functional behavior and enable multifaceted applications in the domains of low-power logic and memory, sensing, brain-inspired computing, and wireless communication. From 2015 to mid-2019, I was an Assistant Professor of Electrical and Computer Engineering at New York University (NYU), where I established my independent research laboratory called “Quantum Nanoelectronics Laboratory”. The focus of my lab was on digital and high-frequency electronics, including terahertz (THz) devices and spin-based computing. Since joining UIUC in Fa. 2019, I have continued to grow in the area of physical modeling of electrical, thermal, and magnetic excitations in nanoscale devices. I have successfully used my models to enable a co-design framework wherein the different layers of the design hierarchy – materials, devices, and circuits – are simultaneously optimized for maximum system-level benefits.In the area of digital and high-frequency electronics, I have developed analytic models to describe the static and dynamic behavior of III-nitride high-electron mobility transistors (HEMTs), photoconductive switches using wide bandgap semiconductors, ultra- low-power steep sub-threshold and Schottky-barrier transistors, graphene plasmonic interconnects, and nano-antennas that can operate at the THz frequency. I also have a profound interest in studying dynamics of magnetic nanostructures, the impact of noise on magnetization dynamics, and applications of magnetic materials to non-volatile, low-power on-chip memory systems, probabilistic and non-Boolean computing, and dynamically reconfigurable circuits that are inherently secure against invasive and non-invasive hardware attacks. My regular interaction with experimentalists in industry and academia has taught me the strength of collaborative research and interfacing of theoretical research with experimental demonstration. I have continued to advance collaborative, multi-disciplinary research in my work since joining UIUC. Currently, I am the Director of the “Center for Aggressive Scaling by Advanced Processes for Electronics and Photonics (ASAP)”, an NSF Industry-University Cooperative Research Center (IUCRC), which is currently funded as a Planning Center by the NSF. Along with the ASAP Leadership Team, comprising faculty from the three independent research units on campus, I am in the process of recruiting industry members and together will map out a strategy for enabling highly energy-efficient computing systems. I envision the ASAP Center to be a highly multi-disciplinary center where scientists and researchers intimately understand the computing challenges that cut across domains and conceive and develop solutions with orders of magnitude improvement in system performance.
+Graduate Research OpportunitiesIf you are interested in conducting your doctoral research in my group, please email me with a copy of your CV, research statement, and a short slide deck with an overview of your prior research experience and future goals. Please note that I will not  be responding to inquiries that are outside of my current research interests. 
+Undergraduate Research OpportunitiesI invite motivated undergraduate students from Electrical Engineering and Physics to reach out to me for research opportunities in the area of modeling and simulation of nanoelectronic devices, as well as the co-design and co-optimization of materials, devices, and circuits for energy-efficient computing.
+Research Interests
+Compact Modeling of wide bandgap and ultrawide bandgap semiconductor devices for high-frequency and high-power applications
+Modeling and simulation of spin-based devices for low-power non-volatile memory and brain-inspired computing
+Modeling of reconfigurable devices using van der Waals materials and ferroelectrics for in-memory computing
+
+
+Research Areas
+Semiconductor electronic devices
+Sprintronics
+
+
+Books Authored or Co-Authored (Original Editions)
+The Next Era of Hardware Security: A Perspective on Emerging Technologies for Secure Electronics, Springer, 2021. 
+ISBN-13: 978-3030857912
+ISBN-10: 3030857913
+
+Authors: Nikhil Rangarajan, Satwik Patnaik, Johann Knechtel, Shaloo Rakheja, Ozgur Sinanoglu
+
+
+Chapters in Books
+S. Rakheja, A. Ceyhan, A. Naeemi. Interconnect considerations. CMOS and Beyond: Logic Switches for Terascale Integrated Circuits. K. Kuhn (Eds.), ch. 15, pp. 911-960, Cambridge University Press, 2015. (invited)
+S. Rakheja, A. Naeemi. Communicating novel computational state variables in post- CMOS logic. IEEE Nanotechnology Magazine, vol. 7, no. 1, pp. , 2013. (invited)
+S. Rakheja, A. Naeemi. On physical limits and challenges of graphene nanoribbons as interconnects for all-spin logic. Nanoelectronic Device Applications Handbook. J. Morris and K. Iniewski (Eds.), ch. 64, pp. 807-826, CRC Press, 2015. (invited)
+S. Rakheja, A. Naeemi. Interconnects for alternative state variables. Graphene Nanoelectronics: From Materials to Circuits. R. Murali (Ed.), ch. 5, pp. 113-136, Springer, 2011. (invited)
+Contributed to the chapter on Emerging Interconnects. International Technology Roadmap for Semiconductors (ITRS), 2011. (invited)
+
+Monographs
+N. Rangarajan, S. Ament, A. Parthasarthy, S. Rakheja. (2017). Solving the stochastic Landau-Lifshitz-Gilbert-Slonczewski equation for monodomain nanomagnets : A survey and analysis of numerical techniques. URL: https://arxiv.org/abs/1607.04596
+
+Selected Articles in Journals
+Tunga A.; Zijing Z.; Shukla A.; Zhu W.; and Rakheja S. 2023. Physics-Based Modeling and Validation of 2D Schottky Barrier Field-Effect Transistors. IEEE Transactions on Electron Devices, 70, 4, 2034-2041 (2023). 
+Kang J., Rakheja S., and Zhu W. 2023. Reconfigurable transistors based on van der Waals heterostructures. MRS Advances, 2023. 
+Tunga A., Li K., White E, Miller N.C., Grupen M., Albrecht J., and Rakheja S. 2022. A comparison of a commercial hydrodynamics TCAD solver and Fermi kinetics transport convergence for GaN HEMTs. Journal of Applied Physics 132, 225702 (2022). Editor's Pick. https://csl.illinois.edu/news/52728
+Dong Y., Dowling K.M., Hau-Riege S., Conway A., Voss L., and Rakheja S. 2022. Design Considerations for Gallium Arsenide Pulse Compression Photoconductive Switch. Journal of Applied Physics, 131, 134504 (2022).
+Shukla, A. & Rakheja, S. (2022). Spin-Torque-driven Terahertz Auto Oscillations in Non-Collinear Coplanar Antiferromagnets, Physical Review Applied, 17, 034037.
+Rangarajan, N., Patnaik, S., Knechtel, J., Karri, R., Sinanoglu, O., & Rakheja, S. (2022). Opening the Doors to Dynamic Camouflaging: Harnessing the Power of Polymorphic Devices. IEEE Transactions on Emerging Topics in Computing, 10(1), 137-156. Article is featured at https:// techxplore.com/news/2018-11-dynamic-camouflaging-approach-intellectual-property. html
+Dowling K.M., Dong Y., Hall D., Mukherjee, S., Schneider J.D., Hau-Riege S., Harrison S.E., Leos L., Conway A., Rakheja S., & Voss L. (2021). Pulse Compression Photoconductive Switching Using Negative Differential Mobility. IEEE Transactions on Electron Devices, vol. 69, no. 2, 590-596 (2021). 
+Mukherjee S., Dowling K.M., Dong Y., Li K., Conway A., Rakheja S., & Voss L. (2021). A Prony-based curve-fitting method for characterization of RF pulses from optoelectronic devices. IEEE Signal Processing Letters. 
+Zhao, Z., Rakheja, S., & Zhu, W. (2021). Nonvolatile Reconfigurable 2D Schottky Barrier Transistors. Nano letters, 21(21), 9318-9324.
+Teo, K.H., Zhang Y., Chowdhury N., Rakheja S., Ma R., Xie Q., Yagyu E., Yamanaka K., Li K., & Palacios T. (2021). Emerging GaN technologies for power, RF, digital, and quantum computing applications: Recent advances and prospects. Journal of Applied Physics 130 (16), 160902. (Invited; first five co-authors contributed equally)
+Farzaneh, S. & Rakheja S. (2021). Spin splitting and spin Hall conductivity in buckled monolayers of group 14: First-principles calculations. Physical Review B 104 (11), 115205.
+Rakheja, S., Li, K., Dowling, K. M., Conway, A. M., & Voss, L. F. (2021). Design and Simulation of Near-Terahertz GaN Photoconductive Switches–Operation in the Negative Differential Mobility Regime and Pulse Compression. IEEE Journal of the Electron Devices Society, 9, 521-532.
+Mahmood, A., Echtenkamp, W., Street, M., Wang, J.L., Cao, S., Komesu, T., Dowben, P.A., Buragohain, P., Lu, H., Gruverman, A., Parthasarathy, A., Rakheja S., & Binek C. (2021). Voltage controlled Neel vector rotation in zero magnetic field. Nature communications, 12(1), pp.1-8.
+Parthasarathy, A., Cogulu, E., Kent, A. D., & Rakheja, S. (2021). Precessional spin-torque dynamics in biaxial antiferromagnets. Physical Review B, 103(2), 024450.
+Farzaneh, S. M., & Rakheja, S. (2020). Intrinsic spin Hall effect in topological insulators: A first-principles study. Physical Review Materials, 4(11), 114202.
+Rakheja, S., Huang, L., Hau-Riege, S., Harrison, S. E., Voss, L. F., & Conway, A. M. (2020). Performance Modeling of Silicon Carbide Photoconductive Switches for High-Power and High-Frequency Applications. IEEE Journal of the Electron Devices Society.
+Rakheja, S., Sengupta, P., & Shakiah, S. M. (2020). Design and Circuit Modeling of Graphene Plasmonic Nanoantennas. IEEE Access, 8, 129562-129575.
+Shukla, A., Parthasarathy, A., & Rakheja, S. (2020). Switching time of spin-torque-driven magnetization in biaxial ferromagnets. Physical Review Applied, 13(5), 054020.
+Rangarajan, N., Patnaik, S., Knechtel, J., Sinanoglu, O., & Rakheja, S. (2020). SMART: A Secure Magnetoelectric AntifeRromagnet-Based Tamper-Proof Non-Volatile Memory. IEEE Access, 8, 76130-76142.
+Sengupta, P., & Rakheja, S. (2020). Spin-valley coupled thermoelectric energy converter with strained honeycomb lattices. Physica E: Low-dimensional Systems and Nanostructures, 118, 113862.
+Farzaneh, S. M., and Shaloo Rakheja. Extrinsic spin-orbit coupling and spin relaxation in phosphorene. Physical Review B 100.24 (2019): 245429.
+Yarmoghaddam, E., Haratipour, N., Koester, S. J., & Rakheja, S. (2019). A Physics-Based Compact Model for Ultrathin Black Phosphorus FETs-Part I: Effect of Contacts, Temperature, Ambipolarity, and Traps. IEEE Transactions on Electron Devices, 67(1), 389-396.
+Yarmoghaddam, E., Haratipour, N., Koester, S. J., & Rakheja, S. (2019). A Physics-Based Compact Model for Ultrathin Black Phosphorus FETs-Part II: Model Validation Against Numerical and Experimental Data. IEEE Transactions on Electron Devices, 67(1), 397-405.
+Li, K., & Rakheja, S. (2019). Modeling and Simulation of Quasi-Ballistic III-Nitride Transistors for RF and Digital Applications. International Journal of High Speed Electronics and Systems, 28(01n02), 1940011.
+Patnaik, S., Rangarajan, N., Knechtel, J., Sinanoglu, O., & Rakheja, S. (2019). Spin-orbit torque devices for hardware security: From deterministic to probabilistic regime. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems, vol. 39, no. 8, pp. 1591-1606, 2020.
+Rakheja, S., Flatte, M. E., & Kent, A. D. (2019). Voltage-Controlled Topological Spin Switch for Ultralow-Energy Computing: Performance Modeling and Benchmarking. Physical Review Applied, 11(5), 054009.
+Yarmoghaddam, E., Haratipour, N., Koester, S. J., & Rakheja, S. (2019). A virtual-source emission-diffusion IV model for ultra-thin black phosphorus field-effect transistors. Journal of Applied Physics, 125(16), 165706.
+Li, K., & Rakheja, S. (2019). A unified static-dynamic analytic model for ultra-scaled III-nitride high electron mobility transistors. Journal of Applied Physics, 125(13), 134503.
+Parthasarathy, A., & Rakheja, S. (2019). Dynamics of magnetoelectric reversal of an antiferromagnetic domain. Physical Review Applied, 11(3), 034051.
+Rangarajan, N., Patnaik, S., Knechtel, J., Sinanoglu, S., & Rakheja, S. (2019). Spin-based reconfigurable logic for power-and area-efficient applications. IEEE Design & Test, 36(3), 22-30.
+Li, K., & Rakheja, S. (2018). Analytic modeling of nonlinear current conduction in access regions of III-nitride HEMTs. MRS Advances, 3(3), 131-136.
+Farzaneh, SM & Rakheja, S. (2018). Spin relaxation due to the D'yakonov-Perel' mechanism in 2D semiconductors with an elliptic band structure. arXiv preprint arXiv:1806.09488.
+Parthasarathy, A., & Rakheja, S. (2018). Reversal time of jump-noise dynamics for large nucleation. IEEE Transactions on Magnetics, 55(2), 1-3.
+Li, K., & Rakheja, S. (2018). An analytic current-voltage model for quasi-ballistic III-nitride high electron mobility transistors. Journal of Applied Physics, 123(18), 184501.
+Parthasarathy, A., & Rakheja, S. (2018). Reversal time of jump-noise magnetization dynamics in nanomagnets via Monte Carlo simulations. Journal of Applied Physics, 123(22), 223901. (Appeared as the cover article of the journal).
+Rakheja, S. (2018). Terahertz band communication using plasma wave propagation in multilayer graphene heterostructures. IET Cyber-Physical Systems: Theory & Applications, 3(2), 89-98.
+Kani, N., Rakheja, S., & Naeemi, A. (2018). Analytic modeling of dipolar field requirements for robust coupling in a non-identical biaxial two-magnet system. Journal of Applied Physics, 124(2), 023901. (Appeared as the cover article of the journal).
+Kani, N., Naeemi, A., & Rakheja, S. (2017). Non-monotonic probability of thermal reversal in thin-film biaxial nanomagnets with small energy barriers. AIP Advances, 7(5), 056006.
+Rakheja, S., & Kani, N. (2017). Spin pumping driven auto-oscillator for phase-encoded logic--device design and material requirements. AIP Advances, 7(5), 055905.
+Rangarajan, N., Parthasarathy, A., & Rakheja, S. (2017). A spin-based true random number generator exploiting the stochastic precessional switching of nanomagnets. Journal of applied physics, 121(22), 223905.
+Sengupta, P., & Rakheja, S. (2017). Anisotropy-driven quantum capacitance in multi-layered black phosphorus. Applied Physics Letters, 111(16), 161902.
+Farzaneh, S. M., & Rakheja, S. (2017). Voltage tunable plasmon propagation in dual gated bilayer graphene. Journal of Applied Physics, 122(15), 153101.
+Yarmoghaddam, E., & Rakheja, S. (2017). Dispersion characteristics of THz surface plasmons in nonlinear graphene-based parallel-plate waveguide with Kerr-type core dielectric. Journal of Applied Physics, 122(8), 083101.
+Rangarajan, N., Parthasarathy, A., Kani, N., & Rakheja, S. (2017). Energy-efficient computing with probabilistic magnetic bits--Performance modeling and comparison against probabilistic CMOS logic. IEEE Transactions on Magnetics, 53(11), 1-10.
+Petrov, V., Moltchanov, D., Komar, M., Antonov, A., Kustarev, P., Rakheja, S., & Koucheryavy, Y. (2017). Terahertz band intra-chip communications: Can wireless links scale modern x86 cpus?. IEEE Access, 5, 6095-6109.
+Rakheja, S. (2016). On the Gaussian pulse propagation through multilayer graphene plasmonic waveguidesâ€”Impact of electrostatic screening and frequency dispersion on group velocity and pulse distortion. IEEE Transactions on Nanotechnology, 15(6), 936-946.
+Kani, N., Rakheja, S., & Naeemi, A. (2016). A probability-density function approach to capture the stochastic dynamics of the nanomagnet and impact on circuit performance. IEEE Transactions on Electron Devices, 63(10), 4119-4126.
+Rakheja, S., & Sengupta, P. (2016). The tuning of light-matter coupling and dichroism in graphene for enhanced absorption: Implications for graphene-based optical absorption devices. Journal of Physics D: Applied Physics, 49(11), 115106.
+Rakheja, S., & Sengupta, P. (2015). Gate-Voltage Tunability of Plasmons in Single-Layer Graphene Structures: Analytical Description, Impact of Interface States, and Concepts for Terahertz Devices. IEEE Transactions on Nanotechnology, 15(1), 113-121.
+Rakheja, S., Lundstrom, M. S., & Antoniadis, D. A. (2015). An improved virtual-source-based transport model for quasi-ballistic transistors--Part II: Experimental Verification. IEEE Transactions on Electron Devices, 62(9), 2794-2801.
+Rakheja, S., Lundstrom, M. S., & Antoniadis, D. A. (2015). An improved virtual-source-based transport model for quasi-ballistic transistors--Part I: Capturing effects of carrier degeneracy, drain-bias dependence of gate capacitance, and nonlinear channel-access resistance. IEEE Transactions on Electron Devices, 62(9), 2786-2793.
+Rakheja, S., Wu, Y., Wang, H., Palacios, T., Avouris, P., & Antoniadis, D. A. (2014). An ambipolar virtual-source-based charge-current compact model for nanoscale graphene transistors. IEEE Transactions on Nanotechnology, 13(5), 1005-1013.
+Bonhomme, P., Manipatruni, S., Iraei, R. M., Rakheja, S., Chang, S. C., Nikonov, D. E., ... & Naeemi, A. (2014). Circuit simulation of magnetization dynamics and spin transport. IEEE Transactions on Electron Devices, 61(5), 1553-1560.
+Rakheja, S., Chang, S. C., & Naeemi, A. (2013). Impact of dimensional scaling and size effects on spin transport in copper and aluminum interconnects. IEEE transactions on electron devices, 60(11), 3913-3919.
+Rakheja, S., & Naeemi, A. (2013). Roles of doping, temperature, and electric field on spin transport through semiconducting channels in spin valves. IEEE transactions on nanotechnology, 12(5), 796-805.
+Rakheja, S., Kumar, V., & Naeemi, A. (2013). Evaluation of the potential performance of graphene nanoribbons as on-chip interconnects. Proceedings of the IEEE, 101(7), 1740-1765.
+Kumar, V., Rakheja, S., & Naeemi, A. (2012). Performance and energy-per-bit modeling of multilayer graphene nanoribbon conductors. IEEE transactions on electron devices, 59(10), 2753-2761.
+Rakheja, S., & Naeemi, A. (2011). Graphene nanoribbon spin interconnects for nonlocal spin-torque circuits: Comparison of performance and energy per bit with CMOS interconnects. IEEE transactions on electron devices, 59(1), 51-59.
+Rakheja, S., & Naeemi, A. (2011). Modeling interconnects for post-CMOS devices and comparison with copper interconnects. IEEE Transactions on Electron Devices, 58(5), 1319-1328.
+Rakheja, S., & Naeemi, A. (2010). Interconnects for novel state variables: Performance modeling and device and circuit implications. IEEE Transactions on Electron Devices, 57(10), 2711-2718.
+Kar, S., Rawat, S., Rakheja, S., & Reddy, D. (2005). Characterization of accumulation layer capacitance for extracting data on high-kappa gate dielectrics. IEEE Transactions on Electron Devices, 52(6), 1187-1193.
+Click for more
+Articles in Conference Proceedings
+Shukla A., Zhu W., and Rakheja S. All-ferroelectric implementation of Ising machines. In Semiconductor Research Corporation (SRC), Techcon, Austin, Texas, September 10-12, 2023
+Tunga, A., Zhu W.; and Rakheja S. Effects of Process Variability on Performance of Reconfigurable Transistors based Content Addressable Memory. In Semiconductor Research Corporation (SRC), Techcon, Austin, Texas, September 10-12, 2023. 
+Shukla, A., Heller, L., Morshed, M. G., Rehm, L., Ghosh, A. W., Kent, A. D., and Rakheja, S. (2023, April). A True Random Number Generator for Probabilistic Computing using Stochastic Magnetic Actuated Random Transducer Devices. In 2023 24th International Symposium on Quality Electronic Design (ISQED) (pp. 1-10). IEEE
+M.G. Morshed, A. Shukla, L. Rehm, L. Heller, Y. Xie, S. Ganguly, S. Rakheja, A.D. Kent, and A. Ghosh. Probabilistic spin-torque switching of perpendicular magnetic tunnel junctions under short current pulses. Bulletin of the American Physical Society,  Las Vegas, NV, March 5-10, 2023.
+J. Kang, S. Rakheja, and W. Zhu. Reconfigurable logic transistors based on 2D heterostructures. Bulletin of the American Physical Society,  Las Vegas, NV, March 5-10, 2023.
+Y. Dong and S. Rakheja. Role of deep levels in semi-insulating gallium arsenide pulse-compression photoconductive switches. Bulletin of the American Physical Society,  Las Vegas, NV, March 5-10, 2023.
+J. Kang, S. Rakheja, and W. Zhu. Reconfigurable Transistors based on Van der Waals Heterostructures. In Semiconductor Research Corporation (SRC) Techcon, Austin, Texas, September 18-20, 2022.
+Z. Zhao, K. Xu, J. Liu, W. Jiang, H. Ryu, S. Rakheja, T. Low, and W. Zhu. Nanoscale devices based on two-dimensional and ferroelectric materials.  In Device Research Conference (DRC), Columbus, Ohio, June 26-29, 2022.
+E. Cruz-Camachu, S. Qian, A. Shukla, N. McGlohon, S. Rakheja, and C. Carothers. Evaluating performance of spintronics-based spiking neural network chips using parallel discrete event simulation. In SIGSIM Conference on Principles of Advanced Discrete Simulation, Atlanta, GA, June 08-10, 2022. 
+B. Wu, S. Rakheja. Modeling of the charge-voltage characteristics of AlScN/AlN/GaN heterostructures. In Device Research Conference (DRC), Columbus, Ohio, June 26-29, 2022. 
+K. Li, T. Matsuda, E. Yagyu, K.H. Teo, S. Rakheja. Trapping phenomena in GaN HEMTs with Fe- and C-doped buffer. In Device Research Conference (DRC), Columbus, Ohio, June 26-29, 2022. 
+K. Li., S. Rakheja. Physical Modeling of Quasi-ballistic GaN HEMTs Operating at Cryogenic Temperatures. In Compound Semiconductor Week (CSW), Michigan, Ann Arbor, June 1-3, 2022.
+A. Shukla, S. Qian, S. Rakheja. Dipolarly coupled nanomagnets as hardware emulators of neurons for brain-like computing systems. In Bulletin of the American Physical Society, Chicago, Mar. 14-18, 2022. 
+S. Shah, A. Mahmood, W. Echtenkamp, J. Wang, M. Street, T. Komesu, P. Dowben, P. Buragohain, H. Lu, A. Gruverman, A. Parthasarathy, S. Rakheja, C. Binek. Voltage-controlled Neel vector rotation in zero magnetic field in high-TN magnetoelectric thin films. In Bulletin of the American Physical Society, Chicago, Mar. 14-18, 2022. 
+A. Tunga, X. Li, S. Rakheja. Modeling-based design and benchmarking of Al-rich AlGaN 3D nanosheet MOSFET and MOSHEMTs for RF Applications. In 79th Device Research Conference (DRC), Virtual, June 20-23, 2021.
+A. Shukla, S. Rakheja. Terahertz auto oscillations in non-collinear coplanar metallic antiferromagnets. In 79th Device Research Conference (DRC), Virtual, June 20-23, 2021.
+A. Shukla, S. Rakheja. Spin torque driven self- oscillations in non-collinear coplanar antiferromagnets. In American Physical Society (APS) March Meting,  Mar. 15-19, 2021 (Virtual). 
+A. Parthasarathy, S. Rakheja. Spin-Torque-Induced Chaos in Antiferromagnets. In Magnetism and Magnetic Materials Conference, Virtual, Nov. 02-06, 2020.
+K. Li, E. Yagyu, H. Saito, K. H. Teo, S. Rakheja. Compact modeling of gate leakage phenomenon in GaN HEMTs. In International Conference on Simulation of Semiconductor Processes and Devices (SISPAD), Virtual, Sep. 23-Oct. 06, 2020.
+A. Parthasarathy, S. Rakheja. Ultrafast and Energy-efficient Antiferromagnetic Memory and Oscillator. In SRC Techcon, Austin, Texas, Sep. 14-17, 2020.
+A. Shukla, A. Parthasarathy, S. Rakheja. Analytic modeling of switching time dynamics of monodomain ferromagnets with biaxial energy landscape. Bulletin of the American Physical Society, 65, Mar. 5, 2020.
+A. Parthasarathy, N. Rangarajan, S. Rakheja. Strain-driven spin-Hall antiferromagnetic memory for 180Â° switching. Bulletin of the American Physical Society, 65, Mar. 5, 2020
+S.M. Farzaneh, S. Rakheja. Effective Hamiltonian for Extrinsic Spin-Orbit Coupling in 2D Materials. Bulletin of the American Physical Society, 65, Mar. 5, 2020.
+S. Rakheja, L. Huang, S. Hau-Riege, S.E. Harrison, L.F. Voss, A.M. Conway. Modeling and Design of SiC-based High-Frequency Photoconductive Switches. In IEEE Electron Devices Technology & Manufacturing Conference (EDTM), Penang, Malaysia, 2020, pp. 1-4, doi: 10.1109/EDTM47692.2020.9117837.
+A. Parthasarathy, S. Rakheja. Theory of spin-current-induced auto-oscillations in a biaxial antiferromagnet. In Magnetism and Magnetic Materials Conference, Las Vegas, NV, Nov. 04-08, 2019.
+P. Sengupta, S. Rakheja. Spin-valley Coupled Caloritronics with Strained Honeycomb Lattices. In 2019 Device Research Conference (DRC), Ann Arbor, MI, USA, 2019, pp. 81-82, doi: 10.1109/DRC46940.2019.9046413.
+S. Rakheja, M. Flatte, A. D. Kent. Voltage-controlled topological spin-switch for approximate computing. Joint MMM-Intermag Conference, Washington D.C., Jan. 14-18, 2019.
+K. Li, S. Rakheja. A unified charge-current compact model of gallium nitride transistors for RF and digital applications. IEEE Electron Devices Technology and Manufacturing Conference (EDTM), Singapore, Mar. 12-15, 2019. (Invited)
+A. Parthasarathy, S. Rakheja. Phenomenology of magnetoelectric switching of antiferromagnetic domain. Joint MMM-Intermag Conference, Washington D.C., Jan. 14-18, 2019.
+K. Li, S. Rakheja. Design and modeling of III-Nitride HEMTs for extremely linear RF operation. Materials Research Society (MRS) Meeting, Boston, Massachusetts, Nov. 25-30, 2018.
+S. Farzaneh, S. Rakheja. Spin relaxation in 2D semiconductors with an elliptic band structure. Materials Research Society (MRS) Meeting, Boston, Massachusetts, Nov. 25-30, 2018.
+S. Patnaik, N. Rangarajan, J. Knechtel, O. Sinanoglu, S. Rakheja. Advancing hardware security using polymorphic and stochastic spin-Hall effect devices. Design Automation and Test in Europe (DATE), Dresden, Germany, Mar. 19-23, 2018.
+K. Li, S. Rakheja. Nonlinearity of III-nitride HEMTs for RF applications--Analytical modeling and device design for enhanced dynamic range. Materials Research Society (MRS) Meeting, Boston, Massachusetts, Nov. 26-Dec. 01, 2017.
+S. Rakheja, N. Kani. Spin-torque nano-oscillator driven by spin pumping for phase- based neuromorphic computing. Materials Research Society (MRS) Meeting, Boston, Massachusetts, Nov. 26-Dec. 01, 2017.
+S. Rakheja, K. Li. Graphene-based plasma wave interconnects for on-chip communication in the terahertz band. Berkeley Symposium on Energy Efficient Electronic Systems & Steep Transistors Workshop, Berkeley, California, Oct. 19-20, 2017.
+N. Kani, S. Rakheja. Analytical reliability models for two-magnet systems. MAGNET, The 5th Italian Conference on Magnetism, Assisi, Italy, Sep. 13-15, 2017.
+S. Rakheja, N. Kani. Polymorphic spintronic logic gates for hardware security primitives-Device design and performance benchmarking. Nano Architectures (NANOARCH), Newport, Rhode Island, July 25-26, 2017.
+S. Rakheja, P. Sengupta. Graphene nanoribbon plasmonic waveguides: Fundamental lim- its and device implications. Device Research Conference (DRC), Santa Barbara, California, June 22 – 25, 2014.
+A. Naeemi, A. Ceyhan, V. Kumar, C. Pan, R. Mousavi, S. Rakheja. BEOL scaling limits and next generation technology prospects. Design Automation Conference (DAC), San Francisco, California, June 02 – 06, 2014 (Invited).
+S. Rakheja, H. Wang, T. Palacios, I. Meric, K. Shepard, D. Antoniadis. A unified charge- current compact model for ambipolar operation in quasi-ballistic graphene transistors: Experimental verification and circuit-analysis demonstration. IEEE Electron Devices Meeting (IEDM), Washington D.C., Dec. 09 – 12, 2013
+S. Rakheja, V. Kumar, A. Naeemi. Graphene nanoribbons for all-spin logic: Effects of dimensional scaling on spin transport. Semiconductor Research Corporation (SRC), TECHCON, Austin, Texas, Sep. 10 – 12, 2012 (Won the best in session award).
+S. Rakheja, A. Naeemi. Compact modeling of spin-transport parameters in semiconducting channels in non-local spin-torque devices. IEEE NANO, Birmingham, U.K., Aug. 20 – 23, 2012.
+S. Rakheja, V. Kumar, Comparison of electrical, optical and plasmonic on-chip interconnects based on delay and energy considerations. IEEE International Symposium on Quality Electronic Design (ISQED), Santa Clara, California. March 18 – 22, 2012.
+S. Rakheja, A. Naeemi. Interconnect analysis in spin-torque devices: Performance modeling, optimal repeater insertion, and circuit-size limits. IEEE International Symposium on Quality Electronic Design (ISQED), Santa Clara, California. March 18 – 22, 2012.
+
+Click for more
+Pending Articles
+Sengupta P. and Rakheja S. 2022. Anomalous photo-thermal effects in multi-layered semi-Dirac black phosphorus. Submitted to Physical Review Materials. arXiv preprint arXiv:2007.06901.
+
+Other Publications
+5G Enabled Energy Innovation: Advanced Wireless Networks for Science, Workshop Report
+
+Patents
+Pulse Compression Photoconductive Semiconductor Switches filed jointly with Lawrence Livermore National Laboratory on October 15, 2021 (U.S. Patent Application No. 17/502,681)
+High electron mobility transistor (HEMT) comprising stacked nanowire or nanosheet heterostructures filed on April 06, 2021 (U.S. Patent Application No. 63/171,443)
+
+Journal Editorships
+Editor for ACM Journal on Emerging Technologies in Computing Systems. Term Started in 2022. 
+Guest Editor for Applied Physics Letters Special Topic "Dimensional Scaling of Material Functional Properties to meet Back-End-of-Line (BEOL) Challenges" (2022).  url: https://bit.ly/3FNoxB2
+
+Conferences Organized or Chaired
+Technical Program Committee Member, IEEE Device Research Conference, 2023
+Technical Program Committee Member, IEEE Device Research Conference, 2022
+Technical Program Committee Member, IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2021
+Technical Program Committee Member, IEEE Device Research Conference, 2021
+Technical Program Committee Member, IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2020
+Technical Program Committee Member, Design Automation and Test in Europe (DATE) Conference, 2020
+Technical Program Committee Member, IEEE VLSI Design, 2019
+Technical Program Committee Member, IEEE/ACM Design Automation Conference (DAC), 2017 – 2018
+Technical Program Committee Member, IEEE VLSI Design, 2018
+Technical Program Committee Member, IEEE International Electron Devices Meeting (IEDM), 2018
+Technical Program Committee Member, IEEE/ACM International Conference On Computer Aided Design (ICCAD), 2017
+Click for more
+Research Honors
+State Medal (2000)
+Sangeeta Goel Memorial Award (2001)
+Academic Excellence Award (2002-2003)
+Intel PhD Fellowship  (2011-2012)
+Graduate Research Excellence Award (2012)
+Best in Session Award Semiconductor Research Corporation (SRC), TECHCON, 2012 (2012)
+NYU Goddard Junior Faculty Fellowship (2018-2019)
+Click for more
+Public Service Honors
+IEEE Electron Devices Society (EDS) golden reviewer (2014-2017)
+
+
+Recent Courses TaughtECE 298 RR - Semiconductor Chips Revolution
+ECE 340 - Semiconductor Electronics
+ECE 441 - Physcs & Modeling Semicond Dev
+
+
+
+
+
+
+
+Related News
+
+
+New $2M project to help mobile devices learn and adapt to their surroundings
+
+
+ECE faculty level up with new promotions
+
+
+U.S. Senator Tammy Duckworth encourages students to 'blur their boundaries' as they shape innovation in Illinois
+
+
+Changing engineering education through academic-industry collaboration
+
+
+Shaloo Rakheja wins NSF CAREER Award
+
+
+ASAP: Rakheja leads new NSF center tackling microelectronic chips' energy efficiency
+
+
+
+
+
+
+
+

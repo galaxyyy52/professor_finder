@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+ 
+
+
+Xu Chen 
+
+
+
+Teaching Associate Professor
+(217) 300-8307
+xuchen1@illinois.edu
+5040 Electrical & Computer Eng Bldg
+
+
+
+BiographyXu Chen received his Ph.D. from ECE ILLINOIS in 2018. Prior to graduate school, he had been a hardware engineer at IBM Systems Group (2005-2012) and Apple. He has many years of industry experience in electromagnetics modeling and simulation for signal and power integrity analysis. Currently, his research focus is on stochastic modeling for electromagnetics and circuits, and using machine learning to create faster and smarter tools for microelectronic circuits and systems design. He is a member of Center for Advanced Electronics Through Machine Learning (CAEML) IUCRC. He is also a member of the Technical Program Committee of IEEE Conference on Electrical Performance of Electronic Packaging and Systems (EPEPS). He has taught several courses at ECE ILLINOIS including ECE 210, ECE 313, ECE 329, ECE 342, ECE 447, and ECE 457.
+
+Research Areas
+Computational electromagnetics
+Computer aided design of integrated circuits
+Electronic packaging
+Machine learning and pattern recognition
+Random processes
+
+
+Research Topics
+Computational science and engineering
+Data science and analytics
+Machine learning
+
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 314 - Probability in Engineering Lab
+ECE 329 - Fields and Waves I
+ECE 342 - Electronic Circuits
+ECE 397 XC - Individual Study in ECE
+ECE 447 - Active Microwave Ckt Design
+ECE 457 - Microwave Devices & Circuits
+Click for more
+
+
+
+
+
+
+Related News
+
+
+ECE faculty level up with new promotions
+
+
+Limitless: Fast Solutions, A Long Time Coming
+
+
+ECE researchers win Best Student Paper Award at 2020 IEEE MTT-S International Conference
+
+
+ECE ILLINOIS adds nine tenure-track and teaching faculty members
+
+
+ECE ILLINOIS team wins Best Symposium Paper at 2017 IEEE EDAPS
+
+
+
+
+
+
+
+

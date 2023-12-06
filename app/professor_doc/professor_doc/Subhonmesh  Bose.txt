@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+ 
+
+
+Subhonmesh Bose 
+
+
+
+Assistant Professor
+(217) 244-2101
+boses@illinois.edu
+4058 Electrical & Computer Eng Bldg
+
+
+
+For More Information
+Personal homepage
+
+Education
+Ph.D., Electrical Engineering, California Institute of Technology, 2014
+M.S., Electrical Engineering, California Institute of Technology, 2012
+B.Tech., Electrical Engineering, Indian Institute of Technology Kanpur, 2009
+
+Academic Positions
+Postdoctoral Fellow, Cornell University, ECE, Aug 2014 - Dec 2015
+Assistant Professor, UIUC, ECE, Jan 2016 - present
+
+Research Interests
+Data-Driven Analysis and Control of Dynamical Systems
+Transportation Electrification
+Coordination of Distributed Energy Resources
+Electricity Market Design with Renewables
+
+
+Research Areas
+Dynamics and stability of power systems
+Energy system economics and public policy
+Networked control systems
+Operation and control of power systems
+Stochastic systems and control
+
+
+Research Topics
+Electric transportation
+
+Chapters in Books
+S. Bose and S.H. Low, "Some Emerging Challenges in Electricity Markets", In Smart Grid Control: Overview and Research Opportunities, Editors: J. Stoustrup, A. Annaswamy, A. Chakrabortty, and Z. Qu,  Springer, Cham, Switzerland, pp. 29-45, 2019.
+
+Selected Articles in Journals
+Impact of Aviation Electrification on Airports: Flight Scheduling and Charging, B. Hou, S. Bose, L. Marla and K. Haran. Preprint available. Accepted at the IEEE Transactions on Intelligent Transportation
+Risk-Based Hosting Capacity Analysis in Distribution Systems, A. N. Madavan, N. Dahlin, S. Bose and L. Tong, Accepted at the IEEE Transactions on Power Systems, 2022. Preprint available.
+Pricing Economic Dispatch with AC Power Flow via Local Multipliers and Conic Relaxation, M. Ndrio, A. Winnicki, and S. Bose, Accepted at the IEEE Transactions on Control of Network Systems, 2022.
+Coordinated Transaction Scheduling in Multi-Area Electricity
+Markets: Equilibrium and Learning, M. Ndrio, S. Bose, Y. Guo, and L. Tong, Accepted at the IEEE Transactions on Power Systems, 2022. (Early access)
+A Stochastic Primal-Dual Method for Optimization with Conditional Value at Risk Constraints. A. N. Madavan and S. Bose, Springer Journal of Optimization Theory and Applications, vol. 190, pp. 428-460, 2021.
+Centralized Volatility Reduction for Electricity Markets. K. Alshehri, S. Bose, and T. Basar. International Journal of Electrical Power and Energy Systems, vol. 133, pp. 107101, 2021.
+Evaluation of Reopening Strategies for Educational Institutions During COVID-19 Through Agent Based Simulation, U. K. Mukherjee, S. Bose, A. Ivanov, S. Souyris, S. Seshadri, P. Sridhar, R. Watkins, and Y. Xu. Scientific Reports, vol. 11, no. 1, pp. 1-24, 2021.
+Quantifying Market Efficiency Impacts of Aggregated Distributed Energy Resources, K. Alshehri, M. Ndrio, S. Bose, and T. Basar, IEEE Transactions on Power Systems, vol. 35, no. 5, pp. 4067-4077, 2020.
+On the Role of a Market Maker in Networked Cournot Competition, D. Cai, S. Bose, and A. Wierman. INFORMS Mathematics of Operations Research, vol., 44, no. 3, pp. 1122-1144, 2019.
+Convergence of the Iterates in Mirror Descent Methods, T. T. Doan, S. Bose, D. H. Nguyen, and C. L. Beck, IEEE Control Systems Letters, vol. 3, no. 1, pp. 114 - 119, 2019.
+
+Offer Strategies for Wholesale Energy and Regulation Markets, D. Fooladivanda, H. Xu, A. Dominguez-Garcia, and S. Bose, IEEE Transactions on Power Systems, vol. 33, no. 6, pp. 7305-7308, 2018.
+
+On Robust Tie-line Scheduling in Multi-Area Power Systems, Y. Guo, S. Bose, and L. Tong, IEEE Transactions on Power Systems, vol. 33, no. 4, pp. 4144-4154, 2018.
+Optimal Placement of Distributed Energy Storage in Power Networks, C. Thrampoulidis, S. Bose, and B. Hassibi. IEEE Transactions on Automatic Control, vol. 61, no. 2, pp. 416-429, 2015.
+Equivalent Relaxations of Optimal Power Flow, S. Bose, S. Low, T. Teeraratkul, and B. Hassibi. IEEE Transactions on Automatic Control, vol. 60, no. 3, pp. 729-742, 2015.
+A Unifying Market Power Measure for Deregulated Transmission-Constrained Electricity Markets, S. Bose, C. Wu, Y. Xu, A. Wierman, and H. Mohsenian-Rad. IEEE Transactions on Power Systems, vol. 30, no. 5, pp. 2338-2348, 2014.
+Quadratically Constrained Quadratic Programs on Acyclic Graphs with application to Power Flow, S. Bose, D. F. Gayme, K. M. Chandy, and S. H. Low. IEEE Transactions on Control of Network Systems, vol. 2, no. 3, pp. 278 - 287, 2014.
+A Low-Cost Algorithm to Find the Minimum Sampling Frequency for Multiple Bandpass Signals, S. Bose, V. Khaitan, and A. Chaturvedi. IEEE Signal Processing Letters, vol. 15, pp. 877 –880, 2008.
+Click for more
+Articles in Conference Proceedings
+Controlling a Markov Decision Process with an Abrupt Change in the Transition Kernel, N. Dahlin, S. Bose, and V. Veeravalli, Preprint available, 2022
+Compressed Decentralized Learning of Conditional Mean Embedding Operators in Reproducing Kernel Hilbert Spaces, B. Hou, S. Sanjari, N. Dahlin, and S. Bose. Accepted at the AAAI Conference on Artificial Intelligence, 2023.
+Sparse Learning of Kernel Transfer Operators, B. Hou, S. Bose, and U. Vaidya. Asilomar Conference
+on Signals, Systems, and Computers, pp. 130-134, 2021.
+Control of Epidemic Spreads via Testing and Lock-Down, S. Bose, S. Souyris, U. K. Mukherjee, A. Ivanov, S. Seshadri, A. C. England III, and Y. Xu. IEEE Conference on Decision and Control, pp. 4272-4279, 2021.
+Pricing Conditional Value at Risk-Sensitive Economic Dispatch, M. Ndrio, A. N. Madavan, and S. Bose. IEEE Power and Energy Society General Meeting, pp. 1-5, 2021
+A Scalar-Parameterized Mechanism for Two-Sided Markets. M. Ndrio, K. Alshehri, and S. Bose. International Federation of Automatic Control World Congress, vol. 53, no. 2, pp. 16952-16957, 2020.
+On Privatizing Equilibrium Computation in Aggregate Games over Networks. S. Gade, A. Winnicki, and S. Bose. International Federation of Automatic Control World Congress, vol. 53, no. 2, pp. 3272-3277, 2020.
+Powering Electric Aircraft at O'Hare Airport: A Case Study. B. Hou, S. Bose, and K. Haran. IEEE Power and Energy Society General Meeting, pp. 1-5, 2020.
+On Convex Relaxation-Based Distribution Locational Marginal Prices, A. Winnicki, M. Ndrio, and S. Bose. Innovative Smart Grid Technologies, pp. 1-5, 2020.
+Risk-Sensitive Energy Procurement with Uncertain Wind, A. N. Madavan and S. Bose. IEEE Global Conference on Signal and Information Processing, pp. 1-5, 2019.
+The Impact of Aggregating Distributed Energy Resources on Electricity Market Efficiency, K. Alshehri, M. Ndrio, S. Bose, and T. Basar. Conference on Information Sciences and Systems, pp. 1-6, 2019.
+Business-to-Peer Carsharing Systems with Electric Vehicles, T. Mamalis, S. Bose, and L. R. Varshney. Conference on Information Sciences and Systems, pp. 1-6, 2019.
+Ridesharing Systems with Electric Vehicles, T. Mamalis, S. Bose, and L. R. Varshney. American Control Conference, pp. 3329-3334, 2019.
+Risk-Sensitive Security-Constrained Economic Dispatch via Critical Region Exploration, A. N. Madavan, S. Bose, Y. Guo, and L. Tong. IEEE Power and Energy Society General Meeting, pp. 1-5, 2019.
+Coordinated Transaction Scheduling in Multi-Area Power Systems with Strategic Participants, M. Ndrio, S. Bose, Y. Guo, and L. Tong. IEEE Power and Energy Society General Meeting, pp. 1-5, 2019.
+Stochastic Small Signal Stability of Power System with Random Wind, S. Pushpak, U. Vaidya, and S. Bose. IEEE Probabilistic Methods applied to Power Systems Conference, pp. 1-6, 2018.
+Distributed Lagrangian Method for Tie-Line Scheduling in Power Grids under Uncertainty, T. T. Doan, S. Bose, and C. L. Beck. ACM Greenmetrics, ACM SIGMETRICS Performance Evaluation Review, vol. 45, no. 2, pp. 88-90, 2017.
+Cash-Settled Options for Wholesale Electricity Markets, K. Alshehri, S. Bose, and T. Basar. International Federation of Automatic Control World Congress, vol. 50, no. 1, pp. 13605-13611, 2017.
+On the Efficiency of Networked Stackelberg Competition, Y. Xu, D. Cai, S. Bose, and A. Wierman. Conference on Information Sciences and Systems, pp. 1-6, 2017.
+Click for more
+Refereed Conference Papers and Presentations
+"Scalable Algorithms for Grid Operations: Challenges and Opportunities", S. Bose, IEEE Smart Grid Webinar
+"Modeling and Managing the Spread of COVID-19", S. Bose, U. K. Mukherjee, S. Souyris, A. Ivanov, S. Seshadri, Y. Xu, P. Sridhar and R. Watkins, MIT IDSS-organized workshop "Path from Research to Impact" on COVID-19.
+
+Pending Articles
+Wholesale Market Participation of DERA Part I: DSO-DERA-ISO Coordination, C. Chen, S. Bose, T. D. Mount, and L. Tong, Preprint available, Submitted, 2023
+Incentive Designs for Stackelberg Games with a Large Number of Followers and their Mean-Field Limits, S. Sanjari, S. Bose and T. Basar, Preprint available, 2022
+On Carsharing Platforms with Electric Vehicles as Energy Service Providers, X. Cheng, T. Mamalis, S. Bose and L. R. Varshney, Preprint available, 2022
+
+Magazine Articles
+Assessing Market Power in Deregulated Electricity Markets, S. Bose, C. Wu, H. Mohsenian-Rad, A. Wierman. IEEE Smart Grid Newsletter, Jan 2014.
+
+Teaching Honors
+Teachers ranked as excellent by their students at UIUC (Falls of 2016, 2017, 2018, 2019,
+2021, Springs of 2018, 2019)
+
+Research Honors
+Received the NSF CAREER Award (2021)
+Co-author of a paper among the best conference papers submitted to the IEEE Power and Energy Society General Meeting (2019)
+Co-author of a Prize Paper at the IEEE Power and Energy Society General Meeting (2019)
+Received the Atkinson Center Postdoctoral Fellowship in Sustainability at Cornell University (2014)
+Co-author of a Prize Paper at the IEEE Power and Energy Society General Meeting (2013)
+Received the Engineering and Applied Science Division fellowship for graduate study at Caltech (2009)
+Click for more
+
+Recent Courses TaughtECE 330 - Power Ckts & Electromechanics
+ECE 365 - Data Science and Engineering
+ECE 398 BD - Making Sense of Big Data
+ECE 476 - Power System Analysis
+ECE 490 (CSE 441) - Introduction to Optimization
+ECE 530 - Large-Scale System Analysis
+ECE 576 - Power System Dynm & Stability
+ECE 598 SB1 - Electricity Markets
+Click for more
+
+
+
+
+
+
+Related News
+
+
+ECE faculty level up with new promotions
+
+
+Bose proposes risk-sensitive design to address uncertainty in electric markets
+
+
+ECE faculty receive 2021 Jump ARCHES grants
+
+
+Six Illinois ECE faculty members receive NSF Career Awards 
+
+
+Illinois ECE faculty  among team awarded $5.4M  to accelerate artificial intelligence research to combat the COVID-19 pandemic
+
+
+Ndrio and Bose win 2019 IEEE PESGM Best Conference Paper Award
+
+
+
+
+
+
+
+

@@ -1,0 +1,122 @@
+
+
+
+
+
+
+
+ 
+
+
+ Eric Chitambar 
+
+
+
+Associate Professor
+(217) 300-9778
+echitamb@illinois.edu
+358 Coordinated Science Lab
+
+
+
+For More Information
+Group Webpage
+
+Education
+Ph.D. in Physics, University of Michigan, Ann Arbor, Michigan, 2010
+M.S. in Physics, University of Michigan, Ann Arbor, Michigan, 2008
+B.S. Physics, University of Notre Dame, Notre Dame, Indiana, 2005
+
+Course Development
+ECE 305: Quantum Information Systems I, University of Illinois, Urbana-Champaign
+
+ECE 404: Quantum Information Theory, University of Illinois, Urbana-Champaign
+
+Short Courses
+``Illinois Quantum Computing Summer School,'' Discovery Partners Institute, Chicago: June 17-20, 2019.
+
+
+Research Areas
+Cryptographic systems and protocols
+Information theory
+Lasers and optical physics
+
+
+Research Topics
+Quantum optics, cryptography, information, and computing
+
+Selected Articles in Journals
+Chitambar, E., GEORGE, I., DOOLITTLE, B., Junge, M., ``The Communication Value of a Quantum Channel,'' IEEE Transactions on Information Theory, 69, 1660 (2022).
+ZHANG, Y., CHEN, X., Chitambar, E., ``Building Multiple Access Channels with a Single Particle,'' Quantum, 6, 653 (2022).
+Chitambar, E., Gour, G., Sengupta, K., Zibakhsh, R.,  ``Quantum Bell Nonlocality as a Form of Entanglement,'' Physical Review A, 104, 052208 (2021).
+Zhang, Y., Bravo, R.A., Lorenz, V., Chitambar, E., "Channel Activation of CHSH Nonlocality." New Journal of Physics, 22, 043003 (2020)
+Chitambar E., de Vincente, J., Girard, M., and Gour, G., "Entanglement manipulation and distillability beyond LOCC." Journal of Mathematical Physics, 61, 042201 (2020)
+GONZALES, A and Chitambar, E., "Bounds on Instantaneous Nonlocal Quantum Computation." IEEE Transactions on Information Theory, 66, 2951 (2020)
+YUE, Q. and Chitambar, E., ``The Zero-error Entanglement Cost is Highly Non-Additive.'' Journal of Mathematical Physics, 60, 112204 (2019).
+Chitambar, E. and Gour, G.,  ``Quantum Resource Theories.'' Reviews of Modern Physics, 91, 025001 (2019).
+Chitambar, E., Fortescue, B., and Hsieh, M.-H., ``The Conditional Common Information in Classical and Quantum Secret Key Distillation.''  IEEE Transactions on Information Theory, 64, 7381 (2018). 
+DILLEY, D. and Chitambar, E., ``More Nonlocality with Less Entanglement in CHSH Experiments using Inefficient Detectors.''  Physical Review A, 97, 062313 (2018).
+Chitambar, E., ``Dephasing-Covariant Operations Enable Asymptotic Reversibility of Quantum Resources.''  Physical Review A, 97, 050301 (Rapid Communication) (2018)
+Chitambar, E. and Hsieh, M.-H., ``Round Complexity in the Local Transformations of Quantum and Classical States.''  Nature Communications, 8, 2086 (2017).
+Chitambar, E., Gour, G., ``Critical Examination of Incoherent Operations and a Physically Consistent Resource Theory of Quantum Coherence,'' Physical Review Letters, 117, 030401 (2016).
+ Lim, C., Xu, F., Siopsis, G., Chitambar, E., Evans, P., and Qi, B.,  ``Loss-tolerant quantum secure positioning with weak laser sources.'' Physical Review A 94, 032315 (2016).
+
+Chitambar, E., Hsieh, M.-H. and Winter, A., ``The Private and Public Correlation Cost of Three Random Variables with Collaboration,'' IEEE Transactions on Information Theory, 62, 2034 (2016).
+Chitambar, E., Fortescue, B., and Hsieh, M.-H., ''A Classical Analog to Entanglement Reversibility,'' Physical Review Letters, 115, 090501 (2015).
+MAXWELL, K. and Chitambar, E., ``Bell Inequalities with Communication Assistance,'' Physical Review A, 89, 042108 (2014).
+Chitambar, E., Leung, D., Mancinska, L., Ozols, M. and Winter, A., ``Everything You Always Wanted to Know About LOCC (But Were Afraid to Ask),''  Communications in Mathematical Physics, 328, 303 (2014).
+Chitambar, E. and Hsieh, M.-H.,  ``Revisiting the Optimal Detection of Quantum Information,'' Physical Review A, 88, 020302 (Rapid Communication) (2013).
+Chitambar, E. ``Quantum Correlations in Large-Dimensional States of High Symmetry,'' Physical Review A, 86, 032110 (2012).
+Chitambar, E., Cui, W. and Lo, H.-K., ``Increasing Entanglement Monotones by Separable Operations,'' Physical Review Letters, 108, 240504 (2012).
+Chitambar, E., ``Local Transformations Requiring Infinite Rounds of Classical Communication,'' Physical Review Letters, 107, 190502 (2011).
+Chen, L., Chitambar, E., Duan, R., Ji, Z. and Winter, A. ``Tensor Rank and Stochastic Entanglement Catalysis for Multipartite Pure States,'' Physical Review Letters, 105, 200501 (2010).
+Chitambar, E., Miller, C. and Shi, Y., ``Matrix Pencils and Entanglement Classification,'' Journal of Mathematical Physics, 51, 072205 (2010).
+Chitambar, E., Duan, R. and Shi, Y., ``Multipartite to Bipartite Entanglement Transformations and Polynomial
+Identity Testing,'' Physical Review A, 81, 052310 (2010).
+Chitambar, E. and Duan, R., ``Nonlocal Entanglement Transformations Achievable by Separable Operations,''  Physical Review Letters, 103, 110502 (2009).
+Chitambar, E., Duan, R. and Shi, Y., ``Tripartite Entanglement Transformations and Tensor Rank,'' Physical Review Letters, 101, 140502 (2008).
+
+Click for more
+Articles in Conference Proceedings
+Chitambar E., Fortescue, B., and Hsieh, M.-H., ''Distributions Attaining Secret Key at a Rate of the Conditional Mutual Information,'' Advances in Cryptology -- CRYPTO 2015, Conference Proceedings, 432 (2015).
+
+
+Recent Courses TaughtECE 120 - Introduction to Computing
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 398 EC - Quantum Systems I
+ECE 487 - Intro Quantum Electr for EEs
+ECE 498 EC3 (ECE 498 EC4, ECE 498 ECG, ECE 498 ECI, ECE 498 YH3, ECE 498 YH4) - Special Topics in ECE
+
+
+
+
+
+
+
+Related News
+
+
+Chitambar comments on the lure of quantum computing for cyberattackers
+
+
+Chitambar group establishes criterion for nonlocal quantum behavior in networks
+
+
+Limitless: IQUIST's quantum testbed allows researchers to explore leading-edge quantum-computing hardware
+
+
+Still no cloning: ECE researchers Kim and Chitambar close a gap in the quantum cloning machine literature
+
+
+NSF-funded QuSTEAM program awarded $5 million to broaden quantum science education for undergraduates
+
+
+NSF-funded QuSTEAM program awarded $5 million to broaden quantum science education for undergraduates
+
+
+
+
+
+
+
+

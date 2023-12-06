@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+ 
+
+
+Zhi-Pei Liang 
+
+
+Administrative TitlesFranklin W. Woeltge Professor of Electrical and Computer Engineering
+
+Professor
+(217) 721-5925
+z-liang@illinois.edu
+4257 Beckman Institute
+
+
+
+For More Information
+Zhi-Pei Liang's home page
+Research Group Website
+
+Education
+Ph.D., Biomedical Engineering, Case Western Reserve University, 1989
+B.S., Electrical Engineering, South-China University of Technology, 1982
+
+Academic Positions
+Professor, Department of Electrical and Computer Engineering, Beckman Institute for Advanced Science and Technology, Coordinated Science Laboratory, and Department of Bioengineering, University of Illinois at Urbana-Champaign, August 2003 - Present
+
+Research Interests
+Pattern recognition, parameter estimation, and machine learning
+Image formation theory and algorithms
+Magnetic resonance imaging and spectroscopy
+
+
+Research Areas
+Biomedical imaging
+Machine learning and pattern recognition
+Signal Processing
+
+
+Books Authored or Co-Authored (Original Editions)
+Z.-P. Liang and P. C. Lauterbur, "Principles of Magnetic Resonance Imaging," IEEE Press/Wiley, 1999.
+
+Honors
+Elected to Int'l Academy of Medical and Biological Engineering, 2012
+Otto Schmitt Award, IFMBE, 2012
+Fellow, ISMRM, 2010
+Fellow, IEEE, 2006
+Fellow, AIMBE, 2005
+Elected President, IEEE-EMBS, 2011-2012
+Elected Vice President (Conferences), IEEE-EMBS, 2006-2009
+Elected AdCom Member, IEEE-EMBS, 2003-2006
+Distinguished Lecturer, IEEE-EMBS, 2002-2005
+University Scholar, UIUC, 2001-2004
+Early Career Achievement Award, IEEE-EMBS, 1999 
+Henry Magnuski Scholar, 1999-2001
+Beckman Fellow, Center for Advanced Study, 1997
+National Science Foundation CAREER Award, 1995
+Whitaker Foundation Biomedical Engineering Research Award, 1991
+Sylvia Sorkin Greenfield Award (best paper) of Medical Physics, 1990
+Click for more
+Teaching Honors
+Ronald W. Pratt Outstanding Teaching Award, 2005
+Distinguished Lecturer, IEEE-EMBS, 2002-2005
+Engineering Council Award for Excellence in Advising, 2006-2008
+In Daily Illini Incomplete List of Excellent Teachers, 1998-2000, 05, 07-09
+
+Other Honors
+EMBC'2011 First-Place Paper Award: A.G. Christodoulou, B. Zhao, H. Zhang, C. Ho, Z.-P. Liang, "Four-dimensional MR cardiovascular imaging: Method and applications," Proc. 33rd, Annual Int'l Conference of IEEE-EMBS, pp. 3732-3735, 2011.
+EMBC'2010 First-Place Paper Award:
+J.P. Haldar, Z. Wang, G. Popescu, Z.-P. Liang, "Label-free high-resolution imaging of live cells with deconvolved spatial light interference microscopy," Proc. 32nd Annual Int'l Conference of IEEE-EMBS, pp. 3382-3385, 2010.
+
+ISBI'2010 Best Paper Award:
+J.P. Haldar, Z.-P. Liang, "Spatiotemporal Imaging with partially separable fuctions: A matrix recovery approach," Proc. IEEE Int'l Symposium Biomedical Imaging, pp. 716-719, 2010.
+I.I. Rabi Award:
+D.Hernando, P. Kellman, J.P. Haldar, Z.-P. Liang, "Robust water/fat separation in the presence of large field inhomogeneities using a graph-cut algorithm," Magn. Reson. Med., vol. 63, pp. 79-90, 2010.
+Sylvia Sorkin Greenfield Award:
+E.M. Haacke, Z.-P. Liang, S.H. Izen, "Constrained reconstruction: A superresolution, optimal signal-to-noise, alternative to the Fourier transform in magnetic resonance imaging," Medical Physics, vol. 16, pp 388-397, 1989.
+
+
+Recent Courses TaughtECE 310 - Digital Signal Processing
+ECE 311 - Digital Signal Processing Lab
+ECE 417 - Multimedia Signal Processing
+ECE 480 (BIOE 480) - Magnetic Resonance Imaging
+ECE 551 - Digital Signal Processing II
+
+
+
+
+
+
+
+Related News
+
+
+Seed grants fund ECE faculty research into AI-powered brain mapping, plant resilience
+
+
+Liang receives ISMRM Gold Medal
+
+
+Liang helps Illinois research team use MRI to image epigenetics in the brain
+
+
+Liang elected National Academy of Inventors Fellow
+
+
+ECE PhD candidate develops tumor imaging method, wins international paper competition
+
+
+Seed Awards Support Collaborative Cancer Research
+
+
+
+
+
+
+
+

@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+ 
+
+
+Philip T Krein 
+
+
+Administrative TitlesGrainger Endowed Chair Emeritus in Electric Machinery and Electromechanics in Electrical and Computer EngineeringExecutive Dean, Zhejiang University/University of Illinois at Urbana-Champaign Institute, Haining, China
+
+Research Professor
+(217) 333-4732
+krein@illinois.edu
+4050 Electrical & Computer Eng Bldg
+
+
+Grainger Endowed Chair Emeritus 
+(217) 333-4732
+krein@illinois.edu
+4050 Electrical & Computer Eng Bldg
+
+
+
+For More Information
+Zhejiang University/University of Illinois Institute
+Grainger Center for Electric Machinery and Electromechanics
+"Elements of Power Electronics" support web site
+Electric power and energy group web site
+
+Education
+Ph.D.   Electrical Engineering      University of Illinois        1982
+
+BiographyPhilip T. Krein received the B.S. degree in electrical engineering and the A.B. degree in economics and business from Lafayette College, Easton, Pennsylvania, and the M.S. and Ph.D. degrees in electrical engineering from the University of Illinois, Urbana.  He was an engineer with Tektronix in Beaverton, Oregon, and then returned to the University of Illinois at Urbana-Champaign.  At present, he holds the Grainger Endowed Chair Emeritus in Electric Machinery and Electromechanics as Professor Emeritus and Director of the Grainger Center for Electric Machinery and Electromechanics.  He was the founding Executive Dean of the Zhejiang University/University of Illinois at Urbana-Champaign Institute, started in 2016.  His research interests address all aspects of power electronics, machines, drives, transportation electrification, and renewable energy, with emphasis on nonlinear control approaches.  He published an undergraduate textbook, Elements of Power Electronics (Oxford University Press, second edition 2015).  In 2001, he helped initiate the International Future Energy Challenge, a major student competition involving fuel cell power conversion and energy efficiency. From 2008 through 2015 he chaired the New Building Committee in the Department of Electrical and Computer Engineering, and contributed several energy and design innovations to the new ECE Building at Illinois.  He holds forty-two U.S. patents.  	Dr. Krein is a registered professional engineer in Illinois and in Oregon. He was a senior Fulbright Scholar at the University of Surrey in the United Kingdom in 1997-98, and was recognized as a University Scholar in 1999, the highest research award at the University of Illinois.  He received the IEEE William E. Newell Award in Power Electronics in 2003 and the IEEE Transportation Technologies Award in 2021.  In 1999-2000 he served as President of the IEEE Power Electronics Society.  In 2003-2004 he was a member of the IEEE Board of Directors.  From 2003-2014 he was a member of the board of directors of SolarBridge Technologies, the leading innovator of integrated ac solar panels.  He was elected to the U.S. National Academy of Engineering in 2016.  He is an Associate Editor for the IEEE Open Journal of Power Electronics.  In 2005-2007, he was a Distinguished Lecturer for the IEEE Power Electronics Society.  In 2015-2016, he was Chair of the IEEE Transportation Electrification Community.  In 2017, he was recognized as a Foreign Expert under the China 1,000 Talents Program.  He is a Fellow of the U.S. National Academy of Inventors.
+Academic Positions
+Director, Zhejiang University/University of Illinois at Urbana-Champaign Joint Research Center, September 2020 to present (15% time).
+Research Professor and Professor Emeritus, University of Illinois, Urbana, Nov. 2015 to present.
+
+Teaching StatementProf. Krein initiated a complete curriculum in modern power electronics, and has taught project courses such as hybrid and electric vehicles, design of efficient motors for appliances, and others.  He designed and developed laboratory facilities and courses used in these subject areas and had heavy involvement in the design and implementation of energy features in the ECE Building.  Energy is one of the most important interdisciplinary topics, and power electronics is the modern actuation method for all advanced energy systems.
+Research StatementPower electronics is the central enabling technology for advanced energy applications.  It is a vital part of alternative and renewable energy conversion, hybrid and electric transportation, portable devices, efficient motors and appliances, new lighting technologies, and an increasing range of industrial processes.  Research at Illinois in this area seeks to identify the best methods, best materials, and best engineering practices for the conversion and control of electrical energy.  The research also covers dominant application areas, including electric machinery and electromechanics.  Approaches such as correlation-based controls, high-performance geometric control and operating methods, design approaches for extreme reliability, and simple ways for wide-range operation of power converters have been developed at Illinois.  New approaches to the design of electric machines are being explored.  Work on systems and system integration has included plug-and-play solar power systems, electric and hybrid vehicle modelling, development of wide bandgap power semiconductors, and new ways for power processes to support computation processes.  The rapid emergence of electric transportation is a important application area of current interest.
+Post-Doctoral Research OpportunitiesPost-doctoral students interested in high-performance power electronics and electric machines can be supported by the engineer-in-residence program of the Grainger Center for Electric Machinery and Electromechanics, or should inquire about opportunities at the Zhejiang University/University of Illinois Institute.
+Graduate Research OpportunitiesEach of the four thematic areas listed in the Annual Statement of Research Progress has opportunities for graduate research assistantships. In most cases, interested students should contact collaborators at the University of Illinois or in the Zhejiang University/University of Illinois at Urbana-Champaign Institute.
+Undergraduate Research OpportunitiesEach year, several undergraduate students are supported to conduct research within the Grainger Center for Electric Machinery and Electromechanics (CEME).  Activities range from circuit board layout and construction to advanced research projects.  Students work side by side with graduate students and faculty to carry out experimental activities in energy, electromechanics, and power electronics.  CEME has one of the largest undergraduate research programs in the department.  Please contact Kevin Colravy, who oversees CEME undergraduate activities.
+Research Interests
+Energy efficient buildings.
+Alternative and renewable energy systems.
+Transportation electrification. 
+Electric machinery and electromechanics.
+Power electronics.
+
+
+Research Areas
+Electrical machines and drive systems
+Power and Energy Systems
+Power electronics
+
+
+Research Topics
+Autonomous vehicular technology, UAVs
+Beyond CMOS
+Electric transportation
+Energy
+Smart grid and energy delivery
+Smart infrastructures
+Solar and renewable technology
+Storage and conversion
+Click for more
+Books Authored or Co-Authored (Revisions)
+P. T. Krein, Elements of Power Electronics, second edition, Oxford University Press, New York, 2015.
+
+Selected Articles in Journals
+P. T. Krein and J. A. Galtieri, "Active Management of Photovoltaic System Variability with Power Electronics," IEEE J. Emerging Selected Topics Power Electronics, vol. 9, no. 6, pp. 6507- 6523, December 2021. Invited paper.
+
+Y. Cao, R. C. Kroeze, P. T. Krein, "Multi-Timescale Parametric Electrical Battery Model for Use in Dynamic Electric Vehicle Simulations," IEEE Trans. Transportation Electrification, vol. 2, no. 4, pp. 432-442, 2016.
+K. A. Kim, G.-B. Seo, B.-H. Cho, P. T. Krein, "Photovoltaic Hot-Spot Detection for Solar Panel Substrings Using AC Parameter Characterization," IEEE Trans. Power Electronics, vol. 31, no. 2, pp. 1121-1130, 2016.
+V. T. Buyukdegirmenci, P. T. Krein, "Induction Machine Characterization for Short-Term or Momentary Stall Torque," IEEE Trans. Industry Applications, vol. 51, no. 3, pp. 2237-2245, 2015.
+A. M. Bazzi, P. T. Krein, "Ripple Correlation Control: An Extremum Seeking Control Perspective for Real-Time Optimization," IEEE Trans. Power Electronics, vol. 29, no. 2, pp. 988-995, 2014.
+P. S. Shenoy, K. Kim, B. Johnson, P. T. Krein, "Differential Power Processing for Increased Energy Production and Reliability of Photovoltaic Systems," IEEE Trans. Power Electronics, Vol. 28, no. 6, pp. 2968-2979, June 2013.
+P. S. Shenoy, P. T. Krein, "Differential Power Processing for DC Systems," IEEE Trans. Power Electronics, vol. 28, no. 4, pp. 1795-1806, April 2013.
+P. T. Krein, R. S. Balog, M. Mirjafari, "Minimum Energy and Capacitance Requirements for Single-Phase Inverters and Rectifiers Using a Ripple Port," IEEE Trans. Power Electronics, vol.27, no.11, pp.4690-4698, Nov. 2012.
+S. Kapat, P. Shenoy, P. T. Krein, "Near Null Response to Large-Signal Transients in an Augmented Buck Converter: A Geometric Approach," IEEE Trans. Power Electronics, vo. 27, no. 7, pp. 3319-3329, July 2012.
+M. Amrhein, P. T. Krein, "Induction Machine Modeling Approach Based on 3-D Magnetic Equivalent Circuit Framework," IEEE Trans. Energy Conversion, vol. 25, no. 2, pp. 339-347, 2010.
+J. W. Kimball, P. T. Krein, "Discrete-Time Ripple Correlation Control for Maximum Power Point Tracking," IEEE Trans. Power Electronics, vol. 23, no. 5, pp. 2353-2362, September 2008.
+Click for more
+Articles in Conference Proceedings
+P. T. Krein, "Building a Path Toward Ubiquitous Plug-in Vehicle Charging Infrastructure," in Proc. IEEE Transportation Electrification Conf. (ITEC), 2018, pp. 956-960.
+
+Patents
+Forty-two U.S. patents awarded.
+
+Journal Editorships
+Associate Editor, IEEE Open Journal of Power Electronics, 2020 to present.
+
+Teaching Honors
+Incomplete List of Teachers Ranked as Excellent, multiple terms.
+Published an undergraduate textbook for power electronics, 1998, 2015.
+
+Research Honors
+Forty-two U.S. and six European patents awarded.
+IEEE Transportation Technologies Award, 2021.
+Fellow, National Academy of Inventors, 2017.
+Foreign Expert and Distinguished Professor, China 1000 Talents Program, 2017.
+Election to U.S. National Academy of Engineering, 2016.
+IEEE William E. Newell Power Electronics Award, 2003.
+Grainger Endowed Director's Chair in Electric Machinery and Electromechanics, 2002 to 2015; Grainger Emeritus Chair since 2015.
+Fellow, IEEE, 2000.
+Henry Ford II Scholar Award.
+Click for more
+Public Service Honors
+Chair, IEEE Transportation Electrification Community, 2015-2016.
+Distinguished Service Award, IEEE Power Electronics Society, 2008.
+Elected as IEEE Division II Delegate and member of the IEEE Board of Directors, 2003-2004.
+President, IEEE Power Electronics Society, 1999-2000.
+
+
+Recent Courses TaughtECE 445 - Senior Design Project Lab
+ENG 177 POE - Mobility Innovation
+ENG 198 POE - Personal Mobility Innovations
+
+
+
+
+
+
+
+Related News
+
+
+The ECE Building Becomes the University's First Zero Energy Certified Facility 
+
+
+Krein comments on manufacture of electric vehicles
+
+
+Why it's hard to compare electricity use between electric cars and household appliances
+
+
+Krein discusses dangers of fractal wood burning
+
+
+Are Illinois utilities prepared for influx of new electric vehicles?
+
+
+The impact of EV charging on the grid: business models and consumer behaviors
+
+
+
+
+
+
+
+
