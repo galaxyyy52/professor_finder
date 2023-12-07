@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+ 
+
+
+ John Dallesasse 
+
+
+
+Professor
+(217) 333-8416
+jdallesa@illinois.edu
+2114 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Motor Magazine 2023 Interview
+Research Group Website
+CBC Radio Interview
+Motor Magazine 2021 Interview
+ECE News: Dallesasse Named Fellow of the Optical Society
+ECE News: Dallesasse Selected as IEEE Fellow
+ECE News: Transistor-Injected Quantum Cascade Laser
+CS Magazine: Accessing the Mid-Infrared and Beyond
+Click for more
+Education
+Doctor of Philosophy, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1991
+Master of Science, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1987
+Bachelor of Science, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1985
+
+BiographyProf. Dallesasse has over 20 years of experience in the Optoelectronics Industry, and has held a wide range of positions in technology development and management, including Vice President of MicroLink Devices and Senior Director of Engineering and Technology for Emcore’s Fiber Optics Division.  Most recently, he was the Chief Technology Officer, Vice President, and co-founder of Skorpios Technologies, Inc., a venture-capital funded startup that is developing and commercializing silicon photonic ICs based upon a wafer-scale process for selective integration of III-V materials on SOI substrates.  His technical contributions include, with Nick Holonyak, Jr., the discovery of III V Oxidation, which has become an important process technology in the fabrication of high-speed VCSELs.  Prof. Dallesasse has also been an active participant in the IEEE 802.3 standards effort, and was an important contributor in the definition of the 10GBASE-LX4 port type for use with installed “legacy” multimode fiber.
+Academic Positions
+Associate Dean for Facilities and Capital Planning, 2022 - Present
+Professor, University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering, 2018 - Present
+Associate Professor, University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering, 2012 - 2018
+
+Other Professional Employment
+Chief Technology Officer, Vice President, and Co-Founder, Skorpios Technologies, Inc., Albuquerque, NM, August 2010 - December 2011
+Vice President, MicroLink Devices, Inc., Niles, IL, March 2009 - August 2010
+Senior Director of Development and Engineering, Emcore Corporation, Naperville, IL, October 2003 - March 2009
+Manager of Group Engineering, Molex, Inc., Downers Grove, IL, 1999 - October 2003
+
+Major Consulting Activities
+Expert Witness: Optical Communications, Semiconductor Devices and Materials, Photonic Devices
+Technical Advisory Board, Vega Wave Systems, West Chicago, IL, August 2012 - Present
+Member, Technical Advisory Board, Skorpios Technologies, Inc., Albuquerque, NM, July 2012 - October 2016
+Chief Technology Advisor, Skorpios Technologies, Inc., Albuquerque, NM, January 2012 - October 2016
+Chair, Technical Advisory Board, Skorpios Technologies, Inc., Albuquerque, NM, April 2011 - July 2012
+
+Professional Highlights
+Co-founder of Skorpios Technologies, a silicon photonics company developing optical ICs based upon template-assisted bonding
+First to Commercialize 10GBASE-LX4 Optical Transceivers, an important Ethernet port type for 10 Gbps upgrades to networks with legacy multimode fiber
+Co-Inventor of III-V Oxidation, an important process technology for compound semiconductor devices, especially VCSELs
+
+Teaching StatementA key attraction of making the transition from a successful career in industry to an academic position is the ability to pass on years of accumulated experience to a new generation.  Through the course of my career I have had the ability to mentor many young engineers, helping them grow both personally and professionally.  This has been one of my greatest sources of satisfaction, and a key motivation for my career growth into engineering management.  There is tremendous satisfaction in seeing a spark of insight turn into a flame of knowledge.  Making a positive impact on the lives of others through helping them learn and then seeing the contributions that they, in turn, are able to make provides a fulfillment that cannot be measured.
+Research StatementPhotonic integration is a necessity for next-generation optical networks.  As the number of applications that demand significant bandwidth increase, the ability of existing networks to serve those needs is compromised.  Solutions that enable the existing fiber infrastructure to carry more data, such as advanced optical modulation formats based upon phase-shift-keying and polarization multiplexing, require complex optical transmitters and coherent optical receivers assembled using discrete components.  These solutions are too expensive for broad deployment, and face fundamental challenges in reducing system cost.  The most promising approach to overcoming these challenges is photonic integration.  Both Silicon Photonics and Monolithic Integration on InP face fundamental challenges.  Silicon is an outstanding material for complex electronics and waveguides, but its indirect bandgap and weak nonlinear optical properties create challenges with regard to the generation, efficient detection, and active control of light.  Compound semiconductor materials, especially those that are lattice matched to InP or GaAs, are outstanding materials for these functions but are costly and not ideal for the fabrication of complex electronics, especially ICs such as network processors.  Past attempts to bring these materials together have not progressed past the R&D stage due to limitations in performance, reliability, or manufacturability.  Direct epitaxial growth of GaAs or InP on silicon faces the problem of having a high defect-density metamorphic layer that can impact device reliability.  Wafer bonding techniques, which have been successfully employed in the LED area as well as in the fabrication of SOI wafers, show promise but also face challenges.  Direct bonding at high temperature creates significant stress, as the thermal expansion coefficients of Si and III-Vs are not well matched.  This stress has an unacceptable impact on device reliability.  Lower-temperature bonding techniques using plasma activation, chemical treatment, or atomically thin interface layers show promise but require further development.  An integration approach that recognizes and addresses material compatibility issues and manufacturability should be able to overcome prior barriers to commercialization and enable broad deployment of photonic integrated circuits.  What to integrate is also a key area of interest.  Recent progress on the Feng-Holonyak Transistor Laser suggests that it may be able to serve as a fundamental device element in photonic-electronic integrated circuits, but further research on device integration is required.
+Undergraduate Research OpportunitiesThe Advanced Semiconductor Device and Integration Group welcomes the participation of undergraduates in the research process through independent study projects, undergraduate thesis projects, and through information working relationships.  A limited number of slots are available, but interested individuals are encouraged to contact Professor Dallesasse or one of his graduate students.
+Research Interests
+Heterogeneous Integration and Novel Processing Technologies
+Transistor Lasers and Light Emitting Transistors
+Compound Semiconductor Materials
+Compound Semiconductor Devices
+Photonic Integration & Silicon Photonics
+
+
+Research Areas
+Gallium nitride power semiconductors
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Microwave devices and circuits
+Microwave integrated circuits
+Millimeter wave integrated circuits
+Nano-materials
+Nano-photonics
+Nanotechnology
+Optical communications
+Photonic crystals
+Photonic integrated circuits (PICs)
+Quantum nanostructures for electronics and photonics
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors
+Click for more
+
+Research Topics
+Beyond CMOS
+Electronics, Plasmonics, and Photonics
+Photonics: optical engineering and systems
+Semiconductor devices and manufacturing
+
+Chapters in Books
+Handbook of GaN Semiconductor Materials and Devices, CRC Press, Taylor & Francis Group, "Theoretical Model of InGaN/GaN Self Assembled Quantum Dots," G.-L. Su, J.M. Dallesasse, P.K. Bhattacharya, Oct. 18, 2017, ISBN 9781498747134 - CAT# K27029.
+
+Selected Articles in Journals
+“A Hybrid Optical-Electrical Analog Deep Learning Accelerator Using Incoherent Optical Signals,” Mingdai Yang, Qiuwen Lou, Ramin Rajaei, Mohammad Reza Jokar, Junyi Qiu, Yuming Liu, Aditi Udupa, Frederic T. Chong, John M. Dallesasse, Milton Feng, Lynford L. Goddard, X. Sharon Hu, Yanjing Li, ACM Journal on Emerging Technologies in Computing Systems, 17 February, 2023.
+“Impact of Diffusion Profile on the Modulation Response of Single-Mode Disorder-Defined VCSELs,” M.D. Kraman, P. Su, K.P. Pikul, and J.M. Dallesasse, IEEE Photonics Technology Letters 34, 1081 (2022).
+"Heterogeneously integrated VCSELs on silicon," Leah Espenhahn, John Carlson, Patrick Su, John Dallesasse, Proc. SPIE 12020, Vertical-Cavity Surface-Emitting Lasers XXVI, 120200J (2 March 2022).
+“Low-threshold InP quantum dot and InGaP quantum well visible lasers on silicon (001),” P. Dhingra, P. Su, B.D. Li, R.D. Hool, A.J. Muhowski, M. Kim, D. Wasserman, J. Dallesasse, and M.L. Lee, Optica, 8, pp. 1495-1500, https://doi.org/10.1364/OPTICA.443979.
+“High-power single-mode vertical-cavity surface-emitting lasers using strain-controlled disorder-defined apertures,” P. Su, K.P. Pikul, M.D. Kraman, and J.M. Dallesasse, Appl. Phys. Lett. 119, 241101 (2021), https://doi.org/10.1063/5.0068713.  (APL Editor's Pick)
+“Optical Transitions and Magnetism in Mn-Implanted Gallium Nitride for Three-Level Magnetooptic Devices,” J.A. Carlson, M. Ganjoo, and J.M. Dallesasse, in IEEE Transactions on Electron Devices, doi: 10.1109/TED.2021.3127479.
+“Modeling Photocurrent Spectra of In0.91Ga0.09N/In0.4Ga0.6N Disk-in-Wire Photodiode on Silicon for 1.3 um – 1.55 um Operation,” F.-C. Hsiao, A. Hazari, P. Bhattacharya, Y.-C. Change, and J.M. Dallesasse, Physica E 144, 115371 (2022).
+"Design and novel turn-off mechanisms in transistor lasers," B. Wu, J.M. Dallesasse, and J.-P. Leburton, Journal of Physics: Photonics 3 (2021), 034018, https://doi.org/10.1088/2515-7647/ac0b4d.
+"Effective bond-orbital model of III-nitride wurtzite structures based on modified interaction parameters of zinc-blende structures," F.-C. Hsiao, C.-T. Liang, Y.-C. Chang, and J.M. Dallesasse, Computer Physics Communications (2020) 107139, https://doi.org/10.1016/j.cpc.2020.107139.
+"Epitaxial Bonding and Transfer Processes for Large-Scale Heterogeneously Integrated Electronic-Photonic Circuitry," John Carlson, Coleman Williams, Maanav Ganjoo, and John Dallesasse, J. Electrochem. Soc. 166, D3158 (2019).
+"Wafer-Scale Method of Controlling Impurity-Induced Disordering for Optical Mode Engineering in High-Performance VCSELs," P. Su, F.-C. Hsiao, T. O'Brien, J.M. Dallesasse, invited paper, IEEE Trans. Semi. Mfg. 31, 447 (2018).
+"Control of radiative base recombination in the quantum cascade light-emitting transistor using quantum state overlap," K. Chen, F.-C. Hsiao, B. Joy, and J.M. Dallesasse, Appl. Phys. B, 124:129, 2018, https://doi.org/10.1007/s00340-018-6985-y.
+"Progress on the transistor-injected quantum-cascade laser", John M. Dallesasse, Kanuo Chen, Fu-Chen Hsiao, Proc. SPIE 10540, Quantum Sensing and Nano Electronics and Photonics XV, 105401P (26 January 2018); doi: 10.1117/12.2282476; https://doi.org/10.1117/12.2282476.
+"Modeling of the electrically-tunable transistor-injected quantum cascade laser," Z. Lin, K. Chen, F.-C. Hsiao, Z. Wang, J.M. Dallesasse, and J.-P. Leburton, J. Appl. Phys. 122, 235701 (2017).
+"Red and Near-Infrared III-Nitride Quantum Dot Lasers," A. Hazari, T. Frost, G.-L. Su, J.M. Dallesasse, and P. Bhattacharya, IEEE J. of Sel. Top. Quant. 23, 1901409 (2017).
+"Integrated spectroscopic analysis system with low vertical height for measuring liquid or solid assays," Y. Wan, J. A. Carlson, S. A. Al-Mulla, W. Peng, K. D. Long, B. A. Kesler, P. Su, J. M. Dallesasse, B. T. Cunningham, Sensors and Actuators B: Chemical, vol. 255, pp. 935-943, 2018.
+"1.3 um Optical Interconnect on Silicon: A Monolithic III-Nitride Nanowire Photonic Integrated Circuit," Arnab Hazari, Fu-Chen Hsiao, Lifan Yan, Junseok Heo, Joanna M. Millunchick, John M. Dallesasse, and Pallab Bhattacharya, IEEE J. Quantum Electron. 53, 6300109 (2017).
+"Mode Behavior of VCSELs with Impurity-Induced Disordering," T. O'Brien, Jr., B. Kesler, S. Al Mulla, and J.M. Dallesasse, IEEE Photonics Technology Letters, 29, 1179-1182, (2017), DOI: 10.1109/LPT.2017.2701647.
+"Compact characterization of liquid absorption and emission spectra using linear variable filters integrated with a CMOS imaging camera," Y. Wan, J.A. Carlson, B.A. Kesler, W. Peng, P. Su, S.A. Al-Mulla, S.J. Lim, A.M. Smith, J.M. Dallesasse, and B.T. Cunningham, Scientific Reports 6, 29117 (2016).
+"Facilitating Single-Transverse-Mode Lasing in VCSELs via Patterned Dielectric Anti-Phase Filters," B. Kesler, T. O'Brien, G.-L. Su, and J.M. Dallesasse, IEEE Photon. Tech. Lett. 28, 1497-1500 (2016).
+"Physical model for high indium content InGaN/GaN self-assembled quantum dot ridge-waveguide lasers emitting at red wavelengths (λ ∼ 630 nm)," G.L. Su, T. Frost, P. Bhattacharya, and J.M. Dallesasse, Optics Express 23, 12850-12865 (2015).
+"Detailed model for the In0.18Ga0.82N/GaN self-assembled quantum dot active material for λ=420 nm emission," G.L. Su, T. Frost, P. Bhattacharya, J.M. Dallesasse, and S.L. Chuang, Optics Express 22, 22716-22729 (2014).
+"Effect of the energy barrier in the base of the transistor laser on the recombination lifetime," R. Bambery, C. Wang, J.M. Dallesasse, M. Feng, and N. Holonyak, Jr., Appl. Phys. Lett. 104, 081117-081117-4 (2014).
+"Integrated tunable CMOS laser," T. Creazzo, E. Marchena, S.B. Krasulick, P.K.L. Yu, D. Van Orden, J.Y. Spann, C.C. Blivin, L. He, H. Cai, J.M. Dallesasse, R.J. Stone, and A. Mizrahi, Optics Express 21, 28048-28053 (2013).
+"III-V Oxidation: Discoveries and Applications in Vertical-Cavity Surface-Emitting Lasers," J.M. Dallesasse and D.G. Deppe, Proc. IEEE 101, 2234-2242 (2013).
+"Voltage and Current Modulated 20Gbit/s Operation of a Transistor Laser at Room Temperature," R. Bambery, F. Tan, M. Feng, J. M. Dallesasse, and N. Holonyak, Jr., IEEE Photon. Tech. Lett. 25, 859-862 (2013).
+"Oxidation of Al-bearing III-V materials: A review of key progress," J.M. Dallesasse and N. Holonyak, Jr., Applied Physics Reviews, J. Appl. Phys. 113, 051101-051101-11 (2013).
+"Light Emission from an AlGaAs Single-Quantum-Well Heterostructure by Electron Excitation from a Micromachined Field Emitter Source," H. Busta, J. Dallesasse, S. Smith, J. Pogemiller, B. Zimmerman, and R. Mathius, J. Micromech. Microeng. 4, 55-59 (1994).
+"Multiple Wavelength Operation of a Laser-Diode Array Coupled to an External Cavity," G. C. Papen, G. M. Murphy, D. J. Brady, A. T. Howe, J. M. Dallesasse, R. Y. Dejule, and D. J. Holmgren, Optics Letters 18, 1441-1443 (1 September 1993).
+"Properties and Use of In0.5(AlxGa1-x)0.5P and AlxGa1-xAs Native Oxides in Heterostructure Lasers," F. A. Kish, S. J. Caracci, N. Holonyak, Jr., K. C. Hsieh, J. E. Baker, S. A. Maranowski, A. R. Sugg, J. M. Dallesasse, R. M. Fletcher, C. P. Kuo, T. D. Osentowski, and M. G. Craford, J. Electron. Mater. 21, 1133-1139 (December 1992).
+"Native-Oxide Defined In0.5(AlxGa1-x)0.5P Quantum Well Heterostructure Window Lasers (660 nm)," S. A. Maranowski, F. A. Kish, S. J. Caracci, N. Holonyak, Jr., J. M. Dallesasse, D. P. Bour, and D. W. Treat, Appl. Phys. Lett. 61, 1688-1690 (5 October 1992).
+"Resonance and Switching in a Native-Oxide-Defined AlxGa1-xAs-GaAs Quantum Well Heterostructure Laser Array," N. El-Zein, N. Holonyak, Jr., F. A. Kish, J. M. Dallesasse, and R. D. Burnham, Appl. Phys. Lett. 61, 705-707 (10 August 1992).
+"Dependence on Doping Type (p/n) of the Water Vapor Oxidation of High-Gap AlxGa1 xAs," F. A. Kish, S. A. Maranowski, G. E. Hofler, N. Holonyak, Jr., S. J. Caracci, J. M. Dallesasse, and K. C. Hsieh, Appl. Phys. Lett. 60, 3165-3167 (22 June 1992).
+"Visible Spectrum Native-Oxide Coupled-Stripe In0.5(AlxGa1-x)0.5P-In0.5Ga0.5P Quantum Well Heterostructure Laser Arrays," F. A. Kish, S. J. Caracci, N. Holonyak, Jr., S. A. Maranowski, J. M. Dallesasse, R. D. Burnham, and S. C. Smith, Appl. Phys. Lett. 59, 2883-2885 (25 November 1991).
+"Native-Oxide Coupled-Cavity AlxGa1-xAs-GaAs Quantum Well Heterostructure Laser Diodes," N. El-Zein, F. A. Kish, N. Holonyak, Jr., A. R. Sugg, M. J. Ries, S. C. Smith, J. M. Dallesasse, and R. D. Burnham, Appl. Phys. Lett. 59, 2838-2840 (25 November 1991).
+"Planar Native-Oxide Index-Guided AlxGa1-xAs-GaAs Quantum Well Heterostructure Lasers," F. A. Kish, S. J. Caracci, N. Holonyak, Jr., J. M. Dallesasse, K. C. Hsieh, M. J. Ries, S. C. Smith, and R. D. Burnham, Appl. Phys. Lett. 59, 1755-1757 (30 September 1991).
+"Native-Oxide-Masked Si Impurity-Induced Layer Disordering of AlxGa1-xAs-AlyGa1 yAs-AlzGa1 zAs Quantum Well Heterostructures," N. El-Zein, N. Holonyak, Jr., F. A. Kish, A. R. Sugg, T. A. Richard, J. M. Dallesasse, S. C. Smith, and R. D. Burnham, J. Appl. Phys. 70, 2031-2034 (15 August 1991).
+"Native-Oxide Stripe-Geometry In0.5(AlxGa1-x)0.5P-In0.5Ga0.5P Heterostructure Laser Diodes," F. A. Kish, S. J. Caracci, N. Holonyak, Jr., J. M. Dallesasse, A. R. Sugg, R. M. Fletcher, C. P. Kuo, T. D. Osentowski, and M. G. Craford, Appl. Phys. Lett. 59, 354-356 (15 July 1991).
+"Native-Oxide Coupled-Stripe AlyGa1-yAs-GaAs-InxGa1-xAs Quantum Well Heterostructure Lasers," T. A. Richard, F. A. Kish, N. Holonyak, Jr., J. M. Dallesasse, K. C. Hsieh, M. J. Ries, P. Gavrilovic, K. Meehan, and J. E. Williams, Appl. Phys. Lett. 58,  2390-2392 (27 May 1991).
+"Low-Threshold Disorder-Defined Native-Oxide-Delineated Buried-Heterostructure AlxGa1 xAs-GaAs Quantum Well Lasers,"F. A. Kish, S. J. Caracci, N. Holonyak, Jr., J. M. Dallesasse, G. E. Hofler,  R.D. Burnham, and S. C. Smith, Appl. Phys. Lett. 58, 1765-1767 (22 April 1991).
+"Native-Oxide Stabilization of AlAs-GaAs Heterostructures," A. R. Sugg, N. Holonyak, Jr., J. E. Baker, F. A. Kish, and J. M. Dallesasse, Appl. Phys. Lett. 58, 1199-1201 (11 March 1991).
+"Native-Oxide Masked Impurity-Induced Layer Disordering of AlxGa1-xAs Quantum Well Heterostructures," J. M. Dallesasse, N. Holonyak, Jr., N. El-Zein, T. A. Richard, F. A. Kish, A. R. Sugg, R. D. Burnham, and S. C. Smith, Appl. Phys. Lett. 58, 974-976 (4 March 1991).
+"Native-Oxide Defined Coupled-Stripe AlxGa1-xAs-GaAs Quantum-Well Heterostructure Lasers," J. M. Dallesasse, N. Holonyak, Jr., D. C. Hall, N. El-Zein, A. R. Sugg, S. C. Smith, and R. D. Burnham, Appl. Phys. Lett. 58, 834-836 (25 February 1991).
+"Native-Oxide Stripe-Geometry AlxGa1-xAs-GaAs Quantum Well Heterostructure Lasers," J. M. Dallesasse and N. Holonyak, Jr., Appl. Phys. Lett. 58, 394-396 (1991).
+"Hydrolyzation Oxidation of AlxGa1-xAs-AlAs-GaAs Quantum Well Heterostructures and Superlattices," J. M. Dallesasse, N. Holonyak, Jr., A. R. Sugg, T. A. Richard, and N. El-Zein, Appl. Phys. Lett. 57, 2844-2846 (1990).
+"Hydrogenation of Si- and Be-Doped InGaP," J. M. Dallesasse, I. Szafranek, J. N. Baillargeon, N. El-Zein, N. Holonyak, Jr., G. E. Stillman, and K. Y. Cheng, J. Appl. Phys. 68, 5866-5870 (1990).
+"Hydrogenation-Defined Stripe-Geometry In0.5(AlxGa1-x)0.5P Quantum Well Lasers," J. M. Dallesasse, N. El-Zein, N. Holonyak, Jr., R. M. Fletcher, C. P. Kuo, T. D. Osentowski, and M. G. Craford, J. Appl. Phys. 68, 5871-5873 (1990).
+"Environmental Degradation of AlxGa1-xAs-GaAs Quantum-Well Heterostructures," J. M. Dallesasse, N. El-Zein, N. Holonyak, Jr., K. C. Hsieh, R. D. Burnham, and R. D. Dupuis, J. Appl. Phys. 68, 2235-2238 (1990).
+"Stability of AlAs in AlxGa1-xAs-AlAs-GaAs Quantum Well Heterostructures," J. M. Dallesasse, P. Gavrilovic, N. Holonyak, Jr., R. W. Kaliski, D. W. Nam, E. J. Vesely, and R. D. Burnham, Appl. Phys. Lett.  56, 2436-2438 (1990).
+"Layer Disordering of n-Type (Se) and p-Type (C) AlxGa1-xAs-GaAs Superlattices by S Diffusion," J. S. Major, Jr., J. M. Dallesasse, L. J. Guido, J. E. Baker, W. E. Plano, A. R. Sugg, E. J. Vesely, T. A. Richard, and N. Holonyak, Jr., Appl. Phys. Lett. 56, 1720-1722 (1990).
+"Impurity-Induced Layer Disordering in In0.5(AlxGa1-x)0.5P-InGaP Quantum Well Heterostructures: Visible Spectrum Buried Heterostructure Lasers," J. M. Dallesasse, W. E. Plano, D. W. Nam, K. C. Hsieh, J. E. Baker, N. Holonyak, Jr., C. P. Kuo, R. M. Fletcher, T. D. Osentowski, and M. G. Craford, J. Appl. Phys. 66, 482-487 (1989).
+"Short-Wavelength (~6400 Ã…) Room-Temperature Continuous Operation of p-n In0.5(AlxGa1 x)0.5P Quantum Well Lasers," J. M. Dallesasse, D. W. Nam, D. G. Deppe, N. Holonyak, Jr., R. M. Fletcher, C. P. Kuo, T. D. Osentowski, and M. G. Craford, Appl. Phys Lett. 53, 1826-1828 (1988).
+"Impurity diffusion and layer interdiffusion in AlxGa1-xAs-GaAs heterostructures," D. G. Deppe, N. Holonyak, Jr., W. E. Plano, V. M. Robbins, J. M. Dallesasse, K. C. Hsieh, and J. E. Baker, J. Appl. Phys. 64, 1838-1844 (1988).
+"Buried heterostructure AlxGa1-xAs-GaAs quantum well lasers by Ge diffusion from the vapor," D. G. Deppe, W. E. Plano, J. M. Dallesasse, D. C. Hall, L. J. Guido, N. Holonyak, Jr., Appl. Phys. Lett. 52, 825-827 (1988).
+Click for more
+Articles in Conference Proceedings
+"Impact of Diffusion Mask Strain on Impurity-Induced Disordered VCSELs Designed for Single-Fundamental-Mode Operation," Patrick Su, Mark D. Kraman, Kevin P. Pikul, and John M. Dallesasse, CS MANTECH 2022, Monterey, CA, May 9-12, 2022.
+"Heterogeneous Integration for Silicon Photonic Systems: Challenges and Approaches," John M. Dallesasse, John A. Carlson, Manaav Ganjoo, Leah Espenhahn, IEEE EDTM 2021, WE1P3-1, Chengdu, China.
+“Transfer of Thin Film Gallium Phosphide onto Glass for Integrable Optical Filters,” M. Ganjoo, J.A. Carlson, S.A. Al-Mulla, J. Brown, B.T. Cunningham, and J.M. Dallesasse, Paper 1.2, CS MANTECH 2020, Online, May 11-14, 2020.
+“Design and Fabrication Considerations for Transistor-Injected Quantum Cascade Lasers for Compact, Efficient, and Controllable Mid-Wave Infrared Lasing,” R.B. Kaufman, F.-C. Hsiao, P. Su, and J.M. Dallesasse, Paper 6.5, CS MANTECH 2020, Online, May 11-14, 2020.
+"Strain-controlled impurity-induced disordered apertures for high-power single-mode VCSELs," Patrick Su, Kevin P. Pikul, Fu-Chen Hsiao, Thomas O'Brien Jr., John M. Dallesasse, Proceedings Volume 11300, Vertical-Cavity Surface-Emitting Lasers XXIV, 113000B (2020)SPIE OPTO, 2020, San Francisco, California, United States https://doi.org/10.1117/12.2541945.
+“Multi-chip heterogeneously integrated array of active three-terminal transistor lasers and passive photonic structures for electronic-photonic integration on silicon,” J.A. Carlson and J.M. Dallesasse, Proc. SPIE, Silicon Photonics XV, 1128506 (26 February 2020) https://doi.org/10.1117/12.2544009.
+"Integrated and Interconnected Array of Light-Emitting Transistors and Transistor Lasers on Silicon for Photonic Logic," J.A. Carlson, C.G. Williams, and J.M. Dallesasse, 236th ECS Meeting, October 13-17, Atlanta, GA.
+â€œFunctionalizing Silicon and Other Materials Through Heterogeneous Integration: Silicon Photonics, Electronic-Photonic Integration, and GaN Photonics,â€ J.M. Dallesasse, High Speed Silicon Photonics Devices & Transmission Technologies Conference, May 10, 2019, National Taiwan University, Taipei, Taiwan.
+"Heterogeneous Integration of Light-Emitting Transistors on Silicon for Hybrid Electronic-Photonic Circuitry,"  J.A. Carlson and J.M. Dallesasse, in Conference on Lasers and Electro-Optics, OSA Technical Digest (Optical Society of America), paper JTh2A.60, (2019).
+â€œCarrier Lifetime Analysis in a Transistor Laser by Using Non-Equilibrium Greenâ€™s Function Method with Effective Bond-Orbital Model,â€ F.-C. Hsiao, Y.-C. Chang, J. Dallesasse, presentation, APS March Meeting 2019, Session S11: Group IV- and III-V-Based Low-Dimensional Semiconductor Heterostructures, 7 March, 2019.
+â€œGaN-based Mach-Zehnder Modulators for Highly Efficient Optical Modulation and Switching Applications,â€ P. Su, J.A. Carlson, J.M. Dallesasse, Poster Presentation at 64th IEEE International Electron Devices Meeting; 2018 December 4; San Francisco, CA, USA; Invited Poster Presentation.
+â€œSmartphone spectroscopy for mobile health diagnostics with laboratory-equivalent capabilities,â€ B. T. Cunningham, K. D. Long, E. Woodburn, Y. Wan, J. Carlson, P. Su, S. Al-Mulla, B. Kesler, J. M. Dallesasse, SPIE Commercial + Scientific Sensing and Imaging, 2018, Orlando, Florida, United States, Proceedings Volume 10657, Next-Generation Spectroscopic Technologies XI; 1065702 (2018) https://doi.org/10.1117/12.2303609
+â€œControlling Impurity-Induced Disordering Via Mask Strain for High-Performance Vertical-Cavity Surface-Emitting Lasers,â€ P. Su, T. Oâ€™Brien, F.-C. Hsiao, and J.M. Dallesasse, presentation, CS MANTECH, May 2018.
+â€œEpitaxial Bonding and Transfer for Heterogeneous Integration of Electronic-Photonic Circuitry,â€ J.A. Carlson, P. Su, and J.M. Dallesasse, poster, CS MANTECH, May 2018.
+â€œEffective Bond-Orbital Model of III-Nitride Wurtzite Structures Based on Modified Interaction Parameters of Zinc Blende Structures,â€ F.-C. Hsiao, Y.-C. Chang, J. Dallesasse, paper P07.00009, American Physical Society March Meeting 2018, Los Angeles, CA.
+"Progress on the transistor-injected quantum-cascade laser", John M. Dallesasse, Kanuo Chen, Fu-Chen Hsiao, invited, Proc. SPIE 10540, Quantum Sensing and Nano Electronics and Photonics XV, 105401P (26 January 2018); doi: 10.1117/12.2282476; https://doi.org/10.1117/12.2282476.
+â€œPhysical model for indium-rich InGaN/GaN self-assembled quantum dot ridge-waveguide lasers emitting at red (Î» âˆ¼ 630 nm),â€ G.-L.  Su, T.  Frost, P. Bhattacharya, and J.M. Dallesasse, in Photonic Conference, IEEE, Reston, VA, Paper TuE2.3, Oct. 4-8, 2015, 579 â€“ 580.
+"The Transistor-Injected Quantum Cascade Laser: A Novel Three-Terminal Device for Mid-IR Wavelengths Through THz Frequencies," J.M. Dallesasse, Invited Keynote, Optics 2015, Valencia, Spain, September 1-3, 2015.
+"Electronic-Photonic Integration Using the Light-Emitting Transistor," J. Dallesasse, P.L. Lam, and G. Walter, Paper LTu3A, Latin American Optics and Photonics Conference, Cancun Mexico, November 16-21, 2014.
+â€œSpur-Free Dynamic Range Measurements of the Hybrid Light-Emitting Transistor,â€ PL Lam, J.M. Dallesasse, and G. Walter, Paper 5.5, CSMANTECH 2014, Denver, May 20-22, 2014.
+â€œDesign and Modeling of Mid-Infrared Transistor-Injected Quantum Cascade Lasers,â€ K. Chen and J.M. Dallesasse, Paper 5.1, CSMANTECH 2014, Denver, May 20-22, 2014.
+"Composite-CMOS Integrated Photonics for High Bandwidth WDM Optical Interconnects," T. Creazzo, E. Marchena, S.B. Krasulick, P.K.L. Yu, D. Van Orden, J.Y. Spann, C.C. Blivin, L. He, H. Cai, J.M. Dallesasse, R.J. Stone, and A. Mizrahi, Proc. SPIE 8991, Optical Interconnects XIV, 89910N (March 8, 2014).
+"The Discovery of III-V Oxidation, Device Progress, and Applications to Vertical-Cavity Surface-Emitting Lasers," J.M. Dallesasse, invited talk, 2013 International Conference on Compound Semiconductor Manufacturing Technology (CS-MANTECH), May 13-16 2013, New Orleans, p. 33, 2013.
+"Integrated Tunable CMOS Laser for Si Photonics," E. Marchena, T. Creazzo, S.B. Krasulick, P.K.L. Yu, D. Van Orden, J.Y. Spann, C.C. Bliven, J.M. Dallesasse, P. Varangis, R.J. Stone, and A. Mizrahi, OFC/NFOEC Postdeadline Papers, PDP5C.7, 2013.
+"The Discovery and Device Applications of III-V Oxidation," J. M. Dallesasse, LED 50th Anniversary Symposium, October 24th and 25th, 2012.
+"10GBASE-LX4: Technical Feasibility," J. Dallesasse, E. Grann, B. Twu, IEEE 802.3ae Standards Committee Meeting, Nov. 2001.
+â€œShort-Wavelength (~6350 Ã…) Continuous 20Â°C Operation of (AlxGa1-x)0.5In0.5P Quantum Well Lasers,â€ Device Research Conference, Boulder, June 20-22, 1988.
+Click for more
+Patents
+11,249,253	Systems and methods for photonic polarization rotators
+11,183,492	Multilevel template assisted wafer bonding
+11,181,688	Integration of an unprocessed, direct-bandgap chip into a silicon photonic device
+11,175,222	Integrated spectroscopic analysis system with low vertical height for measuring liquid or solid assays
+11,038,381 Quantum impedance matching for carrier injection in tunable transistor-injected quantum cascade lasers
+10,381,803 Mode control in vertical-cavity surface-emitting lasers
+10,373,939 Hybrid integrated optical device
+10,209,448 Systems and methods for photonic polarization rotators
+9,923,105 Processing of a direct-bandgap chip after bonding to a silicon photonic device
+9,882,073 Structures for bonding a direct-bandgap chip to a silicon photonic device
+9,742,154 Mode control in vertical-cavity surface-emitting lasers
+9,709,735 Method and system for heterogeneous substrate bonding for photonic integration
+9,659,993 Vertical integration of CMOS electronics with photonic devices
+9,496,431 Coplanar integration of a direct-bandgap chip into a silicon photonic device
+9,461,026 Method and system for template assisted wafer bonding
+9,453,965 Systems and methods for photonic polarization rotators
+9,356,162 High efficiency group III-V compound semiconductor solar cell with oxidized window layer
+9,316,785 Integration of an unprocessed, direct-bandgap chip into a silicon photonic device
+9,190,400 Method and system for heterogeneous substrate bonding for photonic integration
+9,170,373 Systems and methods for photonic polarization-separating apparatuses for optical network applications
+9,091,813 Systems and methods for photonic polarization beam splitters
+8,948,226 Semiconductor device and method for producing light and laser emission
+8,867,578 Method and system for hybrid integration of a tunable laser for a cable TV transmitter
+8,859,394 Vertical integration of CMOS electronics with photonic devices
+8,722,464 Method and system for template assisted wafer bonding
+8,718,484 Laser optical transmission system with dual modulation
+8,630,326 Method and system of heterogeneous substrate bonding for photonic integration
+8,615,025 Method and system for hybrid integration of a tunable laser
+8,611,388 Method and system for heterogeneous substrate bonding of waveguide receivers
+8,605,766 Method and system for hybrid integration of a tunable laser and mach zehnder modulator
+8,559,470 Method and system for hybrid integration of a tunable laser and a phase modulator
+8,445,326 Method and system for template assisted wafer bonding
+8,368,995 Method and system for hybrid integration of an opto-electronic integrated circuit
+8,222,084 METHOD AND SYSTEM FOR TEMPLATE ASSISTED WAFER BONDING
+7,959,363 Optical transceiver with optical multiplexer on a flexible substrate
+7,941,053 Optical transceiver for 40 gigabit/second transmission
+7,583,900	Modular optical transceiver
+7,578,624	   Flexible substrate for routing fibers in an optical transceiver
+7,465,105	   Flexible substrate for routing fibers in an optical transceiver
+7,463,830	   Modular optical transmitter for WWDM transceivers
+7,380,993	   Optical transceiver for 100 gigabit/second transmission
+7,359,642	   Modular optical receiver
+7,359,641	   Modular optical transceiver
+7,325,983	   10GBASE-LX4 optical transceiver in XFP package
+7,242,824	   Flexible substrate for routing fibers in an optical transceiver
+6,974,260	   Flexible substrate for routing fibers in an optical transceiver
+5,696,023   Method for making aluminum gallium arsenide semiconductor device with native oxide layer
+5,567,980	   Native oxide of an aluminum-bearing group III-V semiconductor
+5,373,522	   Semiconductor devices with native aluminum oxide regions
+5,262,360   AlGaAs native oxide
+Click for more
+Journal Editorships
+Associate Editor, IEEE Journal of Quantum Electronics, 2014-2019
+
+Professional Societies
+IEEE Electron Devices Society VP of Technical Committees (2020 - present)
+IEEE Electron Devices Society Board of Governors (2019 - present)
+APS Member
+OSA Fellow
+IEEE Fellow
+
+Other Outside Service
+Associate Editor, IEEE Journal of Quantum Electronics
+IEEE Journal of Lightwave Technology Steering Committee
+IEEE Transactions on Semiconductor Manufacturing, Steering Committee
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students, Spring 2015, ECE 536 (2015)
+
+Research Honors
+Dean's Award for Excellence in Research, UIUC College of Engineering (April 25, 2016)
+IEEE Fellow (Jan. 1, 2015)
+Optica Fellow (2013)
+
+
+Recent Courses TaughtECE 340 - Semiconductor Electronics
+ECE 488 - Compound Semicond & Devices
+ECE 536 - Integ Optics & Optoelectronics
+
+
+
+
+
+
+
+Related News
+
+
+Dallesasse speaks on boosting U.S. semiconductor production
+
+
+Laser islands: Illinois researcher Leah Espenhahn shows how to fully integrate VCSELs on silicon
+
+
+Dallesasse speaks on importance of microchips
+
+
+Kevin Pikul wins CS MANTECH Best Student Paper award
+
+
+Nahrstedt and team create sensing and edge-based cyber-infrastructure to maintain ultra-clean labs
+
+
+Expert Q&A: What's driving the semiconductor shortage?
+
+
+
+
+
+
+
+

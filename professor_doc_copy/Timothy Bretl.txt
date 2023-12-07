@@ -1,0 +1,193 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Timothy Bretl he/him/his
+
+
+
+Professor
+(217) 244-3126
+tbretl@illinois.edu
+148 Coordinated Science Lab
+
+
+Associate Head
+(217) 244-3126
+tbretl@illinois.edu
+148 Coordinated Science Lab
+
+
+
+For More Information
+Tim Bretl's home page
+
+Education
+Ph.D., Aeronautics and Astronautics, Stanford University, 2005 (Thesis: "Multi-Step Motion Planning: Application to Free-Climbing Robots" / Advisor: Stephen M. Rock)
+M.S., Aeronautics and Astronautics, Stanford University, 2000
+B.A., Mathematics, Swarthmore College, 1999
+B.S., Engineering, Swarthmore College, 1999
+
+Academic Positions
+Severns Faculty Scholar, University of Illinois at Urbana-Champaign, 8/21-present
+Associate Head of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/15-present
+Visiting Researcher, LAAS-CNRS, Toulouse, France, 6/13-12/13
+Associate Professor of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/13-8/22
+0% Affiliate, Neuroscience Program, University of Illinois at Urbana-Champaign, 9/10-present
+0% Affiliate, Coordinated Science Laboratory, University of Illinois at Urbana-Champaign, 1/10-present
+0% Affiliate, Computer Science, University of Illinois at Urbana-Champaign, 5/08-present
+0% Affiliate, Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 1/08-present
+0% Affiliate, Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, 4/07-present
+Assistant Professor of Aerospace Engineering, University of Illinois at Urbana-Champaign, 8/06-8/13
+Postdoctoral Research Affiliate, Computer Science Department, Stanford University, 6/05-4/06 (Advisor: Jean-Claude Latombe)
+Click for more
+Major Consulting Activities
+Reviewer, Indiana 21st Century Research and Technology Fund (2006).
+
+Research Interests
+engineering education
+rehabilitation robotics (upper- and lower-limb prosthetic devices)
+brain-machine interfaces
+optimal control
+robotic manipulation
+motion planning
+theoretical and algorithmic foundations of robotics and automation
+Click for more
+
+Research Areas
+Controls, Dynamical Systems and Estimation
+Space Systems 
+Unmanned Aerial Vehicles 
+
+
+Chapters in Books
+T. Bretl. “Control of Many Agents by Moving Their Targets: Maintaining Separation,” Recent Progress in Robotics: Viable Robotic Service to Human, Lecture Notes in Control and Information Sciences (LNCIS), vol 370, 2008.
+K. Hauser, T. Bretl, K. Harada, and J. Latombe, "Using motion primitives in probabilistic sample-based planning for humanoid robots," Algorithmic Foundations of Robotics VII, Springer Tracts in Advanced Robotics (STAR), Springer Berlin / Heidelberg, vol 47, p507-522, 2008.
+K. Hauser, T. Bretl, J. Latombe, and B. Wilcox, "Motion planning for a six-legged lunar robot," Algorithmic Foundations of Robotics VII, Springer Tracts in Advanced Robotics (STAR), Springer Berlin / Heidelberg, vol 47, p301-316, 2008.
+T. Bretl, S. Rock, J.C. Latombe, B. Kennedy, and H. Aghazarian. “Free-Climbing with a Multi-Use Robot,” Experimental Robotics IX, Springer Tracts in Advanced Robotics (STAR), Springer Berlin / Heidelberg, vol. 21, p449-458, 2006.
+T. Bretl, S. Lall, J.C. Latombe, and S. Rock. “Multi-Step Motion Planning for Free-Climbing Robots,” Algorithmic Foundations of Robotics VI, Springer Tracts in Advanced Robotics (STAR), Springer Berlin / Heidelberg, vol 17, p59-74, 2005.
+T. Bretl, J.C. Latombe, and S. Rock. “Toward Autonomous Free-Climbing Robots,” Robotics Research, Springer Tracts in Advanced Robotics (STAR), Springer Berlin / Heidelberg, vol 15, p6-15, 2005.
+Click for more
+Selected Articles in Journals
+T. Bretl and Z. McCarthy, "Quasi-Static Manipulation of a Kirchhoff Elastic Rod based on a Geometric Analysis of Equilibrium Configurations," International Journal of Robotics Research, 33(1):48-68, 2014.
+T. Bretl and Z. McCarthy, "Mechanics and Quasi-Static Manipulation of Planar Elastic Kinematic Chains," IEEE Transactions on Robotics, 29(1):1-14, 2013.
+K. A. Shorter, Y. Li, T. Bretl, and E. T. Hsiao-Wecksler, "Modeling, control, and analysis of a robotic assist device," Mechatronics, 22(8):1067-1077, 2012.
+R. D. Gregg, A. Tilton, S. Candido, T. Bretl, and M. Spong, "Control and Planning of 3D Dynamic Walking with Asymptotically Stable Gait Primitives," IEEE Transactions on Robotics, 28(6):1415-1423, 2012.
+A. Becker and T. Bretl, "Approximate Steering of a Unicycle Under Bounded Model Perturbation Using Ensemble Control," IEEE Transactions on Robotics, 28(3):580-591, 2012.
+T. Bretl, "Minimum-time optimal control of many robots that move in the same direction at different speeds," IEEE Transactions on Robotics, 28(2):351-363, 2012.
+R. Ma, N. Aghasadeghi, J. A. Jarzebowski, T. Bretl, and T. P. Coleman, "A Stochastic Control Approach to Optimally Designing Variable-Sized Menus in P300 Communication Prostheses," IEEE Transactions on Neural Systems and Rehabilitation Engineering, 20(1):102-112, 2012.
+Y. Li, A. Becker, K. A. Shorter, T. Bretl, and E. T. Hsiao-Wecksler, "Estimating System State During Human Walking with a Powered Ankle-Foot Orthosis," IEEE/ASME Transactions on Mechatronics, 16(5):835-844, 2011.
+C. Omar, A. Akce, M. Johnson, T. Bretl, R. Ma, E. Maclin, M. McCormick, and T. Coleman, "A Feedback Information-Theoretic Approach to the Design of Brain-Computer Interfaces", International Journal of Human-Computer Interaction, 27(1):5-23, 2011.
+T. Bretl, G. Arechavaleta, A. Akce, and J. P. Laumond, "Comments on 'An Optimality Principle Governing Human Walking'," IEEE Transactions on Robotics, 26(6):1105-1106, 2010.
+T. Bretl and S. Lall, “Testing Static Equilibrium for Legged Robots,” IEEE Transactions on Robotics, 24(4):794-807, 2008.
+K. Hauser, T. Bretl, J.C. Latombe, K. Harada, and B. Wilcox, “Motion Planning for Legged Robots on Varied Terrain,” International Journal of Robotics Research, 27(11-12):1325-1349, 2008.
+T. Bretl, “Motion Planning of Multi-Limbed Robots Subject to Equilibrium Constraints: The Free-Climbing Robot Problem,” International Journal of Robotics Research, 25(4):317-342, 2006.
+Click for more
+Articles in Conference Proceedings
+D. Matthews and T. Bretl, "Experiments in Quasi-Static Manipulation of a Planar Elastic Rod," in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2012.  Finalist for Best Application Paper.  Top 3%.
+C. Orduno, A. Becker, and T. Bretl, "Motion Primitives for Path Following with a Self-Assembled Robotic Swimmer," in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2012.
+A. Akce, J. Norton, and T. Bretl, "A Brain-Machine Interface to Navigate Mobile Robots Along Human-Like Paths Amidst Obstacles," in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2012.
+A. Becker, C. Onyuksel, and T. Bretl, "Feedback Control of Many Differential-Drive Robots with Uniform Control Inputs," in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2012.
+A. Becker and T. Bretl, "Approximate Steering of a Plate-Ball System Under Bounded Model Perturbation Using Ensemble Control," in the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2012.
+A. Akhtar, L. J. Hargrove, and T. Bretl, "Prediction of Distal Arm Joint Angles from EMG and Shoulder Orientation for Prosthesis Control," in the International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), August 2012.
+T. Bretl and Z. McCarthy, "Equilibrium configurations of a Kirchhoff elastic rod under quasi-static manipulation," in Workshop on Algorithmic Foundations of Robotics (WAFR), 2012.
+A.-S. Puydupin-Jamin, M. Johnson, and T. Bretl, "A convex approach to inverse optimal control and its application to modeling human locomotion," in IEEE International Conference on Robotics and Automation (ICRA), May 2012.
+Z. McCarthy and T. Bretl, "Proving path non-existence using sampling and alpha shapes," in IEEE International Conference on Robotics and Automation (ICRA), May 2012.
+N. Aghasadeghi, A. Long, and T. Bretl, "Inverse optimal control for a hybrid dynamical system with impacts," in IEEE International Conference on Robotics and Automation (ICRA), May 2012.
+S. Hutchinson and T. Bretl, "Robust optimal deployment of mobile sensor networks," in IEEE International Conference on Robotics and Automation (ICRA), May 2012.
+Z. McCarthy and T. Bretl, "Mechanics and manipulation of planar elastic kinematic chains," in IEEE International Conference on Robotics and Automation (ICRA), May 2012. Winner of Best Manipulation Paper.  Top 1%.
+D. Bonnie, S. Candido, T. Bretl, and S. Hutchinson, "Modelling search with a binary sensor utilizing self-conjugacy of the exponential family," in IEEE International Conference on Robotics and Automation (ICRA), May 2012.
+O. Dantsker, M. Johnson, A. Akce, and T. Bretl, "Development of a Fixed Wing Multi-Role Unmanned Aircraft Vehicle Research Testbed," in AIAA Aerospace Sciences Meeting (ASM), January 2012.
+C. Das, A. Becker, and T. Bretl, "Probably Approximately Correct Coverage for Robots With Uncertainty," in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2011.
+N. Aghasadeghi and T. Bretl, "Maximum Entropy Inverse Reinforcement Learning in Continuous State Spaces with Path Integrals," in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2011.
+Y. Li, K. A. Shorter, E. T. Hsiao-Wecksler, and T. Bretl, "Simulation and Experimental Analysis of a Portable Powered Ankle-Foot Orthosis Control," in ASME Dynamic Systems and Control Conference, Arlington, VA, 2011.
+E. A. Morris, K. A. Shorter, Y. Li, E. T. Hsiao-Wecksler, T. Bretl, G. F. Kogler, and W. K. Durfee, "Actuation Timing Strategies for a Portable Powered Ankle Foot Orthosis," in ASME Dynamic Systems and Control Conference, Arlington, VA, 2011.
+A. Acke and T. Bretl, "A Compact Representation of Locally-Shortest Paths and its Application to a Human-Robot Interface," IEEE International Conference on Robotics and Automation (ICRA), Shanghai, China, 2011.
+D. Steines, T. Bretl, E. Maclin, and T. Coleman, "Application of Feedback-Related Negativity to Brain-Computer Interface," Society for Neuroscience, San Diego, CA, 2010.
+R. Gregg, T. Bretl, and M. Spong, "A Control Theoretic Approach to Robot-Assisted Locomotor Therapy," IEEE Conference on Decision and Control, Atlanta, GA, 2010.
+I. Ruano de Pablo, A. Becker, and T. Bretl, "An Optimal Solution to the Linear Search Problem for a Robot with Dynamics," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Taipei, Taiwan, 2010.
+Y. Li, K. A. Shorter, T. Bretl, and E. T. Hsiao-Wecksler, "Power Consumption and Control of a Pneumatic Powered Ankle Foot Orthosis," 6th FPNI Symposium, Purdue, IN, 2010.
+A. Becker and T. Bretl, “Motion planning under bounded uncertainty using ensemble
+control,” in Robotics: Science and Systems (RSS), Zaragoza, Spain, 2010.
+A. Acke and T. Bretl, "A probabilistic language model for hand drawings," International Conference on Pattern Recognition (ICPR), Istanbul, Turkey, 2010.
+A. Akce, M. Johnson, and T. Bretl, “Remote Teleoperation of an Unmanned Aircraft with a Brain-Machine Interface: Theory and Preliminary Results,” IEEE International Conference on Robotics and Automation (ICRA), Anchorage, AL, 2010.
+Robert D. Gregg, T. Bretl, and Mark W. Spong, “Asymptotically Stable Gait Primitives for Planning Dynamic Bipedal Locomotion in Three Dimensions,” IEEE International Conference on Robotics and Automation (ICRA), Anchorage, AL, 2010.
+A. Becker, B. Sandheinrich, and T. Bretl, "Automated Manipulation of Spherical Objects in Three Dimensions Using A Gimbaled Air Jet," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), St. Louis, MO, 2009.
+D. DeVon and T. Bretl, “Control of many robots moving in the same direction with different speeds: a decoupling approach,” American Control Conference (ACC), St. Louis, MO, 2009.
+C. Omar, M. Johnson, T. Bretl, and T. Coleman. “Policies for Neural Prosthetic Control: Initial Experiments with a Text Interface,” American Control Conference (ACC), Seattle, WA, 2008.
+C. Omar, M. Johnson, T. Bretl, and T. Coleman. “Querying the user properly for high-performance brain-machine interfaces: recursive estimation, control, and feedback information-theoretic perspectives,” IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), Las Vegas, NV, 2008.
+T. Bretl. “Control of Many Agents by Moving Their Targets: Maintaining Separation,” International Conference on Advanced Robotics (ICAR), Jeju, Korea, 2007.
+D. DeVon and T. Bretl. “Kinematic and Dynamic Control of a Wheeled Mobile Robot,” International Conference on Intelligent Robots and Systems (IROS), San Diego, CA, 2007.
+T. Bretl. Control of Many Agents Using Few Instructions,” Robotics: Science and Systems (RSS), Atlanta, GA, 2007.
+K. Harada, K. Hauser, T. Bretl, and J. Latombe, "Natural motion generation for humanoid robots," in IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Beijing, China, 2006.
+K. Hauser, T. Bretl, K. Harada, and J.C. Latombe. “Using Motion Primitives in Probabilistic Sample-Based Planning for Humanoid Robots,” Workshop on the Algorithmic Foundations of Robotics (WAFR), New York, NY, 2006.
+K. Hauser, T. Bretl, J.C. Latombe, and B. Wilcox. “Motion Planning for a Six-Legged Lunar Robot,” Workshop on the Algorithmic Foundations of Robotics (WAFR), New York, NY, 2006.
+T. Miller, T. Bretl, and S. Rock. “Control of a Climbing Robot Using Real-Time Convex Optimization,” IFAC Symposium on Mechatronic Systems, Heidelberg, Germany, 2006.
+T. Bretl and S. Lall. “A Fast and Adaptive Test of Static Equilibrium for Legged Robots,” IEEE Int. Conf. on Robotics and Automation (ICRA), Orlando, FL, 2006.
+K. Hauser, T. Bretl, and J.C. Latombe. “Non-Gaited Humanoid Motion Planning” IEEE International Conference on Humanoid Robots, Tsukuba, Japan, 2005.
+K. Hauser, T. Bretl, and J.C. Latombe. “Learning-Assisted Multi-Step Planning,” IEEE International Conference on Robotics and Automation (ICRA), Barcelona, Spain, 2005.
+T. Bretl, S. Lall, J.C. Latombe, and S. Rock. “Multi-Step Motion Planning for Free-Climbing Robots,” Workshop on the Algorithmic Foundations of Robotics (WAFR), Utrecht/Zeist, The Netherlands, 2004.
+T. Bretl, S. Rock, J.C. Latombe, B. Kennedy, and H. Aghazarian. “Free-Climbing with a Multi-Use Robot,” International Symposium on Experimental Robotics (ISER), Singapore, 2004.
+T. Bretl, J.C. Latombe, and S. Rock. “Toward Autonomous Free-Climbing Robots,” International Symposium of Robotics Research (ISRR), Siena, Italy, 2003.
+T. Bretl, S. Rock, and J.C. Latombe. “Motion Planning for a Three-Limbed Climbing Robot in Vertical Natural Terrain,” IEEE International Conference on Robotics and Automation (ICRA), Taipei, Taiwan, 2003.
+T. Bretl, T. Miller, S. Rock, and J.C. Latombe. “Climbing Robots in Natural Terrain,” International Symposium on Artificial Intelligence, Robotics, and Automation in Space (iSAIRAS), Nara, Japan, 2003.
+T. Bretl and S. Rock. “Planning Robust Dynamic Transitions for Enhanced Mobility of Planetary Rovers,” IFAC Conference on Mechatronic Systems, Berkeley, CA, 2002.
+T. Bretl and S. Rock. “Robust Execution of Aggressive Maneuvers for Planetary Robotics,” AIAA Guidance, Navigation, and Control Conference and Exhibit (AIAA-GNC), Monterey, CA, 2002.
+C. Clark, T. Bretl, and S. Rock. “Applying Kinodynamic Randomized Motion Planning with a Dynamic Priority System to Multi-Robot Space Systems,” IEEE Aerospace Conference, Big Sky, MT, 2002.
+K. Stein, R. Benney, T. Tezduyar, V. Kalro, J. Potvin, and T. Bretl. “Fluid-Structure Interaction Simulation of a Cross Parachute: Comparison of Numerical Predictions with Wind Tunnel Data,” CEAS/AIAA Aerodynamic Decelerator Systems Technology Conference and Seminar, AIAA Paper 99-1725, Toulouse, France, 1999,
+Click for more
+Journal Editorships
+Associate Editor, IEEE Transactions on Robotics (2013-2017)
+Associate Editor, IEEE Transactions on Automation Science and Engineering (2012-2017)
+
+Professional Societies
+AIAA, Senior Member
+IEEE, Senior Member (IEEE Robotics and Automation Society, IEEE Control Systems Society)
+SIAM, Member
+
+Teaching Honors
+William L. Everett Award for Teaching Excellence (5/1/2016)
+List of Teachers Ranked as Excellent by Their Students (Spring 2012) (8/30/2012)
+Engineering Council Award for Excellence in Advising (Spring 2011) (3/15/2011)
+List of Teachers Ranked as Excellent by Their Students (Spring 2010) (8/30/2010)
+List of Teachers Ranked as Excellent by Their Students (Spring 2009) (8/30/2009)
+List of Teachers Ranked as Excellent by Their Students (Spring 2008) (8/30/2008)
+Click for more
+Research Honors
+Finalist, Best Application Paper, IEEE/RSJ International Conference on Intelligent Robots and Systems (10/4/2012)
+Best Manipulation Paper, International Conference on Robotics and Automation (5/17/2012)
+NSF CAREER Award (8/15/2010)
+
+
+Recent Courses TaughtAE 353 - Aerospace Control Systems
+AE 483 - Autonomous Systems Lab
+AE 598 3DV (AE 598 RL) - Reinforcement Learning
+ECE 470 (AE 482, ME 445) - Introduction to Robotics
+ME 598 MW (ME 598 RL) - Reinforcement Learning
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,288 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+John Lambros 
+
+
+
+Willett Professor in Engineering
+(217) 333-2242
+lambros@illinois.edu
+306B Talbot Laboratory
+
+
+
+For More Information
+http://www.ae.illinois.edu/people/faculty/lambros.html
+http://lambros.ae.illinois.edu/
+
+Education
+Ph.D., Aeronautics, California Institute of Technology	Feb. 1994
+M.S., Aeronautics, California Institute of Technology	Jun. 1989
+B.Eng., Aeronautical Engineering, Imperial College of Science
+		and Technology, University of London	Jun. 1988
+
+
+Academic Positions
+Director of Graduate Studies (Interim), Aerospace Engineering, University of Illinois at Urbana-Champaign, 2021-2022
+Donald Biggar Willett Professor of Engineering, College of Engineering, University of Illinois Urbana-Champaign, 2018-present
+Director, Advanced Mechanical Testing and Evaluation Laboratory (AMTEL), College of Engineering, University of Illinois Urbana-Champaign, 2018-2022
+Visiting Professor, Mechanical Engineering, University of Liverpool, UK, 2014
+
+Associate Head for Graduate Studies, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2011-2016
+Affiliate Professor, Computational Science and Engineering, University of Illinois Urbana-Champaign, 2006-present
+Affiliate Professor, Mechanical Science and Engineering, University of Illinois Urbana-Champaign, 2002-present
+Professor, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2007-present
+Associate Professor, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2000-2007
+
+Assistant Professor, Mechanical Engineering, University of Delaware, 1995-2000
+
+Postdoctoral Research Fellow, Aeronautics, Caltech, 1994-1995
+Click for more
+Research Interests
+Fatigue and failure of additively manufactured metals and composites 
+Failure of Li-ion battery electrodes
+Quasi-static and dynamic fracture of graded materials and composites
+Dynamic response of nanolayered metals
+Micro/meso mechanics of ductile metals (nickel superalloys, stainless steel, Ti, Al etc.)
+Thermomechanical fatigue (TMF) 
+Static and dynamic fracture mechanics
+Jamming of Granular Media
+3D X-ray tomography and Digital Volume Correlation
+Static and dynamic fracture mechanics
+Thermomechanical Fatigue
+Nonlinear stress wave mitigation
+Dynamic failure of MEMS devices and microelectronics
+Image correlation techniques applied to biological systems
+Micro/nano mechanics of polymer deformation and fracture.
+High Temperature Materials
+Thermo-mechanical effects and adiabatic shear banding.
+Quasi-static and dynamic fracture of Functionally Graded Materials (FGMs)
+Wave propagation and fracture  in multiphase systems
+Click for more
+
+Research Areas
+Aerospace Materials
+
+
+Chapters in Books
+“Dynamic Response of Materials”, in Encyclopedia of Aerospace Engineering, Wiley-Blackwell, 2010
+
+Selected Articles in Journals
+Y Zhang, S. Dillon and J. Lambros (2023), “Creep Characterization of Amorphous SiO2 in the Transmission Electron Microscope Using Digital Image Correlation and Finite Element Analysis”, Experimental Mechanics, https://doi.org/10.1007/s11340-022-00937-4.
+
+S.S. Fayad, E.M.C. Jones, D.T. Seidl, P.L. Reu and J. Lambros (2023), “On the Importance of Direct-Levelling for Constitutive Material Model Calibration using Digital Image Correlation and Finite Element Model Updating”, Experimental Mechanics, Vol. 63, No. 3, pp. 467–484, https://doi.org/10.1007/s11340-022-00926-7.
+E.A. Patterson, J. Lambros, R. Magana‐Carranza and Christopher J. Sutcliffe (2022), “Residual stress effects during additive manufacturing of reinforced thin nickel–chromium plates”, The International Journal of Advanced Manufacturing Technology, Vol. 123, pp.1845–1857, https://doi.org/10.1007/s00170-022-10256-6.
+Vieira R.B. and Lambros J. (2022), “Measuring representative volume elements from high-resolution grain-scale strain fields”, Strain, Vol. 58, No. 6, e12423, doi: 10.1111/str.12423.
+Fonseka R.D.J.I., Awasthi A., Lambros J. and Geubelle P.H. (2022), “Shockwaves in Jammed Ductile Granular Media”, Journal of Applied Mechanics, Vol. 89, p. 051003-1, doi: 10.1115/1.4053622.
+Fonseka R.D.J.I., Geubelle P.H. and Lambros J. (2022), “Effect of confinement on the impact response of a granular array”, Experimental Mechanics, Vol. 62, No. 5, pp. 849–862, https://doi.org/10.1007/s11340-022-00819-9.
+Zhang Y., Feng L., Dillon S. and Lambros J. (2022), “Full-field Deformation Measurements in the Transmission Electron Microscope Using Digital Image Correlation and Particle Tracking”, Materials Characterization, Vol. 183, p. 111598, doi.org/10.1016/j.matchar.2021.111598.
+Muro-Barrios R., Lambros J. and Chew H.B. (2022), “Dual-Scale Porosity Effects on Crack Growth in Additively Manufactured Metals: 3D Ductile Fracture Models”, Journal of the Mechanics and Physics of Solids, Vol. 159, p. 104727, doi.org/10.1016/j.jmps.2021.104727.
+Vieira R.B., H. Sehitoglu and Lambros J. (2021), “Representative Volume Elements for Plasticity and Creep Measured from High-Resolution Microscale Strain Fields”, Acta Materialia, Vol. 214, p. 117021, doi.org/10.1016/j.actamat.2021.117021.
+Vieira R.B. and Lambros J. (2021), “Machine Learning Neural-Network Predictions for Grain-Boundary Strain Accumulation in a Polycrystalline Metal”, Experimental Mechanics, Vol. 61, No. 4, pp. 627–639, doi.org/10.1007/s11340-020-00687-1. Cover Image.
+Rivera-Pérez J., Ozer H., Lambros J. and Al-Qadi I.L. (2021), “Effect of Specimen Geometry and Test Configuration on Fracture Process Zone for Asphalt Materials”, Journal of Transportation Part B: Pavement, Vol. 147. No. 1, pp. 04020085-14.
+VanSickle R., Foehring D., Chew H.B. and Lambros J. (2020), “Microstructure Effects on Fatigue Crack Growth in Additively Manufactured Ti-6Al-4V”, Materials Science and Engineering A, Vol. 795, pp. 139993-13, doi.org/10.1016/j.msea.2020.139993
+Zhang Q., Li W., Lambros J., Bergman L.A., Vakakis A.F. (2020), “Pulse Transmission and Acoustic Non-reciprocity in a Granular Channel with Symmetry-Breaking Clearances”, Granular Matter, Vol. 22, No. 1, Paper 20, doi.org/10.1007/s10035-019-0982-7.
+Santos Silva A.C., Lambros J., Garner D.M. and Patterson E.A. (2020), “Dynamic response of a thermally stressed plate with reinforced edges”, Experimental Mechanics, Vol. 60, pp. 81-92, doi.org/ 10.1007/s11340-019-00536-w.
+Saito Y., Fernandez F., Tortorelli D.A., Compel W.S., Lewicki J.P. and Lambros J. (2019), “Experimental validation of an additively manufactured stiffness-optimized short-fiber reinforced composite clevis joint”, Experimental Mechanics, Vol. 59, No. 6, pp. 859–869, (special issue on Additive Manufacturing), doi.org/10.1007/s11340-019-00514-2. Journal Cover Image.
+Waymel R.F., Chew H.B. and Lambros J. (2019), “Loading Orientation Effects on the Strength Anisotropy of Additively-Manufactured Ti-6Al-4V Alloys under Dynamic Compression”, Experimental Mechanics, Vol. 59, No. 6, pp. 829–841, (special issue on Additive Manufacturing), doi.org/10.1007/s11340-019-00506-2.
+Thai T.Q., Hansen R.S., Smith A.J., Lambros J. and Berke R.B. (2019), “Importance of Exposure Time on DIC Measurement Uncertainty at Extreme Temperatures”, Experimental Techniques, Vol. 43, No. 3, pp 261–271, doi.org/10.1007/s40799-019-00313-3.
+Santos Silva A.C., Sebastian C.M., Lambros J. and Patterson E.A. (2019), “High temperature modal analysis of a non-uniformly heated rectangular plate: experiments and simulations”, Journal of Sound and Vibration, Vol. 443, pp. 397–410, doi: https://doi.org/10.1016/j.jsv.2018.11.041.
+Foehring D., Chew H.B., and Lambros J. (2018), “Characterizing the Tensile Behavior of Additively Manufactured Ti-6Al-4V Using Multiscale Digital Image Correlation”, Materials Science and Engineering A, Vol. 724, pp. 536–546, doi: https://doi.org/10.1016/j.msea.2018.03.091
+Gonzalez J.F., Antartis D.A., Martinez M., Dillon S.J., Chasiotis I.  and Lambros J. (2018), “Three-Dimensional Study of Graphite-Composite Electrode Chemo-Mechanical Response using Digital Volume Correlation”, Experimental Mechanics, Vol. 58, No. 4, pp. 573–583, doi: https://doi.org/10.1007/s11340-018-0384-5. Journal Cover Image.
+ Gonzalez J., Antartis D.A., Chasiotis I., Dillon S.J., Lambros (2018), “In situ X-ray Micro-CT Characterization of Chemo-Mechanical Relaxations during Sn Lithiation”, Journal of Power Sources, Vol. 381, pp. 181–189, doi: https://doi.org/10.1016/j.jpowsour.2018.01.056
+Waymel R.F., Wang E., Awasthi A., Geubelle P.H., and Lambros J. (2018), “Propagation and Dissipation of Elasto-Plastic Stress Waves in Two Dimensional Ordered Granular Media”, in press available online, Journal of the Mechanics and Physics of Solids, https://doi.org/10.1016/j.jmps.2017.11.007
+Eftink B.P., Mara N.A., Kingstedt O.T., Safarik D., Wang S., Lambros  J. and Robertson I.M. (2018), "Deformation response of cube-on-cube and incoherent twin interfaces in AgCu eutectic after dynamic loading", Materials Science & Engineering A, Vol. 712, pp. 313–324, doi: https://10.1016/j.msea.2017.11.108.
+Feng L., Hao R., Lambros J., and Dillon S.J. (2018), “The effects of dopants and complexion transitions on fracture response of α-Al2O3”, Acta Materialia, Vol. 142, pp. 121-130, doi: https:// doi.org/10.1016/j.actamat.2017.09.002.
+Doll B., Ozer H., Rivera-Perez J.J., Imad L. Al-Qadi I.L. and Lambros J. (2017), “Fracture Process Zone Development in Heterogeneous Asphalt Concrete”, Engineering Fracture Mechanics, Vol. 182, pp. 356–371, doi: http://dx.doi.org/10.1016/j.engfracmech.2017.06.002.
+Doll B., Ozer H., Rivera-Perez J.J., Al-Qadi I.L. and Lambros J. (2017), “Investigation of Viscoelastic Fracture Fields in Asphalt Mixtures using Digital Image Correlation”, International Journal of Fracture, Vol. 205, No. 1, pp 37–56, doi: 10.1007/s10704-017-0180-8.
+Pal R.K., Waymel R., Geubelle P.H., and Lambros J. (2017), “Tunable wave propagation in granular crystals by altering lattice network topology”, Journal of Engineering Materials and Technology, Vol. 139, No. 1, p. 011005-1, doi: 10.1115/1.4034820.
+Gonzalez J. and Lambros J. (2016), “A parametric study on the influence of internal speckle patterning for digital volume correlation in x-ray tomography applications”, Experimental Techniques, Vol. 40, No. 5, pp. 1447–1459, doi:10.1007/s40799-016-0145-2.
+Kingstedt O.T., Eftink B.P., Robertson I.M. and Lambros J. (2016), “Inelastic strain recovery of a dynamically deformed unidirectional Ag-Cu eutectic alloy”, Acta Materialia, Vol. 113, pp. 293–300, doi: 10.1016/j.actamat.2016.04.043.
+Ozer H., Al-Qadi I., Lambros J., El-Khatib A., Singhvi P. and Doll B. (2016), “Development of a fracture-based flexibility index for asphalt concrete cracking potential using modified semi-circle bending test parameters”, Construction and Building Materials, Vol. 115, pp. 390–401, doi: 10.1016/j.conbuildmat.2016.03.144.
+Abuzaid W., Sehitoglu H. and Lambros J. (2016), “Localization of Plastic Strain at the Microstructurlal level in Hastelloy X subjected to Monotonic, Fatigue, and Creep loading: The role of grain boundaries and slip transmission”, Materials at High Temperatures, Vol. 33, No. 4-5, pp. 384–400, doi: 10.1080/09603409.2016.1152421.
+Kingstedt O.T., Eftink B.P., Robertson I.M. and Lambros J. (2016), “Anisotropic dynamic compression response of a directionally-cast silver-copper eutectic alloy”, Acta Materialia, Vol. 105, pp. 273–283, doi 10.1016/j.actamat.2015.12.024.
+Berke R.B., Sebastian C.M., Chona R., Patterson E.A., and Lambros J. (2015), “High Temperature Vibratory Response of Hastelloy-X: Stereo-DIC Measurements and Image Decomposition Analysis”, Experimental Mechanics, Vol. 56, pp. 231–243, doi 10.1007/s11340-015-0092-3.
+Gonzalez J., Sun K., Huang M., Lambros J., Dillon S., and Chasiotis I. (2015), “X-ray microtomography characterization of Sn particle evolution during lithiation/delithiation in lithium ion batteries”, Journal of Power Sources, Vol. 285, pp. 205-209, doi 10.1016/j.jpowsour.2015.03.093.
+Swaminathan B., Lambros J., Abuzaid W. and Sehitoglu H. (2015), “Investigation of Portevin-Le Chatelier effect at elevated temperatures in Hastelloy X using digital image correlation”, International Journal of Plasticity, Vol. 64, pp. 177–192, doi: 10.1016/j.jpowsour.2014.07.001.
+Gates M., Heath M.T. and Lambros J. (2015), “High Performance Hybrid CPU and GPU Parallel Algorithm for Digital Volume Correlation”, International Journal of High Performance Computing Applications, Vol. 29(1), pp. 92-106, doi: 10.1177/1094342013518807.
+Gates M., Gonzalez J., Lambros J. and Heath M.T. (2015), “Subset Refinement for Digital Volume Correlation: Numerical and Experimental Applications”, Experimental Mechanics, (2015) Vol. 55, pp. 245–259, doi: 10.1007/s11340-014-9881-3.
+On T., Wang E. and Lambros J. (2014), “Plastic waves in one-dimensional heterogeneous granular chains under impact loading: Single intruders and dimer chains”, in print International Journal of Solids and Structures, doi 10.1016/j.ijsolstr.2015.02.006.
+Kingstedt O.T. and Lambros J. (2014), “Ultra-high speed imaging of laser-induced spallation”, Experimental Mechanics, Vol. 55, pp. 587–598, doi 10.1007/s11340-014-9973-0 (2017 SEM Hetényi Award winner)
+Pal R.J., Morton J., Wang E., Lambros J. and Geubelle P.H. (2014), "Impact response of elasto-plastic granular chains containing an intruder particle", Journal of Applied Mechanics, Vol. 82, p. 011002-1, doi 10.1115/1.4028959.
+Eftink B.P., Mara N.A., Kingstedt O.T., Safarik D., Lambros J. and Robertson I.M. (2014), "Anomalous deformation twinning in coarse-grained Cu in Ag60Cu40 composites under high strain-rate compressive loading", Materials Science and Engineering A, Vol. 618, pp. 254-261, doi:10.1016/j.msea.2014.08.082.
+Sellappan P., Espinoza Santos C.J., Wang E., On T., Lambros J. and Kriven W.M. (2014), "Wave propagation through alumina-porous alumina laminates", Journal of the European Ceramic Society, Vol. 35, No. 1, pp: 197-210, doi: 10.1016/j.jeurceramsoc.2014.08.013.
+Wang E., Manjunath M., Awasthi A.P., Pal R.K., Geubelle P.H. and Lambros J. (2014), "High-Amplitude Elastic Solitary Wave Propagation in 1-D Granular Chains with Preconditioned Beads: Experiments and Theoretical Analysis", Journal of the Mechanics and Physics of Solids, Vol. 72, pp. 161-173, doi: 10.1016/j.jmps.2014.08.002.
+Gonzalez J., Sun K., Huang M., Lambros J., Dillon S., and Chasiotis I. (2014), “Three dimensional studies of particle failure in Silicon based composite electrodes for Lithium ion batteries”, Journal of Power Sources, Vol. 269 pp. 334-343, doi 10.1016/j.jpowsour.2014.07.001.
+Berke R.B. and Lambros J. (2014), “Ultraviolet digital image correlation (UV-DIC) for high temperature applications”, Review of Scientific Instruments, Vol. 85, pp. 045121-9.
+Casperson M.C., Carroll J.D., Lambros J., Sehitoglu H., Dodds R.H. Jr. (2014), “Investigation of Thermal Effects on Fatigue Crack Closure using Multiscale Digital Image Correlation Experiments”, International Journal of Fatigue, Vol. 61, pp. 10-20.
+Kingstedt O.T., Eftink B., Lambros J. and Robertson I.M. (2014), “Quasi-static and dynamic compressive deformation of a bulk nanolayered Ag-Cu eutectic alloy: Macroscopic response and dominant deformation mechanisms”, Materials Science and Engineering A, Vol. 595, pp: 54–63, doi: 10.1016/j.msea.2013.11.061.
+Swaminathan B., Lambros J. and Sehitoglu H. (2014), “Digital image correlation study of mechanical response of nickel superalloy Hastelloy X under thermal and mechanical cycling: Uniaxial and biaxial stress states”, Journal of Strain Analysis for Engineering Design, Vol. 49, No. 4, pp. 233 – 243.
+Pollak R.T. and Lambros J. (2014), “Editorial: Special issue on strain measurement in extreme environments”, Journal of Strain Analysis for Engineering Design, Vol. 49, No. 4, pp. 202 – 203.
+On T., LaVigne P.A. and Lambros J. (2014), “Development of plastic nonlinear waves in one-dimensional ductile granular chains under impact loading”, Mechanics of Materials, Vol. 68, pp. 29–37.
+Abuzaid W., Oral A., Sehitoglu H., Lambros J. and Maier H.J. (2013), “Fatigue Crack Initiation in Hastelloy X – The Role of Boundaries”, Fatigue and Fracture of Engineering Materials and Structures, Vol. 36, No. 8, pp. 809–826.
+Carroll J.D., Abuzaid W., Lambros J. and Sehitoglu H. (2013), “On the interactions between strain accumulation, microstructure, and fatigue crack behavior”, International Journal of Fracture, Vol. 180, pp. 223-241.
+Wang E., On T. and Lambros J. (2013), “An Experimental Study of the Dynamic Elasto-Plastic Contact Behavior of Dimer Metallic Granules”, Experimental Mechanics, Vol. 53, No. 5, pp. 883-892, doi: 10.1007/s11340-012-9696-z.
+Abuzaid W., Sehitoglu H. and Lambros J. (2013), “Plastic Strain Localization and Fatigue Micro-Crack Formation in Hastelloy X”, Materials Science and Engineering: A., Vol. 561, pp. 507–519.
+ Gonzalez J. and John Lambros (2013), “Crack Path Selection in Microstructurally Tailored Inhomogeneous Polymers”, Experimental Mechanics, Vol. 53, pp. 619-634, doi: 10.1007/s11340-012-9668-3.
+Carroll J.D., Abuzaid W., Lambros J. and Sehitoglu H. (2013), High resolution digital image correlation measurements of strain accumulation in fatigue crack growth, International Journal of Fatigue,Vol. 57, pp. 140-150.
+Wang E., Geubelle P.H. and Lambros (2013), “An Experimental Study of the Dynamic Elasto-Plastic Contact Behavior of Metallic Granules”, Journal of Applied Mechanics, Vol. 80, No. 2, p. 021009.
+Awasthi A.P., Smith K.J., Geubelle P.H. and Lambros J. (2012), “Propagation of solitary waves in 2D granular media: a numerical study”, Mechanics of Materials, Vol. 54, pp. 100–112.
+Karanjgaokar N.J., Oh C.S., Lambros J. and Chasiotis I. (2012), “Inelastic Deformation of Nanocrystalline Au Thin Films as a Function of Temperature and Strain Rate”, Acta Materialia, Vol. 60, pp. 5352–5361.
+Abuzaid W., Sangid M.D., Carroll J., Sehitoglu H. and Lambros J. (2012), “Slip transfer and plastic strain accumulation across grain boundaries in Hastelloy X”,  Journal of the Mechanics and Physics of Solids, Vol. 60, Issue 6, pp. 1201-1220.
+
+Padilla H., Lambros J., Beaudoin A. and Robertson I. (2012), “Relating inhomogeneous deformation to local texture in zirconium through multiscale digital image correlation experiments”, International Journal of Solids and Structures, Vol. 49, No. 1, pp. 18–31.
+Oral A., Lambros J. and Anlas G. (2012), “Determination of Gurson-Tvergaard-Needleman model parameters for failure of a polymeric material”, International Journal of Damage Mechanics, Vol. 21, DOI: 10.1177/1056789510385261.
+Yagnamurthy S., Chasiotis I., Lambros J., Polcawich R.G., Pulskamp J.S. and Dubey M. (2011), “Mechanical and ferroelectric behavior of PZT-based thin films”, Journal of Microelectromechanical Systems, Vol. 20, No. 6, pp. 1250–1258.
+
+
+Gain A.L., Carroll J., Paulino G.H. and Lambros J. (2011), “A hybrid experimental/numerical technique to extract cohesive fracture properties for mode-I fracture of quasi-brittle materials”, International Journal of Fracture, Vol. 169, No. 2, pp. 113–133, DOI: 10.1007/s10704-010-9578-2, 2011.
+Lambros J. and Patel J.K. (2011), “Microscale digital image correlation study of irradiation induced ductile-to-brittle transition in polyethylene”, Journal of Strain Analysis for Engineering Design, (Special issue on Micro-scale experimental mechanics), Vol. 46, No. 5, pp. 347–360.
+Gates M., Lambros J. and Heath M.T. (2011), “Towards high performance digital volume correlation”, Experimental Mechanics, Vol. 51, No. 4, pp. 491–507, (Special Issue on Advanced Imaging Techniques), 2011. DOI: 10.1007/s11340-010-9445-0
+ Padilla H., Lambros J., Beaudoin A. and Robertson I. (2010), “Spatiotemporal thermal inhomogeneities during adiabatic compression of highly textured zirconium”, Experimental Mechanics, Vol. 51, pp. 1061–1073, DOI 10.1007/s11340-010-9425-4.
+Carroll J., Abuzaid W., Lambros J. and Sehitoglu H., “An experimental methodology to relate local strain to microstructural texture”, Review of Scientific Instruments, Vol. 81, 083703, 2010.
+
+Kimberley J., Lambros J., Chasiotis I., Pulskamp J., Polcawich R. and Dubey M., “Mechanics of energy transfer and failure of ductile microscale beams subjected to dynamic loading”, Journal of the Mechanics and Physics of Solids, Vol. 58, pp. 1125-1138, DOI:10.1016/j.jmps.2010.04.005, 2010.
+
+Krehbiel, J., Lambros, J., Viator, J. and Sottos, N.R., Digital image correlation for improved detection of basal cell carcinoma, Experimental Mechanics, DOI: 10.1007/s11340-009-9324-8, 2010.
+Efstathiou C., Sehitoglu H. and Lambros J., “Multiscale Strain Measurements of Plastically Deforming Polycrystalline Titanium: Role of Deformation Heterogeneities”, International Journal of Plasticity, Vol. 26, pp. 93–106, 2010.
+Carroll J., Efstathiou C., Lambros J., Sehitoglu H., Hauber B., Spotswood S. and Chona R., “Investigation of Fatigue Crack Closure Using Multiscale Image Correlation Experiments”, in revision Engineering Fracture Mechanics, Vo. 76, No. 15, pp: 2384-2398, DOI: 10.1016/j.engfracmech.2009.08.002,  2009.
+Kimberley J., Cooney R.S., Lambros J., Chasiotis I. and Barker N.S., “Failure of Au RF-MEMS Switches Subjected to Dynamic Loading”, Sensors and Actuators A: Physical, Vol. 154, No. 1, pp. 140–148, 2009.
+Kimberley J., Lambros J., Chasiotis I., J. Pulskamp, R. Polcawich, M. Dubey, “A hybrid experimental/numerical investigation of the response of multilayered MEMS devices to dynamic loading”, Experimental Mechanics, DOI: 10.1007/s11340-009-9259-0, 2009.
+Jonnalagadda K.N., Chasiotis I., Yagnamurthy S., Lambros J., Pulskamp J., Polcawich R., Dubey M., “Experimental Investigation of Strain Rate Dependence in Nanocrystalline Pt Films”, in press Experimental Mechanics, Special issue on Nanotechnology, 2008.
+Efstathiou C., Sehitoglu H., Carroll J., Lambros J. and Maier H.J., “Full-Field Strain Evolution during Intermartensitic Transformations in Single Crystal NiFeGa”, Acta Materialia, Vol. 56, pp. 3791-3799, 2008.
+Oral A., Lambros J. and Anlas G., “Crack Initiation in Functionally Graded Materials under Mixed Mode Loading: Experiments and Simulations”, Journal of Applied Mechanics, Vol. 75, No. 5, pp. 051110-8, 2008.
+Kimberley J., Lambros J. and Chasiotis I., “Failure of Microelectromechanical Systems subjected to impulse loads”, International Journal of Solids and Structures, Vol. 45, No. 2, pp. 497-512, 2008.
+Padilla H., Smith C., Lambros J., Beaudoin A. and Robertson I., “Effects of deformation twinning on energy dissipation in high rate deformed zirconium”, Metallurgical and Materials Transactions A, Vol. 38, No. 12, pp. 2916-2927, 2007.
+Berfield T.A., Patel J.K., Shimmin R.G., Braun P.V., Lambros J. and Sottos N.R., “Multiscale deformation measurement via digital image correlation”, Experimental Mechanics (special issue on Nanotechnology), Vol. 47, pp. 51–6, 2007.
+Berfield T.A., Patel J.K., Shimmin R.G., Braun P.V., Sottos N.R. and Lambros J., “Fluorescent Image Correlation for Nanoscale Deformation Measurements”, Small, Vol. 2, No. 5, pp. 631-635, 2006.
+Abanto-Bueno J. and Lambros J., “An experimental study of mixed mode crack initiation and growth in functionally graded materials”, Experimental Mechanics (special issue on Inhomogeneous Materials), Vol. 46, No. 2, pp. 179-196, 2006.
+Kandula S.S.V., Abanto-Bueno J., Geubelle P.H. and Lambros J., “Cohesive modeling of quasi-static fracture in functionally graded materials”, Journal of Applied Mechanics, Vol. 73, No. 5, pp. 783-791, 2006.
+Abanto-Bueno J. and Lambros J., “Parameters controlling fracture resistance in functionally graded materials under mode I loading”, International Journal of Solids and Structures, Vol. 43, No. 13, pp. 3920-3939, 2006.
+Kubair D., Geubelle P.H. and Lambros J., “Asymptotic analysis of a mode 3 stationary crack in a ductile functionally graded material”, Journal of Applied Mechanics, Vol. 72, No. 4, pp. 461-467, 2005.
+Kandula S.S.V., Abanto-Bueno J., Geubelle P.H. and Lambros J., “Cohesive modeling of dynamic fracture in functionally graded materials”, International Journal of Fracture, Vol. 132, No. 3, pp. 275-296, 2005.
+Abanto-Bueno J. and Lambros J., “Experimental Determination of Cohesive Failure Properties of a Photodegradable Copolymer”, Experimental Mechanics, Vol. 45, No. 2, pp. 144-152, 2005.
+Abanto-Bueno J. and Lambros J., “Mechanical and fracture behavior of an artificially UV-irradiated polyethylene carbon monoxide copolymer”, Journal of Applied Polymer Science, Vol. 92, No. 1, pp:139-148, 2004.
+Kimberley J. and Lambros J., “Dynamic crack kinking from a PMMA/Homalite interface”, Experimental Mechanics, Experimental Mechanics, Vol. 44, No. 2, pp. 158-166, 2004.
+Bjerke T. and Lambros J., “Theoretical development and experimental validation of a thermally dissipative cohesive zone model for dynamic fracture of amorphous polymers”, Journal of the Mechanics and Physics of Solids, Vol. 51, pp. 1147-1170, 2003
+Wang Z., Lobo R. F. and Lambros J., “The mechanical properties siliceous ZSM-5 (MFI) crystals”, Microporous and Mesoporous Materials, Vol. 57, pp. 1-7, 2003.
+Prabhu S. and Lambros J., “Mixed mode asymptotic crack tip fields in orthotropic materials: Derivation and range of dominance”, International Journal of Fracture, Vol. 118, No. 4, pp. 339-361, 2002.
+Bi X., Li Z., Geubelle P. H. and Lambros J., “Dynamic fiber debonding and frictional push-out in model composite systems: numerical simulations”, Mechanics of Materials, Vol. 34, No. 7, pp. 433-446, 2002.
+Li Z., Bi X., Lambros J. and Geubelle P. H., “Dynamic fiber debonding and frictional push-out in model composite systems: experimental observations”, Experimental Mechanics, Vol. 42, No. 4, pp. 417-425, 2002.
+Anlas G., Lambros J. and Santare M.H., “Dominance of asymptotic crack tip fields in elastic functionally graded materials”, International Journal of Fracture, Vol. 115, pp. 193-204, 2002.
+Wang Z., Lambros J. and Lobo R. F., “Micromechanical compressive response of a zeolite single crystal”, Journal of Materials Science, Vol. 37, No. 12, pp. 2491-2499, 2002
+Kompella M. and Lambros J., “Micromechanical characterization of cellulose fibers”, Polymer Testing, Vol. 21, pp. 523-530, 2002.
+Abanto-Bueno J. and Lambros J., “Experimental evaluation of fracture parameters in Functionally Graded Materials using a Digital Image Correlation technique”, Engineering Fracture Mechanics (special issue on Functionally Graded Materials), Vol. 69, pp. 1695-1711, 2002.
+Bjerke T. and Lambros J., “Heating during shearing and opening dominated dynamic fracture of polymers”, Experimental Mechanics, Vol. 42, No. 1, pp. 107-114, 2002.
+Bjerke T., Li Z. and Lambros J., “Role of plasticity in heat generation during high rate deformation and fracture of Polycarbonate”, International Journal of Plasticity, Vol. 18, No. 4, pp. 549-567, 2002.
+Li Z. and Lambros J., “Strain rate effects on the Thermomechanical Behavior of Polymers”, International Journal of Solids and Structures, Vol. 38, No. 20, pp. 3549-3562, 2001
+Prabhu S. and Lambros J., “A Combination Optical Method of Lateral Shearing Interferometer and Caustics”, Experimental Mechanics, Vol.  40, No. 4, pp. 376-383, 2000.
+Santare M. H. and Lambros J., “Use of a graded finite element to model the behavior of nonhomogeneous materials”, Journal of Applied Mechanics, Vol. 67, No. 4, pp. 819-822, 2000.
+Anlas G., Santare M. H. and J. Lambros, “Numerical calculation of stress intensity factors in functionally graded materials”, International Journal of Fracture, Vol. 104, No. 2, pp. 131-143, 2000.
+Prabhu S. and Lambros J., “Effect of mode mixity on K-dominance and three dimensionality in cracked plates”, International Journal of Fracture, Vol. 104, No. 1, pp. 51-69, 2000.
+Li Z. and Lambros J., “Thermomechanical dynamic behavior of fiber reinforced composites”, Composites A, Vol. 31, pp. 537-547, 2000.
+Prabhu S. and Lambros J., “A numerical investigation of three dimensional effects in cracked unidirectional fiber reinforced composite plates”, Journal of Composite Materials, Vol. 34, No. 2, pp. 116-134, 2000.
+Li H., Lambros J., Cheeseman B. A. and Santare M. H., “Experimental investigation of the quasi-static fracture of functionally graded materials”, International Journal of Solids and Structures, Vol. 37, No. 27, pp. 3715-3732, 2000
+Lambros J., Narayanaswamy A., Santare M. H. and Anlas G., “Manufacture and testing of a model functionally graded material”, Journal of Engineering Materials and Technology, Vol. 121, No. 4, pp. 488-493, 1999.
+Lambros J., Santare M. H., Li H. and Sapna G. III, “A novel technique for the fabrication of laboratory scale Functionally Graded Materials”, Experimental Mechanics, Vol. 39, No. 3, pp. 183-189, 1999.
+Li Z. and Lambros J., “Determination of the dynamic response of polymeric matrix composites using the Split Hopkinson Pressure Bar”, Composites Science and Technology, Vol. 59, No. 7, pp. 1097-1107, 1999.
+
+
+Singh R., Lambros J., Shukla A. and Rosakis A. J. “Two optical techniques applied to the investigation of the mechanics of intersonic crack propagation along a bimaterial interface”, Proceedings of the Royal Society of London, Series A, Vol. 453, pp. 2649-2667, 1997.
+Lambros J. and Rosakis A. J., “An experimental study of the dynamic delamination of thick fiber reinforced polymeric matrix composite laminates”, Experimental Mechanics, Vol. 37, No. 3, pp. 360-366, 1997.
+Lambros J. and Rosakis A. J., “Dynamic crack initiation and growth in thick unidirectional graphite/epoxy plates”, Composites Science and Technology, Vol. 57, No. 1, pp. 55-65, 1997.
+Lee Y. J., Lambros J. and Rosakis A. J., “Analysis of coherent gradient sensing (CGS) by Fourier optics”, Optics and Lasers in Engineering, Vol. 25, No. 1, pp. 25-53, 1996
+Lambros J. and Rosakis A. J., “Development of a dynamic decohesion criterion for subsonic fracture of the interface between two dissimilar materials”, Proceedings of the Royal Society of London, Series A, Vol. 451, pp. 711-736, 1995.
+Lambros J. and Rosakis A. J., “Shear dominated transonic crack growth in bimaterials-Part I: Experimental observations”, Journal of the Mechanics and Physics of Solids, Vol. 43, No. 2, pp. 169-188, 1995.
+Lambros J. and Rosakis A. J., “Dynamic decohesion of bimaterials : Experimental observations and failure criteria”, International Journal of Solids and Structures , Vol. 32, No. 17/18, pp. 2677-2702, 1995.
+Liu C., Lambros J. and Rosakis A. J., “Highly transient crack growth in a bimaterial interface : Higher order asymptotic analysis and optical experiments”, Journal of the Mechanics and Physics of Solids, Vol. 41, No. 12, pp. 1887-1954, 1993.
+Mason J. J., Lambros J. and Rosakis A. J., “The use of a coherent gradient sensor in dynamic mixed-mode fracture mechanics experiments”, Journal of the Mechanics and Physics of Solids, Vol. 40, No. 3, pp. 641-661, 1992.
+
+
+Click for more
+Journal Editorships
+Guest Editor for Special Issue of JOURNAL OF STRAIN ANALYSIS FOR ENGINEERING DESIGN, 2013
+Associate Editor for “Journal of Applied Mechanics”, 2011-2014
+Associate Technical Editor for “EXPERIMENTAL MECHANICS”, 1999-2005
+
+Professional Societies
+SEM President 2019-2020
+SEM President-Elect (and Chair of Technical Activities Council) 2018-2019
+SEM Vice-President (and Chair of Technical Activities Council) 2017-2018
+SEM Executive Board Subcommittee on National Meetings, 2008-2010
+SEM Executive Board, member 2008-2010
+SEM Fatigue and Fracture Technical Committee (1999-), Secretary (2001-03), Vice-Chair (2003-05) , Chair (2005-07)
+ASME Dynamic Response of Materials Technical Committee (2009-)
+ASME Experimental Mechanics Technical Committee (1999-), Secretary (2001-03), Chair (2003-05)
+ASME Fracture Mechanics Technical Committee, (1996-), Secretary (2001-03), Vice-Chair (2003-05), Chair (2005-07)
+Society of Engineering Science (SES), Member
+American Society of Aeronautics and Astronautics (AIAA), Associate Fellow
+American Academy of Mechanics (AAM), Fellow
+Society of Experimental Mechanics (SEM), Fellow
+American Society of Mechanical Engineers (ASME), Fellow
+Click for more
+Teaching Honors
+Campus Award for Excellence in Graduate and Professional Teaching, UIUC (2015)
+M.M. Frocht Award (2015)
+AIAA UIUC Chapter Teacher of the Year award (2005)
+UIUC List of teachers ranked as excellent (Spring 02, 08, 09, 10, 12, 13, 15, 16, 17, 21; Fall 06, 10, 11, 18, 19)
+
+Research Honors
+Associate Fellow (2020)
+Donald Biggar Willett Professor of Engineering (2018)
+P.S. Theocaris Award (2017)
+M. Hetényi Award (2017)
+Fellow (2015)
+One of the most cited papers in International Journal of Plasticity (Vol. 26, pp. 93–106) (2010-2015)
+Distinguished Visiting Fellowship (2014)
+Fellow (2013)
+M. Hetényi Award (2012)
+Fellow (2009)
+Xerox Award (2007)
+One of the most cited papers (2000-2005)
+NSF Career Award (1999)
+Click for more
+Public Service Honors
+President (2019-2020)
+President-Elect (2018-2019)
+Vice-President (2017-2018)
+Executive Board Member (2008-2010)
+Engineering Council Award for excellence in advising (2005, 2010, 2011)
+
+Other Honors
+Technical Director, Midwest Structural Sciences Center (2010-2013)
+Director, MURI on Stress Wave Mitigation (2009-2015)
+
+
+Recent Courses TaughtAE 321 - Mechs of Aerospace Structures
+AE 323 - Applied Aerospace Structures
+AE 522 - Dynamic Response of Materials
+CEE 575 (AE 521) - Fracture and Fatigue
+
+
+
+
+
+
+
+
+

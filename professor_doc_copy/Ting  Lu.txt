@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Ting Lu 
+
+
+
+
+
+Professor
+
+
+(217) 333-4627
+luting@illinois.edu
+3114 Everitt Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaSynthetic Bioengineering
+Research Areas
+Gene regulatory networks in bacteria
+Microbiota reengineering for therapeutic interventions
+Quantitative biology
+Systems biology
+
+For More Information
+ Lu Research Lab
+
+Education
+Ph.D. in Biophysics, University of California at San Diego (2007)
+B.S. in Physics, Zhejiang University (2002)
+
+
+
+Research Interests
+Synthetic Biology, Systems Biology, and Quantitative Biology
+
+Research StatementOur research focuses on microbial synthetic biology and systems biology - the design, analysis and construction of microbial gene regulatory networks for cellular functionality reprogramming. These are interdisciplinary research areas at the nexus of biology, engineering and physics. Specifically, we are interested in understanding the architecture and dynamics of naturally existing networks and exploring their relationship to cellular function. Examples include bacterial communication networks and their engagement in cellular collective behaviors. We are also interested in developing synthetic gene circuits for novel applications by assembling and editing genes and genomes inside living cells, which is very much like building integrated circuits with transistors and other elements for a computer. Along that line, microbial ecosystem engineering is of particular interest to us due to its potential for biotechnological and therapeutic purposes. To pursue our interest, we adopt L. lactics, E. coli and other microbes as our model organisms and employ an integrated approach that combines experiment with modeling. Techniques from molecular biology, nonlinear dynamics and statistical mechanics are extensively used in our research. Our long-term goal is to uncover basic design principles of microbial gene regulatory networks and to apply these principles to build novel circuits for biotechnological and medical applications.
+Undergraduate Research OpportunitiesWe are looking for highly motivated undergraduate students to work on synthetic biology and systems biology.
+Primary Research AreaSynthetic Bioengineering
+Research Areas
+Gene regulatory networks in bacteria
+Microbiota reengineering for therapeutic interventions
+Quantitative biology
+Systems biology
+
+
+
+Selected Articles in Journals
+T. Bao, Y. Qian, Y. Xin, J. Collins, and T. Lu, Engineering microbial division of labor for plastic upcycling, Nature Communications, 14: 5712 (2023). 
+W. Kong, Y. Qian, P. Stewart, and T. Lu, De novo engineering of a bacterial lifestyle program, Nature Chemical Biology, 19: 488–497 (2022)
+X. Huang, Y. Xin, and T. Lu, A systematic, complexity-reduction strategy to dissect the kombucha tea microbiome, eLife, 11: e76401 (2022).
+F. Liu, J. Mao, W. Kong, Q. Hua, Y. Feng, R. Bashir and T. Lu, Interaction variability shapes succession of synthetic microbial ecosystems, Nature Communications 11:309 (2020). 
+V. Ozgen, W. Kong, A. Blanchard, F. Liu, and T. Lu, Spatial interference scale as a determinent of microbial range expansion, Science Advances 4: eaau0695 (2018).
+W. Kong, D. Meldgin, J. Collins, and T. Lu, Designing microbial consortia with defined social interactions, Nature Chemical Biology 14: 821–829 (2018).
+C. Liao, A. Blanchard, and T. Lu, An integrative circuit-host modeling framework for predicting synthetic gene network behaviors, Nature Microbiology 2: 1658–1666 (2017).
+W. Kong, K. Kapuganti, and T. Lu, A gene network engineering platform for lactic acid bacteria, Nucleic Acid Research 44: e37 (2016)
+C. Liao, S. Seo, V. Celik, H. Liu, W. Kong, Y. Wang, H. Blaschek, Y. Jin, and T. Lu, Integrated, systems metabolic picture of acetone-butanol-ethanol fermentation by clostridium acetobutylicum, Proc. Natl. Acad. Sci. 112: 8505–8510 (2015)
+H. Liu and T. Lu, Autonomous production of 1,4-butanediol via a de novo biosynthesis pathway in engineered escherichia coli, Metabolic Engineering 29: 135-141 (2014)
+W. Fu, A. Ergun*, T. Lu*, J. Hill, S. Haxhinasto, M. Fassett, R. Gazit, S. Adoro, L. Glimcher, S. Chan, P. Kastner, D. Rossi, J. Collins, D. Mathis, C. Benoist, A multiply redundant genetic switch locks in the transcriptional signature of Treg cells, Nature Immunology 13: 972-980 (2012). (*Equal contribution)
+W. Ruder*, T. Lu*, and J. Collins, Synthetic biology moving into the clinic, Science 333: 1248-1252 (2011). (*Equal contribution) 
+Click for more
+
+
+Research Honors
+Fellow, American Institute for Medical and Biological Engineering (2022)
+AWS Greg Gulick Honorary Research Award (2021)
+Merck Future Insight Prize (2021)
+Donald Biggar Willett Faculty Scholar (UIUC) (2020)
+NIH Maximizing Investigators' Research Award (2019)
+U.S. NAS Arab-American Frontiers Fellowship (2019)
+Dean's Award for Excellence in Research (UIUC)
+ (2019)
+ACS Infectious Diseases Young Investigator Award (2018)
+MSU Center for Biofilm Engineering Young Investigator Award (2017)
+Center for Advanced Study Fellow (UIUC) (2017)
+NCSA Faculty Fellowship (2016)
+ONR Young Investigator Award (2016)
+BMES Young Innovator of Cellular and Molecular Bioengineering (2016)
+NSF CAREER Award (2015)
+BBRF Ellen Schapiro & Gerald Axelbaum Investigator (2015)
+NARSAD Young Investigator Award (2014)
+AHA National Scientist Development Grant (2012)
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Ting Lu and team harness microbial consortia to tackle plastic pollution 
+
+
+The Three-Ingredient Food of the Future
+
+
+Two bioengineering faculty elected to the 2022 class of the AIMBE College of Fellows 
+
+
+New biobutanol production technology increases yield while lowering cost
+
+
+Heather Deter named a 2021 Intelligence Community Postdoctoral Research Fellow
+
+
+University of Illinois Urbana-Champaign professor Ting Lu jointly presented with 1 million euro Future Insight Prize for converting waste into food 
+
+
+
+
+
+
+
+

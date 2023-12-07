@@ -1,0 +1,94 @@
+
+
+
+
+
+
+
+ 
+
+
+Aishwarya Ganesan she/her/hers
+
+
+
+Assistant Professor
+
+aganesn2@illinois.edu
+ 
+
+
+
+For More Information
+Personal website
+
+Education
+Ph.D. in Computer Sciences, University of Wisconsin-Madison, 2020
+M.Tech. in Computer Science and Engineering, Indian Institute of Technology Bombay, 2013
+
+Academic Positions
+Assistant Professor, Computer Science, UIUC (Fall 2022 - )
+
+Other Professional Employment
+Postdoctoral Researcher, VMware Research Group (2020-2022)
+Research Fellow, Microsoft Research India (2013-2015)
+
+Major Consulting Activities
+Affiliated Researcher,  VMware Research Group (Feb 2023 - )
+
+Research Interests
+ Distributed systems
+Storage and file systems
+Operating systems
+
+
+Research Areas
+Systems and Networking
+
+
+Teaching Honors
+Graduate Student Instructor Award, UW Madison (2020)
+
+Research Honors
+ FAST '20 Best Paper Award for Consistency-Aware Durability (2020)
+Facebook Ph.D., Fellowship (2019 )
+ FAST '18 Best Paper Award for Protocol-Aware Recovery (2018)
+FAST '17 Best Paper Award Nominee for Redundancy Does Not Imply Fault-Tolerance (2017)
+
+Public Service Honors
+CS Department Golden Brick Award for diversity efforts 
+ (2018)
+
+
+Recent Courses TaughtCS 425 (ECE 428) - Distributed Systems
+CS 591 SN - Systems and Networking Seminar
+CS 598 AWG (CS 598 FTS) - Fault-Tol. Consisten Data Sys
+
+
+
+
+
+
+
+Related News
+
+
+Alagappan and  Ganesan video interview
+
+
+Illinois CS Places 28 Faculty on CITL List of Teachers Ranked as Excellent By Their Students
+
+
+12 New Faculty Add to Expertise in Research and Education at Illinois Computer Science
+
+
+
+News Notes
+
+
+
+
+
+
+
+

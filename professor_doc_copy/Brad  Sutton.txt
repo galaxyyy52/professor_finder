@@ -1,0 +1,190 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Brad Sutton he/him/his
+
+
+
+
+
+Professor
+
+
+(217) 244-5154
+bsutton@illinois.edu
+1215C Beckman Institute
+
+
+
+
+
+Overview
+Research
+Publications
+
+
+
+
+Primary Research AreaBioimaging at Multi-Scale
+Research Areas
+Biomedical imaging
+Diffusion weighted imaging
+Dynamic imaging
+Functional MRI
+Image reconstruction
+Instrumentation 
+Magnetic susceptibility
+MRI
+Neural engineering (general)
+Neuromuscular coupling
+Systems modeling approaches to understand brain function
+Click for more
+For More Information
+Magnetic Resonance Functional Imaging Lab
+
+BiographyDr. Sutton joined the Bioengineering Department at the University of Illinois in January, 2006. Dr. Sutton received a B.S. in General Engineering from the University of Illinois at Urbana-Champaign.  He earned M.S.'s in Biomedical and Electrical Engineering and a PhD in Biomedical Engineering from the University of Michigan in 2003. He has affiliations with the Beckman Institute, Electrical and Computer Engineering Department, and the Neuroscience Program. His research interests are in developing magnetic resonance imaging acquisition, image reconstruction, and systems modeling approaches to understand brain function.
+Education
+Ph.D., Biomedical Engineering, University of Michigan, 2003
+
+Academic Positions
+Adjunct Professor, Department of Clinical Veterinary Medicine, College of Veterinary Medicine, UIUC, 6/2023-present
+Health Innovation Professor, Carle Illinois College of Medicine, 8/2022 - 7/2027
+Affiliate, National Center for Supercomputing Applications (NCSA), 8/2022-present
+
+Professional Societies
+ASEE Member since 2019
+AIMBE Member since 2017
+
+Service to Federal and State Government
+NIH ad hoc review panels, 2018-2021.
+
+Other Outside Service
+External Advisory Board, MR Research Facility, University of Iowa. 2020-present.
+
+
+
+Research Interests
+Neuromuscular coupling
+Image Reconstruction
+Magnetic Susceptibility
+Diffusion Weighted Imaging
+Dynamic Imaging
+Functional Magnetic Resonance Imaging
+Click for more
+Research StatementMy research is focused on developing novel methods to image structure and physiological function with magnetic resonance imaging, including changes with disease and aging.  Application areas include functional neuroimaging and dynamic imaging of muscle function in speech.
+Undergraduate Research OpportunitiesDuring various disease states and even during healthy aging, the human brain undergoes dramatic changes in structural and functional organization, along with changes in metabolic support structures.  Magnetic resonance imaging offers many windows into this changing physiology.  Analysis of such changes requires applications of linear algebra and statistics upon very large data sets.  Currently, there are positions for undergraduates to learn and apply structural analysis methodologies to disease populations such as multiple sclerosis.
+Primary Research AreaBioimaging at Multi-Scale
+Research Areas
+Biomedical imaging
+Diffusion weighted imaging
+Dynamic imaging
+Functional MRI
+Image reconstruction
+Instrumentation 
+Magnetic susceptibility
+MRI
+Neural engineering (general)
+Neuromuscular coupling
+Systems modeling approaches to understand brain function
+Click for more
+
+
+Chapters in Books
+Sutton B, Lam F. Imaging in the Presence of Magnetic Field Inhomogeneities (2022). In MRI Reconstruction: Theory, Methods, and Applications. Eds C Prieto, M Doneva, M Akcakaya. In Series: "Advances in Magnetic Resonance Technology and Applications." Series eds: IY Choi, B Hargreaves, P Jezzard, G Zaharchuk.
+
+Selected Articles in Journals
+Li X, Chen H, Hu Y, Larsen RJ, Sutton BP, McElwain NL, Gao W. Functional neural network connectivity at 3 months predicts infant-mother dyadic flexibility during play at 6 months. Cereb Cortex. 2023 Apr 5;. doi: 10.1093/cercor/bhad117. [Epub ahead of print] PubMed PMID: 37020357.
+Gothe NP, Erlenbach E, Garcia V, Malani R, Voss S, Camacho PB, McAuley E, Burd N, Sutton BP, Damoiseaux JS. Yoga, aerobic and stretching exercise effects on neurocognition: Randomized controlled trial protocol. Contemp Clin Trials. 2023 May 25;:107240. doi: 10.1016/j.cct.2023.107240. [Epub ahead of print] PubMed PMID: 37244365.
+Canada KL, Saifullah S, Gardner JC, Sutton BP, Fabiani M, Gratton G, Raz N, Daugherty AM. Development and validation of a quality control procedure for automatic segmentation of hippocampal subfields.Hippocampus. 2023 May 28;. doi: 10.1002/hipo.23552. [Epub ahead of print] PubMed PMID: 37246462.
+Perry JL, Gilbert IR, Xing F, Jin R, Kuehn DP, Shosted RK, Woo J, Liang ZP, Sutton BP. Preliminary Development of an MRI Atlas for Application to Cleft Care: Findings and Future Recommendations. Cleft Palate Craniofac J. 2023 Jun 19;:10556656231183385. doi: 10.1177/10556656231183385. [Epub ahead of print] PubMed PMID: 37335134.
+Hu Y, Chen H, Li X, Larsen RJ, Sutton BP, Gao W, McElwain NL. Associations between infant amygdala functional connectivity and social engagement following a stressor: A preliminary investigation. Dev Sci.2023 Jun 20;:e13418. doi: 10.1111/desc.13418. [Epub ahead of print] PubMed PMID: 37340633.
+Schmidt SA, Shahsavarani S, Khan RA, Tai Y, Granato EC, Willson CM, Ramos P, Sherman P, Esquivel C, Sutton BP, Husain FT. An examination of the reliability of seed-to-seed resting state functional connectivity in tinnitus patients. Neuroimage: Reports. 2023; 3(1), 100158.
+Shaffer A, Weisbaum D, Naik A, Anderson A, Wszalek T, Cohen M, Sutton B, Webb A, Damon B, Arnold PM. Neurosurgical Implant Safety in 7 T MRI: A Scoping Review. J Magn Reson Imaging. 2023;57(3):661-9.
+
+Jin R, Shosted RK, Xing F, Gilbert IR, Perry JL, Woo J, Liang ZP, Sutton BP. Enhancing linguistic research through 2-mm isotropic 3D dynamic speech MRI optimized by sparse temporal sampling and low-rank reconstruction. Magn Reson Med. 2023;89(2):652-64. PMCID: PMC9712260.
+
+Patel TD, Uzoaru I, Sutton BP, Arnold PM. Myeloid sarcoma of the thoracic spine: A case report. Surg Neurol Int. 2023;14:35. PMCID: PMC9990772.
+
+Tucker N, Sutton  BP, Duncan C, Lu C, Koyejo S, Tsung AJ, Maksimovic J, Ralph T, Pieta SM, Bramlet MT. Fully automated conversion of glioma clinical MRI scans into a 3D virtual reality model for presurgical planning.  Annual Modeling and Simulation Conference (ANNSIM); San Diego, CA: IEEE; 2022. p. 392-403.
+
+Foss KD, Keller KA, Kehoe SP, Sutton BP. Establishing an MRI-Based Protocol and Atlas of the Bearded Dragon (Pogona vitticeps) Brain. Front Vet Sci. 2022;9:886333. PMCID: PMC9136876.
+
+Perry JL, Snodgrass TD, Gilbert IR, Sutton BP, Baylis AL, Weidler EM, Tse RW, Ishman SL, Sitzman TJ. Establishing a Clinical Protocol for Velopharyngeal MRI and Interpreting Imaging Findings. Cleft Palate Craniofac J. 2022:10556656221141188.
+
+Egan MK, Larsen R, Wirsich J, Sutton BP, Sadaghiani S. Safety and data quality of EEG recorded simultaneously with multi-band fMRI. PLoS One. 2021;16(7):e0238485. PMCID: PMC8253410.
+
+Khan RA, Sutton BP, Tai Y, Schmidt SA, Shahsavarani S, Husain FT. A large-scale diffusion imaging study of tinnitus and hearing loss. Sci Rep. 2021 Dec 3;11(1):23395. doi: 10.1038/s41598-021-02908-6. PubMed PMID: 34862447; PubMed Central PMCID: PMC8642521.
+Peng X, Sutton BP, Lam F, Liang ZP. DeepSENSE: Learning coil sensitivity functions for SENSE reconstruction using deep learning. Magn Reson Med. 2022;87(4):1894-902. PMCID: PMC8810692.
+
+Xing F, Jin R, Gilbert IR, Perry JL, Sutton BP, Liu X, El Fakhri G, Shosted RK, Woo J. 4D magnetic resonance imaging atlas construction using temporally aligned audio waveforms in speech. J Acoust Soc Am. 2021 Nov;150(5):3500. doi: 10.1121/10.0007064. PubMed PMID: 34852570; PubMed Central PMCID: PMC8580575.
+Moore M, Maclin EL, Iordan AD, Katsumi Y, Larsen RJ, Bagshaw AP, Mayhew S, Shafer AT, Sutton BP, Fabiani M, Gratton G, Dolcos F. Proof-of-concept evidence for trimodal simultaneous investigation of human brain function. Hum Brain Mapp. 2021 Sep;42(13):4102-4121. doi: 10.1002/hbm.25541. Epub 2021 Jun 23. PubMed PMID: 34160860; PubMed Central PMCID: PMC8357002.
+Chiarelli AM, Low KA, Maclin EL, Fletcher MA, Kong TS, Zimmerman B, Tan CH, Sutton BP, Fabiani M, Gratton G. The Optical Effective Attenuation Coefficient as an Informative Measure of Brain Health in Aging. Photonics. 2019 Sep;6(3):79. doi: 10.3390/photonics6030079. Epub 2019 Jul 12. PMID: 32377515
+Click for more
+Articles in Conference Proceedings
+Duncan, C., Roxas, F., Jani, N., Maksimovic, J., Bramlet, M., Sutton, B. & Koyejo, S., Some New Tricks for Deep Glioma Segmentation. 2021, Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries - 6th International Workshop, BrainLes 2020, Held in Conjunction with MICCAI 2020, Revised Selected Papers. Crimi, A. & Bakas, S. (eds.). Springer, p. 320-330 11 p. (Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics); vol. 12659 LNCS).
+
+Xing F, Jin R, Gilbert I, Liu X, El Fakhri G, Perry J, Sutton B, Woo J. Temporal Frame Alignment for Speech Atlas Construction Using High Speed Dynamic MRI. Proc Intl Soc Magn Reson Med, 2021. p. 3742
+Jin R, Liang ZP, Sutton B. Increasing three-dimensional coverage of dynamic speech magnetic resonance imaging. Proc Intl Soc Magn Reson Med, 2021. p. 4175.
+Lin S, Sutton B, Magin R, Anderson A, Klatt D. Development of in vivo human brain DTI-MRE: Optimization of experimental parameters. Proc Intl Soc Magn Reson Med, 2021. p. 3656.
+Anderson A, Muralidaran S, Cerjanic A, Sutton B, Anastasio M, Brooks F. Deep Learning Automation for Human Brain Masking of Multi-Band MR Elastography. Proc Intl Soc Magn Reson Med, 2021. p. 1024.
+Jung KJ, Sutton BP. Three-Dimensional Sodium MRI Using A Rotation of Spiral Disc (RSD) Trajectory. Proc Intl Soc Magn Reson Med, 2021. p. 1813
+Camacho P, Anderson E, Anderson A, Schwarb H, Wszalek T, Sutton B. Automating Reproducible Connectivity Processing Pipelines on High Performance Computing Machines. Proc Intl Soc Magn Reson Med, 2021. p. 3766.
+Jin R, Peng X, Sutton B. Shortening total acquisition times for high speed dynamic speech magnetic resonance imaging using temporally sparse navigation.  12th international seminar on speech production (ISSP), Yale, December 2020. https://issp2020.yale.edu/S05/riwei_05_04_025_abstract.pdf
+Sutton B, Ramsy N, Jin R, Webb A. Using dielectric bags to increase SNR in dynamic speech imaging. Proc. Intl Soc Magn Reson Med, 2020. p. 3711.
+Zhang M, Aw N, Doose M, Arnold P, Huston J, Olivero W. Sutton B. Measuring CSF shunt flow with MRI using flow enhancement of signal intensity (Shunt-FENSI). Proc. Intl Soc Magn Reson Med, 2020. p. 4699.
+Guo R, Li Y, Zhao Y, Wang T, Li Y, Sutton B. Liang ZP. High-resolution QSM for simultaneous QSM/MRSI. Proc. Intl Soc Magn Reson Med, 2020. p. 0159.
+Lin S, Sutton B, Magin R, Klatt D. Development of in vivo human brain DTI-MRE. Proc. Intl Soc. Magn Reson Med, 2020. p. 3325.
+
+Meng Z,  Li Y,  Guo R,  Zhao Y,  Wang T,  Yu F,  Sutton B,  Li Y,  Liang ZP. Accelerated T2 Mapping by Integrating Two-Stage Learning with Sparse Modeling. Proc. Intl Soc. Magn. Reson Med, 2020. p.889. 
+Aw N, Cerjanic A, Mitchell J, Gillette M, Sutton B. Diffusion imaging of rat brain slices on a human clinical MRI scanner. Proc. Intl Soc Magn Reson Med, 2019. p. 3338.
+Peng X and Sutton B. Navigated steady-state free precession with water-excitation for real-time cardiac imaging at 3 tesla. Proc. Intl Soc Magn Reson Med, 2019, p. 2442.
+Lam F and Sutton B. Efficient Intravoxel B0 Inhomogeneity Corrected Reconstruction of Multi-Gradient-Echo Images Using A Low-Rank Encoding Operator. Proc. Intl Soc Magn Reson Med, 2019, p. 1257.
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Unique collaboration brings West Point cadets to Beckman Institute
+
+
+BIOE faculty research projects funded  through Jump ARCHES research and development program
+
+
+Studying brain activity of swallowing helps researchers understand aging, disease
+
+
+NCSA Affiliates Receive Funding For AI-Powered Brain Mapping
+
+
+MRI turns 50: Expert Brad Sutton explains its history and role in understanding the aging brain
+
+
+Recreating the Hodgkin-Huxley Model
+
+
+
+
+
+
+
+

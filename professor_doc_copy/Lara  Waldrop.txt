@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+ 
+
+
+Lara Waldrop 
+
+
+Administrative TitlesY.T. Lo Fellow in Electrical and Computer Engineering
+
+Associate Professor
+(217) 300-0957
+lwaldrop@illinois.edu
+5052 Electrical & Computer Eng Bldg
+
+
+
+Education
+Ph.D., Astronomy and Space Physics, Boston University, 2004. 
+
+
+Research StatementModern society’s increasing reliance on space-based assets for communication, navigation, and resource management demands a detailed and precise understanding of the time-varying behavior of the terrestrial atmosphere near low-earth orbit (~200-2000 km). Dr. Waldrop's research addresses this need by devising novel sensing techniques to provide empirical estimation of constituent species’ temperature and density, quantities which govern the frictional drag of satellites and space debris and thus orbital trajectories and collision hazards. These techniques also support the monitoring and future prediction of transient disturbances caused by space weather, which pose additional dangers to infrastructure through electric charging of satellite electronics, disruption of radio communication signals from space to ground, and induced currents in the electric power grid. Dr. Waldrop's research enables the unprecedented quantification of atmospheric state parameters both directly, via mass spectrometer deployment on small satellites, as well as indirectly, through constraint of numerical models of chemical and radiative processes by various dispersed and often intermittent data sources. The intrinsic challenge of obtaining sufficient model constraints for indirect state parameter estimation demands the utilization of a variety of ground- and space-based remote sensing techniques, including incoherent scatter and frequency-swept radars, and spectroscopy, photometery, and interferometery at wavelengths ranging from near-infrared to far-ultraviolet. The breadth of her research endeavors – from the development and deployment of novel observing modalities, including nano-satellites, to computational model capabilities – enables insights regarding the properties and behavior of the atmospheric boundary region that protects our habitable environment from outer space and sustains our technological infrastructure.
+Research Interests
+Development of optical and radar remote sensing techniques
+Space plasma diagnostics
+Computational modeling of radiative processes
+Small satellite mission design and implementation
+
+
+Research Areas
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Radio and optical wave propagation
+Remote Sensing
+
+
+Research Topics
+Charge particle physics and engineering
+Computational science and engineering
+Data science and analytics
+Photonics: optical engineering and systems
+Sensing systems
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students, UIUC (Spring 2015)
+List of Teachers Ranked as Excellent by Their Students, UIUC (Fall 2014)
+Engineering Council Award for Excellence in Advising, UIUC (2013)
+List of Teachers Ranked as Excellent by Their Students, UIUC (Fall 2011)
+
+Research Honors
+Y.T. Lo Fellow in Electrical and Computer Engineering (2017)
+NSF CAREER Award (2015)
+Keynote Speaker, The Gordon Lecture, Cornell University (2013)
+NSF CEDAR Postdoctoral Award (2004-2006)
+Outstanding Student Paper Award, American Geophysical Union (1997)
+Boston University Trustee's Scholar (1993-1997)
+Click for more
+Public Service Honors
+Member, External Advisory Committee for National Center for Atmospheric Research High Altitude Observatory , 2015-2018
+Member, NSF CEDAR Science Steering Committee, 2007-2009.
+Arecibo Observatory Users and Scientific Advisory Committee, Chair (2012-2014), Member (2010)
+
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 329 - Fields and Waves I
+ECE 468 (AE 468) - Optical Remote Sensing
+ECE 598 IW - Solar System Electrodynamics
+
+
+
+
+
+
+
+Related News
+
+
+Dragic develops laser technology for upper atmosphere LiDAR
+
+
+NASA Renames GLIDE Mission After Trailblazing UIUC Alumnus
+
+
+Waldrop explains the GLIDE mission to learn more about the exosphere
+
+
+ECE congratulates five faculty on recent promotions and welcomes three others
+
+
+Waldrop leads $75 million NASA mission to investigate Earth's atmosphere
+
+
+Illinois ECE PhD students wins Second Best Student Presentation Award at CEDAR
+
+
+
+
+
+
+
+

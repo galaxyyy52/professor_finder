@@ -1,0 +1,212 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Fan Lam 
+
+
+
+
+
+Assistant ProfessorDIR OF M.S. IN BIC PROGRAM
+
+
+(217) 300-3713
+fanlam1@illinois.edu
+4061 Beckman Institute
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaBiomedical imaging
+Research Areas
+Bioinformatics
+Biomedical imaging
+Image reconstruction
+Molecular imaging
+MRI
+Signal processing
+Click for more
+For More Information
+Research Homepage
+
+Education
+Ph. D. Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2015
+
+M.S., Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2011
+B.S., Biomedical Engineering, Tsinghua University, 2008
+
+Academic Positions
+Affiliated faculty of Carle-Illinois College of Medicine, 03/2020 - Present, 0%
+Affiliated faculty of the Carl R. Woese Institute for Genomic Biology, 10/2020 -  Present, 0%
+Affiliated faculty of Beckman Institute for Advanced Science and Technology, 08/2018 - Present, 0%
+Affiliated faculty of Electrical and Computer Engineering, 10/2018 - Present, 0%
+Assistant Professor of Bioengineering, 08/2018 - Present, 100%
+
+
+Journal Editorships
+Review Editor, Frontiers in Physics
+Associate Editor, Medical Physics
+Special Topic Editor, Frontiers in Neuroscience, Emerging In Vivo Brain Mapping Technologies for Neuroscience Research
+Associate Editor, IEEE Transactions on Medical Imaging
+
+Professional Societies
+World Association for Chinese Biomedical Engineers (WACBE)
+Organization for Human Brain Mapping (OHBM)
+IEEE-EMBS
+IEEE
+International Society of Magnetic Resonance in Medicine (ISMRM)
+
+Service on Department Committees
+Director of the MS in Biomedical Image Computing (MS-BIC) program, Department of Bioengineering, 2022 –
+
+Other Outside Service
+Journal reviewer for Science Advances, Analytical Chemistry
+Journal reviewer for Magnetic Resonance in Medicine, Magnetic Resonance Imaging, NMR in Biomedicine, NeuroImage, Medical Image Analysis
+Journal reviewer for IEEE Transactions on Biomedical Engineering, IEEE Transactions on Medical Imaging, IEEE Journal of Biomedical and Health Informatics, Proceedings of the IEEE, IEEE Signal Processing Magazine, Signal Processing Letters
+
+
+
+Research Interests
+Neuroimaging technologies and applications
+Computational imaging and machine learning 
+Multimodal biochemical imaging 
+Magnetic resonance imaging 
+Biomedical imaging
+
+
+Primary Research AreaBiomedical imaging
+Research Areas
+Bioinformatics
+Biomedical imaging
+Image reconstruction
+Molecular imaging
+MRI
+Signal processing
+Click for more
+
+
+Selected Articles in Journals
+Y. R. Xie, D. C. Castro, S. S. Rubakhin, J. V. Sweedler, F. Lam, Integrative multiscale biochemical mapping of the brain via deep-learning-enhanced high-throughput mass spectrometry, bioRxiv, doi: https://doi.org/10.1101/2023.05.31.543144
+F. Lam, X. Peng, Z.-P. Liang, High-dimensional MR spatiospectral imaging by integrating physics-based modeling and data-driven machine learning, IEEE Sig. Proc. Mag., 40:101-115, 2023.
+A. Shaffer, S.S. Kwok, A. Naik, A. T. Anderson, F. Lam, T. Wszalek, P. M. Arnold, W. Hassaneen. Ultra-high-field MRI in the diagnosis and management of gliomas: A systematic review. Front. Neurol. 13, 2022.
+Y. Li, Z. Wang, F. Lam, SNR enhancement for multi-TE MRSI using joint low-dimensional model and spatial constraints, IEEE Trans. Biomed. Eng., 69:3087 - 3097, 2022.
+Y. Xie, D. C. Castro, S. S. Rubakhin, J. V. Sweedler, F. Lam, Enhancing the throughput of FT mass spectrometry imaging using compressed sensing and subspace modeling. Anal. Chem., 94:5335 – 5343, 2022.
+F. Lam, J. Chu, J. S. Choi, C. Cao, T. K. Hitchens, S. K. Silverman, Z.-P. Liang, R. N. Dilger, G. E. Robinson, K. C. Li, Epigenetic MRI: Noninvasive imaging of DNA methylation in the brain. PNAS, 119:e2119891119, 2022.
+X. Peng, B. Sutton, F. Lam, Z.-P. Liang, DeepSENSE: Learning coil sensitivity functions for SENSE reconstruction using deep learning. Magn. Reson. Med., 87:1894 - 1902, 2022.
+Z. Wang, Y. Li, F. Lam, High-resolution, 3D multi-TE 1H-MRSI using fast spatiospectral encoding and subspace imaging, Magn. Reson. Med.,  87:1103 - 1118, 2022.
+Click for more
+Articles in Conference Proceedings
+Z. Wang, Y. Li, and F. Lam, Whole-Brain Multi-Parametric Molecular Imaging Using Accelerated J-Resolved Subspace 1H-MRSI, In Proc. of ISMRM, 2023, p.3682.
+R. Zhao, Y. Li, Z. Wang, A. Anderson, P. Arnold, G. Huesmann and F. Lam, MR Spatiospectral Reconstruction using Plug&Play Denoiser with Self-Supervised Training, Proc. of ISMRM, 2023, p.0955.
+R. Zhao, X. Peng and F. Lam, Integrating Adaptive Generative Network and Subspace Models for Accelerated MR Parameter Mapping, Proc. of ISMRM, 2023, p.1628.
+Y. Wang, S. S. Rubakhin and F. Lam, High-Resolution 1H-MRSI of the Brain at 9.4T Integrating Relaxation Enhancement and Subspace Imaging, Proc. of ISMRM, 2023, p.3691.
+Y. Li, Z. Wang, A. Anderson, R. Zhao, P. Arnold, G. Huesmann, and F. Lam, Fast MRSI Reconstruction Combining Linear and Nonlinear Manifold Models, Proc. of ISMRM, 2023, p.0870.
+R. Zhao, Y. Li, Z. Wang, A. Anderson, P. Arnold, G. Huesmann, F. Lam, SNR-Enhancing Spatiospectral Reconstruction using Plug&Play Denoiser from Self-Supervised Training, In Proc. of ISMRM Data Sampling and Reconstruction Workshop, 2023 (Oral presentation with awarded travel stipend)
+
+X. Ye, Z. Wang, F. Lam, Improved nuisance signal removal for 1H-MRSI using a low-rank plus sparse model with learned subspaces, In Proc. of Annual Meeting of ISMRM, 2022, p. 4315.
+F. Lam, Y. Li, Y. Zhao, J. Haldar, Improving lipid suppression for 1H-MRSI using region-optimized virtual coils, In Proc. of Annual Meeting of ISMRM, 2022, p. 2621.
+Z. Wang, Y. Li, F. Lam, High-Resolution brain metabolite T2 mapping using optimized multi-TE MRSI, In Proc. of Annual Meeting of ISMRM, 2022, p. 4998.
+Z. Wang, F. Lam, Fast volumetric diffusion-weighted MRSI: improved acquisition and data processing, In Proc. of Annual Meeting of ISMRM, 2022, p. 3524.
+R. Zhao, Z. Wang, F. Lam, Generative image prior constrained subspace reconstruction for high-resolution MRSI, In Proc. of Annual Meeting of ISMRM, 2022, p. 3500.
+Y. Li, L. Ruhm, A. Henning, F. Lam, LeaRning nonlineAr representatIon and projectIon for faSt constrained MRSI rEconstruction (RAIISE), In Proc. of Annual Meeting of ISMRM, 2022, p. 4808.
+Y. Li, Z. Wang, F. Lam, High-SNR J-Resolved MRSI by jointly learning nonlinear representation and projection, In Proc. of Annual Meeting of ISMRM, 2022, p. 2206.
+Z. Wang, F. Lam, High resolution volumetric diffusion-weighted MRSI using a subspace approach, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2021, p. 37.
+F. Lam, H. Hetherington, J. Pan, Rapid MRSI of the brain on 7T using subspace-based processing, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2021, p. 2206.
+Z. Wang, Y. Li, F. Lam, Optimized subspace-based J-resolved MRSI for simultaneous metabolite and neurotransmitter mapping, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2021, p. 72.
+Y. Li, Z. Wang, F. Lam, SNR-enhancing reconstruction for multi-TE MRSI using a learned nonlinear low-dimensional model, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2021, p. 1998.
+Z. Wang, F. Lam, B0 inhomogeneity corrected reconstruction for low-resolution J-resolved MRSI using low-rank and spatial constraints, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2020, p. 2911. 
+Y. Li, Z. Wang, F. Lam, Separation of metabolites and macromolecules for short-TE 1H-MRSI using learned nonlinear models, In Proc. of Annual Meeting of International Society for Magnetic Resonance in Medicine, 2020, p. 2854. 
+R.-J. Ho, F. Lam, High-resolution 3D spin-echo MRSI using interleaved water navigators, sparse sampling and subspace-based processing, In Proc. of IEEE-EMBC, 2020, pp. 1465-1468. 
+Y. Li, Z. Wang, F. Lam, Separation of metabolite and macromolecule signals for 1H-MRSI using learned nonlinear models, In Proc. of IEEE International Symposium on Biomedical Imaging (ISBI), 2020, pp. 1725-1728. 
+Y. Li, X. Peng, F. Lam, Learning nonlinear low-dimensional models for MR spectroscopic imaging using neural networks, In Proc. of ISMRM, 2019, p. 0947. 
+Click for more
+Patents
+K. C. Li, G. E. Robinson, Z.-P. Liang, F. Lam, S. K. Silverman, Magnetic resonance spectroscopic imaging of brain DNA methylation, US Provisional Patent.
+F. Lam, J. V. Sweedler, Y. Xie, Subspace approach to accelerate Fourier transform mass spectrometry imaging, US Provisional Patent.
+
+
+
+Teaching Honors
+List of Teachers Ranked as Excellent (Fall 2019, 
+Fall 2021, 
+Fall 2022)
+
+Research Honors
+Scialog Advancing BioImaging Fellow (2023)
+Cozzarelli Prize Finalist, PNAS (2023)
+ISMRM Magna Cum Laude Abstract Award (as senior author) (2022)
+ISMRM Magna Cum Laude Abstract Award (as senior author) (2021)
+ISMRM Summa Cum Laude Abstract Award (as senior author) (2021)
+NIH-NIGMS Maximizing Investigators' Research Award (MIRA R35) (2021)
+NIH-NIBIB Trailblazer Award  (2020)
+National Science Foundation CAREER Award (2020)
+Junior Fellow of the International Society of Magnetic Resonance in Medicine (2017)
+Best Student Paper Award, IEEE International Symposium on Biomedical Imaging (2015)
+Robert T. Chien Memorial Award, ECE, University of Illinois (2015)
+Beckman Institute Postdoctoral Fellowship (2015)
+Click for more
+Public Service Honors
+Distinguish Reviewer Award, Magnetic Resonance in Medicine (2022)
+Distinguished Reviewer Award, IEEE Transactions on Medical Imaging (2020)
+Distinguish Reviewer Awards, Magnetic Resonance in Medicine (2015-2019)
+
+Other Honors
+IEEE Senior Membership
+ (2021
+)
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+New NIH grant to fund Alzheimer's research at Beckman
+
+
+Beckman postdoctoral fellows address cancer research, medical imaging grand challenges
+
+
+Team uses MRI to image epigenetics in the brain
+
+
+Three bioengineering projects awarded Jump ARCHES grants 
+
+
+University of Illinois Urbana-Champaign launches first-of-its-kind Master of Science in Biomedical Image Computing degree
+
+
+Cancer Center at Illinois 2021 seed awards suport collaborative cancer research 
+
+
+
+
+
+
+
+

@@ -1,0 +1,128 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Francesco Panerai 
+
+
+
+Assistant Professor
+(217) 300-9628
+fpanerai@illinois.edu
+302G Talbot Laboratory
+
+
+
+Research Interests
+Aerothermodynamics
+High temperature materials
+Hypersonics
+
+
+Research Areas
+Aerospace Materials
+Experimental Fluid Mechanics 
+Hypersonics
+
+
+Chapters in Books
+Panerai F. Temperature and heat flux measurements. Chapter 6. In: Discetti S, Ianiro A, editors. Experimental Aerodynamics. Taylor & Francis Group, LLC, March 2017.
+Chazot O, Panerai F. High-Enthalpy Facilities and Plasma Wind Tunnels for Aerothermodynamics Ground Testing. Chapter 7. In: Josyula E, editor. Hypersonic Nonequilibrium Flows: Fundamentals and Recent Advances, American Institute for Aeronautics and Astronautics, April 2015. 
+
+Selected Articles in Journals
+Padovan A, Vollmer B, Panerai F, Panesi M, Stephani KA, Bodony DJ. A Modified B′ Formulation for Ablating-Surface Boundary Conditions.  International Journal of Heat and Mass Transfer (2023), in press.
+Foster CW, Collins LN, Panerai F, Roberts SA. Assessing thermophysical properties of parameterized woven composite models using image-based simulations. Composites Science and Technology (2023) 110136.
+
+Foster CW, Oruganti S, and Panerai F. Real-time quantitative imaging of RTV silicone pyrolysis. Polymer Degradation and Stability 214 (2023) 1104403.
+
+Oruganti S, Mansour NN, Panesi M, and Panerai F. Microstructure of Pyrolyzing RTV Silicone. Polymer Degradation and Stability 207 (2023) 110237.
+
+Meurisse JBE, Bellas Chatzigeorgis G, Ventura Diaz P, Bessire BK, Panerai F, and Mansour NN. Equilibrium model for the ablation response of silicone-coated PICA. International Journal of Heat and Mass Transfer 201 (2023) 123523.
+Price KJ, Panerai F, Borchetta CG, Hardy JM, Martin A, and Bailey SCC. Arc-jet measurements of low-density ablator spallation. Experimental Thermal and Fluid Science 133 (2022) 110544.
+Swaminathan Gopalan K, Borner A, Ferguson J, Panerai F, Mansour NN, and Stephani K. Gas-surface interactions in lightweight fibrous carbon materials. Computational Materials Science 205 (2022) 111190.
+Konnik MT, Panerai F, and Stephani K. The role of impurities and degradation on the thermal conductivity of carbon fiber and amorphous carbon. Carbon Trends 7 (2022) 100151.
+
+Price K, Panerai F, Borchetta C, Hardy JM, Martin A, and Bailey SCC. Arc-Jet Measurements of Low-Density Ablator Spallation. Experimental Thermal and Fluid Science 133 (2022) 110544.
+Ferguson JC, Borner A, Panerai F, Close S, and Mansour NN. Continuum to rarefied diffusive tortuosity factors in porous media from X-ray microtomography.  Computational Materials Science  203 (2022) 111030.
+Panerai F, Bessire BK, Haskins JB, Foster CW, Stern EC, Barnard HS, and Feldman JD. Morphological Evolution of Ordinary Chondrite Microstructure During Heating: Implications for Atmospheric Entry. Planetary Science Journal 2(5) (2021) 179.
+
+Ferguson JC, Semeraro F, Thornton JM, Panerai F, and Mansour NN. Update 3.0 to “PuMA: The Porous Microstructure Analysis software”, (PII: S2352711018300281). SoftwareX 15 (2021) 100775.
+Semeraro F, Ferguson JC, Acin M, Panerai F, and Mansour NN. Anisotropic analysis of fibrous and woven materials part 2: Computation of effective conductivity.  Computational Materials Science 186 (2021) 109956.
+Barry C, Panerai F, Bergeron K, Stapleton S, and Sherwood J. Mesomechanical Modeling of Braided Cords.  Procedia Manufacturing 47 (2020) 162-168.
+Semeraro F, Ferguson JC, Panerai F, and Mansour NN. Anisotropic analysis of fibrous and woven materials part 1: Estimation of local orientation. Computational Materials Science 178 (2020) 109631.
+Torres-Herrador F, Coheur J, Panerai F, Blondeau J, Magin TE, and Mansour NN. Competitive kinetic model for the pyrolysis of the Phenolic Impregnated Carbon Ablator. Aerospace Science and Technology 100 (2020) 105784.
+MacNeil JML, Ushizima DM, Panerai F, Mansour NN, Barnard HS, and Parkinson DY. Interactive volumetric segmentation for textile micro‐tomography data using wavelets and nonlocal means. Statistical Analysis and Data Mining: The ASA Data Science Journal 12(4) (2019) 338-353.
+Torres-Herrador F, Meurisse JBE, Panerai F, Blondeau J, Lachaud J, Bessire BK, Magin TE,  and Mansour NN. A high heating rate pyrolysis model for the Phenolic Impregnated Carbon Ablator (PICA) based on mass spectroscopy experiments.  Journal of Analytical and Applied Pyrolysis 141 (2019) 104625.
+Panerai F, Cochell T, Martin A, and White JD. Experimental measurements of the high-temperature oxidation of carbon fibers. International Journal of Heat and Mass Transfer 136 (2019) 972-986.
+Jambunathan R, Levin DA, Borner A, Ferguson JC, and Panerai F. Prediction of gas transport properties through fibrous carbon preform microstructures using Direct Simulation Monte Carlo. International Journal of Heat and Mass Transfer 130 (2019) 923-937.
+Sanson F,  Panerai F,  Magin T, and Congedo P. Robust  reconstruction of the catalytic properties of thermal protection  materials from sparse high-enthalpy facility experimental data. Experimental Thermal and Fluid Science 96 (2018) 482-492.
+Ferguson JC, Panerai F, Boner A, and Mansour NN. PuMA: the Porous Microstructure Analysis software. SoftwareX 7 (2018) 81-87.
+Meurisse JBE, Lachaud J, Panerai F, Tang C, and Mansour NN. Multidimensional material response simulations of a full-scale tiled ablative heatshield. Aerospace Science and Technology 76 (2018) 497-511.
+Bailey SCC, Bauer D, Panerai F, Splinter SC, Danehy PM,  Hardy JM, and Martin A. Experimental analysis of spallation particle  trajectories in an arc-jet environment. Experimental Thermal and Fluid Science 93 (2018) 319-325.
+Ferguson J, Panerai F, Lachaud J, and Mansour NN. Theoretical study on the micro-scale oxidation of resin-infused carbon ablators. Carbon 121 (2017) 552-562.
+Vanaerschot A, Panerai F, Cassell A, Lomov SV, Vandepitte D, and Mansour NN. Stochastic characterisation methodology for 3-D textiles based on micro-tomography. Composite Structures 173 (2017) 44-52.
+Panerai F, Ferguson J, Lachaud J, Martin A, Gasch MJ, and Mansour NN. Micro-tomography based analysis of thermal conductivity, diffusivity and oxidation behavior of rigid and flexible fibrous insulators. International Journal of Heat and Mass Transfer 108 (2017) 801-811.
+Sanson F, Villedieu N, Panerai F, Chazot O, Magin T, and Congedo P. Uncertainty quantification for the characterization of reusable material catalytic property. Experimental Thermal and Fluid Science 82 (2017) 414–423.
+Borner A, Panerai F, and Mansour NN. High-temperature permeability of fibrous materials using direct simulation Monte Carlo. International Journal of Heat and Mass Transfer 106 (2017) 1318-1326.
+Viladegut A, Panerai F, Chazot O, Pichon T, Bertrand P, Verdy C, and Coddet C. Design, integration and preliminary results of the IXV Catalysis experiment. CEAS Space Journal 9 (2017) 141-151.
+Wong HW, Peck J, Assif J, Panerai F, Lachaud J, and Mansour NN. Detailed analysis of species production from the pyrolysis of the Phenolic Impregnated Carbon Ablator. Journal of Analytical and Applied Pyrolysis 122 (2016) 258–267.
+Panerai F, White JD, Cochell TJ, Schroeder OM, Mansour NN, Wright MJ, and Martin A. Experimental measurements of the permeability of fibrous carbon at high temperature. International Journal of Heat and Mass Transfer 101 (2016) 267-273.
+Martin A, Bailey SCC, Panerai F, Davuluri RSC, Vazsonyi AR, Zhang H, Lippay ZS, Mansour NN, Inman JA, Bathel BF, Splinter SC, and Danehy PM. Numerical and experimental analysis of the spallation phenomena. CEAS Space Journal 8 (2016) 229-236.
+Omidy AD, Panerai F, Lachaud JR, Mansour NN, and Martin A. Effects of water phase change on the material response of low-density carbon-phenolic ablators. Journal of Thermophysics and Heat Transfer 30 (2016) 473-478.
+Nouri N, Panerai F, Tagavi KA, Mansour NN, and Martin A. Evaluation of the anisotropic radiative conductivity of a low-density carbon fiber material from realistic microscale imaging. International Journal of Heat and Mass Transfer 95 (2016) 535-539.
+Ferguson J, Panerai F, Lachaud J, Martin A, Bailey SCC, and Mansour NN. Modeling the oxidation of low-density carbon fiber material based on micro-tomography. Carbon 96 (2016) 57-65.
+Wong HW, Peck J, Bonomi RE, Assif J, Reinisch G, Panerai F, Lachaud J, and Mansour NN. Quantitative determination of species production from the pyrolysis of a phenol-formaldehyde resin. Polymer Degradation and Stability 112 (2015) 122–131.
+Balat-Pichelin M, Charpentier L, Panerai F, Chazot O, Helber B, and Nickel K. Passive/active oxidation transition for CMC structural materials designed for the IXV vehicle re-entry phase. Journal of the European Ceramic Society 35 (2015) 487-502.
+Panerai F, Marschall J, Thoemel J, Vandendael I, Hubin A, and Chazot O. Air plasma-material interactions at the oxidized surface of the PM1000 nickel-chromium superalloy. Applies Surface Science 316 (2014) 385-397.
+Panerai F, Helber B, Chazot O, Balat-Pichelin M, and Nickel K. Aerothermal response of ceramic matrix composites to nitrogen plasma at temperatures above 2000 K. Aerospace Science and Technology 39 (2014) 1-5.
+Cipullo A, Helber B, Panerai F, Chazot O, and Zeni L. Investigation of Freestream Plasma Flow Produced by Inductively Coupled Plasma Wind Tunnel. Journal of Thermophysics and Heat Transfer 28 (2014) 381-393.
+Panerai F, Martin A, Mansour NN, Sepka SA, and Lachaud J. Flow-Tube Oxidation Experiments on the Carbon Preform of a Phenolic-Impregnated Carbon Ablator. Journal of Thermophysics and Heat Transfer 28 (2014) 181-190.
+Panerai F, Helber B, Chazot O, and Balat-Pichelin M. Surface temperature jump beyond active oxidation of carbon/silicon carbide composites in extreme aerothermal conditions. Carbon 71 (2014) 102-119.
+Marschall J, Pejakovic D, Fahrenholtz WG, Hilmas GE, Panerai F, and Chazot O. Temperature Jump Phenomenon During Plasmatron Testing of ZrB2-SiC Ultrahigh-Temperature Ceramics. Journal of Thermophysics and Heat Transfer 26(4) (2012) 559–72.
+Panerai F and Chazot O. Characterization of gas/surface interactions for ceramic matrix composites in high enthalpy, low pressure air flow. Materials Chemistry and Physics 134 (2012) 597−607.
+Click for more
+Teaching Honors
+Everitt Award for Teaching Excellence (2022)
+List of Teachers Ranked as Excellent by Their Students, UIUC (2021)
+
+Research Honors
+AIAA Associate Fellow (2023)
+NASA Software of the Year Award (2022)
+Air Force Young Investigator Research Program (YIP) (2019)
+Analytical Mechanics Associates Group Achievement Award - The Asteroid Threat Assessment Project Arc Jet Team (2017)
+NASA Group Achievement Award - Micro-Scale TPS Modeling Team (2017)
+von Karman Institute Excellence in Experimental Research Award (2008)
+Click for more
+
+Recent Courses TaughtAE 312 - Compressible Flow
+AE 419 - Aircraft Flight Mechanics
+AE 480 - Hypersonic Aerothermodynamics
+AE 498 HAT (AE 498 ONL) - Hypersonic AeroThermodynamics
+ME 410 - Intermediate Gas Dynamics
+
+
+
+
+
+
+
+
+

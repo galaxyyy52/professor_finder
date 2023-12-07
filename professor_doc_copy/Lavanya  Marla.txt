@@ -1,0 +1,149 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Lavanya Marla 
+
+
+
+
+
+Department Affiliate
+
+
+(217) 300-5892
+lavanyam@illinois.edu
+216E Transportation Building
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+For More Information
+Research Website
+
+Education
+Doctor of Philosophy (PhD), Transportation Systems, Massachusetts Institute of Technology (MIT), September 2010. Thesis: Airline Schedule Planning and Operations: Optimization-based Approaches for Delay Mitigation, Advisor: Prof. Cynthia Barnhart, Chancellor, MIT.
+Master of Science (S.M.), Transportation and Operations Research (dual degree), Massachusetts Institute of Technology, June 2007.
+Bachelor of Technology (B.Tech.), Major: Civil Engineering, Minor: Industrial Engineering, Indian Institute of Technology (IIT), Madras, June 2004.
+
+Academic Positions
+Associate Professor, Department of Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, Aug 2022 - current. Zero-time appointment with Civil and Environmental Engineering, Information Trust Institute, Center for Autonomy, Center for Sustainable Aviation
+Assistant Professor, Department of Industrial and Enterprise Systems Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, Jan 2013-2022. Zero-time appointment with Civil and Environmental Engineering, Information Trust Institute
+Systems Scientist and iLab Mobility Analytics Co-director, Heinz College, Carnegie Mellon University (CMU), Pittsburgh PA, Sep 2010-Dec 2012.
+Visiting Faculty/Scholar, Indian School of Business, Hyderabad, India, 2015.
+
+Professional Societies
+Invited to judge the INFORMS Aviation Applications Section's Best Dissertation Award for 2014.
+
+Other Outside Service
+Invited to judge the IIE Transactions' Best paper Award, 2013
+Invited to serve on the National Science Foundation's CMMI Panel, 2013
+Invited to serve on the National Science Foundation's Cyber-Physical Systems Panel, 2013.
+Invited International Referee, Hong Kong Research Council - 2014, 2017.
+Invited International Referee, Netherlands Organization for Scientific Research, 2018.
+Invited to serve on the National Science Foundation's CMMI Panel, 2020
+Click for more
+
+
+Research Interests
+Critical infrastructure resilience
+Logistics systems (routing and scheduling, last-mile transportation, cyber-physical systems)
+Emergency medical services
+Air transportation
+Design and operations of transportation and logistics networks
+Applied machine learning
+Applied game theory
+Robust, resilient and environmentally sustainable network design and operations
+Data-driven statistical modeling and optimization
+Bridging Operations Research and Artificial Intelligence for decision-making on networks
+Decision-making under uncertainty in large-scale networks
+Click for more
+Research StatementMy research aims at the development and application of tools from large-scale optimization, data mining, statistics, simulation, applied machine learning and computational techniques to build logistics and transportation systems that are operationally flexible and dynamically adaptable to improve cost, efficiency, robustness and environmental impact -- which are crucial for a sustainable system. This vision is challenging because of the sheer size of the system, competition between multiple stakeholders and presence of significant uncertainty. To analyze and address evolving transportation infrastructure, I use tools from large-scale optimization, data mining, statistics, simulation, visualization and computational techniques. My research style involves: (i) analyzing large-scale real-world data from public agencies, operators and users to identify high-impact opportunities, (ii) developing quantitative data-driven models and algorithms to address them, and (iii) evaluating impact by testing on realistic simulation testbeds.
+
+
+Selected Articles in Journals
+Xiyitao Zhu; Peng Zhang; Hyojung Kang; Lavanya Marla; Marlene Isabel Robles Granda; Rebecca A. Ebert-Allen; Sarah Stewart de Ramirez;  Tenille Oderwald; Mackenzie McGee; Jonathan A. Handler. "Derivation of a Unique, Algorithm-based Approach to Cancer Patient Navigator Workload Management", Journal of Clinical Oncology: Clinical Cancer Informatics, accepted.
+M. Baranwal, L. Marla, S.M. Salapaka and C. Beck, "A Unified Maximum Entropy Principle Approach for a Large Class of Vehicle Routing Problems". Computers and Industrial Engineering, accepted.
+Laurie Garrow, Virgnie Lurkin and Lavanya Marla, "Airline OR Innovations Soar During COVID-19 Recovery", Operations Research Forum, Accepted. 
+Gabriel A. Weaver, Brett Feddersen,  Lavanya Marla, Dan Wei and Adam Rose (2021), "Estimating Economic Losses from Cyber-Attacks on Shipping Ports:  An Optimization-Based Approach", Accepted, Transportation Research - Part C.
+Lav Varshney, Lavanya Marla, Devavrat Shah, Nirmal A. Prakash and Michael E. Gale (2021), "Short and Wide Network Paths", IEEE Transactions on Network Science and Engineering. doi: 10.1109/TNSE.2021.3123311
+Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta, Lavanya Marla and Kartik Yellepeddi (2021), "Galactic Air improves airline ancillary revenues with dynamic personalized pricing", Accepted, INFORMS Journal on Applied Analytics (formerly Interfaces).
+Max Z. Li, Karthik Gopalakrishnan, Hamsa Balakrishnan, Sang Hyun Shin, Darsh Jalan, Aritro Nandi and Lavanya Marla (2021). "Dynamics of Disruption and Recovery in Air Transportation Networks" Accepted, CEAS Aeronautical Journal. Invited paper.
+Jane Lee, Lavanya Marla, and Parth Vaishnav (2021). "The Impact of Climate Change on the Recoverability of Airline Networks", Transportation Research - Part D, 95, pp. 102801.
+Kaushik Krishnan, Lavanya Marla and Sarang Deo (2021). "Managing EMS Systems with Abandonment Behavior in Emerging Economies", IISE Transactions, 53(4), 389-906.
+Lavanya Marla, Alexander Rikun, Gautier Stauffer, and Eleni Pratsini (2020). "Robust Modeling and Planning: Insights from Three Industrial Applications", Operations Research Perspectives, 7: 100150. 
+Jane Lee, Lavanya Marla and Alexandre Jacquillat (2020). "Dynamic Airline Disruption Management under Airport Operating Uncertainty". Transportation Science, 54(4), July-August 2020, pp. 973-997. 
+Lavanya Marla, Vikrant Vaze and Cynthia Barnhart (2018). "Robust Optimization: Lessons Learned from Aircraft Routing". Computers and Operations Research, 98: 165-184.
+Ahmadreza Faghih-Imani, Robert Hampshire, Lavanya Marla and Naveen Eluru (2017). An Empirical Analysis of Bike Sharing Usage and Rebalancing: Evidence from Barcelona and Seville, Transportation Research Part A: Policy and Practice, 97: 177-191.  
+Lavanya Marla, Bo Vaaben and Cynthia Barnhart (2017). "Integrated Airline Disruption Management and Flight Planning to Tradeoff Delays and Fuel Burn," Transportation Science, 51(1): 88-111.
+Lavanya Marla, Cynthia Barnhart and Varun Biyani (2014). "A Decomposition Approach for Robust Commodity Pickup and Delivery with Time-Windows under Uncertainty," Journal of Scheduling, 17(5), 489-506.
+Click for more
+Articles in Conference Proceedings
+Yisong Yue, Lavanya Marla and Ramayya Krishnan, “An Efficient Simulation-based Approach to Ambulance Allocation and Dynamic Redeployment,” in Proceedings of the 26th Conference on Artificial Intelligence held by the Association for the Advancement of Artificial Intelligence (AAAI), July 22-26, 2012. Acceptance rate ~ 25%
+Naman Shukla, Arinbjorn Kolbeinsson, Ken Otwell, Lavanya Marla and Kartik Yellepeddi, “Dynamic Pricing for Airline Ancillaries with Customer Context”, in Proceedings of the 25th ACM SIGKDD Conference on ACM Knowledge Discovery and Data Mining, August 4-8, 2019. (acceptance rate ~14%)
+Arinbjörn Kolbeinsson, Naman Shukla, Akhil Gupta, and Lavanya Marla, “Leveraging Time Dependency in Graphs”, Graph Representation Learning Workshop at NeurIPS 2020 (Acceptance rate ~25-30%). Invited for Spotlight Presentation (6 of a total of 132 submissions selected for oral presentations). Overall acceptance rate ~5%
+Max Z. Li, Karthik Gopalakrishnan, Hamsa Balakrishnan, Sang Hyun Shin, Darsh Jalan, Aritro Nandi and Lavanya Marla (2020). “Dynamics of Disruption and Recovery in Air Transportation Networks” Ninth International Conference on Research in Air Transportation (ICRAT), June 23-26, 2020, Tampa, Florida.
+Akhil Gupta, Lavanya Marla, Ruoyu Sun, Naman Shukla and Arinbjorn Kolbeinsson, "PenDer: Incorporating Shape Constraints via Penalized Derivatives", accepted to AAAI 2021. Acceptance Rate ~21%
+
+Pending Articles
+Max Z. Li, Karthik Gopalakrishnan, Xiyitao Zhu, Aritro Nandi, Hamsa Balakrishnan and Lavanya Marla, "Identification and Prediction of Disruptions in Airline Networks", Transportation Research Part B: Methodological, under review.
+Boya Hou, Shubhonmesh Bose, Lavanya Marla and Kiruba Haran, “Impact of Aviation Electrification on Airports: Flight Scheduling and Charging”, IEEE Transactions on Intelligent Transportation Systems, under review.
+Lavanya Marla, Jungeun Shin and Sanyukta Deshpande, "Strategic Service Logistics Games with Customer-Induced Competition", 3rd Round Review, Management Science. Decision expected September 2023.
+
+
+
+Honors
+National Merit Scholarship Fellow, National Council for Educational Research and Training. (1998-2004 (awarded in 1998).)
+Alfred P. Sloan Foundation Fellowship. (2008-2009)
+Ann Hershfang Graduate Scholarship. (2010)
+US Department of Transportation Grant to establish a University Transportation Center (UTC) at Carnegie Mellon University (January 2012)
+Invited Keynote speaker, Society of Women Engineers (Fall 2015)
+Winner, Cross-Regional Collaboration Grant for 2017-2018 by the INFORMS Transportation Science and Logistics (TSL) Society, sponsored by Kalyx Warehousing; with Prof. Gitakrishnan Ramadurai as Co-PI. (Nov 2017)
+Honorable Mention in AGIFORS Anna Valicek Competition 2018. (August 2018)
+Best Technical Presentation Award, AGIFORS Revenue Management Study Group Conference, AGIFORS 2019. (May 2019)
+Top-10 most cited paper in Transportation Research: Part A, 2016-2019, "An Empirical Analysis of Bike Sharing Usage and Rebalancing: Evidence from Barcelona and Seville" (July 2019)
+KDD Startup Research Award, with Deepair Solutions, 25th ACM SIGKDD, 2019 (August 2019)
+Best Paper Award, System Performance Track, 2020 (September 2020)
+Semi-finalist, INFORMS Innovative Applications in Analytics Award, 2021
+Center for Advanced Study Fellow, 2021-22, University of Illinois (November 2020)
+Feature article, "Managing EMS Systems with User Abandonment in Emerging Economies" IISE Transactions (March 2021)
+Invited member, Senior Advisory Board, AGIFORS  (Jan 2021-)
+Click for more
+
+
+
+
+
+
+
+
+Related News
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

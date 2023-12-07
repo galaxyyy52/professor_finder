@@ -1,0 +1,124 @@
+
+
+In This SectionPeopleAll Faculty
+Department Faculty
+Adjuncts and Affiliates
+Emeritus Faculty
+
+
+Staff
+Staff Listing
+Service Areas and Offices
+
+
+
+
+
+
+ 
+
+
+ David Cahill 
+
+
+
+Professor and Grainger Distinguished Chair in Engineering
+(217) 333-6753
+d-cahill@illinois.edu
+1022 Superconductivity Center
+
+
+
+For More Information
+Cahill's Web page
+
+Education
+Ph.D. Physics, Cornell University, 1989
+B.S. Engineering Physics, Ohio State University, 1984
+
+
+Academic Positions
+co-Director IBM-Illinois Discovery Accelerator Institute, University of Illinois - (2021-present)
+Grainger Distinguished Chair in Engineering, University of Illinois - (2020-present)
+
+Head of Department - Department of Materials Science and Engineering, University of Illinois - (2010-2018)
+Willett Professor of Engineering. College of Engineering, University of Illinois - (2005-2020)
+Professor  - Department of Materials Science and Engineering, University of Illinois - (2002-present)
+Associate Professor - Department of Materials Science and Engineering, University of Illinois - (1997-2002)
+Assistant Professor - Department of Materials Science and Engineering, University of Illinois - (1991-1997)
+Click for more
+Other Professional Employment
+Postdoctoral Research  Associate, IBM Watson Research Center (1989-91)
+
+Professional Highlights
+David Cahill is the Grainger Distinguished Chair in Engineering, Professor of Materials Science and Engineering, and co-Director of the IBM-Illinois Discovery Accelerator Institute at the University of Illinois at Urbana-Champaign. He joined the faculty of the Department of Materials Science and Engineering at the U. Illinois after earning his Ph.D. in condensed matter physics from Cornell University and working as a postdoctoral research associate at the IBM Watson Research Center. He served as department head from 2010 to 2018. His research program advances physical insights on thermal transport at the nanoscale; extremes of low and high thermal conductivity; the thermal conductivity of soft matter; the thermal science of magnetic materials; and the transport of heat and mass in battery materials. Cahill received the 2018 Innovation in Materials Characterization Award of the Materials Research Society, the 2015 Touloukian Award of the American Society of Mechanical Engineers, and the 2023 Klemens Award from the International Conference on Phonon Scattering in Condensed Matter; and is a fellow of the MRS, the American Physical Society, the AAAS, and was elected a member of the American Academy of Arts and Sciences in 2023.
+
+
+Research StatementThermal management is a critical  issue in a wide variety of  applications of thin films materials from  state-of-the-art  microprocessors to turbine engines. Heat can be carried by any   excitation of the solid that is thermally excited: lattice vibrations,  electrons,  spin-waves. The lifetime or coherence of these excitations  have a complex  dependence the microstructure of materials; at nanometer  length scales, the  transfer of heat between various excitations at  interfaces becomes the  controlling factor. Our group studies the basic  science of thermal transport in  materials with a particular emphasis on  the exchange of thermal energy at  solid-solid and solid-liquid  interfaces. We have recently developed new and  powerful methods of  characterizing nanoscale thermal transport using ultrafast  laser  metrology of precisely controlled thin film multilayers and suspensions   of metallic nanoparticles.  We are currently working to extend our   experimental methods to higher resolution in time, space, and energy.
+Research Interests
+nanoscale thermal transport, GHz frequency acoustics, magnetic materials, heat and mass transport in soft materials, ultrafast magneto-optics, materials property microscopy
+
+
+Research Areas
+Ceramics
+Electronic Materials
+Metals
+Polymers
+
+
+Research Topics
+Electronics & Communications
+Energy & Environment 
+Nanoscale Science and Technology
+
+Selected Articles in Journals
+Jinchi Sun, Guangxin Lv, and David G. Cahill, “Frequency-domain probe beam deﬂection method for measurement of thermal conductivity of materials on micron length scale,” Rev. Sci. Instrum. 94, 014903 (2023).
+Guangxin Lv, Chengtian Shen, Naisong Shan, Elynn Jensen, Xiaoru Li, Christopher M. Evans, and David G. Cahill, “Odd-even eﬀect on the thermal conductivity of liquid crystalline epoxy resins,” PNAS 119, e2211151119 (2022).
+Xiaoyang Ji, Satoshi Matsuo, Nancy R. Sottos, and David G. Cahill, “Anisotropic thermal and electrical conductivities of individual polyacrylonitrile-based carbon ﬁbers,” Carbon 197, 1–9 (2022).
+Shi En Kim, Fauzia Mujid, Akash Rai, Fredrik Eriksson, Joonki Suh, Preeti Poddar, Ariana Ray, Chibeom Park, Erik Fransson, Yu Zhong, David A. Muller, Paul Erhart, David G. Cahill, and Jiwoong Park, "Extremely anisotropic van der Waals thermal conductors," Nature 597, 660–665 (2021).
+ Guangxin Lv, Elynn Jensen, Christopher M. Evans, and David G. Cahill, "High thermal con- ductivity semicrystalline epoxy resins with anthraquinone-based hardeners," ACS Appl. Poly. Mat. 3, 4430–4435 (2021).
+Zhe Cheng, Beniamin Zahiri, Xiaoyang Ji, Chen Chen, Darshan Chalise, Paul V. Braun, and David G. Cahill, "Good solid-state electrolytes have low glass-like thermal conductivity," Small 17, 2101693 (2021).
+Junyi Wu, Manohar H. Karigerasi, Daniel P. Shoemaker, Virginia O. Lorenz,  and David G. Cahill, "Temperature dependence of the anisotropic magnetoresistance of the metallic antiferro- magnet Fe2As," Phys. Rev. Appl. 15, 054038 (2021).
+Guangxin Lv, Elynn Jensen, Maisong Shan, Christopher M. Evans, and David G. Cahill, "Effect of aromatic/aliphatic structure and cross-linking on the thermal conductivity of epoxy resins," ACS Appl. Polymer Mat. 3, 1555–1562 (2021).
+Kexin Yang, Kisung Kang, Zhu Diao, Manohar H. Karigerasi, Daniel P. Shoemaker, Andre Schleife, and David G. Cahill, "Magnetocrystalline anisotropy of the easy-plane metallic antiferromagnet Fe2As," Phys. Rev. Mat. 102, 064415 (2020).
+Hyejin Jang, Johannes Kimling, and David G. Cahill, "Non-equilibrium heat transport in Pt and Ru probed by an ultrathin Co thermometer," Phys. Rev. B 101, 064304 (2020).
+Qiye Zheng, Chunhua Li, Akash Rai, Jacob H. Leach, David A. Broido, David G. Cahill, "Thermal conductivity of GaN, 71GaN and SiC from 150 K to 850 K," Phys. Rev. Mat. 3, 014601 (2019).
+Qiye Zheng, Gaohua Zhu, Zhu Diao, Debasish Banerjee, and David G. Cahill, "High contrast thermal conductivity change in Ni-Mn-In Heusler alloys near room-temperature," Advanced Engineering Materials 21, 1801342 (2019).
+Jungwoo  Shin,  Jaeuk  Sung,  Minjee  Kang,  Xu  Xie,  Byeongdu  Lee,  Kyungmin  Lee,  Timothy
+White,  Cecilia  Leal,  Nancy  R.  Sottos,  Paul  V.  Braun  and  David  G.  Cahill,  
+“Light-triggered
+thermal conductivity switching in azobenzene polymers,” PNAS 116, 5973-5978 (2019).
+
+Sheng Li, Qiye Zheng, Yinchuan Lv, Xiaoyuan Liu, Xiqu Wang, Pinshane Huang, David G. Cahill
+and Bing Lv, “Ultrahigh thermal conductivity in cubic boron arsenide crystals,” Science 361, 579-581 (2018).
+
+Click for more
+Research Honors
+Paul G. Klemens Award, International Conference on Phonon Scattering in Condensed Matter (2023)
+Elected member, American Academy of Arts and Sciences, Engineering and Technology Section (2023)
+Grainger Distinguished Chair in Engineering, College of Engineering, University of Illinois at Urbana-Champaign (2020-present)
+Tau Beta Pi Daniel C. Drucker Eminent Faculty Award, College of Engineering, University of Illinois at Urbana-Champaign (2020)
+Fellow, American Association for the Advancement of Science, Section on Engineering (2020)
+Innovation in Materials Characterization Award, Materials Research Society (2018)
+Yeram S. Touloukian Award, ASME (2015)
+Fellow of the Materials Research Society (2012)
+Donald Bigger Willett Professor of Engineering, University of Illinois, College of Engineering (2005-2020)
+Fellow of the American Physical Society (2005)
+University Scholar, University of Illinois (2000-2003)
+Peter Mark Memorial Award, AVS (1998)
+Click for more
+
+Recent Courses TaughtMSE 201 - Phases and Phase Relations
+MSE 396 - Introduction to Research
+MSE 401 - Thermodynamics of Materials
+MSE 404 QM1 (MSE 404 QM2, MSE 404 QM3, MSE 404 QS1, MSE 404 QS2, MSE 404 QS3) - Quantum States
+
+
+
+
+
+
+
+
+
+

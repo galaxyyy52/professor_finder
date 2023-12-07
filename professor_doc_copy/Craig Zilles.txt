@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+ 
+
+
+Craig Zilles he/him/his
+
+
+
+Professor and Severns Faculty Scholar
+(217) 244-0553
+zilles@illinois.edu
+4112 Siebel Center for Comp Sci
+
+
+
+For More Information
+Prof. Zilles' Home Page
+
+BiographyCraig Zilles is an Associate Professor in the Computer Science department at the University of Illinois at Urbana-Champaign. His current research focuses on applying computing and data analytics to education, including the development of the Computer-based Testing Facility (CBTF). Historically, his research has focused on the interaction between compilers and computer architecture, especially in the context of managed and dynamic languages. He received his Ph.D. in 2002 from Wisconsin-Madison for his work with Guri Sohi on Speculative Slices and Master/Slave Speculative Parallelization. Prior to his work on computer architecture and compilers, he developed the first algorithm that allowed rendering arbitrary three-dimensional polygonal shapes for haptic interfaces (force-feedback human-computer interfaces).  He has been widely recognized for excellent teaching at the undergraduate level; he has received the campus  Excellence in Undergraduate Teaching in 2018, the IEEE Education Society's 2010 Mac Van Valkenburg Early Career Teaching Award, the College of Engineering's Rose Award and Everitt Award for Teaching Excellence, and Illinois Student Senate Teaching Excellence Award.   He holds 5 patents, is a recipient of an NSF CAREER award, and his research has been recognized by best paper awards from ASPLOS in 2010 and 2013 and by selection for inclusion in the IEEE Micro Top Picks from the 2008 Computer Architecture Conferences.  
+Research Interests
+computer-based testing, learning analytics, computer architecture, compiler construction, dynamic optimization,  program profiling, speculation, general-purpose processors, managed languages, dynamic languages, computer science education, concept inventories
+
+
+Research Areas
+Computers and Education
+
+
+
+Recent Courses TaughtCS 105 - Intro Computing: Non-Tech
+CS 126 - Software Design Studio
+CS 225 - Data Structures
+CS 233 - Computer Architecture
+CS 296 33 - Honors Course
+CS 498 OL3 (CS 498 OL4) - Intro to Online Learning Sys
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CAE (CS 591 CED, CS 591 CZ) - Advanced Seminar
+ENG 498 OL3 (ENG 498 OL4) - Intro to Online Learning Sys
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Illinois Computer Science Summer Teaching Workshop Presents Innovative Approaches to Teaching the Subject
+
+
+Grainger Engineering Investitures Honor Seven Distinguished CS Faculty
+
+
+New CS Certification Program to Help Illinois High School Teachers, Students Level Up
+
+
+Several Illinois CS Research Projects Result in Best Paper Awards
+
+
+CS Professors Prepare to Enhance Engineering Teaching Through SIIP Grants
+
+
+Herman's Unconventional Path Unveils Award-Worthy Teaching Skillset
+
+
+
+News Notes
+
+
+
+
+
+
+
+

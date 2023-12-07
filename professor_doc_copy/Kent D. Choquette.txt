@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+ 
+
+
+Kent D Choquette 
+
+
+Administrative TitlesSony Faculty Scholar (2004-2007)Abel Bliss Professor of Engineering
+
+Professor
+(217) 265-0563
+choquett@illinois.edu
+3108 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Photonic Device Research Group Home Page
+
+Education
+Ph.D. in Materials Science, University of Wisconsin-Madison, 1990
+
+BiographyKent D. Choquette received B.S. degrees in Engineering Physics and Applied Mathematics from the University of Colorado-Boulder and the M.S. and Ph.D. degrees in Materials Science from the University of Wisconsin-Madison.  From 1990 to 1992 he held a postdoctoral appointment at AT&T Bell Laboratories, Murray Hill, NJ. He then joined Sandia National Laboratories in Albuquerque, NM, and from 1993 to 2000 was a Principal Member of Technical Staff.  While at Sandia in 1994 he invented and demonstrated the first monolithic selectively oxidized vertical cavity surface emitting laser (VCSEL) which today is referred to as the oxide-confined VCSEL, which toay is manufactured around the world and over a billion have been deployed in data communication and sensing applications. He became a Professor in the Electrical and Computer Engineering Department at the University of Illinois in 2000.  His Photonic Device Research Group is centered around the design, fabrication, characterization, and applications of vertical cavity surface-emitting lasers (VCSELs), photonic crystal light sources, nanofabrication technologies, and hybrid integration techniques for photonic devices. Dr. Choquette has authored over 300 technical publications and three book chapters, and has presented numerous invited talks and tutorials.  He is an Associate Editor of the Journal of Lightwave Technology, and served in the past as Associate Editor of IEEE Journal of Quantum Electronics, and IEEE Photonic Technology Letters, and as a Guest Editor of IEEE Journal of Selected Topics in Quantum Electronics.  From 2000 to 2002, he was an IEEE/Lasers and Electro-Optics Society (LEOS) Distinguished Lecturer.  He was awarded the 2008 IEEE/Photonics Society Engineering Achievement Award, the 2012 Nick Holonyak, Jr. Award from the Optical Society of America, the 2013 Distinguished Service Award from the IEEE Photonics Society, and the 2016 Technology Achievement Award from SPIE. He has served as the IEEE Photonics Society Vice President of Conferences, Vice President of Technical Affairs, President Elect, and in 2016-2017 he will serve as the President. He is a Fellow of the IEEE, a Fellow of the Optical Society of America, a Fellow of SPIE, and a Fellow of the American Association for the Advancement of Science.
+Academic Positions
+Abel Bliss Professor of Engineering, University of Illinois, 2012 to present
+Professor, University of Illinois, August 2000 to present
+
+Other Professional Employment
+Principal Member of Technical Staff, Sandia National Laboratories, Albuquerque NM, January 1994 to July 2000
+Postdoctoral Member of Technical Staff, Sandia National Laboratories, Albuquerque, NM, September 1992 to December 1993
+Postdoctoral Member of Technical Staff, AT&T Bell Laboratories, Murray Hill NJ, July 1990 to August 1992
+
+Teaching StatementThe among the reasons that I joined the University of Illinois, after spending 10 years at Bell Laboratories and Sandia National Laboratories, is the opportunity to teach the next generation of scientists and engineers, and the personal challenge and freedom to learn new areas of science and technology.  I teach undergraduate courses covering the physics and fabrication of solid state devices.  In particular, I teach a new introduction course on photonics and its applications in digital information distribution (ECE304), as well as a hands-on photonics lab where students can work with and learn about gas, semiconductor, and fiber lasers (ECE495).  I also teach three graduate courses, an introduction to compound semiconductors and semiconductor lasers (ECE532); a graduate course which I created that covers quantum optoelectronics and microcavity lasers, where students learn applied quantum mechanics and quantum optics (ECE572); and a graduate course which I created that covers the interaction of light with matter on the nanoscale (ECE574).
+Research StatementThe Photonic device research group is involved in the study of semiconductor photonic and optoelectronic device physics, fabrication technologies, and systems with a strong emphasis on vertical cavity surface emitting lasers (VCSELs). Photonic devices are key components for the infrastructure of the Information Age. Active devices, such as VCSELs, are the foundation for short and soon medium length optical fiber based interconnect applications. Currently there are research efforts to develop new VCSEL devices, such as composite resonator VCSELs and vertical cavity photonic integrated circuits, as well as to establish new VCSEL applications, such as 2-dimensional source and receiver arrays for high aggregate rate interconnects.  Group research into new compound semiconductor processing technologies, such as selective oxidation and heterogeneous integration techniques is also pursued. Finally, the next generation of photonic devices, such as photonic crystal membrane lasers, waveguides and nanocavities, which will enable the next generation of quantum optic communication networks, as well as opto-fluidic microsystems for lab-on-the-chip sensing and health care are under under study.
+Undergraduate Research OpportunitiesThe Photonic device research group is involved in the study of semiconductor photonic and optoelectronic device physics, fabrication technologies, and systems with a strong emphasis on vertical cavity surface emitting lasers (VCSELs). Photonic devices are key components for the infrastructure of the Information Age. Active devices, such as VCSELs, are the foundation for short and soon medium length optical fiber based interconnect applications. Currently there are research efforts to develop new VCSEL devices, such as composite resonator VCSELs and vertical cavity photonic integrated circuits, as well as to establish new VCSEL applications, such as 2-dimensional source and receiver arrays for high aggregate rate interconnects.  Group research into new compound semiconductor processing technologies, such as selective oxidation and heterogeneous integration techniques is also pursued. Finally, the next generation of photonic devices, such as photonic crystal membrane lasers, waveguides and nanocavities, which will enable the next generation of quantum optic communication networks, as well as opto-fluidic microsystems for lab-on-the-chip sensing and health care are under under study. Undergraduate student researchers should have completed a introduction course on photonics, such as ECE304, ECE455, or ECE495 and have interest in experimental laboratory activities.
+Research Interests
+Vertical cavity surface emitting lasers (VCSELs)
+Micro-cavity and nano-cavity lasers
+PIN and avalanche photodetectors
+Photonic crystals
+Heterogenous integration technologies
+High bandwidth communication systems
+Optical sensing applications including medical and environmental sensing
+Click for more
+
+Research Areas
+Coherent optics/imaging
+Communications
+Computational electromagnetics
+Electromagnetics and Optics
+Lasers and optical physics
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Modeling and simulation of laser systems 
+Nano-electro mechanical systems (NEMS)
+Nano-materials
+Nano-photonics
+Nanotechnology
+Optical communications
+Photonic crystals
+Photonic integrated circuits (PICs)
+Quantum nanostructures for electronics and photonics
+Radar and LIDAR
+Remote Sensing
+Semiconductor electronic devices
+Semiconductor lasers and photonic devices
+Semiconductor materials
+Sensors
+Sprintronics
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Electronics, Plasmonics, and Photonics
+Energy
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+Semiconductor devices and manufacturing
+Solar and renewable technology
+Click for more
+Chapters in Books
+Kent D. Choquette, "Verical Cavity Surface Emitting Lasers (VCSELs)," Chapter 8 in Semiconductor Lasers: Fundamentals and Applications, Woodhead Publishing Series in Biomaterials (2013).
+D. F. Siriani and K. D. Choquette, "Coherent Coupling of Vertical Cavity Surface Emitting Laser Arrays," Chapter 6 in Semiconductors and Semimetals, Elsevier, 2012.
+W. W. Chow, K. D. Choquette, and S. W. Koch, "Physics of the Gain Medium in Vertical Cavity Surface Emitting Semiconductor Lasers," Chapter 2 in Vertical Cavity Surface Emitting Laser Devices, Ed. H. Li and K. Iga, Springer Verlag, New York, USA, 2002.
+K. D. Choquette and K. M. Geib, "Fabrication and Performance of Vertical Cavity Surface Emitting Lasers," Chapter 5 in Vertical Cavity Surface Emitting Lasers,  ed. C. Wilmsen, H. Temkin, and L. Coldren, Cambridge University Press, Cambridge, UK 1999.
+
+Selected Articles in Journals
+S. T. M. Fryslie, M. T. Johnson, M. P. Tan, and K. D. Choquette, "Coherence Tuning in Optically Coupled Phased Vertical Cavity Laser Arrays," IEEE J. Quan. Electron. 51, 2600206 (2015).
+
+M. T. Johnson, D. F. Siriani, M. P. Tan, and K. D. Choquette, "Beam Steering via Resonance Detuning in Coherently Coupled Vertical Cavity Laser Arrays," Appl. Phys. Lett. 103, 201115 (2013).
+
+M. T. Johnson, D. F. Siriani, J. D. Sulkin, and K. D. Choquette, "Phase and Coherence Extraction from Vertical Cavity Surface Emitting Laser Phased Array," Appl. Phys. Lett. 101, 031116 (2012).
+
+D. F. Siriani, M. P. Tan, A. M. Kasten, A. C. Lehman, P. O. Leisher, J. J. Raftery, Jr., A. J. Danner, and K. D. Choquette, “Mode Control in Photonic Crystal Vertical Cavity Surface Emitting Lasers and Coherent Arrays (invited),” J. Sel. Topics. Quan. Electron. 15. pp. 909-917 (2009).
+
+A. J. Danner, J. C. Lee, J. J. Raftery, Jr., N. Yokouchi, and K. D. Choquette, "Coupled-defect photonic crystal vertical-cavity surface emitting lasers," Electronic Letters. vol. 39, pp. 1323-1324, 2003.
+
+K. D. Choquette and H. Q. Hou, "Vertical-Cavity Surface Emitting Lasers:  Moving from Research to Manufacturing," (invited) Proceedings of the IEEE 85, 1730-1739 (1997).
+K. D. Choquette, K. M. Geib, C. I. H. Ashby, R. Tweston, O. Blum, H. Q. Hou, B. E. Hammons, D. Mathes, and R. Hull. "Advances in Selective Wet Oxidation of AlGaAs Alloys, " (invited) Select. Topics in Quantum. Electron. 3, 916-926 (1997).
+K. D. Choquette, K. L. Lear, R. P., Schneider, Jr., K. M. Geib, J. J. Figiel, and R. Hull "Fabrication and Performance of Selectively Oxidized Vertical-Cavity Lasers," Photon. Tech. Lett. 7, 1237-1239 (1995).
+K. D. Choquette, R. P. Schneider, Jr., K. L. Lear, and K. M. Geib, "Low Threshold Voltage Vertical-Cavity Lasers Fabricated by Selective Oxidation," Electron. Lett.  30, 2043-2044 (1994).
+Click for more
+Journal Editorships
+Editor-in-Chief, The Ration Board (Society of Ration Token Collectors), 2018-present
+Associate Editor, Journal of Lightwave Technology, 2009-2015
+
+Teaching Honors
+Spring 2008 list of faculty rated excellent by students (Spring 2008)
+Fall 2008 list of faculty rated excellent by students (Fall 2008)
+Spring 2009 list of faculty rated excellent by students (Spring 2009)
+Spring 2010 list of faculty rated excellent by students (Spring 2010)
+Fall 2011 list of faculty rated excellent by students (Fall 2011)
+Spring 2012 list of faculty rated excellent by students (Spring 2012)
+Spring 2013 list of faculty rated excellent by students (Spring 2013)
+Spring 2017 list of faculty rated excellent by students (Spring 2017)
+Fall 2018 list of faculty rated excellent by students (Fall 2018)
+Click for more
+Research Honors
+Fellow of American Association for Advancement of Science (2013)
+Fellow of Institute of Electrical and Electronic Engineers (IEEE) (2003)
+Fellow of International Society for Optical Engineering (SPIE) (2008)
+Fellow of Optical Society of America (2004)
+IEEE Photonics Society Distinguished Service Award (2013)
+IEEE Photonics Society Engineering Achievement Award (2008)
+Nick Holonyak, Jr. Award from Optical Society of America (2012)
+SPIE Technology Achievement Award (2016)
+Click for more
+
+Recent Courses TaughtECE 304 - Photonic Devices
+ECE 532 - Compnd Semicond & Diode Lasers
+ECE 572 - Quantum Opto-Electronics
+ECE 574 - Nanophotonics
+
+
+
+
+
+
+
+Related News
+
+
+Illinois ECE graduate student wins the Gregory Stillman Semiconductor Research Award
+
+
+Choquette's team investigates new physics laws to enhance semiconductor lasers
+
+
+Prof. Choquette receives SPIE award for VCSEL research
+
+
+ECE graduate student develops new method to tune VCSEL arrays
+
+
+Choquette elected president of IEEE Photonics Society
+
+
+Blane receives student veteran award
+
+
+
+
+
+
+
+

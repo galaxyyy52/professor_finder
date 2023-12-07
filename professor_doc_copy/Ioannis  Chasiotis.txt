@@ -1,0 +1,212 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Ioannis Chasiotis 
+
+
+Administrative Titles
+
+Professor,  Associate Head, and Director of Graduate Studies
+(217) 244-1474
+chasioti@illinois.edu
+305A Talbot Laboratory
+
+
+ASSOC HEAD
+(217) 244-1474
+chasioti@illinois.edu
+305A Talbot Laboratory
+
+
+
+Education
+Ph.D. Aeronautics-Minor in Materials Science, California Institute of Technology, Pasadena, CA. 2002
+M.S. Aeronautics, California Institute of Technology, Pasadena, California. 1998
+Diploma in Chemical Engineering, Aristotle University of Thessaloniki, Greece. 1996
+
+Academic Positions
+Professor, University of Illinois at Urbana-Champaign, Aerospace Engineering, Micro and Nanotechnology Laboratory, Mechanical Sciences and Engineering, 2012-
+Associate Professor, University of Illinois at Urbana-Champaign, Aerospace Engineering.
+Affiliate: Beckman Institute for Advanced Science and Technology, Micro and Nanotechnology Laboratory, Mechanical Sciences and Engineering, 2008-2012
+Assistant Professor, University of Illinois at Urbana-Champaign, Aerospace Engineering. 
+Affiliate, Beckman Institute for Advanced Science and Technology.
+Affiliate, Micro and Nanotechnology Laboratory. 2005-2008
+Assistant Professor, University of Virginia, Mechanical and Aerospace Engineering. 2001-2005
+
+Professional Highlights
+Associate Head and Director of Graduate Studies, 2022
+Fellow of the Society for Experimental Mechanics, 2020
+Caterpillar Professor of Engineering, 2020
+Editor in Chief, Experimental Mechanics, 2016-2020
+University of Illinois Scholar, 2016-2019
+Fellow of the American Society for Mechanical Engineers, 2015
+A.J. Durelli Award from the Society for Experimental Mechanics, 2013
+Hetenyi Best Paper Award in Journal Experimental Mechanics, 2012
+ASME Thomas J.R. Hughes Young Investigator Award, 2011
+Journal of Strain Analysis Young Investigator Lecture, Society for Experimental Mechanics, 2011 
+Society for Engineering Science Young Investigator Medal, 2010
+Presidential Early Career Award for Scientists and Engineers (PECASE), 2010
+Willett Faculty Scholar of Engineering, 2009
+Member of the Executive Board, Society for Experimental Mechanics, 2008-2010
+National Science Foundation (NSF) CAREER Award, 2008
+Office of Naval Research Young Investigator Award, 2007
+Associate Technical Editor for Experimental Mechanics, 2006-2012
+Click for more
+Research Interests
+Applications of scanning probe microscopy in mechanics of materials
+Mechanical reliability, fracture, and fatigue of MEMS and thin film materials
+Mechanics of interfaces
+Time-dependent mechanics of soft and biological materials at small length scales
+Deformation and damage mechanics of inhomogeneous/anisotropic materials
+Experimental mechanics at the nanoscale
+Click for more
+
+Research Areas
+Aerospace Materials
+
+
+Chapters in Books
+I. Chasiotis, "Mechanical Properties of Nanomaterials,” in Encyclopedia of Aerospace Engineering, Editors: R. Blockley and W. Shyy, John Wiley & Sons Ltd, Chichester, UK, pp. 2269-2276, (2010).
+M. Naraghi, and I. Chasiotis, “Mechanics of PAN Nanofibers” in Major accomplishments in composite materials and sandwich structures, Editors: E.E. Gdoutos and I.M. Daniel, Springer, pp. 757-778, (2009).
+I. Chasiotis, (Intived) Chapter 17: Atomic Force Microscopy in Solid Mechanics, Handbook for Experimental Solid Mechanics, Editor: W.N. Sharpe, Jr., Springer, pp. 409-443, (2008)
+I. Chasiotis, "Experimental Mechanics for MEMS and Thin Films: Direct and Local Sub-Micron Strain Measurements," in Micromechanics and Nanoscale Effects: MEMS, Multi-Scale Materials and Mirco-Flows, Editor(s): V. M. Harik and L.-S. Luo, Kluwer Academic Press, pp. 3-37, (2004).
+I. Chasiotis, W.G. Knauss, "Experimentation at the Micron-and Submicron Scale," in Comprehensive Structural Integrity Vol. 8. Interfacial and Nanoscale Failure. Volume Editors: W. Gerberich and W. Yang, Elsevier Science, pp. 41-87, (2003).
+
+Selected Articles in Journals
+O.E. Moronkeji, D. Das, S. Lee, K.M. Chang, and I. Chasiotis, "Local electrical conductivity of carbon black/PDMS nanocomposites subjected to large deformations." Journal of Composite Materials 57 (4), pp. 507-519, (2023).
+F. Yang, D. Das and I. Chasiotis, “Effect of Strain Rate on Mechanical Behavior of Collagen Fibrils”, Applied Physics Letters 120, p. 114101 (2022). 
+F. Yang, D. Das, K. Karunakaran, S. Thomopoulos, G.M. Genin and I. Chasiotis, In vitro Time Dependent Mechanical Behavior of Reconstituted Mammalian Collagen Fibrils, Acta Biomaterialia, (2022). 
+F. Yang, D. Das and I. Chasiotis, Microscale Creep and Stress Relaxation Experiments with Individual Collagen Fibrils, Optics and Lasers in Engineering 150, pp. 106869, (2022).
+K-K. Hung and I. Chasiotis, “Control of Surface Wrinkling through Compliant Nanostructured Interfaces,” Advanced Materials Interfaces 9 (3), p. 2101583, (2021).
+D. Das and I. Chasiotis, Rate Dependent Adhesion of Nanoscale Polymer Contacts, Journal of the Mechanics and Physics of Solids 156, pp. 104597, (2021).
+K-K. Hung and I. Chasiotis, Control of Substrate Strain Transfer to Thin Film Photovoltaics via Interface Design, Solar Energy 255, pp. 643-655, (2021). 
+D. Das, I. Chasiotis, “Sliding of Adhesive Nanoscale Polymer Contacts,” Journal of the Mechanics and Physics of Solids 140, pp. 103931, (2020).
+K. Şahin, J. K. Clawson, J. Singletary, I. Chasiotis, “Shear Strength of Homopolymer and Copolymer Aramid Fibers,” Polymer 186, pp. 122034, (2020).
+D. Antartis, H. Wang, J. Wang, S. J. Dillon, H.B. Chew, I. Chasiotis, “Chemical Lithiation of Individual Columnar and Helical Si Nanostructures with Hierarchical Structure”, ACS Applied Materials and Interfaces 11, pp. 11715−11721, (2019). 
+J. Liu, D. Das, Y. Fan, A. Schwartz, S. Thomopoulos, G.M. Genin and I. Chasiotis, “Energy Dissipation in Mammalian Collagen Fibrils: Cyclic Strain-induced Damping, Toughening, and Strengthening”, Acta Biomaterialia 80, pp. 217–227, (2018).
+K. Şahin, J. K. Clawson, S. Horner, J. Zheng, J. Singletary, A. Pelegri, I. Chasiotis, “Limiting Orientation Effects on Modulus and Strength of Aramid Fibers,” Polymer 140, pp. 96-106, (2018).
+J. F. Gonzalez, D. Antartis, M. Martinez, S. J. Dillon, I. Chasiotis and J. Lambros, “Three-Dimensional Study of Graphite-Composite Electrode Chemo-Mechanical Response using Digital Volume Correlation”, Experimental Mechanics 58(4), 573-583, (2018).
+J. F. Gonzalez, D. Antartis, I. Chasiotis, S.J. Dillon, J. Lambros, “In-situ X-ray Micro-CT Characterization of Chemo-Mechanical Relaxations during Sn Lithiation,” Journal of Power Sources 381, pp. 181–189, (2018). 
+D. Antartis, I. Chasiotis, “Individual Helical Nanostructures for Ultra-compliant Interfaces”, Materials and Design 144, pp. 182-191, (2018).
+D. Antartis, R. Mott, D. Das, D. Shaddock, I. Chasiotis, “Cu Nanospring Films for Advanced Nanothermal Interfaces”, Advanced Engineering Materials 20(3), pp. 1700910(1-6), (2018). 
+D. Antartis, R. Mott, I. Chasiotis, “Si Nanospring Films for Compliant Interfaces,” Journal of Materials Science 53(8), pp. 5826-5844, (2018).
+D. Das, L. Sanchez, J. Martin, B. Power, S. Isaacson, R.G. Polcawich, I. Chasiotis, “Control of ferroelectric and linear piezoelectric response of PZT films through texture”, Journal of the American Ceramics Society 101, pp. 2965–2975, (2018).
+D. Das, L. Sanchez, J. Martin, B. Power, S. Isaacson, R.G. Polcawich, I. Chasiotis, “Control of the Mechanical Response of Freestanding of PbZr0.52Ti0.48O3 (PZT) Films through Texture”, Applied Physics Letters 109, pp. 131905, (2016).
+D. Das, B. Power, J.P. Martin, R.G. Polcawich, I. Chasiotis, “Role of Seed Layer in the Inelastic Response of Epitaxially Grown Textured Metal Films”, Acta Materialia 112, pp. 390-402, (2016).
+P.V. Kolluru, I. Chasiotis, “A master curve for the size and strain rate dependent large deformation behavior of PS nanofibers at room temperature”, Polymer 99, pp. 544-551, (2016).
+N. Karanjgaokar, I. Chasiotis, “Creep behavior of nanocrystalline Au films as a function of temperature”, Journal of Materials Science 51, pp. 3701-3714, (2016).
+H. G. Chae, B. A. Newcomb, P. V. Gulgunje, Y. Liu, K. K. Gupta, M. G. Kamath, K. M. Lyons, S. Ghoshal, C. P., L. Giannuzzi, K. Sahin, I. Chasiotis, S. Kumar, “High Strength and High Modulus Carbon Fibers”, Carbon 93, pp. 81-87, (2015).
+J. Gonzalez, K. Sun, M. Huang, S. Dillon, I. Chasiotis, and J. Lambros, “X-ray microtomography characterization of Sn particle evolution during lithiation/delithiation in lithium ion batteries”, Journal of Power Sources 285, pp. 205–209, (2015).
+S. Yagnamurthy, B. Boyce and I. Chasiotis, “Role of Microstructure and Doping on the Mechanical Strength and Toughness of Polysilicon Thin Films”, Journal of Microelectromechanical Systems 24 (5), pp. 1436 - 1452, (2015).
+D. Antartis, S. Dillon, I. Chasiotis, “Effect of Porosity in Electrochemical and Mechanical Properties of Composite Li-ion Anodes”, Journal of Composite Materials, pp. 1-14, DOI: 10.1177/0021998314568653, (2015).
+K. Şahin, N.A. Fasanella, P.V. Kolluru, I. Chasiotis, “Mechanical Property Experiments with Ultra-High Strength Micrometer Scale Fibers”, Experimental Mechanics 55 (5) pp. 877-885, (2015).
+P.V. Kolluru, I. Chasiotis, “Interplay of Molecular and Specimen Length Scales in the Large Deformation Mechanical Behavior of Polystyrene Nanofibers”, Polymer 56, pp. 507-515, (2015).
+J. Gonzalez, K. Sun, M. Huang, J. Lambros, S. Dillon, I. Chasiotis, “Three dimensional studies of particle failure in silicon based composite electrodes for lithium ion batteries”, Journal of Power Sources 269, pp. 334-343, (2014).
+K. Şahin, N.A. Fasanella, I. Chasiotis, K.M. Lyons, B.A. Newcomb, M.G. Kamath, H.G. Chae, S. Kumar, “High strength micron size carbon fibers from polyacrylonitrile–carbon nanotube precursors”, Carbon 77, pp. 442–453 (2014).
+D. Antartis and I. Chasiotis, “Residual Stress and Mechanical Property Measurements in Amorphous Si Photovoltaic Thin Films”, Solar Energy 105, pp. 694–704, (2014).
+T. Ozkan, D. Shaddock, D.M. Lipkin, and I. Chasiotis, “Mechanical strengthening, stiffening, and oxidation behavior of pentatwinned Cu nanowires at near ambient temperatures”, Materials Research Express 1, pp. 035020-1 – 18, (2014).
+M. Naraghi, P.V. Kolluru, and I. Chasiotis, Invited: “Time and Strain Rate Dependent Mechanical Behavior of Polymeric Nanofibers”, Journal of the Mechanics and Physics of Solids 62, pp. 257–275, (2014).
+P. V. Kolluru, J. Lipner, L. Wenying, Y. Xia, S. Thomopoulos, G.M. Genin and I. Chasiotis, “Strong and Tough Mineralized PLGA Nanofibers for Tendon-to-bone Scaffolds”, Acta Biomaterialia 9, pp. 9442–9450, (2013).
+S. Yagnamurthy, Q. Chen, C. Chen, and I. Chasiotis, “Erosion Rates of Epoxy-Silica Nanocomposites at the Lower Earth Orbit Environment of the International Space Station”, Journal of Composite Materials 47 (1), pp. 107-117, (2013).
+N. Karanjgaokar, F. Stump, P. Geubelle, and I. Chasiotis, “A Thermally Activated Model for Room Temperature Creep in Nanocrystalline Au Films at Intermediate Stresses”, Scripta Materialia, 68 (8), pp. 551-554, (2013).
+K. Hanschmidt, T. Tätte, I. Hussainova, M. Part, H. Mändar, K. Roosalu, I. Chasiotis, “Optimization of Mechanical Strength of Titania Microfibers Fabricated by Direct Drawing”, Applied Physics A: Materials Science and Processing 113(3), pp. 663-671, (2013).
+T. Ozkan, Q. Chen, and I. Chasiotis, “Interfacial Strength and Fracture Energy of Individual Carbon Nanofibersin Epoxy Matrix as a Function of Surface Conditions”, Composites Science and Technology 72, pp. 965-975, (2012).
+N. Karanjgaokar, C. Oh, J. Lambros, and I. Chasiotis, “Temperature and Strain Rate Effects on the Mechanical Behavior of Nanocrystalline Au Thin Films”, Acta Materialia 60, pp. 5352–5361, (2012).
+F.V. Stump, N. Karanjgaokar, P.H. Geubelle, and I. Chasiotis, “A Multiscale Model of Rate Dependence of Nanocrystalline Thin Films”, Journal for Multiscale Computational Engineering 10 (5), pp 441–459, (2012).
+S. Yagnamurthy, I. Chasiotis, J. Lambros, R. Polcawich, J. Pulskamp, M. Dubey, “Mechanical and Ferroelectric Behavior of PZT Thin Films,” Journal of Microelectromechanical Systems 20, pp. 1250-1258, (2011).
+L. Sun, N. Karanjgaokar, K. Sun, I. Chasiotis, W.C. Carter, and S. Dillon, “High-Strength All-Solid Lithium Ion Electrodes Based on Li4Ti5O12”, Journal of Power Sources 196, pp. 6507–6511, (2011).
+M. Naraghi, S. Arshad, and I. Chasiotis, “Molecular Orientation and Mechanical Property Size Effects in Electrospun Polyacrylonitrile Nanofibers”, Polymer 52, pp. 1612-1618, (2011).
+S.N. Arshad, M. Naraghi, I. Chasiotis, “Strong Carbon Nanofibers from Electrospun Polyacrylonitrile”, Carbon 49, pp. 1710-1719, (2011).
+N. Karanjgaokar, C. Oh, and I. Chasiotis, “Microscale Experiments at Elevated Temperatures Evaluated with Digital Image Correlation”, Experimental Mechanics 51, pp. 609-618, (2011).
+M. Naraghi, T. Ozkan, I. Chasiotis, S. S. Hazra, and M. P. de Boer “MEMS platform for on-chip nanomechanical experiments with strong and highly ductile nanofibers”, Journal of Micromechanics and Microengineering 20, pp. 125022-1-9, (2010).
+K. Jonnalagadda, N. Karanjgaokar, I. Chasiotis, J. Chee, and D. Peroulis, “Strain Rate Sensitivity of Nanocrystalline Au Films at Room Temperature”, Acta Materialia 58, pp. 4674-4684, (2010).
+J. Kimberley, J. Lambros, I. Chasiotis, R. Polcawich, J. Pulskamp, and M. Dubey, “Mechanics of energy transfer and failure of ductile microbeams subjected to dynamic loading”, Journal of the Mechanics and Physics of Solids 58, pp. 1125–1138, (2010).
+T. Ozkan, M. Naraghi, and I. Chasiotis, “Mechanical Properties of Vapor Grown Carbon Nanofibers,” Carbon 48, pp. 239-244, (2010).
+K. Jonnalagadda, I. Chasiotis, J. Lambros, R. Polcawich, J. Pulskamp, and M. Dubey, “Experimental Investigation of Strain Rate Dependence in Nanocrystalline Pt Films,” Experimental Mechanics 50 (1), pp. 25-35, (2010).
+X. Li, I. Chasiotis, Takayuki Kitamura, “In situ Scanning Probe Microscopy Nanomechanical Testing”, MRS Bulletin, 35(5), pp. 361-367,(2010).
+M. Naraghi and I. Chasiotis, “Optimization of Comb-driven Devices for Mechanical Testing of Polymeric Nanofibers Subjected to Large Deformations” Journal of Microelectromechanical Systems 18 (5), pp. 1032-1046, (2009).
+J. Kimberley, R.S. Cooney, J. Lambros, I. Chasiotis, and Barker N.S., “Failure of Au RF-MEMS Switches Subjected to Dynamic Loading”, Sensors and Actuators A: Physical 154, pp. 140-148, (2009).
+J. Kimberley, J. Lambros, I. Chasiotis, R. Polcawich, J. Pulskamp, and M. Dubey, “A hybrid experimental/numerical investigation of the response of multilayered MEMS devices to dynamic loading,” Experimental Mechanics 50 (4), pp. 527-544, (2010).
+K. Jonnalagadda, I. Chasiotis, J. Lambros, R. Polcawich, J. Pulskamp, and M. Dubey, “Experimental Investigation of Strain Rate Dependence in Nanocrystalline Pt Films,” Experimental Mechanics 50 (1), pp. 25-35, (2010).
+I. Chasiotis, Editorial: “Experimental Mechanics at the Nanoscale: At Crossroads, and Across Disciplines,” Strain 44 (2), pp. 131-132, (2008).
+B.L. Boyce, R. Ballarini, and I. Chasiotis, “An Argument for Proof Testing Brittle Microsystems in High-reliability Applications,” Journal of Micromechanics and Microengineering 18, pp. 117001-4, (2008).
+Q. Chen, I. Chasiotis, C. Chen, and A. Roy, “Nanoscale and Effective Mechanical Behavior and Fracture of Silica Nanocomposites,” Composites Science and Technology 68 (15-16), pp. 3137-3144, (2008).
+K. Jonnalagadda, S. Cho, I. Chasiotis, T.A. Friedman, and J. Sullivan, “Effect of Intrinsic Stress Gradient on the Effective Mode-I Fracture Toughness of Amorphous Diamond-like Carbon Films for MEMS,” Journal of the Mechanics and Physics of Solids 56, pp. 388-401, (2008).
+I. Chasiotis, Editorial: “Nanoscale Measurements in Mechanics,” Experimental Mechanics 47 (1), pp. 5-6, (2007).
+M. Naraghi, I. Chasiotis, Y. Dzenis, Y. Wen, and H. Kahn, “Novel Method for Mechanical Characterization of Polymeric Nanofibers”, Review of Scientific Instruments 78, pp. 085108 (1-7), (2007).
+J. Kimberley, I. Chasiotis, and J. Lambros, “Failure of Microelectromechanical Systems Subjected to Impulse Loads”, International Journal of Solids and Structures 45, pp. 497-512, (2007).
+M. Naraghi, I. Chasiotis, Y. Dzenis, Y. Wen, H. Kahn, “Mechanical deformation and failure of electrospun polyacrylonitrile nanofibers as a function of strain rate”, Applied Physics Letters 91, pp. 151901 (1-3), (2007).
+J.R. Stanec, C.H. Smith III, I. Chasiotis, and N.S. Barker, “Realization of Low-Stress Au Cantilever Beams,” Journal of Micromechanics and Microengineering, 17, pp. N7-N10, (2007).
+S.W. Cho K. Jonnalagadda, and I. Chasiotis, (Invited) “Mode I and Mixed Mode Fracture of Polysilicon for MEMS,” Fatigue and Fracture of Engineering Materials and Structures 30 (1), pp. 21-31, (2007).
+S.W. Cho and I. Chasiotis, “Elastic Properties and Representative Volume Element of Polycrystalline Silicon for MEMS,” Experimental Mechanics 47 (1), pp. 37-49, (2007).
+I. Chasiotis, C. Bateson, K. Timpano, A. McCarty, N. S. Barker, J. Stanec, "Strain Rate Effects on the Mechanical Behavior of Nanocrystalline Au Films," Thin Solid Films 515, pp. 3183-3189, (2007). 
+A. McCarty and I. Chasiotis, “Description of Brittle Failure of Non-uniform MEMS Geometries”, Thin Solid Films 515, pp. 3267-3276, (2007).
+I. Chasiotis, S.W. Cho, K. Jonnalagadda, “Fracture Toughness and Crack Growth in Polycrystalline Silicon”, Journal of Applied Mechanics 73 (5), pp. 714-722, (2006).
+I. Chasiotis, Q. Chen, G. Odegard, and T. Gates, “Structure-Properties Relationships in Graphite Platelet-Reinforced Polymer Composites”, Experimental Mechanics 45 (6), pp. 507-516, (2005).
+S. Cho, J.F. Cárdenas-García, and I. Chasiotis, “Nano-displacement Based Microscopic Hole Method for Determination of Thin Film Properties”, Sensors and Actuators A Physical 120, pp. 163-171, (2005).
+H. Kahn, C. Deeb, I. Chasiotis, and A.H. Heuer, “Anodic oxidation during MEMS processing of silicon and polysilicon: native oxides can be thicker than you think,” Journal of Microelectromechanical Systems 14 (5), pp. 914-923, (2005).
+S.W. Cho and I. Chasiotis, T.A. Friedman, and J. Sullivan, “Direct Measurements of Young’s Modulus, Poisson’s Ratio and Failure Properties of ta-C MEMS”, Journal of Micromechanics and Microengineering 15 (4), pp. 728-735, (2005).
+I. Chasiotis, Invited Paper: “Mechanics of Thin Films and Microdevices”, IEEE Transactions of Devices, Materials, and Reliability 4 (2), pp. 176-188, (2004).
+W.G. Knauss, I. Chasiotis, Y. Huang, “Mechanical Measurements at the Micron and Nanometer Scales”, Mechanics of Materials 35 (3-6), pp. 217-231, (2003).
+I. Chasiotis, W.G. Knauss, “The Mechanical Strength of Polysilicon Films: 2. Size Effects Associated with Elliptical and Circular Perforations”, J. of the Mechanics and Physics of Solids 51, pp. 1551-1572, (2003).
+I. Chasiotis, W.G. Knauss, “The Mechanical Strength of Polysilicon Films: 1. The Influence of Fabrication Governed Surface Conditions”, J. of the Mechanics and Physics of Solids 51, pp. 1533-1550, (2003).
+H.L. Fillmore, I. Chasiotis, S.W. Cho, and G.T. Gillies, “AFM Observations of Tumor Cell Invadopodia: Novel Cellular Nanomorphologies on Collagen Substrates”, Nanotechnology 14 (1), pp. 73-76, (2003).
+I. Chasiotis, H.L. Fillmore, and G.T. Gillies, “AFM measurement of cytostructural elements involved in the nanodynamics of tumor cell invasion”, Nanotechnology 14 (5), pp. 557-561, (2003).
+I. Chasiotis, W.G. Knauss, “A New Microtensile Tester for the Study of MEMS Materials with the aid of Atomic Force Microscopy”, Experimental Mechanics 42 (1), pp. 51-57, (2002).
+Click for more
+Journal Editorships
+Associate Technical Editor for Experimental Mechanics, 2006-2009
+Associate Technical Editor for Experimental Mechanics, 2009-2012
+Editor in Chief, Experimental Mechanics, 2016-2020
+
+Research Honors
+F.G. Tatnall Award (2021)
+Caterpillar Professor of Engineering (2020)
+University of Illinois Scholar (2016)
+Fellow of the American Society for Mechanical Engineers (2015)
+A.J. Durelli Award (2013)
+M. Hetényi Award for Best Research Paper published in 2010 in the journal Experimental Mechanics
+ (2012)
+ASME Thomas J.R. Hughes Young Investigator Award (2011)
+Journal of Strain Analysis Young Investigator Lecture (2011)
+Society of Engineering Science Young Investigator Medal (2010)
+Xerox Award for Faculty Research (2010)
+Presidential Early Career Award for Scientists and Engineers (PECASE) (2010)
+Willett Faculty Scholar of Engineering (2009)
+National Science Foundation (NSF) CAREER Award (2008)
+Xerox Award for Faculty Research (2007)
+Office of Naval Research Young Investigator Award (2007)
+Click for more
+
+Recent Courses TaughtAE 321 - Mechs of Aerospace Structures
+AE 461 - Structures & Control Lab
+AE 523 - Nanoscale Contact Mechanics
+AE 550 - Nonlinear Aeroelasticity
+
+
+
+
+
+
+
+
+

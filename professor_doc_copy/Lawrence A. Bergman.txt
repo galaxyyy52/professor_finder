@@ -1,0 +1,497 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Lawrence A Bergman 
+
+
+
+Professor Emeritus
+(217) 333-4970
+lbergman@illinois.edu
+205F Talbot Laboratory
+
+
+Research Professor
+(217) 333-4970
+lbergman@illinois.edu
+205F Talbot Laboratory
+
+
+
+For More Information
+Linear and nonlinear dynamics and vibrations laboratory
+Aerospace Engineering website
+
+Education
+Ph.D.	Engineering Mechanics	Case Western Reserve University		1980
+M.S.	Civil Engineering			Case Western Reserve University		1978
+B.S.	Mechanical Engineering	Stevens Insitiute of Technology		1966
+
+Academic Positions
+Graduate Research Ass’t						Case Western Reserve U.		9/75 – 9/78
+Graduate Teaching Ass’t						Case Western Reserve U.		9/78 – 5/79
+Assistant Professor				T&AM	University of Illinois			8/79 – 5/83
+Assistant Professor				AAE		University of Illinois			5/83 – 8/85
+Visiting Associate Professor		ME		Rice University				1/87 – 5/87
+Associate Professor				AAE		University of Illinois			8/85 – 8/94
+Visiting Professor					CE			University of Notre Dame		9/95 – 5/96
+Assistant Dean of Engineering				University of Illinois			8/96 – 5/97
+Freudenthal Guest Professor					University of Innsbruck		5/00 – 6/00
+Schmidt Distinguished Professor				Florida Atlantic University	6/02 – 7/02
+Visiting Professor				National Technical University of Athens	(Athens, Greece)		9/03 – 5/04
+Departmental Affiliate			CEE		University of Illinois			1/00 – Present
+Departmental Affiliate			MechSE		University of Illinois			8/99 – Present
+Professor							AE			University of Illinois			8/94 - Present
+Click for more
+Research Interests
+Vibration-based energy harvesting
+Smart structures
+Nonlinear system identification
+Stochastic dynamics
+Linear and nonlinear structural dynamics and control
+
+
+Research Areas
+Aeroelasticity
+
+
+Books Authored or Co-Authored (Original Editions)
+A.F. Vakakis (Editor), L.A. Bergman, D.M. McFarland, O. Gendelman, L.I. Manevitch, G. Kerschen. "Advanced Nonlinear Strategies for Vibration Mitigation and System Identification," International Center for Mechanical Sciences (CISM) Courses and Lectures No. 518, Springer Verlag (2009).
+A.F. Vakakis, O. Gendelman, L.A. Bergman, D.M. McFarland, G. Kerschen, Y.S. Lee. "Passive Nonlinear Targeted Energy Transfer in Mechanical and Structural Systems: I and II." ISBN: 978-1-4020-9125-4, Springer Verlag Series: Solid Mechanics and Its Applications, Vol. 156, Berlin and New York, November 2008, 1050 pp (research monograph).
+
+Books Edited or Co-Edited (Original Editions)
+C.-B. Yun and L.A. Bergman, Proc. of the US-Korea Joint Seminar/Workshop on Smart Structures Technologies (Seoul, Sept. 2-4, 2004), Techno-Press, 2004.
+H.S. Tzou and L.A. Bergman, Dynamics and Control of Distributed Systems, Cambridge University Press, 1998.
+L.A. Bergman and B. Yang, Proceedings of the 1997 Design Engineering Technical Conferences, 16th Biennial Conference on Mechanical Vibration and Noise, American Society of Mechanical Engineers, New York, 1997.
+S.C. Sinha, J.P. Cusumano, F. Pfeiffer, A.K. Bajaj, R.A. Ibrahim, L.A. Bergman, B.F. Spencer, Jr., A.A. Ferri, M.A. Ozbek, A. Soom and D.E. Newland, Vibration of Nonlinear, Random, and Time-Varying Systems, DE-Vol. 84-1, Vol. 3, Part A, American Society of Mechanical Engineers, New York, 1995.
+R.A. Ibrahim, A.K. Bajaj and L.A. Bergman, Nonlinear Vibrations, DE-Vol. 54, American Society of Mechanical Engineers, New York, 1993.
+C-A. Tan and L.A. Bergman, Vibration and Control of Mechanical Systems, DE-Vol. 61, American Society of Mechanical Engineers, New York, 1993.
+Click for more
+Chapters in Books
+B. Yang, C.A. Tan and L.A. Bergman, “On the Problem of a Distributed Parameter System Carrying a Moving Oscillator,” Dynamics and Control of Distributed Systems (H. Tzou and L. Bergman, eds.), Cambridge University Press, 1998, 69-94.
+S.F. Wojtkiewicz, B.F. Spencer, Jr., and L.A. Bergman, "New Insights on the Application of Moment Closure Methods to Nonlinear Stochastic Systems," Advances in Nonlinear Stochastic Mechanics (A. Naess and S. Krenk, Editors), Kluwer, Dordrecht, 1996, 479-488.
+E.A. Johnson and L.A. Bergman, "Monte Carlo Simulation of Dynamical Systems of Engineering Interest in a Massively Parallel Computing Environment," Advances in Nonlinear Stochastic Mechanics (A. Naess and S. Krenk, Editors), Kluwer, Dordrecht, 1996, 225-234.
+L.A. Bergman, B.F. Spencer, Jr., S.F. Wojtkiewicz and E.A. Johnson, "Robust Numerical Solution of the Fokker-Planck Equation for Second Order Dynamical Systems Under Parametric and External White Noise Excitations," Fields Institute Communications, Nonlinear Dynamics and Stochastic Mechanics (W. Langford, W. Kliemann and N. Sri Namachchivaya, Editors), American Mathematical Society, 1996, 23-37.
+B.F.  Spencer, Jr. and L.A. Bergman, "Numerical Solution of the Fokker-Planck Equation for First Passage Probabilities," Computational Stochastic Mechanics (P.D. Spanos and C.A. Brebbia, Editors), Computational Mechanics Publications / Elsevier, Southampton,  1991, 359-370.
+L.A. Bergman and B.F. Spencer, Jr., "Robust Numerical Solution of the Transient Fokker-Planck Equation for Nonlinear Dynamical Systems," Nonlinear Stochastic Mechanics (N. Bellomo and F. Casciatti, Editors), Springer-Verlag, Berlin, 1992, 49-60.
+L.A. Bergman and D.M. McFarland, "Point Control of Linear Distributed Parameter Structures," Proceedings of the U.S. National Workshop on Structural Control Research, (G.W. Housner and S.F. Masri, Editors), University of Southern California, Los Angeles, CA, 1990, 95-99.
+L.A. Bergman, "Numerical Solutions of the First Passage Problem in Stochastic Structural Dynamics," Computational Mechanics of Probabilistic and Reliability Analysis, (W.K. Liu and T. Belytschko, Editors), ElmePress International, Lausanne, 1989, 379-408.
+L.A. Bergman and B.F. Spencer, Jr., "On the Solution of Several First Passage Problems in Nonlinear Stochastic Dynamics," Nonlinear Stochastic Dynamic Engineering Systems (F. Ziegler and G.I. Schueller, Editors), Springer-Verlag, Berlin, 1988, 479-492.
+Click for more
+Monographs
+L.A. Bergman, C.G. Bucher, G. Dasgupta, G. Deodatis, R.G. Ghanem, M. Grigoriu, M. Hoshiya, E.A. Johnson, A. Naess, H.J. Pradlwarter, G.I. Schueller, M. Shinozuka, K. Sobczyk, P.D. Spanos, B.F. Spencer, Jr., A. Sutoh, T. Takada, W.V. Wedig, S.F. Wojtkiewicz, I. Yoshida, B.A. Zeldin, R. Zhang, "A State-of- the-Art Report on Computational Stochastic Mechanics," Probabilistic  Engineering Mechanics (Special Issue), 12(4), 197-321, 1997.
+G.W. Housner, L.A. Bergman, T.K. Caughey, A.G. Chassiakos, R.O. Claus, S.F. Masri, R.E. Skelton, T.T. Soong, B.F. Spencer and J.T.P. Yao, "Structural Control: Past and Present," ASCE Journal of Engineering Mechanics (Special Issue), 123(9), 897-971, 1997.
+
+Selected Articles in Journals
+D.D. Quinn, S. Hubbard, N. Wierschem, M.A. Al-Shudeifat, R.J. Ott, B.F. Spencer Jr., D.M. McFarland, A.F. Vakakis, L.A. Bergman, "Equivalent Modal Damping, Stiffening and Energy Exchanges in Multi Degree-of-Freedom Systems with Strongly Nonlinear Attachments", 2012, Proceedings of the Institution of Mechanical Engineers, Part K: Journal of Multi-body Dynamics, doi: 10.1177/1464419311432671.
+G. Sigalov, O.V. Gendelman, M. Al-Shudeifat, L.I. Manevitch, A.F. Vakakis, L.A. Bergman, "Alternation of Regular and Chaotic Dynamics in a Simple Two-Degree-of-Freedom System with Nonlinear Inertial Coupling", 2012, Chaos, Vol.22, 013118, doi: 10.1063/1.3683480.
+A. Masud, T.M. Truster, and L.A. Bergman, "A variational multiscale a posteriori error estimation method for mixed form of nearly imcompressible elasticity, Computer Methods in Applied Mechanics and Engineering. 200 3453-3481, 2011.
+M. Eriten, A.A. Polycarpou, and L.A. Bergman, “Development of a Lap Joint Fretting Apparatus”, Experimental Mechanics, January 2011, 51, 8, 1405-1419, 2011.
+M. Eriten, A.A. Polycarpou, and L.A. Bergman, “Physics-based Modeling for Fretting Behavior of Nominally Flat Rough Surfaces”, Int. J. Solid and Structures (48, 10, 1436-1450, 2011. 
+M. Eriten, A.A. Polycarpou, and L.A. Bergman, “Effect of Surface Roughness and Lubrication on Fretting of Mechanical Joints”, Wear, 27a, 11-12, 2928-2939, 2011.
+A.F. Vakakis, L.A. Bergman, D.M. McFarland, Y.S. Lee, M. Kurt, "Current Efforts Towards A Nonlinear System Identification Methodology of Broad Applicability," Forward Look Article, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science, Vol. 225, pp. 2497-2515, 2011.
+
+
+O.V.Gendelman, G. Sigalov, L.I. Manevitch, M. Mane, A.F. Vakakis, L.A.Bergman, "Dynamics of an Eccentric Rotational Nonlinear Energy Sink," Journal of Applied Mechanics, Vol. 79, 011012-111012-9, 2012.
+T.P. Sapsis, D.D. Quinn, A.F. Vakakis, L.A. Bergman, "Effective Stiffening and Damping Enhancement of Structures with Strongly Nonlinear Local Attachments," Journal of Vibration and Acoustics, Vol. 134, No. 1, 011016-1-12, doi: 10.1115/1.4005005, 2012.
+C. Tripepi, F. Nucera, L.A. Bergman, D.M. McFarland, A.F. Vakakis, "Application of Targeted Energy Transfer (TET) for Seismic Protection of a Full Scale Multi-storey Symmetric Steel Structure," Journal of Structural Control and Health Monitoring (submitted). 
+D. Anderson, Y. Starosvetsky, A.F. Vakakis, L.A. Bergman, "Dynamic Instabilities in Coupled Oscillators Induced by Geometrically Nonlinear Viscous Damping," Nonlinear Dynamics, Vol. 67, No. 1, pp. 807-837, doi: 10.1007/s11071-011-0028-0, 2012.
+O.V. Gendelman, T. Sapsis, A.F. Vakakis, L. Bergman,"Enhanced Passive Targeted Energy Transfer in Strongly Nonlinear Mechanical Oscillators," Journal of Sound and Vibration (Rapid Communication), Vol, 330, No. 1, pp. 1-8, 2011.
+Y. Chen, D.M. McFarland, Z. Wang, B.F. Spencer, Jr., L.A. Bergman, "Analysis of Tall Buildings with Damped Outriggers." Journal of Structural Engineering, Vol. 136(11), pp. 1435-1443, 2010.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "A Global-Local Approach to System Identification: A Review." Journal of Structural Control and Health Monitoring (in Honor of Prof. George W. Housner) Vol. 17, No. 7, pp. 742-760, 2010.
+O.V. Gendelman, T. Sapsis, A.F. Vakakis, L. Bergman, "Enhanced Passive Targeted Energy Transfer in Strongly Nonlinear Mechanical Oscillators." Journal of Sound and Vibration, Vol. 330(1), pp. 1-8, 2011.
+D.D. Quinn, A. Triplett, A.F. Vakakis, L.A. Bergman, "Energy Harvesting from Repetitive Impulsive Loads Using Intentional Essential Nonlinearities." Journal of Vibration and Acoustics, vol. 133, 011004-1, doi: 10.1115/1.4002787, 2011.
+L.I. Manevitch, Yu. A. Kosevich, M. Mane, G. Sigalov, L.A. Bergman, A.F. Vakakis, "Towards a New Type of Energy Trap: Classical Analog of Quantum Landau-Zener Tunneling." International Journal of Nonlinear Mechanics, Vol. 46, No. 1, pp. 247-252, 2011.
+T.P. Sapsis, A.F. Vakakis, L.A. Bergman, "Effect of Stochasticity on Targeted Energy Transfer from a Linear Medium to a Strongly Nonlinear Attachment," Probabilistic Engineering Mechanics, Vol. 26, pp. 119-133, doi; 10.1016/j.probengmech.2010.11.006., 2011.
+M. Eriten, A.A. Polycarpou and L.A. Bergman, "Surface Roughness Effects on Energy Dissipation in Fretting Contact of Nominally Flat Surfaces." Journal of Applied Mechanics, Vol. 78(2),p. 021011 (8pp.), 2011.
+M. Eriten, A.A. Polycarpou and L.A. Bergman, "Physics-based Modeling for Partial Slip Behavior of Spherical Contacts." International Journal of Solids and Structures, Vol. 47, 2554-2567, 2010.
+H. Cho, M.F. Yu, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Tunable and Broadband Nonlinear Nanomechanical Resonator," Vol. 10, 1793-1798, doi: 10.1021/n1100480y, 2010.
+Y.S. Lee, S. Tsakirtzis, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "A Time-Domain Nonlinear System Identification Method Based on Slow-Fast Dynamic Partitions." Meccanica, Vol. 46, pp. 625-649, doi: 10.1007/s11012-010-9327-7, 2010.
+S. Hubbard, D. McFarland, L. Bergman, A.F. Vakakis, "Targeted Energy Transfer Between a Model Flexible Wing and a Nonlinear Energy Sink," AIAA Journal of Aircraft, Vol. 47, No. 6, pp. 1918-1931, doi: 10.2514/1.C001012, 2010.
+D.D. Quinn, A.L. Triplett, L.A. Bergman, A.F. Vakakis, "Comparing Linear and Essentially Nonlinear Vibration-Based Energy Harvesting." Journal of Vibration and Acoustics, Vol. 133, 011001-1, 2011.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Non-Linear System Identification of the Dynamics of Aeroelastic Instability Suppression Based on Targeted Energy Transfers," The Aeronautical Journal of the Royal Aeronautical Society, Vol. 114, No. 1152, pp.61-82, 2010.
+O.V. Gendelman, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Asymptotic Analysis of Passive Suppression Mechanisms for Aeroelastic Instabilities in a Rigid Wing in Subsonic Flow," SIAM Journal on Applied Mathematics, Vol. 70, No. 5, pp. 1655-1677, 2010.
+S. Tsakirtzis, Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Modeling of Nonlinear Modal Interactions in the Transient Dynamics of an Elastic Rod with an Essentially Nonlinear Attachment," Communications in Nonlinear Science and Numerical Simulation, Vol. 15(9), pp. 2617-2633, 2010.
+F. Nucera, D.M.McFarland, L.A. Bergman, and A.F. Vakakis, “Application of Broadband Nonlinear Targeted Energy Transfers for Seismic Mitigation of a Shear Frame: Computational Results,” Journal of Sound and Vibration, Vol. 329(15), pp. 2973-2994, 2010.
+G. Turan, P. Voulgaris, L.A. Bergman, "Earthquake Response Control of a Cable-Stayed Bridge by Using Mu-Synthesis (in Turkish)," Technical Journal of Turkish Chamber of Engineers (Teknik Dergi), Vol. 20(4), pp. 4865-4889, 2009.
+Y.S. Lee, S. Tsakirtzis, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Physics-Based Foundation for Empirical Mode Decomposition: Correspondence Between Intrinsic Mode Functions and Slow Flows," AIAA Journal, Vol. 47(12), pp. 2938-2963, 2009.
+Y.S. Lee, F. Nucera, A.F. Vakakis, D.M. McFarland, L.A. Bergman,. "Periodic Orbits, Damped Transitions and Targeted Energy Transfers in Coupled Nonlinear Oscillators with Vibro-Impact Attachments," Physica D, Vol. 238(18), pp. 1868-1896, 2009.
+D. Wang, Y.S. Lee, D.M. McFarland, L.A. Bergman, and A.F. Vakakis, “Mitigating the Effect of Impact Loading on a Vehicle Using an Essentially Nonlinear Absorber,” Vehicle System Dynamics, International Journal of Vehicle Mechanics and Mobility, Vol. 47(10, pp. 1183-1204, 2009.
+T.P. Sapsis, A.F. Vakakis, O.V. Gendelman, L.A. Bergman, G. Kerschen, D.D. Quinn, “Efficiency of Targeted Energy Transfers in Coupled Nonlinear Oscillators Associated with 1:1 Resonance Captures: Part II, Analytical Study,” Journal of Sound and Vibration, Vol 325, pp. 297-320, 2009.
+R. Viguie, G. Kerschen, J.C. Golinval, D.M. McFarland, L.A. Bergman, A.F. Vakakis, and N. van de Wouw, “Using Passive Nonlinear Targeted Energy Transfer to Stabilize Drill-String Systems,” Journal of Mechanical Systems and Signal Processing (Special Issue on ‘Nonlinear Structural Dynamics’), Vol. 23(1), 148-169, 2009.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M.McFarland, G. Kerschen, F. Nucera, P. Panagopoulos, and S. Tsakirtzis,.”Passive Nonlinear Targeted Energy Transfer (Energy Pumping) and its Applications to Vibration Absorption: A Review,” Proceedings of the Institution of Mechanical 					Engineers Part K: Journal of Multi-body Dynamics (Invited Paper), 222, 77-134, 2008.
+A.F. Vakakis, L.A. Bergman, "Rebuttal of 'Steady State Dynamics of a Linear Structure Weakly Coupled to an Essentially Nonlinear Oscillator,' by P. Malatkar and A.H. Nayfeh" Nonlinear Dynamics, Vol. 53(1-2), pp. 167-168, 2008.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, and G. Kerschen, “Enhancing the Robustness of Aeroelastic Instability Suppression Using Multi-Degree-of-Freedom Nonlinear Energy Sinks,” AIAA Journal, 46(6), 1371-1394, 2008.
+F. Nucera, F. Lo Iacono, D.M. McFarland, L.A. Bergman, and A.F. Vakakis, “Application of Broadband Nonlinear Targeted Energy Transfers for Seismic Mitigation of a Shear Frame: Experimental Results,” Journal of Sound and Vibration, 313(1-2), 57-76, 2008.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, and L.A. Bergman, “Toward a Fundamental 				Understanding of the Hilbert-Huang Transform in Nonlinear Structural Dynamics,” Journal of 					Vibration and Control (Special issue in honor of Prof. Fabrizio Vestroni), 14(1-2), 77-105, 2008.
+G. Kerschen, O.V. Gendelman, A.F. Vakakis, L.A. Bergman, and D.M. McFarland, “Impulsive Periodic and Quasiperiodic Orbits in a System of Coupled Oscillators with Essential Stiffness Nonlinearity,” Communications in Nonlinear Science and Numerical Simulation, 13(5), 959-978, 2008.
+D.D. Quinn, O. Gendelman, G. Kerschen, T. Sapsis, L.A. Bergman, A.F. Vakakis, “Efficiency of Targeted Energy Transfers in Coupled Nonlinear Oscillators Associated with 1:1 Resonance Captures: Part I.,” Journal of Sound and Vibration, 311(3-5), 1228-1248, 2008.
+X. Ma, A.F. Vakakis and L.A. Bergman, “Karhunen-Loeve Analysis and Order Reduction of the Transient Dynamics of Linear Coupled Oscillators with Strongly Nonlinear End Attachments,” Journal of Sound and Vibration, 309(3-5), 569-587, 2008.
+P.N. Panagopoulos, F. Georgiades, S. Tsakirtzis, A.F. Vakakis, and L.A. Bergman, “Multi-scaled Analysis of the Damped Dynamics of an Elastic Continuum with an Essentially Nonlinear End Attachment,” International Journal of Solids and Structures, 44 (18-19), 6256-6278, 2007.
+F. Nucera, A.F. Vakakis, D.M.McFarland, L.A. Bergman, G. Kerschen, “Targeted Energy Transfer in Vibro-Impact Oscillators for Seismic Mitigation,” Nonlinear Dynamics, (Special issue on ‘Discontinuous Dynamical Systems’), 50 (3), 651-677, 2007.
+Y.S. Lee, G. Kerschen, D.M. McFarland, W.J. Hill, C. Nichkawde, T.W. Strganac, L.A. Bergman, and A.F. Vakakis, “Suppressing Aeroelastic Instability Using Broadband Passive Targeted Energy Transfers, Part 2: Experiments,” AIAA Journal, 45(10), 2391-2400, 2007.
+M. Tomizuka, L.A. Bergman, B. Shapiro, R. Shoureshi and B.F. Spencer, Jr., “Bio-inspired Autonomous Engineered Systems,” Smart Structures and Materials, 3 (4), 495-505, 2007.
+S. Tsakirtzis, P.N. Panagopoulos, G. Kerschen, O. Gendelman, A.F. Vakakis and L.A. Bergman, “Complex Dynamics and Targeted Energy Transfer in Linear Oscillators Coupled to Multi-degree-of-freedom Essentially Nonlinear Attachments,” Nonlinear Dynamics, 48(3), 285-318, 2007.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, “Suppressing Aeroelastic Instability Using Broadband Passive Targeted Energy Transfers, Part I: Theory,” AIAA Journal, 45(3), 693-711, 2007.
+G. Kerschen, D.M. McFarland, J. Kowtko, Y. Sup Lee, L.A. Bergman and A.F. Vakakis, “Experimental Demonstration of Transient Resonance Capture in a System of Two Coupled Oscillators with Essential Stiffness Nonlinearity,” Journal of Sound and Vibration, 299 (4-5), 822-838, 2007.
+G. Kerschen, J. Kowtko, D. M. McFarland, L. A. Bergman, and A. F. Vakakis, Theoretical and Experimental Study of Multimodal Targeted Energy Transfer in a System of Coupled Oscillators,” Nonlinear Dynamics (Special Issue in Honor Prof. G. Rega), 47(1-3), 285-309, 2007.
+Y. S. Lee, A. F. Vakakis, L. A. Bergman, and D. M. McFarland, “Suppression of Limit Cycle Oscillations in the Van der Pol Oscillator by Means of Passive Nonlinear Energy Sinks (NESs), Structural Control and Health Monitoring (Special Issue in Memory of Prof. T. Caughey), 13(1), 41-75, 2006.
+G. Kerschen, Y. Sup Lee, A.F. Vakakis, D.M. McFarland and L.A. Bergman, “Irreversible Passive Energy Transfer in Coupled Oscillators with Essential Nonlinearity,” SIAM Journal on Applied Mathematics, 66(2), 648-679, 2006.
+Y. Song, L.A. Bergman, D.M. McFarland and A.F. Vakakis, “Stick-Slip-Slap Interface Response Simulation: Formulation and Application of a General Joint/Interface Element,” Computer Modeling in Engineering and Science (CMES) (Special Issue in Memory of Clifford J. Astill), 10(2), 153-170, 2005.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland and G. Kerschen, “Triggering Mechanisms of Limit Cycle Oscillations due to Aeroelastic Instability,” Journal of Fluids and Structures (Special Issue Honoring Prof. M. Paidoussis), 21, 485-529, 2005.
+G. Kerschen, A.F. Vakakis, Young S. Lee, D.M. McFarland, J. Kowtko and L.A. Bergman, “Energy Transfers in a System of Two Coupled Oscillators with Essential Nonlinearity: 1:1 Resonance Manifold and Transient Bridging Orbits,” Nonlinear Dynamics, 42, 282-303, 2005.
+D.M. McFarland, G. Kerschen, J. Kowtko, L.A. Bergman and A.F. Vakakis, “Experimental Investigation of Targeted Energy Transfers In Strongly and Nonlinearly Coupled Oscillators,” Journal of the Acoustical Society of America, 118 (2), 791-799, 2005.
+Y.S. Lee, G. Kerschen, A.F. Vakakis, P.N. Panagopoulos, L.A. Bergman and D.M. McFarland, “Complicated Dynamics of a Linear Oscillator with a Light, Essentially Nonlinear Attachment,” Physica D, 204 (1-2), 41-69, 2005.
+Y. Wang, D. M. McFarland, A. F. Vakakis and L. A. Bergman, "Seismic Base Isolation by Nonlinear Mode Localization," Archive of Applied Mechanics (Ingenieur Archiv), 74 (5-6), 387-414, 2005.
+F. Georgiadis, A. F. Vakakis, D. M. McFarland and L. A. Bergman, "Shock Isolation Through Passive Energy Pumping Caused by Non-Smooth Nonlinearities," International Journal of Bifurcation and Chaos (Special Issue on 'Non-smooth Dynamical Systems: Recent Trends and Perspectives'), 15 (6), 1989-2001, 2005.
+G. Kerschen, J.-C. Golinval, A. F. Vakakis and L. A. Bergman, “The Method of Proper Orthogonal Decomposition for Dynamical Characterization and Order Reduction of Mechanical Systems: An Overview,” Nonlinear Dynamics, 41 (1-3), 147-169, 2005.
+D.M. McFarland, L.A. Bergman and A.F. Vakakis, “Experimental Study of Nonlinear Energy Pumping Occurring at a Single Fast Frequency,” International Journal of Non-linear Mechanics, 40 (6), 891-899, 2005.
+A. Masud and L. A. Bergman, “Application of Multi-scale Finite Element Methods to the Solution of the Fokker-Planck Equation,” Computer Methods in Applied Mechanics and Engineering, 194, 1513-1526, 2005.
+Y. Song, D.M. McFarland, L.A. Bergman and A.F. Vakakis, “Effect of Pressure Distribution on Energy Dissipation in a Mechanical Lap Joint,” AIAA Journal, 43(2),420-425, 2005.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, and B. Yang, 2005, "Application of the Pothole DAF Method to Vehicles Traversing Periodic Roadway Irregularities," Journal of Sound and Vibration, 279 (3-5), pp. 843-855, 2005.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, and B. Yang, "Assessing Tire Forces Due to Roadway Unevenness by the Pothole Dynamic Amplification Factor Method," Journal of Sound and Vibration, 279 (3-5), pp. 817-841, 2005.
+A.F. Vakakis, L.I. Manevitch, A. Musienko, G. Kerschen and L.A. Bergman, “Transient Dynamics of a Dispersive Elastic Wave Guide Weakly Coupled to an Essentially Nonlinear End Attachment,” Wave Motion, Vol. 41-2, 109-132, 2005.
+C. Bilello, L. A. Bergman and D. Kuchma, “Experimental Investigation of a Small-scale Bridge Model Under a Moving Mass,” Journal of Structural Engineering, 130 (5), 799-804, 2004.
+C. Bilello and L. A. Bergman, "Vibration of Damaged Beams Under a Moving Mass: Theory and Experimental Validation," Journal of Sound and Vibration, 274(3-5), 567-582, 2004.
+A.V. Pesterev, L. A. Bergman and C. A.Tan, "A Novel Approach to the Calculation of Pothole-Induced Contact Forces," Journal of Sound and Vibration, 275 (1-2), pp. 127-149, 2004.
+A. F. Vakakis, D. M. McFarland, L. A. Bergman, L. I. Manevitch and O. Gendelman, "Isolated Resonance Captures and Resonance Capture Cascades Leading to Single- or Multi-Mode Passive Energy Pumping in Damped Coupled Oscillators," ASME Journal of Vibration and Acoustics, 126 (2), 235-244, 2004.
+A. V. Pesterev, L. A. Bergman and C.A. Tan, "Assessing Dynamic Tyre Forces Occurring After Traversing Local Roadway Irregularities by the Pothole Dynamic Amplification Factor Method," Proceedings of the I MechE Part D Journal of Automotive Engineering, 218(4), 373-384, 2004.
+Y. Song, C. J. Hartwigsen, D. M. McFarland, L. A. Bergman and A. F. Vakakis, "Simulation of Dynamics of Beam Structures with Bolted Joints Using Adjusted Iwan Beam Elements," Journal of Sound and Vibration,  273(1-2), 249-276, 2004.
+C. J. Hartwigsen, Y. Song, D. M. McFarland, L. A. Bergman and A .F. Vakakis, “Experimental Study of Nonlinear Effects in a Typical Shear Lap Joint Configuration,” Journal of Sound and Vibration, 277 (1-2), 327-351, 2004.
+X. Jiang, D. M. McFarland, L. A. Bergman and A. F. Vakakis, "Steady State Passive Nonlinear Energy Pumping in Coupled Oscillators: Theoretical and Experimental Results," Nonlinear Dynamics, 33(1), 87-102, 2003.
+Y. Song, C. J. Hartwigsen, L. A. Bergman and A. F. Vakakis, "A Three-Dimensional Nonlinear Reduced-Order Predictive Joint Model," Earthquake Engineering and Engineering Vibration, 2(1), 59-73, 2003.
+O. Gendelman, L. I. Manevitch, A. F. Vakakis and L. A. Bergman, "A Degenerate Bifurcation Structure in the Dynamics of Coupled Oscillators with Essential Stiffness Nonlinearities," Nonlinear Dynamics, 33(1), 1-10, 2003.
+J. M. Caicedo, S. J. Dyke, S. J. Moon, L. A. Bergman, G. Turan, and S. Hague, “Phase II Benchmark Control Problem for Seismic Response of Cable-Stayed Bridges,” Journal of Structural Control, 10 (3-4), 137-168, 2003.
+S. J. Dyke, J. M. Caicedo, G. Turan, L. A. Bergman, and S. Hague, "Phase I Benchmark Control Problem for Seismic Response of Cable-Stayed Bridges," ASCE Journal of Structural Engineering: Special Issue on Semi-active Control, 129(7), 857-872, 2003.
+A. F. Vakakis, L. I. Manevitch, O. Gendelman and L. A. Bergman, "Dynamics of Linear Discrete Systems Connected to Local, Essentially Nonlinear Attachments," Journal of Sound and Vibration, 264(3), 559-577, 2003.
+C. A. Schenk and L. A. Bergman, "Response of Continuous System with Stochastically Varying Surface Roughness to Moving Load," ASCE Journal of Engineering Mechanics, 129 (7). 759-768, 2003.
+L. I. Manevitch, O. Gendelman, A. I. Musienko, A. F. Vakakis and L. A. Bergman, "Dynamic Interaction of a Semi-infinite Linear Chain of Coupled Oscillators with a Strongly Nonlinear End Attachment," Physica D: Nonlinear Phenomena, 178, 1-18, 2003..
+E. A. Johnson, C. Proppe, B. F. Spencer, Jr., L. A. Bergman, G. S. Szekely and G. I. Schueller, "Parallel Processing in Computational Stochastic Mechanics," Probabilistic Engineering Mechanics, 18(1), 37-60, 2003.
+A. V. Pesterev, B. Yang, L. A. Bergman and C.A. Tan, "Revisiting the Moving Force Problem," Journal of Sound and Vibration, 261 (1), 75-91, 2003.
+S. Moon, L. A. Bergman and P. G. Voulgaris, "Sliding Mode Control of a Cable-Stayed Bridge Subjected to Seismic Excitation," ASCE Journal of Engineering Mechanics, 129 (1), 71-78, 2003.
+A. V. Pesterev, L. A. Bergman, C. A. Tan, T-C. Tsao and B. Yang, "On Asymptotics of the Solution of the Moving Oscillator Problem," Journal of Sound and Vibration, 260(3), 519-536, 2003.
+Y. Chen, C.A. Tan and L.A. Bergman, "Effects of Boundary Flexibility on the Vibration of a Continuum with a Moving Oscillator, ASME Journal of Vibration and Acoustics, 124(4), 552-560, 2002.
+A. V. Pesterev, C. A. Tan and L. A. Bergman, "Pothole-Induced Contact Forces in a Simple Vehicle Model," Journal of Sound and Vibration, 256(3), 565-572, 2002.
+J.Q. Sun, X. Wang and L.A. Bergman, "Fatigue Analysis of Nonlinear Structures with von Mises Stress," Journal of Sound and Vibration, 245(5), 947-952, 2001.
+A. V. Pesterev, C. A. Tan and L. A. Bergman, "A New Method for Calculating Bending Moment and Shear Force in Moving Load Problems, ASME Journal of Applied Mechanics, 68(2), 252-259, 2001.
+X. Ma, L. A. Bergman and A. F. Vakakis, "Identification of Bolted Joints Through Laser Vibrometry," Journal of Sound and Vibration, 246(3), 441-460, 2001.
+A.V. Pesterev, B. Yang, L.A. Bergman and C. A. Tan, "Response of Elastic Continua to Multiple Moving Oscillators, ASCE Journal of Engineering Mechanics, 127(3), 260-265, 2001.
+X. Ma, A. F. Vakakis and L. A. Bergman, "Proper Orthogonal (Karhunen-Loeve) Modes of a Flexible Truss: Transient Response Reconstruction and Experimental Verification," AIAA Journal, 39(4), 687-696, 2001.
+S. F. Wojtkiewicz and L. A. Bergman, "A Moment Specification Algorithm for Control of Nonlinear Systems Driven by Gaussian White Noise," Journal of Nonlinear Dynamics, 24, 17-30, 2001.
+K.W. Liew, L.A. Bergman, T.Y. Ng and K.Y. Lam, "Three Dimensional Vibration of Cylindrical Shell Panels---Solution by Continuum and Discrete Approaches," Computational Mechanics, 26, 208-221, 2000.
+X. Ma, T.A. Nayfeh, A.F. Vakakis and L.A. Bergman, "Experimental Verification of Shock Reduction Achieved Through Non-linear Localization," Journal of Sound and Vibration, 230(5), 1177-1184, 2000.
+B. Yang, C. A. Tan and L. A. Bergman, "A Direct Numerical Procedure for the Solution of Moving Oscillator Problems," ASCE Journal of Engineering Mechanics, 126(5), 462-469, 2000.
+A.V. Pesterev and L.A. Bergman, "An Improved Series Expansion to the Solution of the Moving Oscillator Problem," ASME Journal of Vibration and Acoustics, 122(1), 54-61, 2000.
+A.P. Prell, T-C. Tsao and L.A. Bergman, "Application of Repetitive Control to Vibration Attenuation in Certain Engineering Structures," Journal of Vibration and Control, 5(5), 741-760, 1999.
+S.F. Wojtkiewicz, E.A. Johnson, L.A.Bergman, M. Grigoriu and B.F. Spencer, Jr., "Response of Stochastic Dynamical Systems Driven by Additive Gaussian and Poisson White Noises: Solution of a Forward Generalized Kolmogorov Equation by a Spectral Finite Difference Method," Computer Methods in Applied Mechanics and Engineering, 168(1-4), 73-89, 1999.
+A.V. Pesterev and L.A. Bergman, "Response of a Nonconservative Continuous System to a Moving Concentrated Load," ASME Journal of Applied Mechanics, 65(2), 436-444, 1998.
+H.T. Banks, Z-H. Luo, L.A. Bergman and D.J. Inman, "On the Existence of Normal Modes of Damped Discrete-Continuous Systems," ASME Journal of Applied Mechanics, 65(4), 980-989, 1998.
+E.A. Johnson, P.G. Voulgaris and L.A. Bergman, "Multi-objective Optimal Structural Control of the Notre Dame Building Model Benchmark," Earthquake Engineering and Structural Dynamics, 27, 1165-1187, 1998.
+A.V. Pesterev and L.A. Bergman, "A Contribution to the Moving Mass Problem," ASME Journal of Vibration and Acoustics, 120(3), 824-826, 1998.
+R.V. Field, Jr. and L.A. Bergman, "A Reliability-Based Approach to Linear Covariance Control Design," ASCE Journal of Engineering Mechanics, 124(2), 193-199, 1998.
+M. Ouzidane, C.E. Singer and L.A. Bergman, "Spaceborne Centrifugal Relays for Spacecraft Propulsion," Acta Astronautica, cta Astronautica, 41(1), 35-42, 1997. 
+A.V. Pesterev and L.A. Bergman, "Vibration of Elastic Continuum Carrying Accelerating Oscillator," ASCE Journal of Engineering Mechanics, 123(8), 886-889, 1997.
+A.V. Pesterev and L.A. Bergman, "Vibration of Elastic Continuum Carrying Moving Linear Oscillator," ASCE Journal of Engineering Mechanics, 123(8), 878-884, 1997..
+E.A. Johnson, S.F. Wojtkiewicz, L.A. Bergman and B.F. Spencer, Jr., "Observations With Regard to Massively Parallel Computation for Monte Carlo Simulation of Stochastic Dynamical Systems," International Journal of Non-Linear Mechanics, 32(4),721-734, 1997.
+J.B. Ditman, L.A. Bergman and T-C. Tsao, "Design of Extended Bandwidth Shape Memory Alloy Actuators," Journal of Intelligent Material Systems and Structures, 7(6), 635-645, 1996.
+R.V. Field, Jr., P.G. Voulgaris and L.A. Bergman, "Probabilistic Stability Robustness of Structural Systems," ASCE Journal of Engineering Mechanics, 122(10), 1012-1021, 1996.
+R.V. Field, Jr., P.G. Voulgaris and L.A. Bergman, "Methods to Compute Probabilistic Measures of Robustness for Structural Systems," Journal of Vibration and Control, 2(4), 447-464, 1996.
+G.G.G. Lueschen, L.A. Bergman and D.M. McFarland, "Green's Functions for Uniform Timoshenko Beams," Journal of Sound and Vibration, 194(1), 93-98, 1996.
+S.F. Wojtkiewicz, B.F. Spencer, Jr., and L.A. Bergman, "On the Cumulant-Neglect Closure Method in Stochastic Dynamics," International Journal of Non-linear Mechanics, 31(3), 657-684, 1996.
+G.G.G. Lueschen and L.A. Bergman, "Green's Function Synthesis for Sandwiched Distributed Parameter Systems," Journal of Sound and Vibration, 191(5), 613-627, 1996.
+A.V. Pesterev and L.A. Bergman, "On Vibration of a System with an Eigenfrequency Identical  to that of one of its Subsystems, II," ASME Journal of Vibration and Acoustics, 118(3), 414-416, 1996.
+R.V. Field, Jr., L.A. Bergman and W.B. Hall, "Computation of Probabilistic Stability Measures for a Controlled Distributed Parameter System," Probabilistic Engineering Mechanics, 10(3), 181-189, 1995.
+S.R. Warren, P.G. Voulgaris and L.A. Bergman, "Robust Control of a Slewing Beam System," Journal of Vibration and Control, 1(3), 251-272, 1995.
+A.V. Pesterev and L.A. Bergman, "On Vibration of a System with an Eigenfrequency Identical to That of One of its Subsystems," ASME Journal of Vibration and Acoustics, 117, 482-487, 1995.
+J. Tzioufas, L.A. Bergman, and D. Metz, "Distributed Parameter Models for Vehicle-Suspension Systems," Heavy Vehicle Systems, Special Series, International Journal of Vehicle Design, 1(3), 258-281, 1994.
+J. Tzioufas, D.M. McFarland, and L.A. Bergman, "Free and Forced Vibration of Multi-Point Connected Discrete-Distributed Systems," Journal of Sound and Vibration, 174, 1-22, 1994.
+J. Lee and L.A. Bergman, "Free and Forced Vibration of Stepped Beams and Plates by an Elemental Dynamic Flexibility Method," Journal of Sound and Vibration, 171, 617-640, 1994.
+G.G.G. Lueschen and L.A. Bergman, "On the Free Vibration of Mono-Coupled Periodic Distributed Structures," Journal of Sound and Vibration, 168, 407-427, 1993.
+S.T. Pang, T.C. Tsao and L.A. Bergman, "Active and Passive Damping of Euler-Bernoulli Beams and Their Interactions," ASME Journal of Dynamic Systems, Measurement and Control, 115, 379-384, 1993.
+B.F. Spencer, Jr. and L.A. Bergman, "Numerical Solutions of the Fokker-Planck Equations for Nonlinear Stochastic Systems," Nonlinear Dynamics, 4, 357-372, 1993.
+L.A. Bergman, J.K. Hall, G.G.G. Lueschen and D.M. McFarland, "Dynamic Green's Functions 	for Levy Plates," Journal of Sound and Vibration, 162, 281-310, 1993.
+F.M. Lavelle, L.A. Bergman, and P.D. Spanos, "Seismic Response Spectra of a Combined System by Green's Functions," Soil Dynamics and Earthquake Engineering, 10, 93-100, 1991.
+L.A. Bergman and D.M. McFarland, "Wide-Band Random Excitation of Point-Constrained Rectangular Plates," Structural Safety, 6, 87-97, 1989.
+B.F. Spencer and L.A. Bergman, "Comments on `First Passage Time Probability of Non-Linear Systems by Generalized Cell Mapping Method'," Journal of Sound and Vibration, 134, 181-185, 1989.
+L.A. Bergman and J.E. Hyatt, "Green Functions for Transversely Vibrating Euler-Bernoulli Beams Subject to Constant Axial Preload," Journal of Sound and Vibration, 134, 175-180, 1989.
+J.W. Nicholson and L.A. Bergman, "Comments on `Green's Function and Receptance for Structures Consisting of Beams and Plates'," AIAA Journal, 27, 377, 1989.
+L.A. Bergman and D.M. McFarland, "On the Vibration of a Point Supported Linear Distributed Structure," ASME Journal of Vibration, Acoustics, Stress and Reliability in Design, 110, 485-492, 1988.
+L.A. Bergman and D.M. McFarland, "Discussion of `Trends in Eigenvalues of Straight and Bent Beams on Elastic Supports'," ASME Journal of Vibration, Acoustics, Stress and Reliability in Design, 110, 121, 1988.
+L.A. Bergman and B.F. Spencer, Jr., "On the Moments of Time to Failure of a Parametrically Excited Linear Dynamic System," Probabilistic Engineering Mechanics, 2, 46-53, 1987.
+H.L.M. dos Reis, L.A. Bergman, and J.H. Bucksbee, "Adhesive Bond Strength Quality Assurance Using the Acousto-Ultrasonic Technique," The British Journal of Non-Destructive Testing, 28, 357-358, 1986.
+P.M. McGinnis and L.A. Bergman, "An Inverse Dynamic Analysis of the Pole Vault," International Journal of Biomechanics in Sport, 2, 186-201, 1986.
+B.F. Spencer and L.A. Bergman, "On the Estimation of Failure Probability Having Prescribed Statistical Moments of First Passage Time," Probabilistic Engineering Mechanics, 1, 131-135, 1986.
+J.W. Nicholson and L.A. Bergman, "Vibration of Damped Plate-Oscillator Systems," ASCE Journal of Engineering Mechanics, 112, 14-30, 1986.
+J.W. Nicholson and L.A. Bergman, "Free Vibration of Combined Dynamical Systems," ASCE Journal of Engineering Mechanics, 112, 1-13, 1986.
+B.F. Spencer, Jr. and L.A. Bergman, "On the Reliability of a Simple Hysteretic System," ASCE Journal of Engineering Mechanics, 111, 1502-1514, 1985.
+B.F. Spencer, Jr., L.A. Bergman and J.C. Heinrich, "Primera Excursion de Algunos Oscilladores No-Lineales Simples," Revista International de Metodos Numericos para Calculo y Diseno en Ingenieria, 1, 57-72, 1985.
+L.A. Bergman and J.W. Nicholson, "Forced Vibration of a Damped Linear Combined System," ASME Journal of Vibration, Acoustics, Stress and Reliability in Design, 107, 275-281, 1985.
+J.W. Nicholson and L.A. Bergman, "Vibration of Thick Plates Carrying Concentrated Masses," Journal of Sound and Vibration, 103, 357-369, 1985.
+L.A. Bergman and J.W. Nicholson, "Stationary Response of Combined Linear Dynamic Systems to Stationary Excitation," Journal of Sound and Vibration, 103, 225-236, 1985.
+L.A. Bergman and B.F. Spencer, Jr., "First Passage of a Sliding Rigid Structure on a Frictional Foundation," Earthquake Engineering and Structural Dynamics, 13, 281-291, 1985.
+L.A. Bergman, A.L. Hale and J.C. Goodding, "Identification of Linear Systems by Poisson Moment Functionals in the Presence of Noise," AIAA Journal, 23, 1234-1235, 1985.
+A.L. Hale and L.A. Bergman, "The Dynamic Synthesis of General Nonconservative Structures from Separately Identified Substructures," Journal of Sound and Vibration, 98, 431-446, 1985.
+J.W. Nicholson and L.A. Bergman, "On the Efficacy of the Model Series Representation for Green's Functions of Vibrating Continuous Structures," Journal of Sound and Vibration, 98, 299-304, 1985.
+L.A. Bergman and A.L. Hale, "Linear System Identification Via Poisson Moment Functionals," AIAA Journal, 22, 566-568, 1984.
+L.A. Bergman and J.C. Heinrich, "On the Reliability of the Linear Oscillator and Systems of Coupled Oscillators," International Journal for Numerical Methods in Engineering, 18, 1271-1295, 1982.
+L.A. Bergman and J.C. Heinrich, "Petrov-Galerkin Finite Element Solution for the First Passage Probability and Moments of First Passage Time of the Randomly Accelerated Free Particle," Computer Methods in Applied Mechanics and Engineering, 27, 345-362, 1981.
+L.A. Bergman and J.C. Heinrich, "On the Moments of Time to First Passage of the Linear Oscillator," Earthquake Engineering and Structural Dynamics, 9, 197-204, 1981.
+L.A. Bergman and J.C. Heinrich, "Solution of the Pontriagin-Vitt Equation for the Moments of Time to First Passage of the Randomly Accelerated Particle by the Finite Element Method," International Journal for Numerical Methods in Engineering, 15, 1408-1412, 1980.
+Click for more
+Articles in Conference Proceedings
+S. Hubbard, D.M. McFarland, A,F. Vakakis, L.A. Bergman, R.L. Fontenot, R.L. Brown, P.G.A. Cizmas, T.W. Strganac, “Stability Enhancement of a Transonic Wing Using a Simple Passive Attachment,” AIAA GNC/AFM/MST 2011 Conference, Portland, Oregon, August 8-11, 2011.
+L. Pichler and L.A. Bergman, “Combination of a Meta-Model for the Eigensolution in Linear Dynamics with Craig-Bampton Component Mode Synthesis.” In ENOC 2011 conference, submitted. July 24-29, Rome, Italy, 2011.
+S. Hubbard, R. Fontenot, P.Cizmas, D.M. McFarland, T. Strganac, A.F. Vakakis, “Comparison of Medium and High Fidelity Computational Aeroelastic Models,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+M. Mane, M. Kurt, Y.S. Lee, D.M. McFarland, L.A. Bergman, A.F. Vakakis, “Nonlinear System Identification of Vibroimpact Dynamics,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+R.K.R. Tumkur, R. Calderer, A. Masud, L.A. Bergman, A.J. Pearlstein, A.F. Vakakis, “Passive Suppression of Vortex Induced Vibration of Circular Cylinder in Laminar Flow,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+D. Andersen, Y. Starosvetsky, A.F. Vakakis, L.A. Bergman, “Dynamic Instabilities from Geometrically Nonlinear Damping,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+D. Andersen, Y. Starosvetsky, M. Mane, K. Remick, S. Hubbard, A.F. Vakakis, L.A. Bergman. “Impulsive Orbit Resonance: Numerical and Experimental Observations,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+O.V. Gendelman, G. Sigalov, L.I. Manevitch, M.Mane, A.F. Vakakis, L.A. Bergman, “Dynamics of An Eccentric Rotational Nonlinear Energy Sink,” 7th Euromech Nonlinear Dynamics Conference (ENOC-2011), Rome, Italy, July 24-29, 2011.
+L. Pichler, R. Calderer, A. Masud, and L.A. Bergman, “Response Probability Evolution of Some 3d Systems Subjected to Stochastic Loading.” In Eighth International Conference on Structural Dynamics EURODYN 2011, July 4-6 2011, Leuven, Belgium, submitted, 2011.
+M. Kurt, Y.S. Lee, D.M.McFarland, L.A. Bergman, A.F.Vakakis, “Nonlinear System Identification of Vibroimpact Dynamics,” 7th GRACM International Congress on Computational Mechanics, Athens, Greece, June 30 - July 2, 2011.
+R.L. Fontenot, S. Hubbard, R.L. Brown, D.M. McFarland, P.G.A. Cizmas, A.F. Vakakis, and L.A. Bergman, “Assessment of the Numerical Modeling of a Transonic Wing Aeroelastic Response,” International Forum of Aeroelasticity and Structural Dynamics (IFASD 2011), Paris, France, June 26-30, 2011.
+R. Kumar Tumkur, A. Masud, L.A. Bergman, A.J. Pearlstein, G.B. Dov, R. Calderer, A.F. Vakakis. “Passive Suppression of Vortex Induced Vibration of Rigid Circular Cylinder in Laminar Flow,” ECCOMAS Thematic Conference, IV International Conference on Computational Methods for Coupled Problems in Science and Engineering, Kos Island, Greece, June 20-22, 2011.
+L. Pichler and L.A. Bergman, “Numerical Solution of the Fokker-Planck Equation using the Alternating Directions Implicit Method.” In 3rd ECCOMAS Thematic Conference on Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2011), submitted, Corfu, May 2011.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, “Nonlinear System Identification of Vibro-Impact Nonsmooth Dynamical Systems,” 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Denver, CO, April 4-7, 2011.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, “A Global-Local Approach to Nonlinear System Identification,” 29th International Modal Analysis Conference – IMAC-XXIX, Jacksonville, FL, January 31-February 3, 2011.
+A.F. Vakakis, L.A. Bergman, D.M. McFarland, Y.S. Lee, “A Global-local Approach to Nonlinear System Identification,”  NSF CMMI Research and Innovation Conference 2011, Engineering for Sustainability and Prosperity, Atlanta, GA, January 4-7, 2011.
+T. Truster, M. Eriten, A. Masud, L. A. Bergman, and A. A. Polycarpou, “Modeling of Contact Interfaces: A Novel Computational Framework”, Proc. of 2010 ASME/STLE Int. Joint Tribology Conference, 2010.
+M. Eriten, A. A. Polycarpou, and L. A. Bergman, “Effects of Surface Roughness on Fretting of Mechanical Joints”, Proc. of 2010 ASME/STLE Int. Joint Tribology Conference, 2010. 
+D.M. McFarland, S.A. Hubbard, L.A. Bergman, A.F. Vakakis, "Engergy Transfer and LCO Mitigation in a Transonic Wing," ASME International Mechanical Engineering Congress and Exposition (IMECE), Vancouver, British Columbia, November 12-18, 2010.
+S. Hubbard, D.M. McFarland, A.F. Vakakis, L.A. Bergman, "Targeted Energy Transfer to a Rotary Nonlinear Energy Sink," Special Conference on Mechanical Vibration and Noise, ASME Interantional Design Engineering Technical Conferences, (IDETC), Montreal, Canada, August 15-18, 2010.
+T. Sapsis, A.F. Vakakis, L.A. Bergman, "Robustness of Targeted Energy Transfer to an Essentially Nonlinear Attachment from a Noisy Linear Primary System, 6th Computational Stochastic Mechanics Conference, Rhodos, Greece, July 13-16, 2010.
+T. Sapsis, A.F. Vakakis, L.A. Bergman, "Effect of Stochasticity on Targeted Energy Transfer from a Linear Medium to a Strongly Nonlinear Attachment," 16th US National Congress on Tehoretical and Applied Mechanics, Pennsylvania State University in University Park, PA, June 27-July 2, 2010.
+D.M. McFarland, S.A. Hubbard, A.F. Vakakis, L.A. Bergman, "Suppression of LCO of a Swept Wing in Transonic Flow by Targeted Energy Transfer," 13th Conference on Nonlinear Vibrations, Dynamics and Multi-body Systems, Virginia Polytechnic Institute and State University, Blacksburg, Virginia, May 23-27, 2010.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Time-Domain Nonlinear System Identification Method Based on Empirical Slow-Flow Analysis," 51st AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Orlando, FL, April 12-15, 2010.
+S.A. Hubbard, D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Experimental Targeted Energy Transfer to a Rotary Nonlinear Energy Sink," 51st AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Orlando, FL, April 12-15, 2010.
+H. Cho, Min-Feng Yu, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Exploring Nonlinear Nanomechanical Resonators for Practical Sensing Applications," Materials Research Society (MRS) Spring Meeting, San Francisco, CA, April 6-9, 2010.
+D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Exploiting Nonlinear Coupling Dynamics in Mechanism Design," 35th AIAA Dayton-Cincinnati Aerospace Sciences Symposium, Dayton, OH, March 9, 2010.
+T.J. Copeland, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Characterization of a Strongly Nonlinear Laboratory Benchmark System," T.J. Copeland, A.F. Vakakis, L.A. Bergman, D.M. McFarland, 28th International Modal Analysis Conference- IMAC-XXVIII, Jacksonville, FL, January 31, 2010
+D. Andersen, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Dynamics of a System of Coupled Oscillators with Geometrically Nonlinear Dampiing," 28th International Modal Analysis Conference- IMAC-XXVIII, Jacksonville, FL, January 31, 2010.
+C. Tripepi, F. Nucera, A.F. Vakakis, L. Bergman, D.M. McFarland, "Protection of Seismically Excited Symmetric and Eccentric Steel Structures Through Targeted Energy Transfers," Euromech Colloquium 509: Nonlinear Normal Modes, Dimension Reduction and Localization in Vibrating Systems. Frascati (Rome), Italy, September 27-October 2, 2009.
+C. Tripepi, F. Nucera, A.F. Vakakis, L. Bergman, D.M. McFarland, "Seismic Protection of Full Scale Seismically Excited Steel Structures Through Targeted Energy Transfers," XIX AIMETA – Congress of the Italian Association of Theoretical and Applied Mechanics, Università Politecnica delle Marche, Ancona, September 14-17, 2009.
+Y.S. Lee, S. Tsakirtzis, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Correspondence Between Intrinsic Mode Functions and Slow Flows," IDETC/CIE 2009, 22nd Biennial ASME Conference on Mechanical Vibration and Noise, San Diego, CA August 30-September 2, 2009.
+A. Triplett, D.D. Quinn, A.F. Vakakis, L.A. Bergman, "Energy Harvesting from an Impulsive Load with Essential Nonlinearities," IDETC/CIE 2009, 22nd Biennial ASME Conference on Mechanical Vibration and Noise, San Diego, CA, August 30-September 2, 2009.
+C. Tripepi, F. Nucera, A.F. Vakakis, L. Bergman, D.M. McFarland, "Seismic Protection of Seismically Excited Eccentric Steel Structures Through Targeted Energy Transfers," Asian-Pacific Network of Centers for Earthquake Engineering Research (ANCER 2009) Workshop, University of Illinois, Urbana, IL August 13-14, 2009.
+Y.S. Lee, S. Tsakirtzis, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Nonlinear Nonparametric System Identification Method of Broad Applicability," ECCOMAS Conference, Computational Methods in Structural Dynamics and Earthquake Engineering (COMPDYN 2009), Island of Rhodes, Greece, June 22-24, 2009.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Identification of the Dominant Nonlinear Modal Interactions in a Transonic Wing at the Onset of Limit Cycle Oscillation," International Forum on Aeroelasticity and Structural Dynamics (IFASD 2009), Seattle, Washington, June 21-25, 2009.
+A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Targeted Energy Transfer in Dynamical Systems," 2nd Chaotic Modeling and Simulation International Conference (CHAOS 2009), Chania, Crete, Greece, June 1-5, 2009.
+D.M. McFarland, P. Cizmas, T.W. Strganac, L.A. Bergman, Y.S. Lee, A.F. Vakakis, "Aeroelastic Analysis of a Transonic Wing for Design of Local Nonlinear Attachments," 50th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Palm Springs, CA, May 4-7, 2009.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, "Targeted Energy Transfer for Suppressing Aeroelastic Instability due to Unsteady Lift," 50th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Palm Springs, CA, May 4-7, 2009.
+D.D. Quinn, A.L. Triplett, L.A. Bergman, A.F. Vakakis, "Comparing Linear and Essentially Nonlinear Vibration-Based Energy Harvesting," Proceedings of ASME Conference on Smart Materials, Adaptive Structures and Intelligent Systems (SMASIS08), Ellicott City, Maryland, October 28-30, 2008.
+D.D. Quinn, A.A. Triplett, L.A. Bergman, A.F. Vakakis, "Vibration-based Energy Harvesting Based on Essential Nonlinearities," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+Y.S. Lee, D.M. McFarland, G. Kerschen, A.F. Vakakis, L.A. Bergman, "Theoretical Understanding of Targeted Energy Transfers for Suppressing Aeroelastic Instabilities in a Nonlinear Aeroelastic Test Apparatus," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+C. Tripepi, F. Nucera, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Seismic protection of multi-storey steel structures through Targeted Energy Transfer," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+A.F. Vakakis, Y.S. Lee, L.A. Bergman, D.M. McFarland, "Nonlinear Targeted Energy Transfer Designs for Passive Aeroelastic Flutter Suppression and Seismic Mitigation," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, G. Kerschen, L.A. Bergman, "Identification of the Slow-Flow Dynamics of Transonic Aeroelastic Response from Time-Series Data," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+T. Sapsis, D.D. Quinn, O. Gendelman, A.F. Vakakis, L.A. Bergman, G. Kerschen, "Efficient Targeted Energy Transfer in Coupled Nonlinear Oscillators Through 1:1 Transient Resonance Capture," 45th Society of Engineering Science (SES) Annual Technical Meeting, University of Illinois at Urbana-Champaign, October 12-15, 2008.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Strongly Nonlinear Modal Interactions and Targeted Energy Exchanges in Vibro-impact Systems with Applications," International Symposium on Vibro-Impact Dynamics of Ocean Systems (with support from the US Office of Naval Research), Troy, Michigan, October 2-3, 2008.
+T. Sapsis, D.D. Quinn, O. Gendelman, A.F. Vakakis, L.A. Bergman, G. Kerschen, "Applying L. Manevitch’s Complexification – Averaging Method to Analyze Conditions for Optimal Targeted Energy Transfer in Coupled Oscillators with Essential Stiffness Nonlinearity," International Conference on Nonlinear Phenomena in Polymer Solids and Low-dimensional Systems (NPPS – 2008) in honor of Prof. Leonid I. Manevitch on the occasion of his 70th Birthday, Semenov Institute of Chemical Physics, Russian Academy of Science, Moscow, Russia, July 7-10, 2008.
+Y.S. Lee, D.M. McFarland, A.F. Vakakis, L.A. Bergman, G. Kerschen, "Passive Suppression of Flutter in In-flow Wings," International Conference on Nonlinear Phenomena in Polymer Solids and Low-dimensional Systems (NPPS – 2008) in honor of Prof. Leonid I. Manevitch on the occasion of his 70th Birthday, Semenov Institute of Chemical Physics, Russian Academy of Science, Moscow, Russia, July 7-10, 2008.
+A. Vakakis, L. Bergman. G. Kerschen, Y.S. Lee, D. M. McFarland, "Suppression of Aeroelastic Instabilities by Broadband Passive Targeted Energy Transfers," 6th EUROMECH Nonlinear Dynamics Conference (ENOC 2008), St. Petersburg, RUSSIA, June 30-July 4, 2008. 
+A. Vakakis, L. Bergman, Y.S. Lee, D. M. McFarland, S. Tsakirtzis, "Reduced-Order Modeling of Strongly Nonlinear Modal Interactions in Systems with Strongly Nonlinear Attachments through Slow-Fast Partitions of the Dynamics, and Empirical Mode Decompositions," 6th EUROMECH Nonlinear Dynamics Conference (ENOC 2008), St. Petersburg, RUSSIA, June 30-July 4, 2008 
+A. Vakakis, T. Sapsis, D. Quinn, L. Bergman, G. Kerschen, "Efficient Targeted Energy Transfer in Coupled Nonlinear Oscillators Through 1:1 Transient Resonance Captures," 6th EUROMECH Nonlinear Dynamics Conference (ENOC 2008), St. Petersburg, RUSSIA, June 30-July 4, 2008.
+Targeted Energy Transfers for Suppressing Aeroelastic Instability due to Unsteady Lift 2008.  NATO RTO Symposium AVT-152 on Limit-Cycle Oscillations and other Amplitude-Limited, Self-Excited Vibrations, Loen, Norway, May 5-8.  Proceedings, Paper No. 015.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, "Identifying Triggering Mechanisms and Suppressing Aeroelastic Instabilities by Passive Targeted Energy Transfers: Nonlinear System Identification, Modal Interactions and Resonance Captures," Aeroelasticity and Fluid/Structure Interaction Symposium, 2007 Society of Engineering Science (SES) Technical Meeting, College Station, Texas, October 21-24, 2007.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, G. Kerschen, "Passive Aeroelastic Instability Suppression by Means of Targeted Energy Transfers," Invited Lecture, 6th German-Greek-Polish Symposium on Recent Advances in Mechanics, Alexandroupolis, Greece, September 17-21, 2007.
+D. Quinn, A.F. Vakakis, L.A.Bergman, "Vibration-Based Energy Harvesting With Essential Nonlinearities," Paper DETC2007-35457, 21th ASME Biennial Conference on Mechanical Vibration and Noise, Las Vegas, Nevada, September 4-7, 2007.
+F. Nucera, D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Application of Broadband Nonlinear Targeted Energy Transfers to Seismic Mitigation," 21th ASME Biennial Conference on Mechanical Vibration and Noise, Las Vegas, Nevada, September 4-7, 2007.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, L.A. Bergman, "Towards Multi-Scale System Identification in (Linear and Nonlinear) Structural Dynamics," 8th HSTAM National Congress on Mechanics, organized by the Hellenic Society for Theoretical & Applied Mechanics (HSTAM), University of Patras, Patras, Greece, July 12-14, 2007.
+F. Nucera, D.M.McFarland, L.A. Bergman, A.F. Vakakis, "New Passive Seismic Mitigation Strategies," 8th HSTAM National Congress on Mechanics, organized by the Hellenic Society for Theoretical & Applied Mechanics (HSTAM), University of Patras, Patras, Greece, July 12-14, 2007.
+A.F. Vakakis, G. Kerschen, L.A. Bergman, D.M. McFarland, "Targeted Energy Transfer Phenomena from Primary Structures to Geometrically Nonlinear Lightweight Attachments: An Overview," Euromech Colloquium 483 on Geometrically Nonlinear Vibrations of Structures, University of Porto - FEUP, Porto, Portugal, July 9-11, 2007.
+F. Nucera, D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Application of Targeted Energy Transfers for Seismic Mitigation of a Shear Frame," Euromech Colloquium 483 on Geometrically Nonlinear Vibrations of Structures, University of Porto - FEUP, Porto, Portugal, July 9-11, 2007.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, "Passive Suppression of Aeroelastic Instabilities of In Flow Wings by Targeted Energy Transfers To Lightweight Essentially Nonlinear Attachments," International Forum on Aeroelasticity and Structural Dynamics (IFASD)2007, Royal Institute of Technology (KTH), Stockholm, Sweden, June 18-20, 2007.
+F. Nucera, F. Lo Iacono, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Passive Seismic Mitigation Based on Passive targeted Energy Transfers," 1st International Conference on Computational Dynamics and Earthquake Engineering – COMPDYN 2007, Rethymnon, Greece, June 13-15, 2007.
+F. Georgiades, S. Tsakirtzis, P. Panagopoulos, A.F. Vakakis, L.A. Bergman, G. Kerschen, "Identification of Nonlinear Modal Interactions Between Elastic Continua and Essentially Nonlinear Boundary Attachments Using Wavelet and Hilbert – Huang Transforms," 1st International Conference on Computational Dynamics and Earthquake Engineering – COMPDYN 2007, Rethymnon, Greece, June 13-15, 2007.
+Y.S. Lee, D.M. McFarland, G. Kerschen, A.F. Vakakis, L.A. Bergman, "Wing-Flutter Mitigation By Targeted Energy Transfers Induced By An Essentially Nonlinear Attachments," International Symposium on Recent Advances in Mechanics, Dynamical Systems and Probability Theory (MDP 2007), in honor of the 60th Birthday of Prof. Mario Di Paola, Palermo, Italy, June 3-6, 2007.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, "Enhancing Robustness of Instability Suppression by Means of Multi-Degree-of-Freedom Nonlinear Energy Sinks," 48th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Waikiki, Hawaii, April 23-26, 2007.
+D.M. McFarland, P.S. Beran, Y.S. Lee, L.A. Bergman, A.F. Vakakis, "Transonic Aeroelastic Analysis Including the Effects of a Nonlinear Energy Sink," 48th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Waikiki, Hawaii, April 23-26, 2007.
+D.M. McFarland, P.S. Beran, Y.S. Lee, L.A. Bergman, A.F. Vakakis, "Modification of a Program for Transonic Aeroelastic Analysis to Include the Effects of an Attached Nonlinear Energy Sink," 48th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference, Waikiki, Hawaii, April 23-26, 2007.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, L.A. Bergman, "The Slow-Flow Method of Identification in Nonlinear Structural Dynamics," 14th SPIE International Symposium on Smart Structures and Materials & Nondestructive Evaluation and Health Monitoring, San Diego, CA, March 18-22, 2007.
+R. Viguie, G. Kerschen, J.-C. Golinval, D.M. McFarland, L.A. Bergman, A.F. Vakakis, N. van de Wouw, "Using Targeted Energy Transfer to Stabilize Drill-String Systems," 25th International Modal Analysis Conference (IMAC-XXV), Orlando, Florida, February 19-22, 2007.
+G. Kerschen, F. Poncelet, J.C. Golinval, A.F. Vakakis, L.A. Bergman, "Identification of Linear and Nonlinear Systems Using Signal Processing Techniques," 26th Benelux Meeting on Systems and Control, Center Parcs “De Vossemeren, Lommel, Belgium, March 13-15, 2007.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, L.A. Bergman, "Nonlinear MDOF System Characterization and Identification Using the Hilbert-Huang Transform: Experimental Demonstration," 25th International Modal Analysis Conference (IMAC-XXV), Orlando, Florida, February 19-22, 2007.
+G. Kerschen, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Nonlinear MDOF System Characterization and Identification Using the Hilbert-Huang Transform,"International Conference on Noise and Vibration Engineering (ISMA 2006), Leuven, Belgium, September 18-20, 2006.
+D.D. Quinn, G. Kerschen, A.F. Vakakis, O. Gendelman, L.A. Bergman, T. Sapsis, "Energy Transition from a Linear Oscillator to an Attached Mass Through an Essential Nonlinearity," 11th Conference on Nonlinear Vibrations, Stability and Dynamics of Structures, Virginia Tech, Blacksburg, VA, August 13-17, 2006.
+Y.S. Lee, G. Kerschen, D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Targeted Energy Transfers, Suppression of Aeroelastic Instability, and Robustness Enhancement: Theory and Experiment," 11th Conference on Nonlinear Vibrations, Stability and Dynamics of Structures, Virginia Tech, Blacksburg, VA, August 13-17, 2006.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, L.A. Bergman, "Slow-Flow Model Identification of Nonlinear Systems using the Hilbert-Huang Transform," 7th World Congress on Computational Mechanics (WCCM 2006), Los Angeles, CA, July 16-22, 2006.
+X. Ma, A.F. Vakakis, L.A. Bergman, "Reduced Order Modeling in Nonlinear Mechanical Oscillators with Energy Pumping Properties," 2nd International Conference on Nonlinear Normal Modes and Localization in Vibrating Systems, Samos, Greece, June 19-23, 2006.
+G. Kerschen, J.J. Kowtko, D.M. McFarland, L.A. Bergman, A.F. Vakakis, "Theoretical and Experimental Study of Multimodal Targeted Energy Transfer in a System of Coupled Oscillators," 2nd International Conference on Nonlinear Normal Modes and Localization in Vibrating Systems, Samos, Greece, June 19-23, 2006.
+L.A. Bergman, A.F. Vakakis, D.M.McFarland, T. Strgnac, "Aeroelastic Instabilities in In-Flow Wing Dynamics: Strategies for Passive Instability Suppression and System Identification Issues," AFRL/AFSEO/IHAAA Workshop on Aircraft-Stores Clearance and Related Aeroelastic Phenomena, Fountain Hills, AZ, May 16-17, 2006.
+W.J. Hill, T.W. Strganac, C. Nichkawde, D.M. McFarland, G. Kerschen, Y.S. Lee, A.F. Vakakis, L.A. Bergman. "Suppression of Limit Cycle Oscillations with a Nonlinear Energy Sink: Experimental Results," 45th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Newport, Rhode Island, May 1-4, 2006.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, G. Kerschen. "Suppression of Limit Cycle Oscillations with a Nonlinear Energy Sink: Theoretical Basis," 47th AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics, and Materials Conference, Newport, Rhode Island, May 1-4, 2006.
+G. Kerschen, A.F. Vakakis, Y.S. Lee, D.M. McFarland, L.A. Bergman. "Toward a Fundamental Understanding of the Hilbert-Huang Transform in Nonlinear Structural Dynamics," 24th International Modal Analysis Conference (IMAC-XXIV), St. Louis, Missouri, January 30 – February 2, 2006.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Suppression of Self-Excited Oscillations by Means of Targeted Energy Transfers," US National Science Foundation – National Natural Science Foundation of China Workshop on Smart Structures and Smart Systems, Shandong Institute of Architecture and Engineering, Jinan, China, October 16-18, 2005.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, "Suppression of Limit Cycle Oscillations in a Van der Pol Oscillator by Means of a Passive Nonlinear Energy Sink," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+G. Kerschen, Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman, "Irreversible Passive Energy Transfer In The Damped Response Of Coupled Oscillators With Essential Nonlinearity," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+Y.S. Lee, A.F. Vakakis, L.A. Bergman, D.M. McFarland, G. Kerschen, "Triggering Limit Cycle Oscillations in a Two Degree-of-freedom Wing Flutter Model," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+Y.S. Lee, G. Kerschen, A.F. Vakakis, P. Panagopoulos, L.A. Bergman, D.M. McFarland, "Surprisingly Complicated Dynamics of a Single-degree-of-freedom Linear Oscillator Coupled to a Nonlinear Attachment," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+G. Kerschen, Y.S. Lee, A.F. Vakakis, D.M. McFarland, L.A. Bergman. ,"Irreversible Passive Energy Transfer in the Damped Response of Coupled Oscillators with Essential Nonlinearity," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+D.M. McFarland, G. Kerschen, J.J. Kowtko, Y.S. Lee, L.A. Bergman, A.F. Vakakis. ,"Experimental Investigation of Targeted Energy Transfers in Strongly and Nonlinearly Coupled Oscillators," 20th ASME Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, September 24-28, 2005.
+L.A. Bergman, A.F. Vakakis, D.M.McFarland, "Passive Flutter Suppression by Means of Nonlinear Targeted Energy Transfer: Theory and Experimental Validation," AFOSR Contractors’ Meeting – Mechanics of Materials & Devices and Structural Mechanics Program Review, Santa Fe, New Mexico, August 29-September 1, 2005.
+A.F. Vakakis, L.I. Manevitch, A.I. Musienko, G. Kerschen, L.A. Bergman, "Transient Dynamics of a Dispersive Elastic Wave Guide with an Essentially Nonlinear End Attachment," 5th Euromech Nonlinear Dynamics Conference (ENOC-2005), Eindhoven University of Technology, Eindhoven, The Netherlands, August 7-12, 2005.
+D.M. McFarland, G. Kerschen, J. Kowtko, L.A. Bergman, A.F. Vakakis, "Experimental Irreversible Passive Energy Transfer in Coupled Nonlinear Oscillators," 5th Euromech Nonlinear Dynamics Conference (ENOC-2005), Eindhoven University of Technology, Eindhoven, The Netherlands, August 7-12, 2005.
+Y.S. Lee, G. Kerschen, P. Panagopoulos, L.A. Bergman, D.M. McFarland, and A.F. Vakakis, “Complex Dynamics of a Linear Oscillator with a Nonlinear Attachment,” 5th Euromech Nonlinear Dynamics Conference (ENOC-2005), Eindhoven University of Technology, Eindhoven, The Netherlands, August 7-12, 2005.
+S. Tsakirtzis, P.N. Panagopoulos, G. Kerschen, O. Gendelman, A.F. Vakakis, L.A. Bergman, "Multi-Frequency Passive Nonlinear Targeted Energy Transfers in Systems of Coupled Oscillators," 5th GRACM International Congress on Computational Mechanics, Limassol, Cyprus, June 29 – July 1, 2005.
+A.V. Pesterev, L.A. Bergman, and C.A. Tan, “A Technique for Assessing Tire Forces in a Vehicle Moving along a Harmonic Profile and Its Application to Low-Speed Testing,” ASME Design Engineering Technical Conferences, 20th Biennial Conference on Mechanical Vibration and Noise, Long Beach, California, USA, Sept. 2005.
+A.F. Vakakis, D.M. McFarland, G. Kerschen, J. Kowtko, and L.A. Bergman, “Nonlinear Energy Pumping: A New Paradigm for Vibration Isolation,” 3rd China-Japan-US Symposium on Health Monitoring and Control of Structures, Dalian, China, October 13-15, 2004.
+G. Kerschen, D.M. McFarland, J. Kowtko, A.F. Vakakis and L.A. Bergman, “Passive Energy Transfer and Dissipation for Isolation from Transient Broadband Disturbances,” US-Korea Joint Seminar/Workshop on Smart Structures Technologies, Seoul, Korea, September 2-4, 2004.
+Y.S. Lee, A.F. Vakakis, D.M. McFarland and L.A. Bergman, “Elimination of Limit Cycle Oscillation in a van der Pol's Oscillator using a Nonlinear Energy Sink,”. 3rd International Conference on Advances in Structural Engineering & Mechanics (ASEM'04), Seoul, Korea, September 2-4, 2004.
+D.M. McFarland, L.A. Bergman and A.F. Vakakis, “Experimental Study Of Nonlinear Energy Pumping,” 21st International Congress of Theoretical and Applied Mechanics (ICTAM 2004), Warsaw, Poland, August 15-21, 2004, CD-ROM.
+Y. Wang, D.M. McFarland, A.F. Vakakis and L.A. Bergman, “A Seismic Base Isolation System Employing Nonlinear Localization,” 7th International Conference on Motion and Vibration Control (MOVIC 2004), St. Louis, Missouri, August 8-11, 2004, CD-ROM.
+D.M. McFarland, L.A.Bergman and A.F. Vakakis, “Experimental Energy Pumping,” 10th Conference on Nonlinear Vibrations, Stability, and Dynamics of Structures, Virginia Polytechnic Institute and State University, Blacksburg, VA, July 25-29, 2004, CD-ROM.
+A.V. Pesterev, C.A. Tan, and L.A. Bergman, "Dynamic tire forces in vehicles with semi-active suspensions," 2004 SPIE Smart Structures and Materials Symposium, March 2004, San Diego.
+D.M. McFarland, L.A. Bergman and A.F. Vakakis, “Experimental Study of Nonlinear Energy Pumping Occurring at a Single Fast Frequency,” 7th International Conference on Dynamical Systems - Theory and Applications, Lodz, Poland, December 8-10, 2003, CD-ROM.
+A.F. Vakakis, L.A. Bergman and I. Georgiou, “Order Reduction Techniques for Fault Diagnosis and Prognosis,” 3rd International Non-destructive Evaluation Conference, Chania, Greece, October 15-17, 2003, CD-ROM.
+	L.A. Bergman, A.F. Vakakis and D.M. McFarland, “Novel Passive Control for Aerostructures,” AFOSR Contractors' Meeting, Santa Fe, New Mexico, September 8-11, 2003, CD-ROM.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, and B. Yang, 2003, “Effect of a Pothole on the Dynamics of an MDOF Vehicle,” ASME Design Engineering Technical Conferences, 19th Biennial Conference on Mechanical Vibration and Noise, Chicago, Illinois, USA, Sept. 2003, paper VIB-48566, CD-ROM.
+A.V. Pesterev, B. Yang, C.A. Tan, and L.A. Bergman, "Assessment of Pothole-Induced Tire Forces in a General Linear Vehicle Model," 2003 ASCE Engineering Mechanics Conference, Seattle, July 2003. 
+Y. Song, C. J. Hartwigsen, L. A. Bergman, and A. F. Vakakis, "Dynamic Response Analysis of Jointed Structures Using 2-D/3-D Adjusted Iwan Beam Element," 44th AIAA/ASME/ASCE/AHS Structures, Structural Dynamics and Materials Conference, Norfolk, April, 2003.  Proceedings, in press.
+D. M. McFarland, Y. Wang, A. F. Vakakis and L. A. Bergman, "Model Testing of a Nonlinear Base Isolation Concept," International Conference on Advances in Building Technology, Hong Kong, December, 2002.  Proceedings, pp. 513-520.
+A.V. Pesterev, L.A. Bergman, and C.A. Tan, “A New Approach to the Modeling of MDOF Vehicles Traversing Rough Surfaces,” Symposium on Dynamics, Acoustics and Simulation, Proceedings of the ASME International Mechanical Engineering Congress and Exposition, New Orleans, USA, Nov. 17-22, 2002. CD-ROM, Paper No. IMECE2002/DE-.
+Y. Wang, D. M. McFarland, A. F. Vakakis and L. A. Bergman, "Efficacy of a Nonlinear Base Isolation System Subjected to Near-Field Earthquake Motion," International Conference on Advances and New Challenges in Earthquake Engineering Research, Harbin, China, August,2002.  Proceedings, in press.
+D. M. McFarland, L. A. Bergman, A. F. Vakakis, L. I. Manevitch and O. Gendelman, "Energy Pumping into Passive Nonlinear Energy Sinks Attached to Forced Linear Substructures: Analytical and Experimental Results," 9th Conference on Nonlinear Vibrations, Stability, and Dynamics of Structures, Virginia Polytechnic Institute and State University, Blacksburg, VA, July, 2002.  Proceedings, in press.
+D. M. McFarland, A. F. Vakakis and L. A. Bergman, "Experimental Verification of the Performance of a Nonlinear Energy Sink," 15th ASCE Engineering Mechanics Conference, Columbia University, New York, June, 2002.  Proceedings, Paper No. 339, CD-ROM.
+D. M. McFarland, D. L. Gipson, A. F. Vakakis and L. A. Bergman, "Characterization of an Essentially Nonlinear 2-DOF Vibration Test Apparatus," 15th ASCE Engineering Mechanics Conference, Columbia University, New York, June, 2002.  Proceedings, Paper No. 338, CD-ROM.
+D. M. McFarland, Y. Wang, A. F. Vakakis and L. A. Bergman, "A Parametric Analysis of a Novel Shock Isolation System," 15th ASCE Engineering Mechanics Conference, Columbia University, New York, June, 2002.  Proceedings, Paper No. 337, CD-ROM.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, T.-C. Tsao, and B. Yang, 2002, “Some Recent Results in Moving Load Problems” (Keynote Lecture), XXXIV Polish Solid Mechanics Conference, Zakopane, Poland, September 2002.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, T.-C. Tsao, and B. Yang, 2002, “Some Recent Results in Moving Load Problems with Application to Highway Bridges” (Keynote Lecture), 6th International Conference on Motion and Vibration Control (MOVIC), Saitama, Japan, August 2002.
+Y. Song, C. J. Hartwigsen, L. A. Bergman, and A. F. Vakakis, "A Phenomenological Model of a Bolted Joint," 15th ASCE Engineering Mechanics Conference, Columbia University, New York, June, 2002.  Proceedings, Paper No. 332, CD-ROM.
+A.V. Pesterev, L.A. Bergman, and C.A. Tan, “Accurate Model Reduction in Problems of Bridge Vibration Due to Moving Vehicle,” in D.A. Indeitsev (Ed.), Advanced Problems in Mechanics. Proceedings of the XXX Summer School, Institute for Problems in Mechanical Engineering, Russian Academy of Science, St. Petersburg, Russia, June 27-July 6, 2002, pp. 522-529.
+A.V. Pesterev, L.A. Bergman, C.A. Tan, T.-C. Tsao, and B. Yang, “On Equivalence of the Moving Mass and Moving Oscillator Problems,” Proceedings of the ASME Design Engineering Technical Conferences, 18th Biennial Conference on Mechanical Vibration and Noise, Pittsburgh, Pennsylvania, USA, Sept. 9-12, 2001. CD-ROM, Paper No. DETC01/VIB21518.
+A. F. Vakakis, D. M. McFarland and L. A. Bergman, "Vibration Suppression by Energy Pumping," Seminar/Workshop on Cooperative US-Europe Research in Sensors and Smart Structures Technology, Como, Italy, April 2002.  Proceedings, in press.
+Y. Chen, C.A. Tan, L.A. Bergman and T-C. Tsao, "Smart Suspension Systems for Bridge-Friendly Vehicles," SPIE Conference, San Diego, CA, March, 2002, Proceedings, CD-rom.
+T-C. Tsao, C.A. Tan, A. Pesterev, B. Yang and L.A. Bergman, "Control Oriented Formulation for Structures Interacting with Moving Loads," Proceedings of the Automatic Controls Conference, Washington D.C., June, 2001, 1, pp. 441-445.
+S. F. Wojtkiewicz and L. A. Bergman, "Numerical Solution of High Dimensional Fokker-Planck Equations," proceedings in press.  Presented at the 8th International Conference on Structural Safety and Reliability, Newport Beach, CA, June 17-21, 2001.
+S. F. Wojtkiewicz and L. A. Bergman, "FPKTOOL: A Computational Framework for the Vibration of GWN-Driven SDOF Systems," proceedings in press.  Presented at the 8th International Conference on Structural Safety and Reliability, Newport Beach, CA, June 17-21, 2001.
+C. Schenk and L. A. Bergman, "Response of a Continuous System with Stochastically Varying Surface Roughness to a Moving Load," proceedings in press.  Presented at the First MIT Conference on Computational Fluid and Solid Mechanics, Cambridge, MA, June, 12-15, 2001.
+L. A. Bergman and S. F. Wojtkiewicz (Keynote), "Numerical Solution of a Four-Dimensional Fokker-Planck Equation," proceedings in press. Presented at the First MIT Conference on Computational Fluid and Solid Mechanics, Cambridge, MA, June, 12-15, 2001.
+A. V. Pesterev, B. Yang, L. A. Bergman and C. A. Tan, "Response and Stress Calculations of an Elastic Continuum Carrying Multiple Moving Oscillators," Advances in Structural Dynamics, Vol. 1, J. M. Ko and Y. L. Xu (Eds.), Elsevier Science Ltd., 2000, (Proceedings of the International Conference on Advances in Structural Dynamics, Hong Kong, 13-15 December, 2000), pp. 545-552.
+S.J. Dyke, J.M. Caicedo, L.A. Bergman, and G. Turan, "Introducing a Benchmark Control Problem for a Cable-Stayed Bridge Subjected to Seismic Excitation," US-China Millennium Symposium on Earthquake Engineering, Beijing, China, November 9-12, 2000. Proceedings, in press.
+S.F. Wojtkiewicz and L.A. Bergman, "Numerical Solution of High-Dimensional Fokker-Planck Equations," 8th ASCE Joint Specialty Conference on Probabilistic Mechanics and Structural Reliability, Notre Dame, IN, July 24-26, 2000. Proceedings (CD-ROM), 2000.
+S.J. Dyke, G. Turan, J.M. Caicedo, L.A. Bergman, and S. Hague, "Benchmark Control Problem on the Seismic Response of Cable-Stayed Bridges," 2nd European Conference on Structural Control, Paris, France, July 3-6, 2000. Proceedings, in press.
+J.M. Caicedo, G. Turan, S.J. Dyke and L.A. Bergman, "Comparison of Modeling Techniques for Dynamic Analysis of A Cable-Stayed Bridge," 14th ASCE Engineering Mechanics Conference, Austin, TX, May 21-24, 2000. Proceedings (CD-ROM), 2000.
+A.V. Pesterev and L.A. Bergman, "Application of the Mode-Acceleration Technique to the Solution of the Moving Oscillator Problem," Symposium on Dynamics and Control of Time-Dependent Structures and Systems, 17th ASME Biennial Conference on Mechanical Vibration and Noise, Las Vegas, September 12-16, 1999. Proceedings (CD-ROM), 1999.
+X. Ma, T. Nayfeh, A. F. Vakakis, and L.A. Bergman (Invited), "Experimental Verification of Shock Reduction Achieved Through Nonlinear Localization," A New Advance in Seismic Isolation, Energy Dissipation and Control of Structures (F. Zhou and B. Spencer, Editors), Seismological Press, Beijing, 1999, pp. 51-57. Presented at the International Workshop on Seismic Isolation, Energy Dissipation, and Control of Structures, Guangzhou, China, May 6-8, 1999.
+S.F. Wojtkiewicz and L.A. Bergman, "A New Approach to Covariance Control of Nonlinear Structures," Pioneering International Symposium on Motion and Vibration Control in Mechatronics, Tokyo, Japan, April 6-7, 1999. Proceedings, pp. 296-301, 1999.
+L. A. Bergman, "Uncertainty in Dynamical System: A Perspective," Structureal Dynamics @ 2000: current status and future directions, (D. J. Ewins and D. J. Inman, Editors). Research Studies Press Ltd., Baldock, Hertfordshire, England, 2001, pp. 9-17.Presented at SD2000 - An International Forum to Discuss the Future of Structural Dynamics, Los Alamos, NM, April 11-17, 1999.
+S.F. Wojtkiewicz and L.A. Bergman, "A New Approach to Covariance Control of Nonlinear Structures," Pioneering International Symposium on Motion and Vibration Control in Mechatronics, Tokyo, Japan, April 6-7, 1999. Proceedings, pp. 296-301, 1999.
+S.F. Wojtkiewicz and L.A. Bergman, "Covariance Control of a Hysteretic System," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998.  Proceedings, pp. 1967-1974, 1999.
+R.V. Field, Jr., K.M. Grigoriadis, L.A. Bergman and R.E. Skelton, "An Overview of Linear Covariance Control Design for Civil Engineering Structures," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998.  Proceedings, pp. 1321-1328, 1999.
+A.G. Schemmann, H.A. Smith, L.A. Bergman and S.J. Dyke, "Feasibility Study: Control of a Cable-Stayed Bridge Model, Part I," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998.  Proceedings, pp. 975-979, 1999.
+S.F. Wojtkiewicz, L.A. Bergman, B.F. Spencer, Jr. and E. A. Johnson (Invited), "Numerical Solution of the Four-Dimensional Nonstationary Fokker-Planck Equation," proceedings in press. Presented at the IUTAM Symposium on Nonlinearity and Stochastic Structural Dynamics, Indian Institute of Technology (Madras), Chennai, INDIA, January 4-8, 1999..
+S.F. Wojtkiewicz and L.A. Bergman, "Covariance Control of a Hysteretic System," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998. Proceedings, pp. 1967-1974, 1999.
+R.V. Field, Jr., K.M. Grigoriadis, L.A. Bergman and R.E. Skelton, "An Overview of Linear Covariance Control Design for Civil Engineering Structures," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998. Proceedings, pp. 1321-1328, 1999.
+A.G. Schemmann, H.A. Smith, L.A. Bergman and S.J. Dyke, "Feasibility Study: Control of a Cable-Stayed Bridge Model, Part I," Second World Conference on Structural Control, Kyoto, Japan, June 28-July 1, 1998. Proceedings, pp. 975-979, 1999.
+R.V. Field, Jr. and L.A. Bergman, "Investigating a Reliable Covariance Control Scheme For MDOF Systems," American Control Conference, Philadelphia, PA, June 24-26, 1998. Proceedings (CD-ROM), 1998.
+S.F. Wojtkiewicz, L.A. Bergman and A.F. Vakakis, "Dynamics of the Moment Equations of a Stochastic Duffing Oscillator," Computational Stochastic Mechanics (P. Spanos, Editor), Balkema, 1999, 143-148. Presented at thitherto International Conference on Computational Stochastic Mechanics, Santorini, Greece, June 14-17, 1998.
+E.A. Johnson, L.A. Bergman, B.F. Spencer, Jr., "Intelligent Monte Carlo Simulation," Computational Stochastic Mechanics (P. Spanos, Editor), Balkema, 1999, 31-39. Presented at thitherto International Conference on Computational Stochastic Mechanics, Santorini, Greece, June 14-17, 1998.
+L.A. Bergman, S.F. Wojtkiewicz, G. Turan and S.J. Dyke, "Covariance Control of a System with Elasto-Plastic Hysteresis," Computational Stochastic Mechanics (P. Spanos, Editor), Balkema, 1999, 255-259. Presented at the International Conference on Computational Stochastic Mechanics, Santorini, Greece, June 14-17, 1998.
+S.F. Wojtkiewicz, L.A. Bergman, E.A. Johnson, M. Grigoriu, and B.F. Spencer, Jr., "Response of Stochastic Dynamical Systems Driven by Additive Gaussian and Poisson White Noises: Numerical Solution of the Forward Kolmogorov-Feller Equation," Stochastic Structural Dynamics (B. Spencer and E. Johnson, Editors), Balkema, Rotterdam, 1999, 53-60. Presented at the Fourth International Conference on Stochastic Structural Dynamics, Notre Dame, IN, August 6-8, 1998.
+L.A. Bergman, S.F. Wojtkiewicz and M. Grigoriu (Invited), "Response of Dynamic Systems Driven by Additive Gaussian and Poisson White Noises," Computational Mechanics in Structural Engineering: Recent Developments (F.Y. Cheng and Y. Gu, Editors), Elsevier, Amsterdam, 1999, 71-83. Presented at the Second Sino-US Symposium Workshop on Recent Advancement of Computational Mechanics in Structural Engineering, Dalian, P.R. China, May, 25-28, 1998..
+S.F. Wojtkiewicz and L.A. Bergman, "Solution of the Beam-Beam Problem by a High Order Finite Difference Method," 12th ASCE Engineering Mechanics Conference, La Jolla, CA, May 17-20, 1998.  Proceedings, 1998.
+E.A. Johnson, L.A. Bergman and B.F. Spencer, Jr., "Monte Carlo Simulation of the Stochastic Beam-Beam Interaction Problem in Particle Accelerator Physics," 12th ASCE Engineering Mechanics Conference, La Jolla, CA, May 17-20, 1998.  Proceedings, 1998.
+E.A. Johnson, P.G. Voulgaris, and L.A. Bergman, "Methods of System Identification for Monitoring Slowly Time-Varying Structural Systems," Intelligent Information Systems Conference (IIS'97), Grand Bahama Island, Bahamas, December 8-10, 1997.  Proceedings (IEEE Computer Society, Los Alamitos, CA, 1997), 569-573.
+W. Yi, B.F. Spencer, Jr. and L.A. Bergman, "Solution of Fokker-Planck Equation in Higher Dimensions: Application of the Concurrent Finite Element Method," ICOSSAR `97, Tokyo, JAPAN, November 24-28, 1997. Proceedings, 2,  859-865, 1998.
+S.F. Wojtkiewicz, L.A. Bergman and B.F. Spencer, Jr., "Computational Issues Arising in the Solution of the Fokker-Planck Equation: Use of Iterative Solution Methods," ICOSSAR `97, Tokyo, JAPAN, November 24-28, 1997. Proceedings, 2,  851-858, 1998.
+S.F. Wojtkiewicz, L.A. Bergman and B.F. Spencer, Jr., "High Fidelity Numerical Solutions of the Fokker-Planck Equation," ICOSSAR `97, Tokyo, JAPAN, November 24-28, 1997. Proceedings, 2, 933-940, 1998.
+E.A. Johnson, S.F. Wojtkiewicz, L.A. Bergman, and B.F. Spencer, Jr., "Finite Element and Finite Difference Solutions to the Transient Fokker-Planck Equation," Deutsches Elektronen-Synchrotron (DESY) report DESY-97-161, Proceedings of a Workshop: Nonlinear and Stochastic Beam Dynamics in Accelerators -- A Challenge to Theoretical and Computational Physics, Luneburg, Germany, September 29 - October 3, 1997. Proceedings, 290-306, 1998.
+A.V. Pesterev and L.A. Bergman, "The Response of a Nonconservative Distributed System to a Moving Oscillator," Vibration of Continuous Systems, (J. Wickert, ed.), Proceedings of the 1997 ASME Design Engineering Technical Conferences, 16th Biennial Conference on Mechanical Vibration and Noise, Sacramento, CA, September 17-19, 1997.
+R.W. Field, Jr. and L.A. Bergman, "Reliability-Based Covariance Control Design," American Control Conference, Albuquerque, NM, June 4-6, 1997. Proceedings, 1997.
+A.P. Prell, T-C. Tsao and L.A. Bergman, "Application of Repetitive Control to Vibration Attenuation in Civil Engineering Structures,"  Second International Workshop on Structural Control, Hong Kong, December 18-21, 1996.  Proceedings, 403-420, 1997.
+R.V. Field, Jr., P.G. Voulgaris, and L.A. Bergman, "Probability-Based Stability Assessment of Controlled Structures," Triennial World Congress of the International Federation of Automatic Control (IFAC), San Francisco, CA, June 30-July 5, 1996.  Proceedings, Vol. L, 187-192.
+E.A. Johnson, L.A. Bergman, P.G. Voulgaris and L.C. Freudinger, "Modal Filter Based On-line Monitoring of Uncertain Structural Systems," Eleventh ASCE Engineering Mechanics Conference, Ft. Lauderdale, FL, May 19-22, 1996.  Proceedings, 156-159.
+W. Yi, S.F. Wojtkiewicz, L.A. Bergman and B.F. Spencer, Jr., "Application of the Infinite Element Method to Solution of the Fokker-Planck Equation," Eleventh ASCE Engineering Mechanics Conference, Ft. Lauderdale, FL, May 19-22, 1996.  Proceedings, 685-688.
+B.F. Spencer, Jr. and L.A. Bergman, "Stochastic Response of Systems with Linear Hysteretic Damping," Eleventh ASCE Engineering Mechanics Conference, Ft. Lauderdale, FL, May 19-22, 1996.  Proceedings, 677-680.
+R.V. Field, Jr., P.G. Voulgaris and L.A. Bergman, "Methods to Compute Probabilistic Stability Measures for Controlled Systems," Tenth VPI&SU Symposium on Structural Dynamics and Control, Blacksburg, VA, May 8-10, 1995.  Proceedings, 311-322.
+G.G. Lueschen, D.M. McFarland and L.A. Bergman, "Synthesis of Dynamic Green's Functions for Simply-Supported Timoshenko Beams," Tenth ASCE Engineering Mechanics Conference, Boulder, CO, May 21-24, 1995.  Proceedings, 1211-1214.
+R.V. Field, Jr., W.B. Hall, and L.A. Bergman, "A Matlab-Based Approach to the Computation of Probabilistic Stability Measures for Controlled Systems," First World Conference on Structural Control, Los Angeles, CA, August 3-5, 1994.  Proceedings, TP4-13-TP4-22.
+E.A. Johnson, S.F. Wojtkiewicz, and L.A. Bergman, "Some Experiments with Massively Parallel Computation for Monte Carlo Simulation of Stochastic Dynamical Systems," Second International Conference on Computational Stochastic Mechanics, Athens, GREECE, June 13-15, 1994.  Proceedings, 325-336.
+L.A. Bergman, S.F. Wojtkiewicz, E.A. Johnson, and B.F. Spencer, Jr., "Some Reflections on the Efficacy of Moment Closure Methods," Second International Conference on Computational Stochastic Mechanics, Athens, GREECE, June 13-15, 1994.  Proceedings, 87-96.
+J.B. Ditman and L.A. Bergman, "A Comparison of the Effectiveness of Two Shape Memory Alloy-Based Actuators," Second International Conference on Intelligent Materials, Williamsburg, VA, June 5-8, 1994.  Proceedings, 450-461.
+J.B. Ditman, L.A. Bergman and T-C. Tsao, "Design of Extended Bandwidth Shape Memory Alloy Actuators," AIAA/ASME Adaptive Structures Forum, Hilton Head, SC, April 21-22, 1994.  Proceedings, 210-220.
+K. Gurley, A. Kareem,  L.A. Bergman, E.A. Johnson and R.E. Klein, Coupling Tall Buildings for Control of Response to Wind," ICOSSAR `93, Innsbruck, AUSTRIA, August 9-13, 1993. Proceedings, 1553-1560.
+L.A. Bergman and W.B. Hall, "Effect of Controller Uncertainty on the Stability of a Distributed Parameter System," ICOSSAR `93, Innsbruck, AUSTRIA, August 9-13, 1993. Proceedings, 249-256.
+L.A. Bergman, H.H. Hilton and T-C. Tsao, "The Effect of Viscoelasticity on the Performance of Reaction Mass Actuators," Damping `93, San Diego, CA, February 24-26, 1993.  Proceedings, WL-TR-93-3105, 2: GAB 1-8.
+E.A. Johnson, J. Tzioufas, and L. A. Bergman, "Optimal Placement of  Supports on a Simply Supported Plate," 34th AIAA Structures, Structural Dynamics, and Materials Conference, La Jolla, CA, April 19-22, 1993.  Proceedings, 1133-1142.
+L.A. Bergman and B.F. Spencer, Jr., "Numerical Solution of the Fokker-Planck Equation: The Movie," 6th ASCE Specialty Conference on Probabilistic Mechanics and Structural and Geotechnical Reliability, Denver, CO, July 8-10, 1992. Proceedings, 519-522.
+S.T. Pang, T-C. Tsao, and L.A. Bergman, "Active and Passive Damping of Euler-Bernoulli Beams and Their Interactions," American Controls Congress, Chicago, IL, June 24-26, 1992. Proceedings, 2144-2149.
+D.M. McFarland, L.A. Bergman, and G.G.G. Lueschen, "Response of Mono-Coupled Distributed Parameter Systems to Random Excitation," Ninth ASCE Engineering Mechanics Specialty Conference, College Station, TX, May 25-27, 1992. Proceedings, 576-579.
+S.T. Pang, T-C. Tsao, and L.A. Bergman, "Interaction Effects in the Hybrid Control of Euler-Bernoulli Beams," Ninth ASCE Engineering Mechanics Specialty Conference, College Station, TX, May 25-27, 1992. Proceedings, 820-823.
+D.M. McFarland and L.A. Bergman, "Eigenstructure Assignment for Continuous Elastic Systems by Point Displacement Feedback," AIAA Dynamics Specialist Conference, Dallas, TX, April 16-17, 1992. Proceedings, 334-340.
+D.M. McFarland and L.A. Bergman, "A Continuum Approach to the Point Control of Distributed Elastic Structures," 32nd AIAA Structures, Structural Dynamics and Materials Conference, Baltimore, MD, April 8-10, 1991. Proceedings, 2146-2153.
+L.A. Bergman and J. Lee, "Free Vibration of Stepped Beams," ASCE Engineering Mechanics Specialty Conference, Columbus, OH, May 19-22, 1991. Proceedings, 712-716.
+L.A. Bergman, D.M. McFarland, J. Tzioufas, and A. Kareem, "Coupled Passive Control of Tall Buildings," ASCE Structures Congress, Indianapolis, IN, April 29-May 1, 1991. Proceedings, 38-41.
+D.M. McFarland and L.A. Bergman, "Sources and Effects of Nonclassical Damping in Discrete-Distributed Dynamical Systems," AIAA Dynamics Specialist Conference, Long Beach, CA, April 5-6, 1990. Proceedings, 236-245.
+F.M. Lavelle, L.A. Bergman, and P.D. Spanos, "Seismic Response Spectra of a Combined System by Green's Functions," 4th International Conference on Soil Dynamics and Earthquake Engineering, Mexico City, MEXICO, October 23-26, 1989. Proceedings, 137-153.
+D.M. McFarland and L.A. Bergman, "Free Vibration of Constrained Plates and Plate-Oscillator Systems," 30th AIAA Structures, Structural Dynamics and Materials Conference, Mobile, AL, April 3-5, 1989. Proceedings, 771-781.
+L.A. Bergman and D.M. McFarland, "Random Vibration of Point Supported Linear Distributed Structures," 21st Midwest Mechanics Symposium, Purdue University, W. Lafayette, IN, August 31-September 2, 1987. Proceedings, 151-156.
+L.A. Bergman and J.W. Nicholson, "Random Vibration of Mass-Loaded Rectangular Plates," 3rd ASCE Specialty Conference on the Dynamics of Structures, Los Angeles, CA, March 31-April 2, 1986. Proceedings, 660-667.
+B.F. Spencer, Jr. and L.A. Bergman, "On the First Passage Problem in Random Vibration for Simple Nonlinear Oscillators," 8th International Conference on Structural Mechanics in Reactor Technology, Brussels, BELGIUM, August 19-23, 1985. Proceedings, M1, 105-110.
+L.A. Bergman and J.W. Nicholson, "On the Free and Forced Vibration of Multi-Disk Shaft Systems," 26th AIAA Structures, Structural Dynamics and Materials Conference, Orlando, FL, April 15-17, 1985. Proceedings (Part I), 515-521.
+L.A. Bergman, A.L. Hale and J.C. Goodding, "Identification of Linear Time-Invariant Systems by the Method of Poisson Moment Functionals," AIAA Dynamics Specialists Conference, Palm Springs, California, May 17-18, 1984. Proceedings (Part II), 490-496.
+A.L. Hale and L.A. Bergman, "The Dynamic Synthesis of General Nonconservative Structures from Separately Identified Substructures," 24th AIAA Structures, Structural Dynamics and Materials Conference, Lake Tahoe, NV, May 2-4, 1983. Proceedings, 403-411.
+L.A. Bergman and A.J. Hannibal, "An Alternate Approach to Modal Damping," Shock and Vibration Bulletin, 46, Part 2, 59-68, 1976.
+Click for more
+Other Publications
+A.F. Vakakis, L.A. Bergman and D.M. McFarland, "Passive Energy Pumping," patent filed 5/04; in review.
+L.A. Bergman and J.H. Gorndt, "Flexible Sealing Joint," U.S. Patent No. 4,173,360, 1979. Assigned to Lord Corporation.
+L.A. Bergman and M.W. Moran, "Rotor Blade Retention System," U.S. Patent No. 4,141,664, 1977.   Assigned to Lord Corporation.
+			L.A. Bergman, "Drive Coupling," U.S. Patent No. 4,050,266, 1976.  Assigned to Lord Corporation.
+P.T. Herbst and L.A. Bergman, "Resilient Gimbal Mounting," U.S. Patent No. 3,765,631, 1973.   Assigned to Lord Corporation.
+
+Journal Editorships
+		Editorial Board, Communications in Nonlinear Science and Numerical Simulation, 2001-2002
+		Editorial Board, Probabilistic Engineering Mechanics, 1999-present
+		Associate Editor, Shock and Vibration Digest, 1997-2006
+		Editorial Board, Journal of Vibration and Control, 1994-2005
+		Associate Editor, Transactions of the ASME, Journal of Vibration and Acoustics, 1989-1998
+Editor, Transactions of the ASME, Journal of Vibration and Acoustics, 2000-2005
+Click for more
+Professional Societies
+International Association for Structural Control
+International Association for Structural Safety and Reliability (Committee on Computational  Stochastic Mechanics, 1985-present)
+American Society of Mechanical Engineers (Technical Committee on Vibration and Sound, Design Division, 1991-2004; General Chair, Biennial Conference on Vibration and Noise Control, 1997; Applied Mechanics Division Executive Committee, 2009-2014: Chair, 2013-2014)
+American Society of Civil Engineers (Probabilistic Methods and Dynamics Committees, Engineering Mechanics Division, 1985-2002; Structural Control Committee, Structures Division, 1994-2002)
+American Institute of Aeronautics and Astronautics (Structural Dynamics Technical Committee, 1987-1994; Technical Paper Chair of Structures, Structural Dynamics and Materials Conference, 1993)
+
+Teaching Honors
+Columbia University, external member (2001)
+Listed in "Incomplete List of Teachers Rated Excellent by Their Students" (1980, 1981, 1982, 1986, 1990, 1991, 2001, 2008,
+2009)
+Eng. Coucil Award for Excellence in Advising (2008)
+
+Research Honors
+PE Publishing Award, Journal of Multi-body Dynamics, Proceedings of the Institution of Mechanical Engineers, Part K (2008)
+IASSAR Senior Award in Computational Stochastic Mechanics (2001)
+ASCE Norman Medal (1999)
+ASCE State-of-the-Art in Civil Engineering Award (1983)
+
+
+
+
+
+
+
+
+
+

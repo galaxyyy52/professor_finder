@@ -1,0 +1,244 @@
+
+
+
+
+
+
+
+ 
+
+
+Chenhui Shao 
+
+
+
+Associate Professor
+(217) 300-4750
+chshao@illinois.edu
+2030 Sidney Lu Mech Engr Bldg
+
+
+
+For More Information
+Chenhui Shao Research Group Website
+
+Education
+Ph.D., Mechanical Engineering, University of Michigan, 2016. Advisors: Dr. S. Jack Hu and Dr. Jionghua (Judy) Jin
+M.A., Statistics, University of Michigan, 2013
+M.S.E., Industrial and Operations Engineering, University of Michigan, 2013
+B.E., Automation, University of Science and Technology of China, 2009
+
+Academic Positions
+Associate Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2022-date
+Assistant Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2016-August 15, 2022
+Adjunct Assistant Professor, Department of Mechanical Science and Engineering, UIUC, June 6, 2016-August 15, 2016
+Postdoctoral Research Fellow, Department of Mechanical Engineering, University of Michigan, April 15, 2016-August 15, 2016
+
+Resident Instruction
+ME 453 Data Science in Manufacturing Quality Control: Fall 2020, Fall 2022.
+ME 498 Manufacturing Data and Quality Systems: Fall 2018, Fall 2019.
+ME 340 Dynamics of Mechanical Systems: Fall 2016, Spring 2017, Spring 2018, Spring 2020, Spring 2021, Fall 2021, Spring 2022, Spring 2023.
+
+Course Development
+ME 453 Data Science in Manufacturing Quality Control: Fall 2020. This course was offered in Fall 2018 and Fall 2019 under name ME 498 Manufacturing Data and Quality Systems. A series of lectures from this course are publicly available on nanoHUB.org (https://nanohub.org/resources/29263) and have served over 5,600 users.
+
+Research Interests
+Smart manufacturing
+Machine learning
+Statistics
+Big data analytics in manufacturing
+Materials joining
+Manufacturing systems control and automation
+Click for more
+
+Research Areas
+Dynamics  & Controls
+Energy
+Environment
+Health and Bio
+Manufacturing
+Transportation
+Click for more
+
+Chapters in Books
+Lee, S.S., C. Shao, T. H. Kim, S. J. Hu, E. Kannatey-Asibu, W. W. Cai, J. P. Spicer, and J. A. Abell, (2017), "Process monitoring using online sensor signals," In W. W. Cai, B. Kang, and S. J. Hu (Eds.), Ultrasonic Welding of Lithium-Ion Batteries. New York, NY: AMSE Press.
+Shao, C., T. H. Kim, J. Jin, S. J. Hu, J. P. Spicer, and J. A. Abell, (2017), "Tool wear monitoring for ultrasonic metal welding of lithium-ion batteries," In W. W. Cai, B. Kang, and S. J. Hu (Eds.), Ultrasonic Welding of Lithium-Ion Batteries (pp. 145-162). New York, NY: AMSE Press.
+
+Selected Articles in Journals
+Mehta, M., S. Chen, H. Tang, and C. Shao, (2023), "A federated learning approach to mixed fault diagnosis in rotating machinery,'' Journal of Manufacturing Systems, accepted.
+Mehta, M. and C. Shao, (2023), "A greedy agglomerative framework for clustered federated
+learning," IEEE Transactions on Industrial Informatics, in press, DOI: 10.1109/TII.2023.3252599.
+Wu, Y., Y. Meng, and C. Shao, (2023), "End-to-end online quality prediction for ultrasonic metal welding using sensor fusion and deep learning," Journal of Manufacturing Processes, Vol. 83, pp. 685-694.
+Bansal, P., Z. Zheng, C. Shao, J. Li, M. Banu, B. Carlson, and Y. Li, (2022), "Physics-informed machine learning assisted uncertainty quantification for the corrosion of dissimilar material joints,'' Reliability Engineering & System Safety, Vol. 227, pp. 108711.
+Mehta, M. and C. Shao, (2022), "Federated learning-based semantic segmentation for pixel-wise defect detection in additive manufacturing,'' Journal of Manufacturing Systems, Vol. 64, pp. 197-210.
+Meng, Y. and C. Shao, (2022), "Physics-informed ensemble learning for online joint strength prediction in ultrasonic metal welding,'' Mechanical Systems and Signal Processing, Vol. 181, pp. 109473.
+McGregor, D. J., M. V. Bimrose, C. Shao, S. Tawfick, W. P. King, (2022), "Using machine learning to predict part geometry and qualify parts across multiple additive machines, materials, and part designs,'' Additive Manufacturing, Vol. 55, pp. 102848.
+Yang, Y., V. A. Kelkar, H. S. Rajput, A. C. S. Coariti, K. C. Toussaint Jr., and C. Shao, (2022), "Machine-learning-enabled geometric compliance improvement in two-photon lithography without hardware modifications,'' Journal of Manufacturing Processes, Vol. 76, pp.  841-849.
+Yang, Y., D. J. McGregor, S. Tawfick, W. P. King, and C. Shao, (2022), "Hierarchical data models improve the accuracy of feature level predictions for additively manufactured parts,'' Additive Manufacturing, Vol. 51, pp. 102621.
+Bibek, P., P.-H. Lee, G. Song, H. Nguyen, P. Kwon, K. Kim, K. Jung, C. Shao, and H. Chung, "Innovative magnetic-field assisted finishing (MAF) using nano-scale solid lubricant: A case study on mold steel,'' International Journal of Precision Engineering and Manufacturing-Green Technology, in press.
+Chen, S. and C. Shao, (2021), "Efficient online tracking-by-detection with Kalman filter,'' IEEE Access, Vol. 9, pp. 147570-147578.
+Mehta, M. and C. Shao, (2021), "Adaptive sampling design for multi-task learning of Gaussian processes in manufacturing,'' Journal of Manufacturing Systems, Vol. 61, pp. 326-337.
+Yang, Y. and C. Shao, (2021), "Hybrid multi-task learning-based response surface modeling in manufacturing," Journal of Manufacturing Systems, Vol. 59, pp. 607-616.
+McGregor, D. J., S. Rylowicz, A. Brenzel, D. Baker, C. Wood, D. Pick, H. Deutchman, C. Shao, S. Tawfick, and W. P. King, (2021), "Analyzing part accuracy and sources of variability for additively manufactured lattice parts made on multiple printers," Additive Manufacturing, Vol. 40, pp. 101924.
+Nazir, Q. and C. Shao, (2021), "Online tool condition monitoring for ultrasonic metal welding via sensor fusion and machine learning,'' Journal of Manufacturing Processes, Vol. 62, pp. 806-816.
+Yang, Y., Z. Dong, Y. Meng, and C. Shao, (2021), "Data-driven intelligent 3D surface measurement in smart manufacturing: review and outlook,'' Machines, Vol. 9, No. 1, pp. 13.
+Chen, H., Y. Yang, and C. Shao, (2021), "Multi-task learning for data-efficient spatiotemporal modeling of tool surface progression in ultrasonic welding," Journal of Manufacturing Systems, Vol. 58, Part A, pp. 306-315.
+Meng, Y., M. C. Rajagopal, G. Kuntumalla, R. Toro, H. Zhao, H. C. Chang, S. Sundar, S. Salapaka, N. Miljkovic, P. Ferreira, S. Sinha, and C. Shao, (2020), "Multi-objective optimization of peel and shear strengths in ultrasonic metal welding using machine learning-based response surface methodology,'' Mathematical Biosciences and Engineering, Vol. 17, No. 6, pp. 7411-7427.
+Chen, S., Y. Meng, H. Tang, Y. Tian, N. He, and C. Shao, (2020), "Robust deep learning-based diagnosis of mixed faults in rotating machinery," IEEE/ASME Transactions on Mechatronics, Vol. 25, No. 5, pp. 2167-2176
+Sundar, S., M. C. Rajagopal, H. Zhao, G. Kuntumalla, Y. Meng, H. C. Chang, C. Shao, P. Ferreira, N. Miljkovic, S. Sinha, and S. Salapaka, (2020), "Fouling modeling and prediction approach for heat exchangers using deep learning,'' International Journal of Heat and Mass Transfer, Vol. 159, pp. 120112.
+Chang, H. C., M. C Rajagopal, M. J. Hoque, J. Oh, L. Li, J. Li, H. Zhao, G. Kuntumalla, S. Sundar, Y. Meng, C. Shao, P. Ferreira, S. Salapaka, S. Sinha, and N. Miljkovic, (2020), "Composite structured surfaces for durable dropwise condensation," International Journal of Heat and Mass Transfer, Vol. 156, pp. 119890.
+Wen, B., S. Chen, and C. Shao, (2020), "Temporal action proposal for online driver action monitoring using Dilated Convolutional Temporal Prediction Network," Computers in Industry, Vol. 121, pp. 103255.
+Xu, K., Z. Feng, H. Wu, D. Xu, F. Li, and C. Shao, (2020), "Optimal profile design for rail grinding based on wheel-rail contact, stability, and wear development in high-speed electric multiple units," Proceedings of the Institution of Mechanical Engineers, Part F: Journal of Rail and Rapid Transit, Vol. 234, No. 6, pp. 666-677.
+Zhao, H., C. A. Deshpande, H. Li, X. Yan, M. J. Hoque, G. Kuntumalla, M. C. Rajagopal, H. C. Chang, Y. Meng, S. Sundar, P. Ferreira, C. Shao, S. Salapaka, S. Sinha, N. Miljkovic, (2019), "Extreme antiscaling performance of slippery omniphobic covalently attached liquids," ACS Applied Materials & Interfaces, Vol. 12, No. 10, pp. 12054-12067.
+Yang, Y., Y. Zhang, Y. D. Cai, Q. Lu, S. Koric, and C. Shao, (2019), "Hierarchical measurement strategy for spatiotemporal processes in manufacturing,'' Journal of Manufacturing Systems, Vol. 53, pp. 159-168.
+Xu, K., Z. Feng, H. Wu, F. Li, and C. Shao, "Investigating the influence of rail grinding on stability, vibration, and ride comfort of high-speed EMUs using multi-body dynamics modelling," Vehicle System Dynamics, Vol. 57, No. 11, pp. 1621-1642.
+, Vol. 57, No. 11, pp. 1621-1642.
+Rajagopal, M. C., H. C. Chang, T. Man, G. Kuntumalla, Y. Meng, S. Sundar, H. Zhao, S. Salapaka, C. Shao, P. Ferreira, N. Miljkovic, S. Sinha, (2019), "Materials-to-device design of hybrid metal-polymer heat exchanger tubes for low temperature waste heat recovery," International Journal of Heat and Mass Transfer, Vol. 143, pp. 118497.
+Zerehsaz, Y., C. Shao, and J. Jin, (2019), "Tool wear monitoring in ultrasonic welding using high-order decomposition," Journal of Intelligent Manufacturing, Vol. 30, No. 2, pp 657-669.
+Shao, C., H. Wang, S. Suriano, and S. J. Hu, (2019), “Engineering fusion spatial modeling to enable areal measurement system analysis for optical surface metrology,” Measurement, Vol. 136, pp. 163-172.
+Shao, C., S. Li, H. Li, and J. Sheng, (2019), "Control for time-varying delay systems by integrating semi-discretization and hysteresis-based switching," Asian Journal of Control, Vol. 21, No. 5, pp. 1-12.
+Meng, Y., Y. Yang, H. Chung, P.-H. Lee, and C. Shao, (2018), "Enhancing sustainability and energy efficiency in smart factories: a review,'' Sustainability, Vol. 10, No. 12, pp. 4779.
+Nong, L., C. Shao, T. H. Kim, and S. J. Hu, (2018), "Improving process robustness in ultrasonic metal welding of lithium-ion batteries," Journal of Manufacturing Systems, Vol. 48, Part B, pp. 45-54.
+Lee, P.-H., J. S. Kim, S. W. Lee, C. Shao, and H. Chung, (2018), "Experimental investigation on a hybrid manufacturing process of micro-scale mold for biomimetic intestinal villi's scaffold," Journal of Mechanical Science and Technology, Vol. 32, No. 9, pp. 4283-4289.
+Yang, Y. and C. Shao, (2018), "Spatial interpolation for periodic surfaces in manufacturing using a Bessel additive variogram model," ASME Journal of Manufacturing Science and Engineering, Vol. 140, No. 6, pp. 061001.
+Shireen, T., C. Shao, H. Wang, J. Li, X. Zhang, and M. Li, (2018), "Iterative multi-task learning for time-series modeling of solar panel PV outputs," Applied Energy, Vol. 212, pp. 654–662.
+Shao, C., J. Jin, and S. J. Hu, (2017), "Dynamic sampling design for characterizing spatiotemporal processes in manufacturing," ASME Journal of Manufacturing Science and Engineering, Vol. 139, No. 10, pp. 101002.
+Khan, H. A., J. J. Li, and C. Shao, (2017), "Analyses of friction stir riveting processes: A review," ASME Journal of Manufacturing Science and Engineering, Vol. 139, No. 9, pp. 090801.
+Shao, C., J. Ren, H. Wang, J. Jin, and S. J. Hu, (2017), "Improving machined surface shape prediction by integrating multi-task learning with cutting force variation modeling," ASME Journal of Manufacturing Science and Engineering, Vol. 139, No. 1, pp. 011014.
+Chen, Z., C. Shao, W. Wang, Z. Zuo, X. Mou, S. J. Hu, J. A. DiGiuseppe, Y. Zu, L. J. Medeiros, and S. Hu, (2017), "Cytogenetic landscape and impact in blast phase of chronic myelogenous leukemia in the era of tyrosine kinase inhibitor therapy," Leukemia, Vol. 31, pp. 585–592.
+Guo, W., C. Shao, T. H. Kim, J. Jin, S. J. Hu, H. Wang, and J. P. Spicer, (2016), "Online process monitoring with near-zero misdetection for ultrasonic welding of lithium-ion batteries: An integration of univariate and multivariate methods," Journal of Manufacturing Systems, Vol. 38, pp. 141-150.
+Shao, C., T. H. Kim, J. Jin, S. J. Hu, J. P. Spicer, and J. A. Abell, (2015), "Tool wear monitoring for ultrasonic metal welding of lithium-ion batteries," ASME Journal of Manufacturing Science and Engineering, Vol. 138, No. 5, pp. 051005.
+Suriano, S., H. Wang, C. Shao, S. J. Hu, and P. Sekhar, (2015), "Progressive measurement and monitoring for multi-resolution data in surface manufacturing considering spatial and cross correlations," IIE Transactions, Vol. 47, No. 10, pp. 1033-1052.
+Lee, S.S., C. Shao, T. H. Kim, S. J. Hu, E. Kannatey-Asibu, W. W. Cai, J. P. Spicer, and J. A. Abell, (2014), "Characterization of ultrasonic metal welding by correlating online sensor signals with weld attributes," ASME Journal of Manufacturing Science and Engineering, Vol. 136, No. 5, pp. 051019.
+Shao, C. and J. Sheng, (2014), "The framework for linear periodic time-delay systems based on semi-discretization: stability analysis and control," Asian Journal of Control, Vol. 16, No. 5, pp. 1350-1360.
+Shao, C., K. Paynabar, T. H. Kim, J. Jin, S. J. Hu, J. P. Spicer, H. Wang, and J. A. Abell, (2013), "Feature selection for manufacturing process monitoring using cross-validation," Journal of Manufacturing Systems, Vol. 32, No. 4, pp. 550-555.
+Click for more
+Articles in Conference Proceedings
+Lu, K.-C., Y. Meng, Z. Dong, and C. Shao, "Online cost-effective classification of mixed tool and material conditions in ultrasonic metal welding: towards integrated monitoring and control,'' Proceedings of the 2023 ASME International Manufacturing Science and Engineering Conference, accepted.
+Dong, Z., Q. Chen, K.-C. Lu, and C. Shao, "A fast and cost-effective imaging system for fine-scale tool condition monitoring in ultrasonic metal welding,'' Proceedings of the
+2023 ASME International Manufacturing Science and Engineering Conference, accepted.
+Mehta, M., S. Chen, H. Tang, and C. Shao, "A federated learning approach to mixed fault diagnosis in rotating machinery,'' Proceedings of the 51st North American Manufacturing Research Conference, accepted.
+Zheng, Z., P. Bansal, P. Wang, C. Shao, and Y. Li, "Corrosion modeling and prognosis of the Al-Fe self-pierce riveting joints," Proceedings of the 2020 ASME International Mechanical Engineering Congress and Exposition, pp. V014T14A017.
+Kuntumalla, G., Meng, Y., M. C. Rajagopal, R. Toro, H. Zhao, H. C. Chang, S. Sundar, S. M. Salapaka, N. Miljkovic, C. Shao, P. M. Ferreira, and S. Sinha, "Joining techniques for novel metal polymer hybrid heat exchangers,'' Proceedings of the 2019 ASME International Mechanical Engineering Congress and Exposition, pp. V02BT02A018. 
+Meng, Y., D. Peng, Q. Nazir, G. Kuntumalla, M. C. Rajagopal, H. C. Chang, H. Zhao, S. Sundar, P. M. Ferreira, S. Sinha, N. Miljkovic, S. M. Salapaka, and C. Shao, "Ultrasonic welding of soft polymer and metal: a preliminary study,'' Proceedings of the 2019 ASME International Manufacturing Science and Engineering Conference, pp. V002T03A083.
+Yang, Y., S. Chen, L. Wang, J. He, S.-M. Wang, L. Sun, and C. Shao, "Influence of coating spray on surface measurement using 3D optimal scanning systems,'' Proceedings of the 2019 ASME International Manufacturing Science and Engineering Conference, pp. V001T02A009.
+Yang, Y., Y. D. Cai, Q. Lu, Y. Zhang, S. Koric, and C. Shao, “High-performance computing based big data analytics for smart manufacturing,” 2018 ASME International Manufacturing Science and Engineering Conference, pp. V003T02A013.
+Lee, P.-H., Y. Yang, C. Shao, H. Chung, P. S. McCormick, P. Kwon, and H. Nguyen, “Experimental and statistical study on magnetic-field assisted finishing of mold steel using nano-scale solid lubricant and abrasive particles,” 2018 ASME International Manufacturing Science and Engineering Conference, pp. V003T02A012.
+Shao, C., W. Guo, T. H. Kim, J. Jin, S. J. Hu, J. P. Spicer, and J. A. Abell, "Characterization and monitoring of tool wear in ultrasonic metal welding," 9th International Workshop on Microfactories, Honolulu, Hawai‘i, October 5-8, 2014, pp. 161-169.
+Sheng, J., C. Shao, Z. Ding, and H. Ji, "Consensus control of a class of nonlinear systems with communication time delay," 2014 American Control Conference, Portland, Oregon, June 4-6, 2014, pp. 819-824, IEEE.
+Shao, C. and J. Sheng, "Stability analysis and control of linear periodic time-delay systems with state-space models based on semi-discretization," 2012 UKACC International Conference on Control, Cardiff, UK, September 3-5, 2012, pp. 784-788, IEEE.
+Sheng, J., K. Han, and C. Shao, "Finite time controller design for single inverted pendulum system," 2012 Chinese Control Conference, pp. 1468–1472, IEEE, 2012.
+Sheng, J., C. Shao, L. Wang, Z. Chen, and C. Jiang, "Stability analysis and control of linear neutral systems based on method of semi-discretization," 2010 Chinese Control and Decision Conference, pp. 723–728, IEEE, 2010.
+Sheng, J., H. Li, C. Shao, K. Han, and Z. Chen, "Control design of linear systems with variable time-delay based on hysteresis-based switching algorithms and semi-discretization," 2010 Chinese Control Conference, pp. 363–368, IEEE, 2010.
+Click for more
+Other Publications
+Jia, S., Y. Yang, V. A. Kelkar, H. S. Rajput, A. C. S. Coariti, K. C. Toussaint Jr, and C. Shao, "Modeling and visualization of geometric errors for hemisphere structures produced by two-photon lithography,'' nanoHUB Software Tools, doi:10.21981/AJXT-8688.
+
+Magazine Articles
+Shao, C., "University of Michigan students have hand in Volt battery reliability," Momentum, SAE International, pp. 10-11, March 2015.
+
+Journal Editorships
+Review Editor, Frontiers in Manufacturing Technology, 2022-present.
+Associate Editor, IEEE International Conference on Automation Science and Engineering (CASE), 2021, 2022, 2023.
+Associate Editor, Journal of Manufacturing Processes, 2020-present.
+Member, Reviewer Board, Journal of Manufacturing and Materials Processing, 2020-present.
+Guest Editor, Mathematical Biosciences and Engineering, Special Issue on Mathematical Problems in Advanced Manufacturing, 2020.
+NAMRI/SME Scientific Committee Member, 2018-present.
+Scientific Committee Member, 7th CIRP Conference on Assembly Technologies and Systems, Tianjin, China, May 10-12, 2018.
+Click for more
+Conferences Organized or Chaired
+Symposium Organizer, ASME International Manufacturing Science and Engineering Conference, New Brunswick, New Jersey, June 12-16, 2023.
+Program Committee Member, 1st REMADE Circular Economy Technology Conference, Washington, D.C., March 20-21, 2023.
+Symposium Organizer, ASME International Manufacturing Science and Engineering Conference, West Lafayette, Indiana, June 27-July 1, 2022
+Session Chair, Advances in Welding & Additive Manufacturing Research Conference, virtual, June 13-16, 2022
+Symposium Organizer, ASME International Manufacturing Science and Engineering Conference, Cincinnati, Ohio, June 22-26, 2020
+Track Chair, 2019 International Conference on Production Research, Chicago, Illinois, August 10-14, 2019
+Symposium Organizer, 2019 ASME International Manufacturing Science and Engineering Conference, Erie, Pennsylvania, June 10-14, 2019
+Co-Chair of the Organizing Committee, 1st NSF nanoMFG Node Workshop on Data-Science Enabled Advances in Nanomanufacturing (DSEAN), Urbana, Illinois, February 26-27, 2019.
+Symposium Organizer, 2018 ASME International Manufacturing Science and Engineering Conference, College Station, Texas, June 18-22, 2018
+Session Chair, 2017 ASME International Manufacturing Science and Engineering Conference, Los Angeles, California, June 4–8, 2017, 2017
+Session Chair, 13th IEEE Conference on Automation Science and Engineering, Xi'an, China, August 20-23, 2017
+Session Chair, ASME International Manufacturing Science and Engineering Conference, Blacksburg, Virginia, June 27-July 1, 2016
+Session Chair, ASME International Manufacturing Science and Engineering Conference, Charlotte, North Carolina, June 8-12, 2015
+Session Chair, 9th International Workshop on Microfactories, Honolulu, Hawai'i, October 5-8, 2014
+Click for more
+Professional Societies
+Member, Society of Manufacturing Engineers (SME)
+Member, American Society of Mechanical Engineers (ASME) 
+Member, Institute of Industrial and Systems Engineers (IISE)
+Member, Institute for Operations Research and the Management Sciences (INFORMS)
+
+Honors
+Dean’s Award for Excellence in Research, The Grainger College of Engineering, University of Illinois at Urbana-Champaign (2022)
+ASME Best Reviewers Award (2021)
+ASME Chao and Trigger Young Manufacturing Engineer Award (2021)
+IISE Manufacturing and Design (M&D) Division Outstanding Young Investigator Award (2021)
+Selected Attendee for the DELTA Junior Faculty Institute (2021)
+National Science Foundation CAREER Award (2020)
+SME Barbara M. Fossum Outstanding Young Manufacturing Engineer Award (2019)
+SME 30 Under 30 Honoree (2018)
+The Honor Society of Phi Kappa Phi (2013-date)
+Departmental Fellowship, University of Michigan (2009-2010)
+Click for more
+Teaching Honors
+UIUC List of Teachers Ranked as Excellent by Their Students (Fall 2022)
+UIUC List of Teachers Ranked as Excellent by Their Students (Spring 2022)
+UIUC List of Teachers Ranked as Excellent by Their Students (Fall 2021)
+UIUC List of Teachers Ranked as Excellent by Their Students (Spring 2021)
+UIUC List of Teachers Ranked as Excellent by Their Students (Spring 2020)
+UIUC List of Teachers Ranked as Excellent by Their Students (Fall 2019)
+UIUC List of Teachers Ranked as Excellent by Their Students (Fall 2018)
+UIUC List of Teachers Ranked as Excellent by Their Students (Spring 2018)
+Click for more
+Research Honors
+Editor's Choice Article, Machines (2022)
+Highlighted Project in the Manufacturing USA Report (2021)
+Feature Article, Machines (2021)
+RAMP (Reusable Abstractions of Manufacturing Processes) Competition, 2nd Prize (2019)
+Scholar-in-Residence, National Center for Supercomputing Applications (NCSA) (2017)
+Best Paper Award, ASME International Manufacturing Science and Engineering Conference (MSEC) (2017)
+Best Applications Paper Award, IISE Transactions (2017)
+Feature Article, IIE Transactions (2015)
+Click for more
+Improvement Activities
+AE3's Collins Scholars Program, 2016-2017
+
+
+Recent Courses TaughtME 340 - Dynamics of Mechanical Systems
+ME 453 - Data Sci in Mfg Quality Cntrl
+ME 470 ZJU - Senior Design Project
+ME 498 CHS (ME 498 CS3, ME 498 CS4, ME 498 ZJ1) - Senior Design Project
+
+
+
+
+
+
+
+Related News
+
+	August 24, 2023
+	Competitive Taiwan fellowships awarded to two students from Shao's lab
+
+	March 29, 2023
+	Mehta, Shao develop federated learning framework for heterogeneous data
+
+	December 13, 2022
+	Shao and Koric part of NCSA program awarded for diversity and inclusion 
+
+	September 16, 2022
+	Researchers develop collaborative deep learning method for defect detection in additive manufacturing 
+
+	April 15, 2022
+	Shao's early research career recognized with Dean's Award
+
+	April 6, 2022
+	Researchers engineer method to ensure accuracy of additively manufactured parts
+
+
+
+
+
+
+
+

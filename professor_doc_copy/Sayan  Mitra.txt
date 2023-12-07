@@ -1,0 +1,233 @@
+
+
+
+
+
+
+
+ 
+
+
+Sayan Mitra 
+
+
+
+Associate Department Head
+(217) 333-7824
+mitras@illinois.edu
+266 Coordinated Science Lab
+
+
+Professor
+(217) 333-7824
+mitras@illinois.edu
+266 Coordinated Science Lab
+
+
+
+For More Information
+Sayan Mitra's home page
+
+Education
+Ph.D., MIT, 2007. Thesis title: "A Verification Framework for Hybrid Systems." Advisor: Nancy Lynch
+
+BiographySayan is a Professor of ECE  at the University of Illinois, Urbana-Champaign. His  book on verification of cyber-physical systems was published by MIT press in 2021. He received the National Science Foundation's CAREER Award, AFOSR Young Investigator Research Program Award, IEEE-HKN C. Holmes MacDonald Outstanding Teaching Award, a Siebel Fellowship, and several best paper awards.
+Academic Positions
+Affiliate Professor, Computer Science, 2018-
+Professor, Electrical and Computer Engineering, 2018-
+
+Documents
+
+
+
+Teaching StatementWe want to provide a hands-on systems-level understanding of autonomous systems for Illinois undergrads. ECE484 is a unique course designed to educate the next generation leaders about the implications of technical design choices. 
+Research StatementThe goal our research is to develop algorithms and software tools for safe autonomous systems. We use techniques from theoretical computer science and control theory.
+Graduate Research OpportunitiesWe are looking for graduate students with background in CS theory (formal methods, logic, automata theory, algorithms) and/or control theory. Solid programming skills & other mathematical background (e.g. stochastic processes) would be a plus. As an graduate researcher you will develop new verification and synthesis algorithms, build tools, and perform experiments in using these tools on real systems. 
+Undergraduate Research OpportunitiesWe are looking for juniors/seniors with solid programming skills (E.g., C/C++, Java, Matlab) and who intend to go to grad school in one of the related research areas. Preference will be given to those who can commit to working at least 6-8 hours a week for a couple of semesters. You will work closely with one of the graduate students towards developing software tools or applying them to verify a systems. This typically leads to an undergraduate thesis or publishable work. Take a look at some of the research projects. 
+Research Interests
+Safe Autonomous systems (e.g., autonomous cars, drones)
+Programming languages
+Formal Methods or  Mathematics for reliable systems 
+
+Safe AI and autonomy
+
+
+Research Areas
+Embedded, real-time, and hybrid systems
+Formal methods and software verification
+Programming languages
+Robotics and motion planning
+Software systems
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Autonomous vehicular technology, UAVs
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Robotics
+
+Books Authored or Co-Authored (Original Editions)
+Verifying Cyber-Physical Systems: A Path to Safe Autonomy, by Sayan Mitra. MIT Press, February, 2021. 
+
+Selected Articles in Journals
+Symmetry-based Abstractions for Hybrid Automata.  
+Hussein Sibai and Sayan Mitra. Accepted for IEEE Transactions on Automatic Control (TAC), 2023.
+ State estimation of open dynamical systems with slow inputs: Entropy, bit rates, and relation with switched systems.
+Hussein Sibai and Sayan Mitra.  In IEEE Transactions in Automatic Control (TAC),  Number 21-0591, Pages 1-16, 2023.
+MLEFlow: Learning from history to improve load balancing in Tor. Hussein Darir, Hussein Sibai, Chin-Yu Cheng, Nikita Borisov, Geir E. Dullerud, Sayan Mitra. Proc. Priv. Enhancing Technologies (PoPET) 2022(1)}, pages 75-104, 2022.
+Multi-agent motion planning from signal temporal logic specifications. Dawei Sun, Jingkai Chen, Sayan Mitra, and Chuchu Fan.
+In  Robotics and Autonomy Letters (RAL), and proceedings of  IEEE International Conference on Robotics and Automation (ICRA), 2022.
+ Controller synthesis for linear system with reach-avoid specifications. Chuchu Fan, Zengyi Qin, Umang Mathur, Qiang Ning, Sayan Mitra, and Mahesh Viswanathan. Accepted for publication in IEEE Transactions in Automatic Control (TAC), 2021. 
+Koord: a language for programming and verifying distributed robotics applications. Ritwika Ghosh, Chiao Hsieh, Sasa Misailovic, and Sayan Mitra.  In ACM Proceedings on Programming Languages (OOPSLA), volume 4, 2020.
+Entropy and Minimal Bit Rates for State Estimation and Model Detection. Daniel Liberzon and  Sayan Mitra. IEEE Transactions in Automatic Control (TAC), 63(10):3330-3344, 2018.
+Differential privacy and entropy in distributed feedback systems: Minimizing mechanisms and performance trade-offs.Zhenqi Huang, Yu Wang, Sayan Mitra, and Geir Dullerud. In IEEE Transactions on Control of Network Systems (TCNS), 4(1): 118-130, 2017.
+Data-driven formal reasoning and their applications in safety analysis of vehicle autonomy features. Chuchu Fan, Bolun Qi, and  Sayan Mitra. IEEE Design & Test. January, 2018.
+Simulation-Driven Reachability Using Matrix Measures. Chuchu Fan, James Kapinski, Xiaoqing Jin, Sayan Mitra. ACM Trans. Embedded Computing Systems 17(1): 21:1-21:28 (2018)
+ Bounded invariant verification for time-delayed nonlinear networked dynamical systems. Zhenqi Huang, Chuchu Fan, and Sayan Mitra. In IFAC Journal on Nonlinear Analysis: Hybrid Systems (NAHS), Vol. 23, pages 211–229, February 2017, Elsevier. 
+ Simulation-based verification of cardiac pacemakers with guaranteed coverage.  Zhenqi Huang, Chuchu Fan, Alexandru Mereacre, Sayan Mitra and Marta Z. Kwiatkowska. IEEE Design & Test, volume 32(5), pages 27-34, 2015.
+Safe and Stabilizing Distributed Multi-Path Cellular Flows. Taylor T. Johnson and Sayan Mitra. Theoretical Computer Science, 2015, Elsevier.
+Hybrid Automata-based CEGAR for Rectangular Hybrid Systems. Pavithra Prabhakar, Parasara Sridhar Duggirala, Sayan Mitra,  and Mahesh Viswanathan. Formal Methods in Systems Design (FMSD), February 2015, Springer.
+ Verification of Periodically Controlled Hybrid Systems: Application to An Autonomous Vehicle,  Tichakorn Wongpiromsarn, Sayan Mitra,Andrew Lamperski, Richard Murray. In a Special Issue of the  ACM Transactions on Embedded Computing Systems (TECS) 11(S2): 53 (2012).
+Specifying and proving properties of timed I/O automata using Tempo. Myla Archer, Hongping Lim, Nancy Lynch, Sayan Mitra, and Shinya Umeno Journal of  Design Automation for Embedded Systems, Vol 2, Num 1-2, June 2008, Springer.
+Verifying Average Dwell Time of Hybrid Systems. Sayan Mitra, Daniel Liberzon and Nancy Lynch. In ACM Transactions in Embedded Computing Systems (TECS), Vol 8, Issue 1, pages 1-37 2008.
+
+Click for more
+Articles in Conference Proceedings
+Verse: A Python library for reasoning about multi-agent hybrid system scenarios
+Yangge Li, Haoqing Zhu, Katherine Braught, Keyi Shen, Sayan Mitra.  In submission , 2023.
+Multi-agent Motion Planning using Differential Games with Lexicographic Preferences. Kristina Miller and Sayan Mitra. In  Proceedings of the IEEE Conference on Decision and Control (CDC), 2022, Cancun, Mexico, 2022.
+Verifying controllers with vision-based perception using safe approximate Peer-reviewed abstractions.  
+Chiao Hsieh, Yangge Li, Dawei Sun, Keyur Joshi, Sasa Misailovic, Sayan Mitra. In  the proceedings of Intl. Conf. on Embedded Software (EMSOFT) 2022 and Special Issue of IEEE Trans. in CAD, vol 41, issue 11,  2022.
+NeuReach: Learning Reachability Functions from Simulations.
+Dawei Sun and Sayan Mitra.
+ In the proceedings of  Int. Conf. on Tools and Algorithms for Construction and Analysis of Systems (TACAS), 2022. 
+SceneChecker: Boosting scenario verification using symmetry abstractions.
+Hussein Sibai, Yangge Li and Sayan Mitra. Computer Aided Verification (CAV 21), 580--594, Springer 2021.
+ Planning in dynamic and partially unknown environments.
+Kristina Miller, Chuchu Fan, and Sayan Mitra.
+In Proceedings of   7th IFAC Conference on Analysis and Design of Hybrid Systems (ADHS'21), July 7-9, 2021.
+ Fast and guaranteed safe controller synthesis. Chuchu Fan, Kristina Miller, and Sayan Mitra.
+In  Proceedings of   32nd Intl.  Conf. on Computer Aided Verification (CAV 2020), Los Angeles, LNCS 12224, pages 629--652, Springer, 2020.
+ CyPhyHouse: A programming, simulation, and deployment toolchain for heterogeneous distributed coordination.
+ Ritwika Ghosh, Joao P. Jansch-Porto, Chiao Hsieh, Amelia Gosse, Minghao Jiang, Hebron Taylor, Peter Du, Sayan Mitra, Geir Dullerud.
+In  Proceedings of   Intl.  Conf. on Robotics and Automation (ICRA 2020),   Paris, 2020.
+ Online monitoring for safe pedestrian-vehicle interactions.
+Peter Du, Zhe Huang, Tianqi Liu, Ke Xu, Qichao Gao, Hussein Sibai, Katherine Driggs-Campbell, and Sayan Mitra.
+In  Proceedings of   23rd IEEE Intl.  Conf.  on Intelligent Transportation Systems, Virtual conference, 2020. 
+ Fast and guaranteed safe controller synthesis for aerial vehicle models.
+Chuchu Fan, Kristina Miller, and Sayan Mitra. AIAA Scitech, 2021.
+ Multi-agent safety verification using symmetry transformations. Hussein Sibai, Navid Mokhlesi, Chuchu Fan, and Sayan Mitra. In  Proceedings of 26th Intl. Conf. on Tools and Algorithms for the Construction and Analysis of Systems (TACAS 2020), Dublin, Ireland, Springer 2020.
+ Dione: A protocol verification system built with Dafny for I/O automata. Chiao Hsieh and Sayan Mitra. In Proceedings of Integrated Formal Methods (iFM 2019), Bergen, Norway. LNCS vol 11918, pages 227-245, Springer, 2019.
+ Using symmetry transformations in equivariant dynamical systems for their safety verification. Hussein Sibai, Navid Mokhlesi, and Sayan Mitra. In  Proceedings of 17th Automated Technology for Verification and Analysis (ATVA 2019), Taipei, Taiwan. LNCS vol 11781, pages 98-114, Springer 2019.  Nominated for best paper award.
+ TightRope: Towards Optimal Load-balancing of Paths in Anonymous Networks.  Hussein Darir, Hussein Sibai, Nikita Borisov, Geir E. Dullerud, and Sayan Mitra. In Proceedings of the Workshop on Privacy in the Electronic Society (WPES) held with the ACM CCS conference, 2018: 76-85
+ Controller synthesis made real: Reach-avoid specifications and linear dynamics. Chuchu Fan, Umang Mathur, Sayan Mitra, and Mahesh Viswanathan. In  Proceedings of Computer Aided Verification (CAV 2018), Oxford, Springer, 2018.
+Verified hybrid LQ control for autonomous spacecraft rendezvous. Nicole Chan and Sayan Mitra, In IEEE International Conference on Decision and Control (CDC`17), Melbourne, Australia, 2017.
+DryVR: Data-driven verification and compositional reasoning for automotive systems. Chuchu Fan, Bolun Qi, Sayan Mitra, and Mahesh Viswanathan. In Proceedings of Computer Aided Verification (CAV), Heidelberg, 2017.
+Optimal data rate for state estimation of switched nonlinear systems. Hussein Sibaie and Sayan Mitra. In the Proceedings of the 20th ACM International Conference on Hybrid Systems: Computation and Control, April 2017.  Nominated for best paper award .
+ Differential privacy in control and network systems. J. Cortés, G. E. Dullerud, S. Han, J. Le Ny, S. Mitra, and G. J. Pappas. In the Proceedings of 55th IEEE Conference on Decision and Control (CDC), pages 4252-4272, December 2016, Las Vegas, NV. 
+Entropy notions for state estimation and model detection with finite-data-rate measurements. Daniel Liberzon and Sayan Mitra. In the Proceedings of 55th IEEE Conference on Decision and Control (CDC), pages 7335–7340, December 2016, Las Vegas, NV. 
+ Locally optimal reach set over-approximation for nonlinear systems. Chuchu Fan, James Kapinski, Xiaoqing Jin, and Sayan Mitra. In the Proceedings of ACM SIGBED Conference on Embedded Software (EMSOFT) 2016, Pittsburgh, PA. Nominated for best paper award. 
+ Automatic reachability analysis for nonlinear hybrid models with C2E2. Chuchu Fan, Bolun Qi, Sayan Mitra, Mahesh Viswanathan, and Parasara Sridhar Duggirala. In the Proceedings of 28th International Conference on Computer Aided Verification (CAV), LNCS 9779, Pages 531–538, Toronto, Springer 2016. 
+Entropy and minimal data rates for state estimation and model detection. Daniel Liberzon and Sayan Mitra. In Proceedings of 19th ACM International Conference on Hybrid System: Computation and Control (HSCC 2016), Vienna, Austria.
+Controller synthesis for linear time-varying systems with adversaries. Zhenqi Huang, Yu Wang, Sayan Mitra, and Geir Dullerud. In the Proceedings of the 55th IEEE Conference on Decision and Control (CDC 2015), Osaka, Japan, 2015.
+Meeting a powertrain verification challenge. Parasara Sridhar Duggirala, Chuchu Fan, Sayan Mitra, and Mahesh Viswanathan. In the proceedings of Computer Aided Verification - 27th International Conference (CAV 2015), LNCS 9206, pages 536—543. San Francisco, July 18-24, 2015. 
+StarL: Towards a unified framework for programming, simulating and verifying distributed robotic systems. Yixiao Lin and Sayan Mitra. In the Proceedings of the 16th ACM SIG- PLAN/SIGBED Conference on Languages, Compilers and Tools for Embedded Systems, (LCTES 2015), Pages 1–10. Portland, OR, USA, June.
+Bounded verification with on-the-fly discrepancy computation. Chuchu Fan and Sayan Mitra. In the proceedings of 13th International Symposium on Automated Technology for Verification and Analysis (ATVA 2015), Shanghai, China.
+Progress on Powertrain Verification Challenge with C2E2. Chuchu Fan, Parasara Sridhar Duggirala, Sayan Mitra, and Mahesh Viswanathan. In Workshop on Applied Verification for Continuous and Hybrid Systems (ARCH 2015) held as part of CPSWeek 2015. Robert Bosch Sponsored Best Results Award. 
+ A Strategy for automatic verification of stabilization of distributed algorithms. Ritwika Ghosh∗ and Sayan Mitra. In the Proceedings of 35th IFIP WG 6.1 International Conference on Formal Techniques for Distributed Objects, Components, and Systems (FORTE 2015), Grenoble, France, June 2-4. LNCS 9039, pages 35-49, Springer 2015. Nominated for best paper award. 
+Differentially Private Distributed Optimization. Zhenqi Huang, Sayan Mitra, and Nitin Vaidya. In the proceedings of the International Conference on Distributed Computing and Networks, January 2015.(Acceptance: 21%)
+C2E2: A Verification Tool For Annotated Stateflow Models. Parasara Sridhar Duggirala, Sayan Mitra, Mahesh Viswanathan, and Matthew Potok.  In the proceedings of the 21st International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS), 2015. (Acceptance 17%)
+Invariant Verification of Nonlinear Hybrid Automata Networks of Cardiac Cells. Zhenqi Huang, Chuchu Fan, Alexandru Mereacre, Sayan Mitra, and Marta Kwiatkowska. In the proceedings of the Computer-Aided Verification  (CAV 2014), July 2014 (Part of the Vienna Summer of Logic, VSL 2014). Springer.(Acceptance 25%)
+Proofs from Simulations and Modular Annotations. Zhenqi Huang and Sayan Mitra. In 17th International Conference on Hybrid Systems: Computation and Control (HSCC). Berlin,  2014. ACM press.
+Verification of Annotated Models from Executions. Parasara Sridhar Duggirala, Sayan Mitra, and Mahesh Viswanathan. In the Proceedings of the International Conference on Embedded Software (EMSOFT 2013), Montreal, Canada, April 2013.
+Static and Dynamic Analysis of Timed Distributed Traces. Parasara Sridhar Duggirala, Taylor
+Johnson, Adam Zimmerman, and Sayan Mitra. In the Proceedings of The 33rd IEEE Real-Time
+Systems Symposium (RTSS), 2012, IEEE press. (Acceptance: 23%, premier conference)
+A Small Model Theorem for Rectangular Hybrid Automata Networks.
+Taylor Johnson and Sayan Mitra. In the Proceedings of 32nd IFIP International Conference on
+Formal Techniques for Distributed Systems: Formal Techniques for Networked and Distributed
+Systems (FORTE), Stockholm, Sweden, June 2012. LNCS Vol 7273, pages 18-34, Springer. (Acceptance 38%, premier conference) (received the best paper award out of 155 submissions in DisCoTec'12).
+Lyapunov Abstractions for Verifying Inevitability of Hybrid Systems. Parasara S. Duggirala and Sayan Mitra. In the Proceedings of 15th International Conference on Hybrid Systems: Computation and Control (HSCC 2012), pages 115-124, Beijing, PRC. April 2012. ACM press.
+Diﬀerentially Private Iterative Synchronous Consensus. Zhenqi Huang, Sayan Mitra and
+Geir Dullerud. In Proceedings of the Workshop on Diﬀerentially Private Iterative Synchronous
+Consensus in conjunction with the ACM CCS conference, Raleigh, NC, 2012. (Acceptance 29%)
+Click for more
+Magazine Articles
+Symmetry for boosting algorithmic proofs of cyber-physical systems.  Hussein Sibai and Sayan Mitra. In IEEE Computer Magazine (Algorithms column), 55(10):88-93 Oct, 2022
+ Technical Perspective: Model Structure Takes Guesswork Out of State Estimation. Sayan Mitra, Communications of the ACM, February 2022, Vol. 65 No. 2, Page 110, 10.1145/3505268.
+Verifying Cyber-Physical Interactions in Safety-Critical Systems. Sayan Mitra, Tichakorn Wongpiromsarn, and  Richard Murray. In a Special Issue of IEEE Security & Privacy Magazine on Safety-Critical Systems, June 2013.
+
+
+Conferences Organized or Chaired
+Organizing committee member for  The Cyber-Physical Systems Week 2011, Chicago, USA. 
+Program committee member for  The 14th International Conference on Hybrid Systems: Computation and Control (HSCC 2011), Chicago, USA. 
+PC member, ACM International Conference on Hybrid Systems: Computation and Control (HSCC
+2012), Beijing.
+Session organizer for "Cyber-physical system verification" at 50th Annual Allerton Conference, 2012.
+PC member, ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2013), Philadelphis, PA.
+PC member, IEEE/ACM International Conference on Cyberphysical Systems(ICCPS 2013), Philadelphia, PA.
+PC member, Special Session on Design of Cyber-Physical Systems at Euromicro conference on Digital System Design (DSD), Santander, Spain on 4-6 Sept 2013. 
+Click for more
+Other Scholarly Activities
+Hybrid Abstraction Refinement Engine (HARE): A software tool for verification of hybrid systems has been developed (in C++) and released. Several verification case studies (approx. 10) have been performed.
+Passel: A software tool for verifying networks of hybrid automata
+http://publish.illinois.edu/passel-tool/
+
+Professional Societies
+HKN
+ACM
+IEEE Senior member
+
+Honors
+National Science Foundation's Faculty Early Career Development (CAREER) Award (2011)
+Air-Force Office of Scientific Research (AFOSR) Young Investigator Research Award (2012)
+College of Engineering Dean's award for excellence in research (2018)
+PhD advisee Chuchu Fan's PhD thesis won for the ACM Doctoral Dissertation Award 2021. The thesis was awarded the CSL Dissertation Award. (2021)
+Best paper award, SafeThings 2021 (May 27, 2021)
+PhD advisee Hussein Sibai wins gold prize at ACM SIGBED Student Research Competition (May 21, 2021)
+Click for more
+Teaching Honors
+IEEE-Eta Kappa Nu's C. Holmes MacDonald  Outstanding Electrical and Computer Engineering Teacher Award.  (2013)
+On the  list of Teachers Ranked as Excellent by their students  (2021)
+
+
+Recent Courses TaughtCS 498 SM - Principles of Safe Autonomy
+ECE 220 - Computer Systems & Programming
+ECE 484 - Principles of Safe Autonomy
+ECE 498 SM (ECE 498 SMA) - Principles of Safe Autonomy
+ECE 584 (CS 584) - Embedded System Verification
+
+
+
+
+
+
+
+Related News
+
+
+ECE faculty bring home MURI Awards
+
+
+Mitra comments on "liquid" neural nets, a flexible approach to machine learning
+
+
+Students explore autonomous vehicles through camp
+
+
+Illinois ECE graduate receives prestigious ACM Doctoral Dissertation Award
+
+
+PhD student wins ACM SIGBED's Student Research Competition
+
+
+Mitra publishes new textbook on verification techniques
+
+
+
+
+
+
+
+

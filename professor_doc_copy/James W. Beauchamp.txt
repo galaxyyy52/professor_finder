@@ -1,0 +1,156 @@
+
+
+
+
+
+
+
+ 
+
+
+James W Beauchamp 
+
+
+
+Professor Emeritus
+
+jwbeauch@illinois.edu
+ 
+
+
+
+For More Information
+Prof. Beauchamp's Home Page
+
+Academic Positions
+Research Professor, Dept. of electrical & computer engineering, 2015-
+Emeritus Professor, Univ. of Illinois U-C, School of music and Dept. of electrical & computer engineering, 1997-
+Professor, Univ. of Illinois U-C, School of Music (67%) and Dept. of electrical & computer engineering (33%), 1993-1997
+Visiting Scholar, Stanford Univ., center for computer research in music and acoustics, spring, 1988.
+Associate Professor, Univ. of Illinois U-C, School of Music (67%) and Dept. of electrical engineering & computer engineering (33%), 1970-1993
+
+Research Associate, Stanford Univ., computer science, 1968-1969
+
+Assistant Professor, Univ. of Illinois U-C, electrical engineering, 1965-1970
+
+Click for more
+Other Professional Activities
+member, Membership Committee, Acoustical Society of America, New York, 2011 - 2018
+associate editor for musical acoustics, Proceedings of Meetings on Acoustics (POMA) , Acoustical Society of America, 2007 - 2018
+ chair, Technical Committee on Musical Acoustics, Acoustical Society of America, New York, 2005-2008
+member, Medals & Awards Committee, Acoustical Society of America, New York, 2001-2004
+member, Technical Committee on Musical Acoustics, Acoustical Society of America, New York, 1985 - present
+president, International Computer Music Assn., San Francisco, 1981-1983
+Click for more
+Undergraduate Research OpportunitiesEach semester I work with a group of undergraduate students who wish to carry out projects in music signal processing. Examples of recent successful projects have been "automatic saxophone squeak elimination", "hum removal", "pitch detection of solo musical phrases", "time-scale modification of non-vibrato tones while retaining timbral texture", "time stretching of vibrato sounds while preserving vibrato rate", and "chord recognition using spectral maximum likelihood matching". Some projects have resulted in students giving presentations at  UIUC College of Engineering Undergraduate Research Resource Fairs, regional symposiums, and international professional meetings.
+Research Interests
+audio; computer music; musical acoustics; analysis, synthesis, and perception of musical sound; automatic music transcription; music signal processing
+
+
+Research Areas
+Acoustics
+Algorithms and computational complexity
+Audio, speech, music and auditory processing
+Biomedical Imaging, Bioengineering, and Acoustics
+Communications
+Machine learning and pattern recognition
+Signal detection and estimation
+Signal Processing
+Software systems
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Machine learning
+Speech, language, and audio processing
+Click for more
+Books Edited or Co-Edited (Original Editions)
+James W. Beauchamp, ed.: Analysis, Synthesis, and Perception of Musical Sounds: The Sound of Music, Springer (2007).
+Heinz von Foerster and James W. Beauchamp, eds.: Music by Computers, John Wiley & Sons (1969).
+
+Chapters in Books
+James W. Beauchamp, "Comparison of Vocal and Violin Vibrato with Relationship to the Source/Filter Model", in Studies in Musical Acoustics and Psychoacoustics, Albrecht Schneider, Ed, Springer Int. Pub. AG, pp. 201-222 (2017). (!)
+A. B. Horner and J. W. Beauchamp, "Instrument modeling and synthesis", in Handbook of Signal Processing in Acoustics, D. Havelock, S. Kuwano, and M. Vorlander, Eds., Springer, N. Y., Vol. 1, pp. 375-397 (2008).
+J. W. Beauchamp, "Analysis and Synthesis of Musical Instrument Sounds", in Analysis, Synthesis, and Perception of Musical Sounds: Sound of Music, J. W. Beauchamp, Ed., Springer, N. Y., pp. 1 - 89 (2007). 
+ J. W. Beauchamp and R. C. Maher, "Digital Audio" in Encyclopedia of Acoustics, M. Crocker, ed., John Wiley & Sons, pp. 1967-1978 (1997).
+J. W. Beauchamp, "Brass Tone Synthesis by Spectrum Evolution Matching with Nonlinear Functions", in Foundations of Computer Music, C. Roads and J. Strawn, eds., MIT Press, Cambridge, MA, pp. 95-113 (1985).
+J. W. Beauchamp, "Electronic Music: Apparatus and Technology", in Dictionary of Contemporary Music, John Vinton, ed., E. P. Dutton, NY, NY, pp. 205-215 (1974).
+J. W. Beauchamp, "A Computer System for Time-Variant Harmonic Analysis and Synthesis of Musical Tones", in Music by Computers, H. von Foerster and J. W. Beauchamp, eds., John Wiley & Sons pp. 19-62 (1969).
+
+Click for more
+Selected Articles in Journals
+M. Zhang, H. Lu, G. Ren, S. Smith, J. Beauchamp, and M. Bocko, "A Matlab-Based Signal Processing Toolbox for Characterization and Analysis of Musical Vibrato", J. Audio Eng. Soc., Vol. 65, No. 5, pp. 408-422 (2017).
+
+J. W. Beauchamp, "Trombone Transfer Functions: Comparison Between Frequency-Swept Sine Wave and Human Performance Input", Archives of Acoustics, Vol. 37, No. 4, pp. 447-454 (2012).
+J. W. Beauchamp, "Perceptually Correlated Parameters of Musical Instrument Tones", Archives of Acoustics, Vol. 36, No. 2, pp. 225-238 (2011).
+A. B. Horner, J. W. Beauchamp, and R. H. Y. So, "Evaluation of Mel-Band and MFCC-Based Error Metrics for Correspondence to Discrimination of Spectrally Altered Musical Instrument Sounds", J. Audio Eng. Soc., Vol. 59, No. 5, pp. 290-303 (2011).
+M. D. Hall and J. W. Beauchamp, "Clarifying Spectral And Temporal Dimensions Of Musical Instrument Timbre", Canadian Acoustics, Vol. 37, No. 1, pp. 3 - 22 (2009).
+A. B. Horner, J. W. Beauchamp, and R. H. Y. Lo, "A search for best metrics to predict discrimination of original and spectrally altered musical instrument sounds", J. Audio Eng. Soc., Vol. 54, No. 3, pp. 140-156 (2006).
+J. W. Beauchamp, "Musical Acoustics: Brass Acoustics -- Is Propagation Linear or Nonlinear?", Acoustics Today, Vol. 2, No. 2, pp. 52-53, April, 2006.
+A. Horner, J. Beauchamp, and R. So, "Detection of random alterations to time-varying musical instrument spectra", J. Acoust. Soc. Am., Vol. 116, No. 3, pp. 1800-1810 (2004).
+M. Wright, J. Beauchamp, K. Fitz, X. Rodet, A. Robel, X. Serra, and G. Wakfield, "Analysis/synthesis comparison", Organized Sound, Vol. 5, No. 3, pp. 173-189 (2001).
+S. McAdams, J. W. Beauchamp, and S. Menneguzzi, "Discrimination of musical instrument sounds resynthesized with simplified spectrotemporal parameters", J. Acoust. Soc. Am., Vol. 105, No. 2, Pt. 1, pp. 882-897 (1999).
+A. Horner and J. Beauchamp, "A genetic algorithm based method for synthesis of low peak amplitude signals", J. Acoust. Soc. Am., Vol. 99, No. 1, pp. 433-443 (1996).
+A. Horner and J. Beauchamp, "Piecewise Linear Approximations of Additive Synthesis Envelopes: A Comparison of Various Methods", Computer Music J., Vol. 20, No. 2, pp.72-95 (1996).
+A. Horner, J. Beauchamp, and L. Haken, "Genetic Algorithms and Their Application to FM Matching Synthesis", Computer Music J., Vol. 17, No. 4, pp. 17-29 (1993).
+R. C. Maher and J. W. Beauchamp, "Fundamental frequency estimation of musical signals using a Two-Way Mismatch procedure", J. Acoust. Soc. Am., Vol. 95, No. 4, pp.2254-2263 (1994).
+A. Horner, J. Beauchamp, and L. Haken, "Methods for Matching Multiple Wavetable Synthesis of Musical Instrument Tones", J. Audio Eng. Soc., Vol. 41, No. 5, pp. 336-356 (1993).
+R. C. Maher and J. W. Beauchamp, "An Investigation of Vocal Vibrato for Synthesis", Applied Acoustics, Vol. 30, pp. 219-245 (1990).
+J. W. Beauchamp, "Synthesis by Spectral Amplitude and 'Brightness' Matching of Analyzed Musical Instrument Tones", J. Audio Eng. Soc., Vol. 30, No. 6, pp. 396-406 (1982).
+J. W. Beauchamp, "Time-variant spectra of violin tones", J. Acoust. Soc. Am., Vol. 56, No. 3, pp. 995-1004 (1974).
+J. W. Beauchamp, "Additive Synthesis of Harmonic Musical Tones", J. Audio Eng. Soc., Vol. 14, No. 4, pp. 332-342 (1966).
+L. A. Hiller and J. W. Beauchamp, "Research in Music with Electronics", Science, Vol. 150, No. 3693, pp. 161-169 (1965).
+Click for more
+Articles in Conference Proceedings
+H. Zheng and J. Beauchamp, "Analysis and Critical-Band-Based Group Wavetable Synthesis of Piano Tones", Proc. 1999 Int. Computer Music Conf., Beijing, China, pp. 9-12 (1999).
+J. W. Beauchamp and S. Lakatos, "New Spectro-Temporal Measures of Musical Instrument Sounds Used for a Study of Timbral Similarity of Rise-Time- and Centroid-Normalized Musical Sounds", Proc. 7th Int. Conf. on Music Perception & Cognition (ICMPC 7), Univ. of New South Wales, Sydney, Australia, pp. 592-595 (2002).
+J. W. Beauchamp, "Analysis of Simultaneous Mouthpiece and Output Waveforms of Wind Instruments", Audio Eng. Soc. Preprint No. 1626 (1980).
+J. W. Beauchamp, "Methods for measurement and manipulation of timbral physical correlates", Proc. 16th Int. Congress Acoust., Seattle, WA, pp. 1883-84 (1998).
+J. W. Beauchamp, "Musical instrument synthesis by nonregenerative nonlinear processing", Proc. 16th Inst. Congress Acoust., pp. 2537-38 (1998).
+J. W. Beauchamp, "Unix Workstation Software for Analysis, Graphics, Modification, and Synthesis of Musical Sounds", Audio Eng. Soc. Preprint No. 3479, pp. 1-17 (1993).
+J. W. Beauchamp, A. B. Horner, and L. Ayers, "Effect of critical band data reduction of musical instrument sounds", Proc 9th Int. Conf. on Music Perception and Cognition (ICMPC 9), Bononia Univ, Press, Bologna, Italy, pp. 52-58 (2006).
+J. W. Beauchamp, R. C. Maher, and R. Brown, "Detection of Musical Pitch from Recorded Solo Performances, Audio Eng. Soc. Preprint No. 3541, pp. 1-15 (1993).
+M. Bay and J. W. Beauchamp, "Harmonic source separation using prestored spectra", Proc. 6th Int. Conf. on Independent Component Analysis and Blind Source Separation (ICA06), Springer-Verlag Berlin Heidelberg, pp. 561-568 (2006).
+M. Bay and J. W. Beauchamp, "Methods for separating instruments from a monaural mix", Proc. Meetings on Acoustics (POMA), Vol. 14, p. 015007 (17 pages) (2014). 
+M. Bay, A. F. Ehmann, J. W. Beauchamp, P. Smaragdis and J. S. Downie, "Second Fiddle is Important Too: Pitch Tracking Individual Voices in Polyphonic Music", Proc. 13th Conf. Int. Soc. Music Information Retrieval (ISMIR 2012), pp. 319-324 (2012).
+Mingfeng Zhang, Mark Bocko, and James Beauchamp, "Temporal analysis, manipulation, and resynthesis of musical vibrato", Proc. Meetings on Acoustics, Vol. 22, p. 035002, (12 pages) (2015).
+T. Madden and J. Beauchamp, "Armadillo: Real Time and Non-Real Time Analysis of Musical Sounds on a Power Macintosh", Proc. 1999 Int. Computer Music Conf., Beijing, China, pp. 411-413 (1999).
+W. Kausel, J. W. Beauchamp, and S. Carral, "Brass instrument power efficiency and the relationship between input impedance and transfer function", Proc. Meetings on Acoustics (POMA), Vol. 19, pp. 035069 (9 pages) (2013).
+Click for more
+Honors
+Fellow of the Acoustical Society of America (Nov. 3, 1999)
+Fellow of the Audio Engineering Society (May 14, 1981)
+
+
+Recent Courses TaughtMUS 499 JWB - Independent Study
+
+
+
+
+
+
+
+Related News
+
+
+Prof. Beauchamp and students share discoveries at the intersection of music and computing
+
+
+Wiedmann bridges the gap between music and technology
+
+
+The Story Behind An Early Electronic Music Instrument Developed in Champaign-Urbana
+
+
+Beauchamp's Harmonic Tone Generator recreated for Sousa Archives
+
+
+
+
+
+
+
+

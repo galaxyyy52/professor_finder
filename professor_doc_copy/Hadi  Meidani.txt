@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Hadi Meidani 
+
+
+
+
+
+Associate Professor
+
+
+(217) 300-0828
+meidani@illinois.edu
+1211 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+
+
+
+
+Primary Research AreaTransportation Engineering
+Research Areas
+Sustainable and Resilient Infrastructure Systems
+Transportation Engineering
+
+For More Information
+Uncertainty Quantification Group
+
+BiographyDr. Meidani earned his Ph.D. in Civil Engineering from the University of Southern California (2012), where he also earned his M.S. in Electrical Engineering in 2012.  He holds a B.S. in Civil Engineering from K.N. Toosi University of Technology, Tehran (2002), and a M.S. in Structural Engineering from Sharif University of Technology, Tehran (2005). 
+
+After earning his Ph.D., he was a Postdoctoral Scholar in the Department of Aerospace and Mechanical Engineering at USC (2012-2013) and a Postdoctoral Research Associate in the Scientific Computing and Imaging Institute at the University of Utah (2013-2014).
+Education
+Ph.D., Civil Engineering, University of Southern California, 2012
+M.S., Electrical Engineering, University of Southern California, 2012
+M.S., Civil Engineering, University of Southern California, 2011
+M.S., Structural Engineering, Sharif University of Technology, Iran, 2005
+B.S., Civil Engineering, K.N.Toosi University of Technology, Iran, 2002
+
+Academic Positions
+Postdoctoral Research Associate, Scientific Computing and Imaging Institute, University of Utah, 2013-2014
+Postdoctoral Research Associate, Department of Aerospace and Mechanical Engineering, University of Southern California, 2012-2013
+
+
+
+Research Interests
+Infrastructure Systems
+Stochastic Optimization
+Model Reduction
+Uncertainty Quantification
+
+Research StatementDr. Meidani has research interests in uncertainty quantification and scientific machine learning for engineering systems. His primary research areas include stochastic multiscale analysis of complex civil systems, optimization and control under uncertainty, and physics-informed machine learning.
+Primary Research AreaTransportation Engineering
+Research Areas
+Sustainable and Resilient Infrastructure Systems
+Transportation Engineering
+
+
+
+Selected Articles in Journals
+M. A. Nabian, M. A., and H. Meidani (2019). "A Deep Learning Solution Approach for High-Dimensional Random Differential Equations". Probabilistic Engineering Mechanics, 57, 14-25.
+
+N. Alemazkoor and H. Meidani (2018). "A Near-Optimal Sampling Strategy for Sparse Recovery of Polynomial Chaos Expansions". Journal of Computational Physics 371, 137-151.
+N. Alemazkoor and H. Meidani (2018). "A Preconditioning Approach for Improved Estimation of Sparse Polynomial Chaos Expansions". Computer Methods in Applied Mechanics and Engineering, 342, 474-489.
+M. Nabian, H. Meidani (2018). "Deep Learning for Accelerated Seismic Reliability Analysis of Transportation Networks", Computer-Aided Civil and Infrastructure Engineering, 33 (6), 443-458.
+N. Alemazkoor and H. Meidani (2017). "Divide and Conquer: An Incremental Sparsity Promoting Compressive Sampling Approach for Polynomial Chaos Expansions", Computer Methods in Applied Mechanics and Engineering, 318, pp. 937-956.
+H. Meidani, J.B. Hooper, R.M. Kirby and D. Bedrov (2017). "Calibration and Ranking of Coarse-grained Water Models using the Bayesian Formalism", International Journal for Uncertainty Quantification, 7(2): 99-115.
+V. Keshavarzzadeh, H. Meidani, D. Tortorelli (2016). "Gradient Based Design Optimization under Uncertainty via Stochastic Expansion Methods", Computer Methods in Applied Mechanics and Engineering, 306: 47–76.
+H. Meidani and R. Ghanem (2015). "Random Markov Decision Processes for Sustainable Infrastructure Systems", Structure and Infrastructure Engineering, Maintenance, Management, Life-Cycle Design and Performance 11 5: 655-667.
+H. Meidani and R. Ghanem (2014). "Multiscale Markov Models with Random Transitions for Energy Demand Management", Energy and Buildings. 61. pp 267274.
+H. Meidani and R. Ghanem (2014). "Spectral Power Iterations for the Random Eigenvalue Problem", AIAA Journal, Vol. 52, No. 5 (2014), pp 912-925.
+H. Meidani and R. Ghanem (2012). "Uncertainty Quantification for Markov Chain Models", Chaos: An Interdisciplinary Journal of Nonlinear Science. 22(4).
+M.I. Todorovska, H. Meidani, M.D. Trifunac (2009). "Wavelet Approximation of Earthquake Strong Ground Motion - Goodness of Fit for a Database in Terms of Predicting Nonlinear Structural Response". Soil Dynamics and Earthquake Engineering, 29(4), pp 742-751.
+Click for more
+Articles in Conference Proceedings
+H. Meidani and R. Ghanem (2013). "Uncertainty Quantification of Diffusion Maps" 11th International Conference on Structural Safety & Reliability (ICOSSAR 2013), New York, NY.
+H. Meidani and R. Ghanem (2012). "Robust Decision Making for Markov Chains in Random Environment". Proceedings of the 2012 Joint Conference of the Engineering Mechanics Institute and 11th ASCE Joint Specialty Conference on Probabilistic Mechanics and Structural Reliability (EMI/PMC 2012), Notre Dame, IN.
+H. Meidani and R. Ghanem (2012). "A Stochastic Modal Decomposition Framework for the Analysis of Structural Dynamics under Uncertainties". Proceedings of the AIAA 53rd Structures, Structural Dynamics, and Materials Conference, Honolulu, HI.
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+ Research team selected to participate in NSF-led innovation challenge
+
+
+New M.S. track combines data science, core CEE disciplines
+
+
+Engineers, doctors team up to study pooled COVID-19 testing
+
+
+Keeping disasters at bay: Meidani offers multifaceted approach
+
+
+CEE team wins first place in transportation data challenge
+
+
+Student coding skills to be strengthened through active learning, thanks to SIIP grant
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

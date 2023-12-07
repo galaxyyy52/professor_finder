@@ -1,0 +1,91 @@
+
+
+
+
+
+
+
+ 
+
+
+ Kirill Levchenko 
+
+
+
+Associate Professor
++1 217 300-8620
+klevchen@illinois.edu
+458 Coordinated Science Lab
+
+
+
+For More Information
+Kirill Levchenko's home page
+
+Undergraduate Research OpportunitiesMy lab is always looking for motivated undergrduate students interested in research in:
+
+Network attacks and defenses
+Cyber-physical and embedded system security analysis
+E-crime and Internet service abuse
+Network measurement
+
+Major projects:
+
+PacketLab network measurement system
+Aviation cyber-security
+
+ 
+Research Interests
+Cyber-physical system security, network security, e-crime and Internet service abuse
+
+
+Research Areas
+Communication networks
+Computer security, privacy, and information trust
+Networked control systems
+System modeling and measurement
+
+
+Research Topics
+Cybersecurity and privacy
+
+
+Recent Courses TaughtCS 461 (ECE 422) - Computer Security I
+CS 491 CB - Cyber Security Scholar Program
+ECE 120 - Introduction to Computing
+ECE 391 - Computer Systems Engineering
+ECE 498 KL - eCrime & Internet Serv Abuse
+
+
+
+
+
+
+
+Related News
+
+
+ECE researchers share concerns on security of redacted documents
+
+
+A passion for operating systems: ECE undergraduate Zhu's contributions to Linux
+
+
+Illinois ECE graduate student wins prestigious IEEE awards 
+
+
+Levchenko highlighted in effort to detect illegal card skimmers
+
+
+New app allows inspectors to find gas pump skimmers faster
+
+
+ECE ILLINOIS adds nine tenure-track and teaching faculty members
+
+
+
+
+
+
+
+

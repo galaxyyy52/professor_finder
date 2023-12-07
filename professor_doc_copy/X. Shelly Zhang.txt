@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+ 
+
+
+
+X. Shelly Zhang 
+
+
+
+
+
+David C. Crawford Faculty ScholarOffice of Risk Management & Insurance Research (ORMIR) Faculty Scholar
+Assistant Professor
+
+
+(217) 300-1815
+zhangxs@illinois.edu
+3108 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaStructural Engineering
+Research Areas
+Societal Risk & Hazard Mitigation
+Structural Engineering
+Sustainable and Resilient Infrastructure Systems
+
+For More Information
+Research Group Website (MISSION Laboratory)
+
+BiographyDr. Xiaojia Shelly Zhang is a David C. Crawford Assistant Professor in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. She also holds an affiliate appointment at the Department of Mechanical Science and Engineering. Dr. Zhang holds a B.S. (Honors) degree in Civil Engineering (University of Illinois at Urbana Champaign), an M.S. degree in Structural Engineering (University of Illinois at Urbana Champaign) with Computational Science and Engineering Diploma, and a Ph.D. degree in Structural Engineering (Georgia Tech). She received both the department-level (2018) and institution-level (2019) Best Ph.D. Thesis Awards and a faculty fellowship from the National Center for Supercomputing Applications (NCSA) in 2019. Dr. Zhang serves on the Executive Committee of the International Society of Structural and Multidisciplinary Optimization (ISSMO) and is a Review Editor for the Journal of Structural and Multidisciplinary Optimization and a Guest Editor for Extreme Mechanics Letter and Journal of Engineering Structures. She is the recipient of the 2021 National Science Foundation CAREER award, the 2022 ASME (American Society of Mechanical Engineers) Journal of Applied Mechanics Award, the 2022 DARPA (Defense Advanced Research Projects Agency) Young Faculty Award (YFA), and the 2023 AFOSR (Air Force Office of Scientific Research) Young Investigator (YIP) award. Her research interests are in the general areas of topology optimization, additive manufacturing, data-driven models, multi-scale materials and structures, 3D/4D printing, and uncertainty quantification. Her research group focuses on exploring multi-physics topology optimization, stochastic and machine learning algorithms, and additive manufacturing to develop multi-functional, sustainable, and innovative civil structures, robots, and metamaterials for applications at different scales, from as large as high-rise buildings to as small as material microstructures.  Her research has been supported by NSF, DARPA, AFOSR, and ARO.
+Education
+Ph.D., Structural Engineering, School of Civil and Environmental Engineering, Georgia Institute of Technology
+M.S., Structural Engineering, Computational Science and Engineering, Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
+B.S., Civil Engineering (with honors), Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign
+
+Academic Positions
+David C. Crawford Faculty Scholar, Civil and Environmental Engineering, University of Illinois at Urbana - Champaign, 2023 - present
+Faculty Scholar, Office of Risk Management & Insurance Research (ORMIR), University of Illinois at Urbana - Champaign, 2022 - 2023
+Faculty Affiliate (0%), Computational Science and Engineering, University of Illinois at Urbana - Champaign, 2020 - present
+Faculty Fellow (0%), National Center of Supercomputing Applications, University of Illinois at Urbana - Champaign, 2019 - present
+Faculty Affiliate (0%), Mechanical Science and Engineering, University of Illinois at Urbana - Champaign, 2019 - present
+Assistant Professor (100%), Civil and Environmental Engineering, University of Illinois at Urbana - Champaign, 2019 - present
+Click for more
+Journal Editorships
+Review Editor, Structural and Multidisciplinary Optimization (Flagship journal of Society of Structural and Multidisciplinary Optimization. Impact factor: 4.542), 2021-present
+
+Guest Editor, Journal of Engineering Structures (Impact factor: 4.471) Special Issue: Additively manufactured structures. 2022 - present
+
+Early Career Editorial Board Member, Frontiers of Structural and Civil Engineering (Impact factor: 2.370), 2021-present
+
+Guest Editor, Extreme Mechanics Letter (Impact factor: 4.806), 2021-present
+
+Editor, ISSMO Newsletter, International Society for Structural and Multidisciplinary Optimization (ISSMO), 2020-2023
+
+
+Professional Societies
+Event Officer, Female Researchers Group (FRG) of U.S. Association for Computational Mechanics (USACM), 2020-present
+
+Vice-Chair, USACM (U. S. Association for Computational Mechanics), Technical Thrust Area (TTA) on Large Scale Structural Systems and Optimal Design, 2021-2023
+
+Honor Member, Chi Epsilon – National Civil Engineering Honor Society, 2021-present
+
+
+Service on University Committees
+Team lead, UIUC-Carle Health Covid PPE project – led the design team for the N95 mask and face shield PPE project
+
+
+
+Research Interests
+Design optimize, simulate, and fabrication of multifunctional, resilient, and intelligent engineering structures and materials
+Soft active materials with programmable behaviors
+Tough and damage-resilient materials and structures
+Topology optimization informed civil structures innovations
+Multi-scale lattice design for resilient and lightweight metamaterials and structures 
+Bridging topology optimization and additive manufacturing
+Robust design optimization under uncertainty through stochastic programming 
+Theoretical and algorithmic development of topology optimization to handle multi-objective and multi-constraints
+Click for more
+Research StatementTopology optimization is a technique for generating optimal shapes of structures.  My research focuses on exploring multi-physics topology optimization, stochastic and data-driven algorithms, and advanced manufacturing to create multi-functional, sustainable, resilient, and optimal civil structures, robots, and soft active materials for applications at different scales, from as large as high-rise buildings to as small as material microstructures. 
+Primary Research AreaStructural Engineering
+Research Areas
+Societal Risk & Hazard Mitigation
+Structural Engineering
+Sustainable and Resilient Infrastructure Systems
+
+
+
+Selected Articles in Journals
+W. Li, Y. Wang, T. Chen*, X. S. Zhang*. "Algorithmic encoding of adaptive responses in temperature-sensing multi-material architectures". Science Advances. In press. 2023.
+W. Li , X. S. Zhang*. "Arbitrary curvature programming of thermo-active liquid crystal elastomer via computational morphogenesis". Computer Methods in Applied Mechanics and Engineering. Vol. 417, pp. 116393. 2023.
+R. D. Kundu and X. S. Zhang*. "Additive manufacturing of stiff and strong structures by leveraging printing-induced strength anisotropy in topology optimization". Additive Manufacturing. Vol. 75, pp. 103730. 2023.
+Z. Zhao, C. Wang,  X. S. Zhang*. “Tuning buckling behaviors in magnetically active structures: topology optimization and experimental validation”. Journal of Applied Mechanics. Vol. 90, No. 9, pp. 091006. 2023.
+R. D. Kundu and X. S. Zhang*. "Stress-based topology optimization for fiber composites with improved stiffness and strength: integrating anisotropic and isotropic materials". Composite Structures. Vol. 320, pp. 117041. 2023.
+C. Wang, Z. Zhao, X. S. Zhang*. “Inverse Design of Magneto-active Metasurfaces and Robots: Theory, Computation, and Experimental Validation”. Computer Methods in Applied Mechanics and Engineering. Vol. 413, pp. 116065. 2023.
+Z. Zhao and X. S. Zhang*. "Encoding reprogrammable properties into magneto-mechanical materials via topology optimization." Nature: npj Computational Materials. Vol. 9, No. 57. 2023.
+Y. Jia, O. Lopez-Pamies, and X. S. Zhang*. "Multi-objective Topology Optimization for Improved Fracture Properties: Harnessing Fracture Nucleation and Propagation in Heterogeneous Geometries." Journal of the Mechanics and Physics of Solids. Vol. 173, pp. 105227. 2023.
+W. Li, Y. Jia, F. Wang, O. Sigmund, X. S. Zhang*. "Programming and physical realization of extreme three-dimensional responses of metastructures under large deformations". International Journal of Engineering Science. Vol. 191, pp. 103881. 2023.
+W. Li, F. Wang, O. Sigmund, X. S. Zhang*. "Digital synthesis of free-form multimaterial structures for realization of arbitrary programmed mechanical responses". Proceedings of the National Academy of Sciences of the United States of America (PNAS). Vol. 119, No. 10, pp. e2120563119, 2022.
+
+R. Kundu, W. Li, and X. S. Zhang*. "Multimaterial stress-constrained topology optimization with multiple distinct yield criteria." Extreme Mechanics Letters. Vol. 54, pp. 101716, 2022.
+
+Z. Zhao and X. S. Zhang*. "Topology optimization of hard-magnetic soft materials." Journal of the Mechanics and Physics of Solids. Vol. 158, pp. 104628, 2022
+
+Z. Zhi and X. S. Zhang*, "Additive manufacturing of topology optimized graded porous structures: An experimental study." The Journal of The Minerals, Metals & Materials Society (JOM), SI: Leveraging Materials in Topology Optimization. Vol. 73, pp. 2022–2030, 2021.
+
+W. Li, X. S. Zhang*. “Accelerated Mirror Descent Stochastic Approximation for Robust Topology Optimization under Stochastic Loads”. International Journal for Numerical Methods in Engineering. Vol. 122, No. 17, pp. 4431-4457, 2021.
+
+Z. Zhao, X. S. Zhang*. “Graded porous structure design via a multi-material topology optimization approach.” Structural and Multidisciplinary Optimization. Vol. 64, pp. 677–698, 2021.
+
+C. Wang, Z. Zhao, M. Zhou, O. Sigmund, X.S. Zhang*. "A comprehensive review of educational articles on structural and multidisciplinary optimization." Structural and Multidisciplinary Optimization. Vol. 64, pp. 2827–2880, 2021.
+W. Li, F. Wang, O. Sigmund, X. S. Zhang*. “Design of composite structures with programmable elastic responses under finite deformations”. Journal of the Mechanics and Physics of Solids. Vol. 151, pp. 104356, 2021.
+
+X. S. Zhang*, W. Li, Y. Ouyang. “Paved guideway topology optimization for pedestrian traffic under Nash equilibrium”. Structural and Multidisciplinary Optimization. Vol. 63, pp. 1405–1426. 2021.
+
+X. S. Zhang*, H. Chi., Z. Zhao. “Topology optimization of fiber-reinforced hyperelastic structures under large deformations”. Computer Methods in Applied Mechanics and Engineering. Vol. 378, pp. 113496, 2021.
+
+X. S. Zhang*, E. de Sturler, and A. Shapiro. "Topology optimization with many right-hand sides using mirror descent stochastic approximation -- reduction from many to a single sample. " Journal of Applied Mechanics. Vol. 87, No. 5, pp. 051005, 2020.
+X. S. Zhang*, H. Chi. "Efficient multi-material continuum topology optimization considering hyperelasticity: achieving local feature control through regional constraints. " Mechanics Research Communications. Vol. 105, pp. 103494, 2020.
+X. S. Zhang, H. Chi, G. H. Paulino. "Adaptive multi-material topology optimization with hyperelastic materials under large deformations: A virtual element approach. Computer Methods in Applied Mechanics and Engineering. Vol. 130, pp. 112976, 2020.
+X. S. Zhang, G. H. Paulino, A. Ramos Jr. “Multi-Material Topology Optimization with Multiple Volume Constraints: A General Approach Applied to Ground Structures with Material Nonlinearity.” Journal of Structural and Multidisciplinary Optimization. Vol. 57, pp. 161-182, 2018. 
+X. S. Zhang, G. H. Paulino, A. Ramos Jr. “Multi-material Topology Optimization with Multiple Volume Constraints: Combining the ZPR Update with a Ground-structure Algorithm to Select a Single Material Per Overlapping Set.” International Journal for Numerical Methods in Engineering. Vol. 114, pp. 1053–1073, 2018.
+X. S. Zhang, E. de Sturler, G. H. Paulino. “Stochastic Sampling for Deterministic Structural Topology Optimization with Many Load Cases: Density-Based and Ground Structure Approaches.”  Computer Methods in Applied Mechanics and Engineering. Vol. 325, pp. 463-487, 2017. 
+X. S. Zhang, A. Ramos Jr., G. H. Paulino. “Material Nonlinear Topology Optimization Using the Ground Structure Method with a Discrete Filter Scheme.” Journal of Structural and Multidisciplinary Optimization. Vol. 55, No. 6, pp. 2045–2072. 2017. (Most Downloaded Journal Article of Springer in Mechanics 2017.)
+X. S. Zhang, S. Maheshwari, A. Ramos Jr., G. H. Paulino. “Closure to “Macroelement and Macropatch Approaches to Structural Topology Optimization Using the Ground Structure Method.” ASCE Journal of Structural Engineering. Vol. 144, No. 10, pp. 07018009-1 to 4. 2018.
+X. S. Zhang, S. Maheshwari, A. Ramos Jr., G. H. Paulino. “Macroelement and Macropatch Approaches for Topology Optimization of Trusses Using a Ground Structure Method.” ASCE Journal of Structural Engineering. Vol. 142, No. 11, pp. 04016090-1-14. 2016. 
+Click for more
+Invited Lectures
+ASME CONCAM distinguished lecture on computational mechanics: Programmable soft metastructures via multi-material topology optimization
+
+Invited keynote lecture: Topology optimization of hyperelastic structures with anisotropic fiber reinforcement under large deformations
+
+Invited wecture: Adaptive multi-material topology optimization with hyperelastic materials under large deformations: A virtual element approach
+Invited panel: An Introduction to Systems Engineering and What it Means to Structural Engineers
+Invited lecture: Leveraging Materials in Topology Optimization -Design of Composite Materials with Multi-material Topology Optimization with many constraints
+Invited keynote: "Adaptive multi-material topology optimization with many constraints: A novel approach with material and geometric nonlinearities."
+
+Multi-material, multi-constraint, and multi-objective topology optimization: from structural to multidisciplinary engineering
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+Achieving Structural Innovation and Resilience through Topology Optimization with Many Objectives, Many Constraints, and Many Materials 
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases 
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+A Primer on Michell's Optimality Conditions
+Topology Optimization with Multiple Materials, Multiple Constraints, and Multiple Load Cases
+Click for more
+
+
+Teaching Honors
+UIUC Center for Teaching Excellence List of Teachers Ranked as Excellent (Spring 2022)
+UIUC Center for Teaching Excellence List of Teachers Ranked as Excellent (Fall 2021)
+UIUC Center for Teaching Excellence List of Teachers Ranked as Excellent (Spring 2021)
+UIUC Center for Teaching Excellence List of Teachers Ranked as Excellent (Summer 2020)
+UIUC Center for Teaching Excellence List of Teachers Ranked as Excellent (Spring 2020)
+ASCE Excellence in Civil Engineering Education (ExCEEd) Fellowship (2019)
+Click for more
+Research Honors
+David C. Crawford Faculty Scholar
+ (2023
+)
+Air Force Office of Scientific Research (AFOSR) Young Investigator Award Research Program (YIP) Award (2023
+)
+Defense Advanced Research Projects Agency (DARPA) Young FacultyAward (YFA)
+ (2022
+)
+Journal of Applied Mechanics Award, ASME (American Society of Mechanical Engineers) (2022
+)
+Faculty Scholar, Office of Risk Management & Insurance Research (ORMIR) (2022)
+National Science Foundation (NSF) CAREER Award (2021
+)
+Fellow, National Science Foundation (NSF) CMMI's Game Changer Academies (2021)
+Elected to be an Honor Member, Chi Epsilon - National Civil Engineering Honor Society (2021)
+National Center for Supercomputing Applications (NCSA) Faculty Fellowship (2019)
+Institution-wide Best Ph.D. Thesis of entire Georgia Tech, Sigma Xi Honor Society, Georgia Tech Chapter (2019)
+Department-wide Best Ph.D. Thesis, Civil and Environmental Engineering, Georgia Tech (2018)
+Third Place in Siemens FutureMakers Challenge, Siemens Corporation  (2018)
+The Most Downloaded Journal Article in Springer (2017)
+Click for more
+
+
+
+
+
+
+
+
+Related News
+
+
+Researchers engineer a material that can perform different tasks depending on temperature
+
+
+Greener infrastructure is the goal of new NSF-funded project
+
+
+Zhang named David C. Crawford faculty scholar
+
+
+Zhang receives DARPA Young Faculty Award
+
+
+Zhang named ORMIR faculty scholar
+
+
+New approach to flexible robotics and metamaterials design mimics nature, encourages sustainability
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,333 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Nora El-Gohary 
+
+
+
+
+
+CEE Excellence Faculty Fellow
+Professor
+
+
+(217) 333-6620
+gohary@illinois.edu
+3129c Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaConstruction Engineering and Management
+Research Areas
+Construction Engineering and Management
+Energy-Water-Environment Sustainability
+Sustainable and Resilient Infrastructure Systems
+
+BiographyProfessor Nora El-Gohary earned her B.Sc. (1999) and M.Sc. (2002) degrees from the American University in Cairo, both in Construction Engineering. She earned her Ph.D. (2008) from the University of Toronto in Civil Engineering. She joined the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign in December 2009. Prior to joining the University of Illinois, she served on the faculty of the Department of Civil Engineering at the University of Manitoba as an Assistant Professor of Construction Engineering and Management. Her professional experience includes working for Hyundai Engineering & Construction Co. Ltd, one of the largest construction and civil engineering companies.
+
+Dr. El-Gohary has received several research awards including the Natural Sciences and Engineering Research Council of Canada Discovery Grant in 2009, the National Science Foundation CAREER Award in 2013, the Center of Advanced Study Fellow in 2015, the Excellence Faculty Fellow in Civil and Environmental Engineering in 2016, the Campus Distinguished Promotion Award in 2017, the National Center for Supercomputing Applications (NCSA) Faculty Fellow in 2018, and the Dean's Award for Excellence in Research in 2020. Her research has been sponsored by a number of agencies including the National Science Foundation, Illinois Center for Transportation, Illinois Department of Transportation, Qatar Foundation, and Natural Sciences and Engineering Research Council of Canada.
+
+A member of CEE's Construction Engineering and Management faculty, Dr. El-Gohary teaches two courses in Construction Engineering and Management: CEE 422 Construction Cost Analysis and CEE 528 Construction Data Modeling.
+
+Dr. El-Gohary served as the Chair of the Executive Committee of the ASCE's Computing Division, the Co-Chair of the TRB's Information Systems in Construction Management Subcommittee, and the Chair of the Executive Committee of the Construction Research Council. She is also an Associate Editor of the Journal of Computing in Civil Engineering. Dr. El-Gohary is a member of the TRB's Data and Information Systems Committee, the American Society of Civil Engineers (ASCE), and the Canadian Society for Civil Engineering (CSCE).
+Education
+Ph.D., Civil Engineering, University of Toronto, Canada,  2008
+M.Sc., Construction Engineering, The American University in Cairo, Egypt, 2002
+B.Sc., Construction Engineering, The American University in Cairo, Egypt, 1999
+ 
+
+Academic Positions
+Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, August 2023-present
+Associate Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, August 2017-August 2023
+Assistant Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, December 2009-August 2017
+Assistant Professor, University of Manitoba, Department of Civil Engineering, May 2008-November 2009
+
+Professional Registrations
+Professional Engineer, Professional Engineers Ontario (PEO), 2011-present
+Professional Registered Engineer, Egyptian Engineers Syndicate, 1999-present
+
+Journal Editorships
+Associate Editor, ASCE Journal of Computing in Civil Engineering, 2012-present
+Editorial Board Member, Engineering, Construction and Architectural Management (Emerald), 2015-present
+
+Professional Societies
+Chair, Research Committee, Global Leadership Forum (GLF) for Construction Engineering and Management, February 2021-present
+Member, Construction Management Committee, Transportation Research Board (TRB), National Research Council, Washington, D.C., 2020-present
+Past Chair, Executive Committee, Construction Research Council, ASCE, March 2022-May 2023
+Past Chair, Executive Committee, Computing Division, ASCE, October 2021-October 2022
+Co-Chair, Information Systems in Construction Management Subcommittee, Transportation Research Board (TRB), National Research Council, Washington, D.C., January 2014-April 2022
+Chair, Executive Committee, Construction Research Council, ASCE, May 2021-March 2022
+Chair, Executive Committee, Computing Division, ASCE, October 2020-September 2021
+Vice Chair, Executive Committee, Construction Research Council, ASCE, March 2020-May 2021
+Vice Chair, Executive Committee, Computing Division, ASCE, October 2019-September 2020
+Secretary, Executive Committee, Construction Research Council, ASCE, June 2019-March 2020
+Secretary, Executive Committee, Computing Division, ASCE, October 2018-October 2019
+Member at Large, Executive Committee, Computing Division, ASCE, October 2017-October 2018
+Past Chair, Data Sensing and Analysis (DSA) Committee, Computing Division, ASCE, October 2017-October 2019
+Chair, Data Sensing and Analysis (DSA) Committee, Computing Division, ASCE, October 2016-October 2017
+Vice Chair, Data Sensing and Analysis (DSA) Committee, Computing Division, ASCE, May 2016-October 2016
+Secretary, Data Sensing and Analysis (DSA) Committee, Computing Division, ASCE, October 2014-May 2016
+Secretary, Information Systems in Construction Management Subcommittee, Transportation Research Board (TRB), National Research Council, Washington, D.C., January 2013-January 2014
+Member at Large, Data Sensing and Analysis (DSA) Committee, Computing Division, ASCE, Elected June 2012, Term October 2012-October 2014
+Member, Future Leaders Committee, Global Leadership Forum for Construction Engineering and Management Programs (GLF-CEM), July 2020-present 
+Associate Member, American Society of Civil Engineers (ASCE), 2009-present
+Member, Canadian Society for Civil Engineering (CSCE), 2005-present
+Click for more
+
+
+Research Interests
+Data analytics and artificial intelligence (AI) for supporting sustainable and value-adding buildings and civil infrastructure systems.
+Building information modeling.
+Semantic data/information modeling and ontologies. 
+Text analytics, natural language processing, and information extraction.
+Machine learning.
+Data integration. 
+Human-centered approaches. 
+Automated construction management systems. 
+Click for more
+Research StatementDr. El-Gohary has research interests in data analytics and artifical intelligence (AI) for supporting the development and management of sustainable and value-adding civil infrastructure systems, including: (1) building information modeling and ontologies to facilitate smart information extraction and data analytics based on domain-specific semantics, (2) information retrieval and natural language processing to facilitate the retrieval and extraction of information from unstructured textual data, (3) machine learning to facilitate the analysis of both structured and unstructured data, and (4) human-centered and context-aware systems and analytics.
+Primary Research AreaConstruction Engineering and Management
+Research Areas
+Construction Engineering and Management
+Energy-Water-Environment Sustainability
+Sustainable and Resilient Infrastructure Systems
+
+
+
+Chapters in Books
+Zhang, R., and El-Gohary, N. (2022). "BIM, NLP, and AI for automated compliance checking." In  Lu, W. and Anumba, C. (Eds), Research Companion on Building Information Modeling, Edward Elgar Publishing (p. 248–267), https://doi.org/10.4337/9781839105524.
+
+
+Monographs
+Brilakis, I., Kandil, A., Becerik-Gerber, B., El-Anwar, O., El-Gohary, N., Mahfouz, T., Siddiqui, M., Jog, G., and Li, S. (2011) Grand Challenges for Data Sensing and Analysis. Monograph (Technical Report). Data Sensing and Analysis Committee, Technical Council on Computing and IT, American Society of Civil Engineers.
+
+Selected Articles in Journals
+Bucarelli, N., and El-Gohary, N. (2023). "Deep learning approach for recognizing cold and warm thermal discomfort cues from videos." Building and Environment, in press.
+Wang, X., and El-Gohary, N. (2023). "Deep learning-based relation extraction and knowledge graph-based representation of construction safety requirements." Automation in Construction, 147, 104696. 
+Tang, P., Liu, K., Cai, J., Ren, R., Lin, J., Cai, H.,  Zhang, J., El-Gohary, N.,  Berges, M., Golparvar Fard, M., and Wang, Y. (2023). "Characterizing data sharing in civil infrastructure engineering: Current practice, future vision, barriers, and promotion strategies." ASCE Journal of Computing in Civil Engineering, 37 (2),04023001.
+Wang, X., and El-Gohary, N. (2023). "Deep learning-based named entity recognition and resolution of referential ambiguities for enhanced information extraction from construction safety regulations." ASCE Journal of Computing in Civil Engineering, (Invited), in press. 
+Zhang, R., and El-Gohary, N. (2023). "Transformer-based approach for automated context-aware IFC-regulation semantic information alignment." Automation in Construction, 145, 104540. 
+Zhang, R., and El-Gohary, N. (2022). "Natural language generation and deep learning for intelligent building codes." Advanced Engineering Informatics, 52, 101557, 1-15.
+Liu, K., and El-Gohary, N. (2022). "Deep learning-based analytics of multisource heterogeneous bridge data for enhanced data-driven bridge deterioration prediction." ASCE Journal of Computing in Civil Engineering, 36(5), 04022023, 1-14.
+Zhang, R., and El-Gohary, N. (2022). "Hierarchical representation and deep learning-based method for automatically transforming textual building codes into semantic computable requirements." ASCE Journal of Computing in Civil Engineering, 36(5), 04022022, 1-14.
+Zhou, P., and El-Gohary, N. (2022). "Semantic information extraction of energy requirements from contract specifications: Dealing with complex extraction tasks." ASCE Journal of Computing in Civil Engineering, 36(5), 04022025, 1-14.
+Zhang, L., and El-Gohary, N. (2021). "Human-centered and BIM-integrated automated value analysis of buildings." International Journal of Construction Management, 2025555, 1-13. 
+Liu, K., and El-Gohary, N. (2021). “Bridge deterioration knowledge ontology for supporting bridge document analytics.” ASCE Journal of Construction Engineering and Management, 148(6), 04022030, 1-14.
+Liu, K., and El-Gohary, N. (2021). "Improved similarity assessment and spectral clustering for unsupervised linking of data extracted from bridge inspection reports." Advanced Engineering Informatics, 51, 101496, 1-14. 
+Amasyali, K., and El-Gohary, N. (2021). "Hybrid approach for energy consumption prediction: coupling data-driven and physical approaches." Energy and Buildings, 259, 111758, 1-12. 
+Zhang, R., and El-Gohary, N. (2021). "A deep neural network-based method for deep information extraction using transfer learning strategies to support automated compliance checking." Automation in Construction, 132, 103834, 1-12.
+Amasyali, K., and El-Gohary, N. (2021). "Real data-driven occupant behavior optimization for reduced energy consumption and improved comfort." Applied Energy, 302, 117276, 1-13. 
+Amasyali, K., and El-Gohary, N. (2021). "Machine learning for occupant-behavior-sensitive cooling energy consumption prediction in  office buildings." Renewable & Sustainable Energy Reviews,  142, 110714, 1-10.
+Zhang, L., and El-Gohary, N. (2020). "Axiology-based valuation modeling for human-centered decision making in building planning and design." ASCE Journal of Construction Engineering and Management, 147 (11), 04021138, 1-15.
+Zhang, R., and El-Gohary, N. (2020). "Clustering-based approach for building code computability analysis." ASCE Journal of Computing in Civil Engineering, 35 (6),  04021021, 1-14.
+Liu, K., and El-Gohary, N. (2020). "Semantic neural network ensemble for automated dependency relation extraction from bridge inspection reports." ASCE Journal of Computing in Civil Engineering, 35(4), 04021007, 1-22.
+Zhou, P., and El-Gohary, N. (2020). "Semantic information alignment of BIMs to computer-interpretable regulations using ontologies and deep learning." Advanced Engineering Informatics, 48, 101239, 1-17.
+Liu, K., and El-Gohary, N. (2020). "Fusing data extracted from bridge inspection reports for enhanced data-driven bridge deterioration prediction: A hybrid data fusion method." ASCE Journal of Computing in Civil Engineering, (Invited), 34(6), 04020047, 1-14.
+Bartels, L., Liu, L., El-Rayes, K., El-Gohary, N., Golparvar, M., and Grussing, M. (2019). "Work optimization with association rule mining of accelerated deterioration in building components." ASCE Journal of Performance of Constructed Facilities, 34(3),  04020033, 1-11.
+
+Zhang, L., and El-Gohary, N. (2018). "Automated IFC-based building information modeling and extraction for supporting value analysis of buildings." International Journal of Construction Management, 20(4), 269-288.
+Amasyali, K., and El-Gohary, N. (2018). "A review of data-driven building energy consumption prediction studies." Renewable and Sustainable Energy Reviews (Elsevier), 81, 1192–1205.
+Liu, K., and El-Gohary, N. (2018). "Ontology-based semi-supervised conditional random fields for automated information extraction from bridge inspection reports." Automation in Construction (Elsevier), 81, 313-327.
+Zhang, L., and El-Gohary, N. (2017). "Human-centered value analysis: building-value aggregation based on human values and building-system integration." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0001252, 143(8), 04017040, 1-17.
+Zhou, P., and El-Gohary, N. (2017). "Ontology-based automated information extraction from building energy conservation codes." Automation in Construction (Elsevier), 74, 103-117.
+
+Zhang, J., and El-Gohary, N. (2017). "Integrating semantic NLP and logic reasoning into a unified system for fully-automated code checking." Automation in Construction (Elsevier), 73, 45-57.
+Zhang, J., and El-Gohary, N. (2017). "Semantic-based logic representation and reasoning for automated regulatory compliance checking." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000583, 31(1),  04016037, 1-12.
+Lv, X., and El-Gohary, N. (2017). "Enhanced context-based document relevance assessment and ranking for improved information retrieval to support environmental decision making." Advanced Engineering Informatics (Elsevier), 30(4), 737-750.
+Zhao, Z., Amasyali, K., Chamoun, R., and El-Gohary, N. (2016). "Occupants’ perceptions about indoor environment comfort and energy related values in commercial and residential buildings." Procedia Environmental Sciences, 34, 631-640.
+Lv, X., and El-Gohary, N. (2016). "Semantic annotation for supporting context-aware information retrieval in the transportation project environmental review domain." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000565, 30(6), 04016033, 1-14.
+Lv, X., and El-Gohary, N. (2016). "Discovering context-specific integration practices for integrating NEPA into statewide and metropolitan project planning processes." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0001129, 142(11), 04016056, 1-11. 
+Zhang, J., and El-Gohary, N. (2016). "Extending building information models semiautomatically using semantic natural language processing techniques." ASCE Journal of Computing in Civil Engineering, (Invited), 10.1061/(ASCE)CP.1943-5487.0000536, 30(5), C4016004, 1-16.
+Chi, N., Lin, K., El-Gohary, N., and Hsieh, S. (2016). "Evaluating the strength of text classification categories for supporting construction field inspections." Automation in Construction (Elsevier), 64, 78-88.
+Grussing, M., Liu, L., Uzarski, D., El-Rayes, K., and El-Gohary, N. (2016). "Discrete Markov approach for building component condition, reliability, and service-life prediction modeling." ASCE Journal of Performance of Constructed Facilities, 10.1061/(ASCE)CF.1943-5509.0000865, 30(5), 04016015, 1-9.
+Amasyali, K., and El-Gohary, N. (2016). "Energy-related values and satisfaction levels of residential and office building occupants." Building and Environment (Elsevier), 95, 251-263.
+Salama, D., and El-Gohary, N. (2016). "Semantic text classification for supporting automated compliance checking in construction." ASCE Journal of Computing in Civil Engineering, 30(1),  04014106, 1-14. 
+Zhang, L., and El-Gohary, N. (2015). "Discovering stakeholder values for axiology-based value analysis of building projects." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0001004, 142(4), 04015095, 1-15. 
+Zhang, L., and El-Gohary, N. (2015). "Epistemology-based context-aware semantic model for sustainable construction practices." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0001055, 142(3), 04015084, 1-17.
+Zhou, P., and El-Gohary, N. (2015). "Ontology-based multilabel text classification of construction regulatory documents." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000530, 30(4), 04015058, 1-13.
+Zhou, P., and El-Gohary, N. (2015). "Domain-specific hierarchical text classification for supporting automated environmental compliance checking." ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000513, 30(4), 04015057, 1-14. 
+Zhang, J., and El-Gohary, N. (2015). "Automated information transformation for automated regulatory compliance checking in construction." ASCE Journal of Computing in Civil Engineering, (Invited), 10.1061/(ASCE)CP.1943-5487.0000427, 29(4), B4015001, 1-16.
+Mostafa, M., and El-Gohary, N. (2015). "Semantic system for stakeholder-conscious infrastructure project planning and design." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0000868, 141(2), 04014075, 1-14. 
+Mostafa, M., and El-Gohary, N. (2014). "Stakeholder-sensitive social welfare-oriented benefit analysis for sustainable infrastructure project development." ASCE Journal of Construction Engineering and Management, 10.1061/(ASCE)CO.1943-7862.0000788, 140(9), 04014038, 140(9), 1-12.
+Becerik-Gerber, B., Siddiqui, M., Brilakis, I., El-Anwar, O., El-Gohary, N., Mahfouz, T., Jog, G., Li, S., and Kandil, A. (2014). “Civil engineering grand challenges: opportunities for data sensing, information analysis, and knowledge discovery.” ASCE Journal of Computing in Civil Engineering, 10.1061/(ASCE)CP.1943-5487.0000290, 28(4), 04014013, 1-13.
+ Zhang, J., and El-Gohary, N. (2013). "Semantic NLP-based information extraction from construction regulatory documents for automated compliance checking." ASCE Journal of Computing in Civil Engineering, (Invited), 10.1061/(ASCE)CP.1943-5487.0000346, 30(2), 04015014, 1-14.
+ Salama, D., and El-Gohary, N. (2013). "Automated compliance checking of construction operation plans using a deontology for the construction domain." ASCE Journal of Computing in Civil Engineering, (Invited), 27(6), 681-698.
+El-Gohary, N., and El-Diraby, T. (2011). "Merging architectural, engineering, and construction ontologies." ASCE Journal of Computing in Civil Engineering, 25(2), 109-128.
+El-Gohary, N., and El-Diraby, T. (2010). "Domain ontology for processes in infrastructure and construction."  ASCE Journal of Construction Engineering and Management, 136(7), 730-744.
+El-Gohary, N., and El-Diraby, T. (2010). "Dynamic knowledge-based process integration portal for collaborative construction." ASCE Journal of Construction Engineering and Management, 136(3), 316-328.
+Osman, H., El-Gohary, N., and El-Diraby, T. (2007). "Integrating value engineering and context sensitive solutions: The case of St. Clair Ave. West Transit Improvements Project." Transportation Research Record: Journal of the Transportation Research Board (TRB), National Research Council, Washington D.C., 2025, 81-89.
+El-Gohary, N., Osman, H., and El-Diraby, T. (2006). "Stakeholder management for public private partnerships." International Journal of Project Management (Elsevier), 24, 595-604. 
+Click for more
+Articles in Conference Proceedings
+Bucarelli, N., and El-Gohary, N. (2023). “Sensor Locations for Occupant Thermal Comfort State Prediction.” Proceedings of the 2024 ASCE CI & Construction Research Congress (CRC) Joint Conference, Des Moines, IA, March 20-23, 2024.
+Wang, S., and El-Gohary, N. (2023). “Semantic Segmentation of Bridge Components from Various Real Scene Inspection Images.” Proceedings of the 2024 ASCE CI & Construction Research Congress (CRC) Joint Conference, Des Moines, IA, March 20-23, 2024.
+Chen, Q., and El-Gohary, N. (2023). “Deep Learning-Based Coreference Resolution for Bridge Report Analytics.” Proceedings of the 2024 ASCE CI & Construction Research Congress (CRC) Joint Conference, Des Moines, IA, March 20-23, 2024.
+Bucarelli, N., and El-Gohary, N. (2023). "Understanding the impact of sensing flexibility and strategies on HVAC energy consumption modeling.” Proceedings of the 2023 ASCE International Conference on Computing in Civil Engineering, Corvallis, OR, June 25-28, 2023.
+Wang, S., and El-Gohary, N. (2023). "Automated bridge inspection image interpretation based on vision-language pre-training.” Proceedings of the 2023 ASCE International Conference on Computing in Civil Engineering, Corvallis, OR, June 25-28, 2023.
+Chen, Q., and El-Gohary, N. (2023). "Automated relation extraction for improved generalizability across different types of text.” Proceedings of the 2023 ASCE International Conference on Computing in Civil Engineering, Corvallis, OR, June 25-28, 2023.
+Xue, X., Zhang,  J., and El-Gohary, N. (2022). "Interactive visual representation of inter-connected requirements in building codes." Proceedings of the 2022 ASCE CI & Construction Research Congress (CRC) Joint Conference, Arlington, VA, March 09-12, 2022.
+Wang,  X., and El-Gohary, N. (2022). "Deep learning-based relation extraction from construction safety regulations for automated field compliance checking." Proceedings of the 2022 ASCE CI & Construction Research Congress (CRC) Joint Conference, Arlington, VA, March 09-12, 2022.
+Bucarelli,  N., and El-Gohary, N. (2022). "Non-intrusive method for capturing occupant thermal discomfort cues and profiles in buildings." Proceedings of the 2022 ASCE CI & Construction Research Congress (CRC) Joint Conference, Arlington, VA, March 09-12, 2022.
+Zhang,  R., and El-Gohary, N. (2021). "Semantic representation learning and information integration of BIM and regulations.” Proceedings of the 2021 ASCE International Conference on Computing in Civil Engineering, Orlando, FL, September 12-14, 2021.
+Wang, X., and El-Gohary, N. (2021). "Deep learning-based named entity recognition from construction safety regulations for automated field compliance checking.” Proceedings of the 2021 ASCE International Conference on Computing in Civil Engineering, Orlando, FL, September 12-14, 2021.
+Wang, Y., Tang, P., Liu, K., Cai, J., Ren, R.,  Lin, J., Cai, H., Zhang, J.,  El-Gohary, N., Berges, M., Golparvar Fard, M. (2021). "Characterizing perceived data sharing barriers and promotion strategies in civil engineering. Proceedings of the 2021 ASCE International Conference on Computing in Civil Engineering, Orlando, FL, September 12-14, 2021.
+Chen, Q., and El-Gohary, N. (2021). "Deep learning-based sequence labeling for information extraction from multiple types of textual bridge reports.” Proceedings of the 2021 ASCE International Conference on Computing in Civil Engineering, Orlando, FL, September 12-14, 2021.
+Zhang, R., and El-Gohary, N. (2020). "A deep-learning method for evaluating semantically-rich building code annotations." Proceedings of the 27th International Workshop on Intelligent Computing in Engineering (EG-ICE2020), July 01-04, 2020.
+Zhang, R., and El-Gohary, N. (2020). "A machine-learning approach for building-code sentence generation for automatic semantic analysis." Proceedings of the 2020 ASCE Construction Research Congress (CRC), Tempe, AZ, March 08-10, 2020.
+Wang, L., and El-Gohary, N. (2020). "A data-driven approach for long-term building energy demand prediction." Proceedings of the 2020 ASCE Construction Research Congress (CRC), Tempe, AZ, March 08-10, 2020.
+Liu, P., and El-Gohary, N. (2020). "Semantic image retrieval and clustering for supporting domain-specific bridge component and defect classification." Proceedings of the 2020 ASCE Construction Research Congress (CRC), Tempe, AZ, March 08-10, 2020.
+Liu, K., and El-Gohary, N. (2020). "A smart bridge data analytics framework for enhanced bridge deterioration prediction." Proceedings of the 2020 ASCE Construction Research Congress (CRC), Tempe, AZ, March 08-10, 2020.
+Zhang, R., and El-Gohary, N. (2019). "A machine-learning approach for semantic matching of building codes and building information models (BIMs) for supporting automated code checking." Proceedings of the GeoMEast 2019 International Congress and Exhibition, Cairo, Egypt, November 10-14, 2019.
+Zhang, R., and El-Gohary, N. (2019). “Unsupervised machine learning for augmented data analytics of building codes." Proceedings of the 2019 ASCE International Conference on Computing in Civil Engineering, Atlanta, GA, June 17-19, 2019.
+Wang, L., and El-Gohary, N. (2019). “Machine learning-based prediction of building water consumption for improving building water efficiency." Proceedings of the 2019 ASCE International Conference on Computing in Civil Engineering, Atlanta, GA, June 17-19, 2019.
+Liu, K., and El-Gohary, N. (2019). “A hybrid information fusion method for fusing data extracted from inspection reports for supporting bridge data analytics." Proceedings of the 2019 ASCE International Conference on Computing in Civil Engineering, Atlanta, GA, June 17-19, 2019.
+Zhang, R., and El-Gohary, N. (2019). “A machine learning-based approach for building code requirement hierarchy extraction." Proceedings of the 7th CSCE International Construction Specialty Conference (jointly with Construction Research Congress), Laval, Greater Montreal Area, June 12-15, 2019, Canada.
+Wang, L., and El-Gohary, N. (2019). “Understanding the water-energy nexus in urban areas: a cluster analysis of urban water and energy consumption." Proceedings of the 7th CSCE International Construction Specialty Conference (jointly with Construction Research Congress), Laval, Greater Montreal Area, June 12-15, 2019, Canada.
+Zhou, P., and El-Gohary, N. (2018). “Text and information analytics for fully automated energy code checking.” Proceedings of the GeoMEast 2018 International Congress and Exhibition, Cairo, Egypt, November 24-28, 2018.
+Zhang, R., and El-Gohary, N. (2018). "A machine learning approach for compliance checking-specific semantic role labeling of building code sentences." Proceedings of the 35th CIB W78 2018 International Conference, Chicago, IL, October 01-03, 2018.
+Wang, L., and El-Gohary, N. (2018). "Machine-learning-based model for supporting energy performance benchmarking for office buildings." Proceedings of the 35th CIB W78 2018 International Conference, Chicago, IL, October 01-03, 2018.
+Liu, P., and El-Gohary, N. (2018). "Automatic annotation of web images for domain-specific crack classification." Proceedings of the 35th CIB W78 2018 International Conference, Chicago, IL, October 01-03, 2018.
+Liu, K., and El-Gohary, N. (2018). "Learning from class-imbalanced bridge and weather data for supporting bridge deterioration prediction." Proceedings of the 35th CIB W78 2018 International Conference, Chicago, IL, October 01-03, 2018.
+Amasyali, K., and El-Gohary, N. (2018). "Predicting energy consumption of office buildings: A hybrid machine learning-based approach." Proceedings of the 35th CIB W78 2018 International Conference, Chicago, IL, October 01-03, 2018. 
+Liu, K., and El-Gohary, N. (2018). "Unsupervised named entity normalization for supporting information fusion for big bridge data analytics." Proceedings of the 25th International Workshop on Intelligent Computing in Engineering (EG-ICE2018), Lausanne, Switzerland, June 10-13, 2018.
+Zhou, P., and El-Gohary, N. (2018). “Automated matching of design information in BIM to regulatory information in energy codes.” Proceedings of the 2018 ASCE Construction Research Congress (CRC), New Orleans, LA, April 02-04, 2018.
+Zhang, R., and El-Gohary, N. (2018). “A clustering approach for analyzing the computability of building code requirements.” Proceedings of the 2018 ASCE Construction Research Congress (CRC), New Orleans, LA, April 02-04, 2018.
+Wang, L., and El-Gohary, N. (2018). “Data-driven approach to identify the impacts of urban neighborhood characteristics on building energy consumption.” Proceedings of the 2018 ASCE Construction Research Congress (CRC), New Orleans, LA, April 02-04, 2018.
+Liu, K., and El-Gohary, N. (2018). “Feature discretization and selection methods for supporting bridge deterioration prediction.” Proceedings of the 2018 ASCE Construction Research Congress (CRC), New Orleans, LA, April 02-04, 2018.
+Amasyali, K., and El-Gohary, N. (2018). “Machine learning-based occupant energy use behavior optimization.” Proceedings of the 2018 ASCE Construction Research Congress (CRC), New Orleans, LA, April 02-04, 2018.
+Zhang, L., and El-Gohary, N. (2017). “BIM-integrated system for automated value analysis of buildings.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Wang, L., and El-Gohary, N. (2017). “Data-driven residential building energy consumption prediction for supporting multiscale sustainability assessment.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Lv, X., and El-Gohary, N. (2017). “Stakeholder opinion classification for supporting large-scale transportation project decision making.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Liu, K., and El-Gohary, N. (2017). “Similarity-based dependency parsing for extracting dependency relations from bridge inspection reports.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Chi, N., Lin, K., El-Gohary, N., and Hsieh, S. (2017). “Gazetteers for information extraction applications in construction safety management.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Amasyali, K., and El-Gohary, N. (2017). “Building energy use modes and thermal comfort.” Proceedings of the 2017 ASCE International Workshop on Computing in Civil Engineering (IWCCE 2017), Seattle, WA, June 25-27, 2017.
+Amasyali, K., and El-Gohary, N. (2017). “Deep learning for building energy consumption prediction.” Proceedings of the 2017 CSCE Annual Conference, Vancouver, BC, Canada, May 31-June 03, 2017.
+Liu, K., and El-Gohary, N. (2017). “Ontology-based data integration for supporting big bridge data analytics.” Proceedings of the 2017 CSCE Annual Conference, Vancouver, BC, Canada, May 31-June 03, 2017. 
+Zhou, P., and El-Gohary, N. (2016). “Automated extraction of environmental requirements from contract specifications.” Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE 2016), Osaka, Japan, July 06-08, 2016.
+Zhang, L., and El-Gohary, N. (2016). “Extracting information from building information models to support automated value analysis.” Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE 2016), Osaka, Japan, July 06-08, 2016. 
+Zhang, J., and El-Gohary, N. (2016). “A prototype system for fully automated code checking.” Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE 2016), Osaka, Japan, July 06-08, 2016. 
+Lv, X., and El-Gohary, N. (2016). “Semantic-based information retrieval for supporting project decision making.” Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE 2016), Osaka, Japan, July 06-08, 2016.  
+
+Amasyali, K., and El-Gohary, N. (2016). “An ontology-based approach for determining energy wasting behavior of building occupants.” Proceedings of the 16th International Conference on Computing in Civil and Building Engineering (ICCCBE 2016), Osaka, Japan, July 06-08, 2016. 
+Zhang, L., and El-Gohary, N. (2016). “Object value aggregation for modeling building system integration and value.” Proceedings of the 2016 ASCE Construction Research Congress (CRC), San Juan, Puerto Rico, May 31-June 02, 2016.
+
+Zhang, J., and El-Gohary, N. (2016). “Automated relationship classification to support semi-automated IFC extension.” Proceedings of the 2016 ASCE Construction Research Congress (CRC), San Juan, Puerto Rico, May 31-June 02, 2016.
+
+Wang, L., and El-Gohary, N. (2016). “Sustainability indicators for supporting multi-scale sustainability assessment and prediction.” Proceedings of the 2016 ASCE Construction Research Congress (CRC), San Juan, Puerto Rico, May 31-June 02, 2016.
+Liu, K., and El-Gohary, N. (2016). “Semantic modeling of bridge deterioration knowledge for supporting big bridge data analytics.” Proceedings of the 2016 ASCE Construction Research Congress (CRC), San Juan, Puerto Rico, May 31-June 02, 2016.
+
+
+Lv, X., and El-Gohary, N. (2016). "Text analytics for supporting stakeholder opinion mining for large-scale
+highway projects." Proceedings of the 2016 International Conference on Sustainable Design, Engineering and Construction (ICSDEC), Tempe, AZ, May 18-20, 2016. 
+Liu, K., and El-Gohary, N. (2016). "Ontology-based sequence labelling for automated information extraction for supporting bridge data analytics." Proceedings of the 2016 International Conference on Sustainable Design, Engineering and Construction (ICSDEC), Tempe, AZ, May 18-20, 2016. 
+Amasyali, K., and El-Gohary, N. (2016). "Building lighting energy consumption prediction for supporting energy data analytics." Proceedings of the 2016 International Conference on Sustainable Design, Engineering and Construction (ICSDEC), Tempe, AZ, May 18-20, 2016.
+Abraham, Y., Amasyali, K., El-Gohary, N., and Anumba, C. (2015). "The need for human-centered and value-sensitive improvement of building energy efficiency." Proceedings of the 7th International Conference of SuDBE, 1-8. 
+Zhou, P., and El-Gohary, N. (2015). "Ontology-based information extraction from environmental regulations for supporting environmental compliance checking." Proceedings of the 2015 ASCE International Workshop on Computing in Civil Engineering (IWCCE), Austin, TX, June 21-23, 2015.
+Zhang, J., and El-Gohary, N. (2015). "Automated extraction of information from building information models into a semantic logic-based representation." Proceedings of the 2015 ASCE International Workshop on Computing in Civil Engineering (IWCCE), Austin, TX, June 21-23, 2015.
+Lv, X., and El-Gohary, N. (2015). "Semantic annotation for context-aware information retrieval for supporting the environmental review of transportation projects." Proceedings of the 2015 ASCE International Workshop on Computing in Civil Engineering (IWCCE), Austin, TX, June 21-23, 2015.
+Zhang, L., and El-Gohary, N. (2015). "Axiology-based value quantification modeling for buildings." Proceedings of the 2015 CSCE International Construction Specialty Conference (ICSC 2015), Vancouver, BC, Canada, June 07-10, 2015. 
+Zhang, J., and El-Gohary, N. (2015). "A semantic similarity-based method for semi-automated IFC extension." Proceedings of the 2015 CSCE International Construction Specialty Conference (ICSC 2015), Vancouver, BC, Canada, June 07-10, 2015. 
+Amasyali, K., and El-Gohary, N. (2015). "Discovering the values of residential building occupants for value-sensitive improvement of building energy efficiency." Proceedings of the 2015 CSCE International Construction Specialty Conference (ICSC 2015), Vancouver, BC, Canada, June 07-10, 2015. 
+Zhou, P., and El-Gohary, N. (2014). "Ontology-based multi-label text classification for enhanced information retrieval for supporting automated environmental compliance checking." Proceedings of the ASCE International Conference on Computing in Civil and Building Engineering (ICCCBE) and CIB-W078 International Conference, Orlando, FL, June 23-25, 2014.
+Zhang, L., and El-Gohary, N. (2014). "Quantifying the environmental, social, and economic value of educational building projects using BIM data." Proceedings of the ASCE International Conference on Computing in Civil and Building Engineering (ICCCBE) and CIB-W078 International Conference, Orlando, FL, June 23-25, 2014.
+Zhang, J., and El-Gohary, N. (2014). "Extending building information models semi-automatically using semantic natural language processing techniques." Proceedings of the ASCE International Conference on Computing in Civil and Building Engineering (ICCCBE) and CIB-W078 International Conference, Orlando, FL, June 23-25, 2014.
+Zhou, P., and El-Gohary, N. (2014). "Semantic-based text classification of environmental regulatory documents for supporting automated environmental compliance checking in construction." Proceedings of the ASCE Construction Research Congress (CRC), Atlanta, GA, May 19-21, 2014.
+Zhang, L., and El-Gohary, N. (2014). "Discovering stakeholder values for axiology-based sustainability-oriented value analysis of educational building projects." Proceedings of the ASCE Construction Research Congress (CRC), Atlanta, GA, May 19-21, 2014.
+Zhang, J., and El-Gohary, N. (2014). "Automated reasoning for regulatory compliance checking in the construction domain." Proceedings of the ASCE Construction Research Congress (CRC), Atlanta, GA, May 19-21, 2014.
+Zhang, J., and El-Gohary, N. (2013). "Handling sentence complexity in information extraction for automated compliance checking in construction." Proceedings of the CIB-W078 International Conference, Beijing, China, October 09-12, 2013.
+Zhang, L., and El-Gohary, N. (2013). "Epistemic modeling for sustainability knowledge management in construction." Proceedings of the 2013 ASCE International Workshop on Computing in Civil Engineering (IWCCE), Los Angeles, CA, June 23-25, 2013.
+Zhang, J., and El-Gohary, N. (2013)."Information transformation and automated reasoning for automated compliance checking in construction." Proceedings of the 2013 ASCE International Workshop on Computing in Civil Engineering (IWCCE), Los Angeles, CA, June 23-25, 2013.
+Zhang, J., and El-Gohary, N. (2012). "Extraction of construction regulatory requirements from textual documents using natural language processing techniques." Proceedings of the 2012 ASCE International Conference on Computing in Civil Engineering, Clearwater Beach, FL, June 17-20, 2012.
+Zhang, J., and El-Gohary, N. (2012). “Automated regulatory information extraction from building codes leveraging syntactic and semantic information.” Proceedings of the ASCE Construction Research Congress (CRC), West Lafayette, IN, May 21-23, 2012. 
+Hamid, J., and El-Gohary, N. (2012). “Value-sensitive construction: value discovery in building projects.” Proceedings of the ASCE Construction Research Congress (CRC), West Lafayette, IN, May 21-23, 2012.
+Zhang, J., and El-Gohary, N. (2011). "Automated information extraction from construction-related regulatory documents for automated compliance checking.” Proceedings of the CIB 2011 Joint Conference W078 / W102, Sophia Antipolis, France, October 26-28, 2011.
+Salama, D., and El-Gohary, N. (2011). "Semantic modeling for automated compliance checking." Proceedings of the 2011 ASCE International Workshop on Computing in Civil Engineering, Miami, FL, June 19-22, 2011.
+Salama, D., and El-Gohary, N. (2011). "Natural language processing for automated regulatory and contractual document analysis." Proceedings of the 2011 CSCE Annual Meeting and Conference, Ottawa, ON, Canada, June 14-17, 2011.
+El-Gohary, N. (2010). "Model-based automated value analysis of building projects." Proceedings of the 27th CIB-W78 International Conference on Applications of IT in AEC Industry, Cairo, Egypt, November 16-19, 2010. 
+El-Gohary, N., and Qari, A.(2010). "Towards a formal axiology for sustainable infrastructure development." Proceedings of the ASCE International Conference on Computing in Civil and Building Engineering, Nottingham, UK, June 30-July 02, 2010.
+El-Gohary, N., and El-Diraby, T. (2006). "Supporting stakeholder collaboration in infrastructure projects using ontology merger." Proceedings of the ASCE Joint International Conference on Computing and Decision Making in Civil and Building Engineering, Montreal, QC, Canada, June 14-16, 2006.
+El-Gohary, N., and El-Diraby, T. (2005). "Achieving ontology interoperability using Formal Concept Analysis: An approach to inter-organizational collaboration." Proceedings of the 22nd CIB-W78 International Conference on Information Technology in Construction, Dresden, Germany, July 19-21, 2005. 
+El-Gohary, N., and El-Diraby, T. (2005). "A framework for inter-organizational collaboration in infrastructure and construction using Lattice Algebra." Proceedings of the 33rd Canadian Society for Civil Engineering Annual Conference, Toronto, ON, Canada, June 02-04, 2005.
+Ezeldin, S., and El-Gohary, N. (2003). "Construction delays of high investment projects in Egypt."  Proceedings of the 9th Arab Structural Engineering Conference, Abu Dhabi, UAE, November 29-December 01, 2003.
+Click for more
+
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students (Fall 2022)
+List of Teachers Ranked as Excellent by Their Students (Spring 2022)
+List of Teachers Ranked as Excellent by Their Students (Fall 2021)
+List of Teachers Ranked as Excellent by Their Students (Spring 2021)
+List of Teachers Ranked as Excellent by Their Students (Fall 2019)
+List of Teachers Ranked as Excellent by Their Students (Spring 2019)
+List of Teachers Ranked as Excellent by Their Students (Spring 2018)
+List of Teachers Ranked as Excellent by Their Students (Fall 2017)
+List of Teachers Ranked as Excellent by Their Students (Fall 2016)
+Click for more
+Research Honors
+Dean's Award for Excellence in Research (2020)
+National Center for Supercomputing Application (NCSA) Fellow (2018)
+Editor's Choice, Journal of Computing in Civil Engineering: Zhang, J. and El-Gohary, N., (2017). "Semantic-based logic representation and reasoning for automated regulatory compliance checking", 31(1). (2017)
+Campus Distinguished Promotion Award (2017)
+Excellence Faculty Fellow in Civil and Environmental Engineering (2016)
+Center for Advanced Study (CAS) Fellow (2015)
+Faculty Early Career Development (CAREER) Award, National Science Foundation (NSF) (2013)
+Discovery Grant, Natural Sciences and Engineering Research Council of Canada (NSERC) (2009)
+Click for more
+
+
+
+
+
+
+
+
+Related News
+
+
+Project applies the biological principle of mutualism to infrastructure monitoring
+
+
+Institute for Artificial Intelligence in Construction Planned
+
+
+Team harnessing big data to make bridges safer
+
+
+El-Gohary receives 2020 Dean's Award for Excellence in Research
+
+
+El-Gohary named NCSA Faculty Fellow
+
+
+El-Gohary receives 2017 Campus Distinguished Promotion Award
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

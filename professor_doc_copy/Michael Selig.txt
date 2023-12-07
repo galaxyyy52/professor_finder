@@ -1,0 +1,427 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+ Michael Selig 
+
+
+
+Research Professor
+(217) 244-5757
+m-selig@illinois.edu
+305 Talbot Laboratory
+
+
+Professor Emeritus
+(217) 244-5757
+m-selig@illinois.edu
+305 Talbot Laboratory
+
+
+
+For More Information
+Prof Selig's Research Group: UIUC Applied Aerodynamics Group
+UIUC Low-Speed Airfoil Tests
+UIUC Airfoil Data Site
+UIUC Propeller Database
+PROPID - Wind Turbine Rotor Design and Analysis Software
+PROFOIL-WWW - Airfoil Design Online
+Click for more
+Education
+Ph.D., The Pennsylvania State University, Aerospace Engineering
+M.S.E., Princeton University, Mechanical and Aerospace Engineering
+B.S., University of Illinois, Aeronautical and Astronautical Engineering
+
+Academic Positions
+Professor Emeritus and Research Professor, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2017-present
+Professor, Aerospace Engineering, University of Illinois at Urbana-Champaign, 2015-2017
+Associate Professor, Aerospace Engineering, University of Illinois at Urbana-Champaign, 1998-2015
+Associate Professor, Mechanical and Industrial Engineering (0%), University of Illinois at Urbana-Champaign, 1998-1999
+Assistant Professor, Mechanical and Industrial Engineering (0%), University of Illinois at Urbana-Champaign, 1993-1998
+Assistant Professor, Aeronautical and Astronautical Engineering, University of Illinois at Urbana-Champaign, 1992-1998
+Click for more
+Major Consulting Activities
+InertiaSoft, Champaign, IL
+Sunlight Photonics, Edison, NJ
+WindLift, Durham, NC
+AeroVironment, Simi Valley, CA
+ Hunter Fan Company, Memphis, TN
+Google / Titan Aerospace, Mountain View, CA
+PRO Unlimited at Facebook
+ Carstens & Cahoon LLP, Dallas,TX
+Morrison & Foerster LLP, San Diego, CA
+North Technology Group (North Sails), Milford, CT
+Adler Murphy & McQuillen LLP, Chicago, IL
+Click for more
+Professional Registrations
+Associate Fellow, American Institute of Aeronautics and Astronautics (AIAA)
+
+Research Interests
+Applied aerodynamics
+Airfoil design and analysis
+Wind energy systems
+Flight simulation and modeling
+Aircraft design, performance, stability and control
+
+
+Research Areas
+Aerospace Systems Design and Simulation 
+Applied Aerodynamics
+Unmanned Aerial Vehicles 
+
+
+Books Authored or Co-Authored (Original Editions)
+Williamson, G.A., McGranahan, B.D, Broughton, B.A., Deters, R.W., Brandt, J.B., and Selig, M.S.,  Summary of Low-Speed Airfoil Data, Vol. 5, 2012, 344 pages.
+Selig, M.S. and McGranahan, B.D., Wind Tunnel Aerodynamic Tests of Six Airfoils for Use on Small Wind Turbines, National Renewable Energy Laboratory, NREL/SR-500-34515, Oct 2004, 133 pages. (aka Summary of Low-Speed Airfoil Data, Vol. 4, 2004)
+Lyon, C.A., Broeren, A.P., Giguère, P., Gopalarathnam, A., and Selig, M.S., Summary of Low-Speed Airfoil Data, Vol. 3, SoarTech Publications, Virginia Beach, VA, 1998, 418 pages.
+Selig, M.S., Lyon, C.A., Giguère, P., Ninham, C.N., and Guglielmo, J.J., Summary of Low-Speed Airfoil Data, Vol. 2, SoarTech  Publications, Virginia Beach, VA, 1996, 252 pages.
+Selig, M.S., Guglielmo, J.J., Broeren, A.P., and Giguère, P., Summary of Low-Speed Airfoil Data, Vol. 1, SoarTech Publications, Virginia Beach, VA, 1995, 292 pages.
+Selig, M.S., Donovan, J.F., and Fraser, D.B., Airfoils at Low Speeds, SoarTech Publications, Virginia Beach, VA, 1989, 398 pages.
+Click for more
+Chapters in Books
+Selig, M.S., Gopalaratham, A., Giguère, P., and Lyon, C.A., "Systematic Airfoil Design Studies at Low Reynolds Numbers," Fixed and Flapping Wing Aerodynamics for Micro Air Vehicle Applications, edited by T.J. Mueller, Progress in Astronautics and Aeronautics Series, AIAA, Vol. 195, 2001. 
+Selig, M.S. and Smits, A.J., "The Dynamic Behavior of a Shock-Wave/Turbulent Boundary Layer Interaction," Zoran P. Zaric Memorial International Seminar, edited by S.J. Kline and N.H. Afgan, Near-Wall Turbulence, Hemisphere Publishing Corp., New York, 1990. 
+Donovan, J.F. and Selig, M.S., "Low Reynolds Number Airfoil Design and Wind Tunnel Testing at Princeton University," Lecture Notes in Engineering, edited by T.J. Mueller, Vol. 54, Springer-Verlag, 1989, pp. 39-57. 
+
+Monographs
+Selig, M.S., "Low Reynolds Number Airfoil Design,"  VKI Lecture Series - Low Reynolds Number Aerodynamics on Aircraft Including Applications in Emerging UAV Technology, von Karman Institute for Fluid Dynamics (VKI) Lecture Series, RTO/AVT-VKI-104, November 2003. 
+
+Selected Articles in Journals
+Loth, E., Steele, A., Qin, C., Ichter, B., Selig, M.S., and Moriarty, P., "Downwind Pre-Aligned Rotors for Extreme-Scale Wind Turbines," accepted for publication, Wind Energy, March 2017, Early Edition | doi: 10.1002/we.2092.
+O'Conner, K., Loth, E., and Selig, M.S., "Experiments on Fairing Designs for a Wind Turbine Tower," AIAA Journal, Vol. 54, No. 3, March 2016, pp. 1124-1130. | http://dx.doi.org/10.2514/1.J054318
+Uhlig, D.V. and Selig, M.S., "Modeling Micro Air Vehicle Aerodynamics in Unsteady High Angle-of-Attack Flight," Journal of Aircraft, published online Oct 24, 2016. | doi: 10.2514/1.C033755
+Ananda, G.K., Sukumar, P.P., and Selig, M.S., "Measured Aerodynamic Characteristics of Wings at Low Reynolds Numbers," Aerospace Science and Technology, 2015, pp. 392-406 | doi: 10.1016/j.ast.2014.11.016
+Ichter, B., Steele, A. Loth, E., Moriarty, P., and Selig, M.S., "A Morphing Downwind-Aligned Rotor Concept Based on a 13-MW Wind Turbine," Wind Energy, May 2015 | doi: 10.1002/we.1855
+Fiore, G. and Selig, M.S., "Simulation of Damage for Wind Turbine Blades Due to Airborne Particles," Wind Engineering, Vol. 39, No. 4, 2015, pp. 399-418.
+Selig, M.S., "Real-Time Flight Simulation of Highly Maneuverable Unmanned Aerial Vehicles," Journal of Aircraft, Vol. 51, No. 6, November-December 2014, pp. 1705-1725. | doi: 10.2514/1.C032370
+Pomeroy, B.W., Diebold, J.M., Ansell, P.J., and Selig, M.S., "Study of Burst Wakes in a Multi-Element Airfoil Flowfield," AIAA Journal, Vol. 52, No. 4, April 2014, pp. 821-831. | doi: 10.2514/1.J052680
+Sareen, A., Deters, R.W., Henry, S.P., and Selig, M.S., "Drag Reduction Using Riblet Film Applied to Airfoils for Wind Turbines," Journal of Solar Energy Engineering, Transactions of the ASME, Vol. 136, Issue 2, May 2014,  pp. 021007-1 - 021007-8.  doi:10.1115/1.4024982
+Sareen, A., Sapre, C.A., and Selig, M.S., "Effects of Leading Edge Erosion on Wind Turbine Blade Performance," To appear Wind Energy, available online Wind Energy Early View, June 2013.  doi: 10.1002/we.1649
+Uhlig, D.V. and Selig, M.S., "Determining Aerodynamic Characteristics of a Micro Air Vehicle Using Motion Tracking," Journal of Aircraft, Vol. 50, No. 5, Sept-Oct 2013, pp. 1481-1490.
+Sukumar, P. P. and Selig, M. S., "Dynamic Soaring of Sailplanes over Open Fields," Journal of Aircraft, Vol. 50, No. 5, Sept-Oct 2013, pp. 1420-1430.
+Paranjape, A.A., Chung, S.-J., and Selig, M.S., "Flight Mechanics of a Tailless Articulated Wing Aircraft," Bioinspiration & Biomimetics, Vol. 6, No. 2, 2011, 026005 (20pp).
+Broughton, B.A. and Selig, M.S., "Hybrid Inverse Design Method for Nonlifting Bodies in Incompressible Flow," Journal of Aircraft, Vol. 43 No. 6, Nov-Dec 2006, pp. 1770-1781.
+Deters, R.W, Dimock, G.A., and Selig, M.S., "Icing Encounter Flight Simulator," Journal of Aircraft, Vol. 43, No. 5, Sept-Oct 2006, pp. 1528-1537.
+Selig, M.S. and McGranahan, B.D., "Wind Tunnel Aerodynamic Tests of Six Airfoils for Use on Small Wind Turbines," ASME Journal of Solar Energy Engineering, Vol. 126, Nov 2004, pp. 986-1001.
+Gopalarathnam, A., Broughton, B.A., McGranahan, B.D., and Selig, M.S., "Design of Low Reynolds Number Airfoils with Trips," Journal of Aircraft, Vol. 40, No. 4, 2003, pp. 768-775.
+Gopalarathnam, A. and Selig, M.S., "Hybrid Inverse Airfoil Design Method for Complex Three-Dimensional Surfaces," Journal of Aircraft, Vol. 39, No. 3, 2002, pp. 409-417.	
+Gopalarathnam, A. and Selig, M.S., "A Design Methodology for Low-Speed Natural Laminar Flow Airfoils," Journal of Aircraft, Vol. 38, No. 1, 2001, pp. 57-63.
+Whale, J., Fisichella, C.J., and Selig, M.S., "Correcting Inflow Measurements from Wind Turbines Using a Lifting-Surface Code," ASME Journal of Solar Energy Engineering, Vol. 122, November 2000, pp. 196-202.
+Du, Z. and Selig, M.S., "The Effect of Rotation on the Boundary Layer of a Wind Turbine Blade," Renewable Energy, Elsevier, Vol. 20, No. 2, 2000, pp. 167-181.
+Giguère, P., Selig, M.S., and Tangler, J.L., "Blade Design Trade-Offs Using Low-Lift Airfoils for Stall-Regulated HAWTs," ASME Journal of Solar Energy Engineering, Vol. 121, November 1999, pp. 217-223.
+Giguère, P. and Selig, M.S., "Aerodynamic Effects of Leading-Edge Tape on Airfoils at Low Reynolds Numbers," Wind Energy Journal, Vol. 2, No. 3, July-September 1999, pp. 125-136.
+Jasinski, W.J. and Selig, M.S, "Experimental Study of Open-Wheel Race-Car Front Wings," SAE 1998 Transactions-Journal of Passenger Cars, Vol. 107, Section 6, 1999.
+Saeed, F., Selig, M.S., Bragg, M.B., and Addy, H. E., "Hybrid Airfoil Design Procedure Validation for Full-Scale Ice Accretion Simulation," Journal of Aircraft, Vol. 36, No. 5, September-October 1999, pp. 769-776.
+Gopalarathnam, A. and Selig, M.S., "A Multipoint Inverse Method for Multi-Element Airfoil Design," Journal of Aircraft, Vol. 35, No. 3, May-June 1998, pp. 398-404.
+Giguère, P. and Selig, M.S., "New Airfoils for Small Horizontal Axis Wind Turbines," ASME Journal of Solar Energy Engineering, Vol. 120, May 1998, pp. 108-114. 
+Saeed, F., Selig, M.S., and Bragg, M.B., "Hybrid Airfoil Design Method to Simulate Full-Scale Ice Accretion Throughout a Given α- Range," Journal of Aircraft, Vol. 35, No. 2, March-April 1998, pp. 233-239.
+Jasinski, W.J., Noe, S.C., Selig, M.S., and Bragg, M.B., "Wind Turbine Performance under Icing Conditions," ASME Journal of Solar Energy Engineering, Vol. 120, February 1998, pp. 60-65. 
+Giguère, P. and Selig, M.S., "Desirable Airfoil Characteristics for Large Variable-Speed Horizontal Axis Wind Turbines," ASME Journal of Solar Energy Engineering, Vol. 119, August 1997, pp. 253-260. 
+Giguère, P. and Selig, M.S., "Low Reynolds Number Airfoils for Small Horizontal Axis Wind Turbines," Wind Engineering, Vol. 21, No. 6, 1997, pp. 367-380.
+Giguère, P. and Selig, M.S., "Freestream Velocity Measurements for Two-Dimensional Testing with Splitter Plates," AIAA Journal, Vol. 35, No. 7, July 1997, pp. 1195-1200. 
+Saeed, F., Selig, M.S., and Bragg, M.B., "A Design Procedure for Subscale Airfoils with Full-Scale Leading-Edges for Ice Accretion Testing," Journal of Aircraft, Vol. 34, No. 1, January-February 1997, pp. 94-100. 
+Selig, M.S. and Guglielmo, J.J., "High-Lift Low Reynolds Number Airfoil Design," Journal of Aircraft, Vol. 34, No. 1, January-February 1997, pp. 72-79. 
+Saeed, F. and Selig, M.S., "A Multipoint Inverse Airfoil Design Method for Slot-Suction Airfoils," Journal of Aircraft, Vol. 33, No. 4, July-August 1996, pp. 708-715. 
+Guglielmo, J.J. and Selig, M.S., "Spanwise Variations in Profile Drag for Airfoils at Low Reynolds Numbers," Journal of Aircraft, Vol. 33, No. 4, July-August 1996, pp. 699-707. 
+Selig, M.S. and Coverstone-Carroll, V.L., "Applications of a Genetic Algorithm to Wind Turbine Design," ASME Journal of Energy Resources Technology, Vol. 118, March 1996, pp. 22-28. 
+Selig, M.S. and Tangler, J.L., "Development and Application of a Multipoint Inverse Design Method for Horizontal Axis Wind Turbines," Wind Engineering, Vol. 19, No. 2, 1995, pp. 91-105. 
+Selig, M.S., Maughmer, M.D., and Somers, D.M., "A Natural-Laminar-Flow Airfoil for General-Aviation Applications," Journal of Aircraft, Vol. 32, No. 4, July-August 1995, pp. 710-715. 
+Selig, M.S., "Multipoint Inverse Design of an Infinite Cascade of Airfoils," AIAA Journal, Vol. 32, No. 4, April 1994, pp. 774-782. 
+Selig, M.S. and Maughmer, M.D., "Generalized Multipoint Inverse Airfoil Design," AIAA Journal, Vol. 30, No. 11, November 1992, pp. 2618-2625. 
+Dini, P., Selig, M.S., and Maughmer, M.D., "Simplified Linear Stability Transition Prediction Method for Separated Boundary Layers," AIAA Journal, Vol. 30, No. 8, August 1992, pp. 1953-1961. 
+Selig, M.S. and Maughmer, M.D., "Multipoint Inverse Airfoil Design Method Based on Conformal Mapping," AIAA Journal, Vol. 30, No. 5, May 1992, pp. 1162-1170. 
+Selig, M.S. and Smits, A.J., "Effect of Periodic Blowing on Attached and Separated Supersonic Turbulent Boundary Layers," AIAA Journal, Vol. 29, No. 10, October 1991, pp. 1651-1658. 
+Selig, M.S., Andreopoulos, J., Muck, K.C., Dussauge, J.P., and Smits, A.J., "Turbulence Structure in a Shock Wave/Turbulent Boundary-Layer Interaction," AIAA Journal, Vol. 27, No. 7, July 1989, pp. 862-869.
+Click for more
+Articles in Conference Proceedings
+Ananda, G.K. and Selig, M.S., "Design of Bird-Like Airfoils," AIAA SciTech, 2018 AIAA Aerospace Sciences Meeting, AIAA Paper 2018-0310, Kissimmee, FL, January 2018.
+
+Ananda, G.K., Bansal, S. and Selig, M.S., "Aerodynamic Design of a 13.2 MW Segmented Ultralight Morphing Rotor," AIAA SciTech, 2018 Wind Energy Symposium, AIAA Paper 2018-0994, Kissimmee, FL, January 2018.
+
+Qadri, M., Vahora, M. Hascarya, R., Finlon, S., Dantsker, O.D., Ananda, G.K. and Selig, M.S., "Undergraduate Contribution to Dynamically Scaled General Aviation Research at the University of Illinois at Urbana-Champaign," AIAA SciTech, 2018 AIAA Aerospace Sciences Meeting, AIAA Paper 2018-1069, Kissimmee, FL, January 2018.
+Vahora, M., Ananda, G.K. and Selig, M.S., "Design Methodology for Aerodynamically Scaling of a General Aviation Aircraft Airfoil ," AIAA SciTech, 2018 AIAA Aerospace Sciences Meeting, AIAA Paper 2018-1277, Kissimmee, FL, January 2018.
+
+Deters, R.W., Kleinke, S., and Selig, M.S., "Static Testing of Propulsion Elements for Small Multirotor Unmanned Aerial Vehicles," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-3743, Denver, CO, June 2017.
+
+Dantsker, O., Selig, M.S., and Mancuso, R., "A Rolling Rig for Propeller Performance Testing," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-3745, Denver, CO, June 2017.
+
+Ananda, G.K., Vahora, M., Dantsker, O., and Selig, M.S., "Design Methodology for a Dynamically-Scaled General Aviation Aircraft," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-4077, Denver, CO, June 2017.
+
+Dantsker, O.D., Ananda, G.K., and Selig, M.S., "GA-USTAR Phase 1: Development and Flight Testing of the Baseline Upset and Stall Research Aircraft," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-4078, Denver, CO, June 2017.
+
+Ananda, G.K., Bansal, S., and Selig, M.S., "Subscale Testing of Horizontal-Axis Wind Turbines," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-4216, Denver, CO, June 2017.
+
+Bansal, S. and Selig, M.S., "Development of an Aerodynamic Analysis Methodology for Segmented Ultralight Morphing Rotors," AIAA Aviation 2017, 35th AIAA Applied Aerodynamics Conference, AIAA Paper 2017-4217, Denver, CO, June 2017.
+Chadha, S., Pomeroy, B.W., and Selig, M.S., "Computational Study of a Lifting Surface in Propeller Slipstreams," AIAA Aviation 2016, 34rd AIAA Applied Aerodynamics Conference, AIAA Paper 2016-3132, Washington, DC, June 2016. 
+Ananda, G.K. and Selig, M.S., "Stall/Post-Stall Modeling of the Longitudinal Characteristics of a General Aviation Aircraft," AIAA Aviation 2016, Atmospheric Flight Mechanics Conference, AIAA Paper 2016-3541, Washington, DC, June 2016.
+Bansal, S. and Selig, M.S., "Wake Deceleration of a Racecar Multielement Airfoil in Ground Effect," AIAA Aviation 2016, 34rd AIAA Applied Aerodynamics Conference, AIAA Paper 2016-3725, Washington, DC, June 2016.
+Fiore, G. and Selig, M.S., "Simulation of Damage Progression on Wind Turbine Blades Subject to Particle Erosion," AIAA SciTech, AIAA 54th Aerospace Sciences Meeting, AIAA Paper 2016-0813, San Diego, CA, January 2016.
+Ragheb, A. and Selig, M.S., "Wind Tunnel Testing of Wings in Spin," AIAA SciTech, AIAA 54th Aerospace Sciences Meeting, AIAA Paper 2016-1073, San Diego, CA, January 2016.
+Deters, R.W., Ananda, G.K., and Selig, M.S., "Slipstream Measurements of Small-Scale Propellers at Low Reynolds Numbers," AIAA Aviation 2015, 33rd AIAA Applied Aerodynamics Conference, AIAA Paper 2015-2265, Dallas, TX, June 2015.
+Dantsker, O.D. and Selig, M.S., "High Angle of Attack Flight of a Subscale Aerobatic Aircraft," AIAA Aviation 2015, 33rd AIAA Applied Aerodynamics Conference, AIAA Paper 2015-2568, Dallas, TX, June 2015.
+Pomeroy, B.W. and Selig, M.S., "Pressure Measurements of Burst Wakes Over a Three-Element Airfoil," AIAA Aviation 2015, 33rd AIAA Applied Aerodynamics Conference, AIAA Paper 2015-2569, Dallas, TX, June 2015.
+Fiore, G. and Selig, M.S., "Optimization of Wind Turbine Airfoils Subject to Particle Erosion," AIAA Aviation 2015, 33rd AIAA Applied Aerodynamics Conference, AIAA Paper 2015-3393, Dallas, TX, June 2015.
+Ragheb, A.M. and Selig, M.S., "Improved Methodology for Predicting the Force on Stalled Spinning Wings," AIAA SciTech, AIAA 53rd Aerospace Sciences Meeting, AIAA Paper 2015-0548, Kissimmee, FL, January 2015.
+Dantsker, O.D., Louis, A.V., Mancuso, R., Caccamo, M., and Selig, M.S., "SDAC-UAS: A Sensor Data Acquisition Unmanned Aerial System for Flight State Monitoring and Aerodynamic Data Collection," AIAA SciTech, AIAA Infotech @ AIAA 53rd Aerospace Sciences Meeting, AIAA Paper 2015-0987, Kissimmee, FL, January 2015. 
+Fiore, G., Fujiwara, G.E.C., and Selig, M.S., "A Damage Assessment for Wind Turbine Blades from Heavy Atmospheric Particles," AIAA SciTech, AIAA 53rd Aerospace Sciences Meeting, AIAA Paper 2015-1495, Kissimmee, FL, January 2015.
+Loth, E., Ichter, B., Selig, M.S., and Moriarty, P., "Downwind Pre-Aligned Rotor for a 13.2 MW Wind Turbine," AIAA SciTech, 33rd Wind Energy Symposium, AIAA Paper 2015-1661, Kissimmee, FL, January 2015.
+O'Conner, K., Loth, E., and Selig, M.S., "Experiments on Fairing Design for a Wind Turbine Tower," AIAA SciTech, 33rd Wind Energy Symposium, AIAA Paper 2015-1664, Kissimmee, FL, January 2015. 
+Fiore, G. and Selig, M.S., "A Simulation of Operational Damage for Wind Turbine Blades," AIAA Aviation and Aeronautics Forum and Exposition (AVIATION 2014), AIAA Paper 2014-2848, Atlanta, GA, June 2014.
+Dantsker, O.D., Mancuso, R., Selig, M.S., and Caccamo, M., "High-Frequency Sensor Data Acquisition System (SDAC) for Flight Control and Aerodynamic Data Collection Research on Small to Mid-Sized UAVs," AIAA Aviation and Aeronautics Forum and Exposition (AVIATION 2014), AIAA Paper 2014-2565, Atlanta, GA, June 2014.
+Ananda, G.K., Deters, R.W., and Selig, M.S.  "Propeller-Induced Flow Effects on Wings of Varying Planform at Low Reynolds Numbers," AIAA Aviation and Aeronautics Forum and Exposition (AVIATION 2014), AIAA Paper 2014-2152, Atlanta, GA, June 2014.
+Deters, R.W., Ananda, G., and Selig, M.S., "Reynolds Number Effects on the Performance of Small-Scale Propellers," AIAA Aviation and Aeronautics Forum and Exposition (AVIATION 2014), AIAA Paper 2014-2151, Atlanta, GA, June 2014.
+Mancuso, R., Dantsker, O.D., Caccamo, M., and Selig, M.S., "A Low-Power Architecture for High Frequency Sensor Acquisition in Many-DOF UAVs,"  ACM/IEEE 5th International Conference on Cyber-Physical Systems, Berlin, Germany, April 2014.
+Ananda, G.K., Deters, R.W., and Selig, M.S., "Propeller Slipstream Effects on Wings at Low Reynolds Numbers," AIAA 31st Applied Aerodynamics Conference, AIAA Paper 2013-3193, San Diego, CA, June 2013.
+
+Pomeroy, B.W., Ansell, P.J., Diebold, J.M., and Selig, M.S., "A Study of Burst Wakes in a Multielement Airfoil Flowfield," AIAA 31st Applied Aerodynamics Conference, AIAA Paper 2013-2919, San Diego, CA, June 2013.
+Dantsker, O.D., Johnson, M.J., Selig, M.S., and Bretl, T.W., "Development of the UIUC Aero Testbed: A Large-Scale Unmanned Electric Aerobatic Aircraft for Aerodynamics Research," AIAA 31st Applied Aerodynamics Conference, AIAA Paper 2013-2807, San Diego, CA, June 2013.
+
+Ragheb, A., Dantsker, O.D., and Selig, M.S.  "Stall/Spin Mitigation Flight Testing with a Subscale Aerobatic Aircraft," AIAA 31st Applied Aerodynamics Conference, AIAA Paper 2013-2806, San Diego, CA, June 2013.
+O'Connor, K., Loth, E., and Selig, M.S.  "Design of a 2-D Fairing for a Wind Turbine Tower," AIAA 31st Applied Aerodynamics Conference, AIAA Paper 2013-2530, San Diego, CA, June 2013.
+Steele, A., Ichter, B., Qin, C., Loth, E.,  Selig, M.S., and Moriarty, P.J., "Aerodynamics of an Ultralight Load-Aligned Rotor for Extreme-Scale Wind Turbines," 50th AIAA Aerospace Sciences Meeting, AIAA Paper 2013-0913, Grapevine, TX, January 2013.
+Loth, E., Steele, A., Ichter, B., Selig, M.S., and Moriarty, P.J., "Segmented Ultralight Pre-Aligned Rotor for Extreme-Scale Wind Turbines," 50th AIAA Aerospace Sciences Meeting, AIAA Paper 2012-1290, Nashville, TN, January 2012
+Ragheb, A.M. and Selig, M.S., "Multi-Element Airfoil Configurations for Wind Turbines," AIAA 29th Applied Aerodynamics Conference, AIAA Paper 2011-3971, Honolulu, HI, June 2011.
+Uhlig, D.V. and Selig, M.S., "Stability Characteristics of Micro Air Vehicles from Experimental Measurements," AIAA 29th Applied Aerodynamics Conference, AIAA Paper 2011-3659, Honolulu, HI, June 2011.
+Brandt, J.B., and Selig, M.S., "Propeller Performance Data at Low Reynolds Numbers," AIAA 49th Aerospace Sciences Meeting, AIAA Paper 2011-1255, Orlando, FL, January 2011.
+Shetty, O.R. and Selig, M.S., "Small-Scale Propellers Operating in the Vortex Ring State," AIAA 49th Aerospace Sciences Meeting, AIAA Paper 2011-1254, Orlando, FL, January 2011.
+Selig, M.S., Deters, R.W., and Williamson, G.A., "Wind Tunnel Testing Airfoils at Low Reynolds Numbers," AIAA 49th Aerospace Sciences Meeting, AIAA Paper 2011-875, Orlando, FL, January 2011.
+Sareen, A., Deters, R.W., Henry, S.P., and Selig, M.S., "Drag Reduction Using Riblet Film Applied to Airfoils for Wind Turbines," AIAA 49th Aerospace Sciences Meeting, AIAA Paper 2011-558, Orlando, FL, January 2011.
+Uhlig, D.V., Sareen, A., Sukumar, P., Rao, A.H. and Selig, M.S.,  "Determining Aerodynamic Characteristics of a Micro Air Vehicle Using Motion Tracking," AIAA Atmospheric Flight Mechanics Conference, AIAA Paper 2010-8416, Toronto, Ontario, Canada, August 2010.
+Selig, M.S., "Modeling Propeller Aerodynamics and Slipstream Effects on Small UAVs in Realtime," AIAA Atmospheric Flight Mechanics Conference, AIAA Paper 2010-7938, Toronto, Ontario, Canada, August 2010.
+Selig, M.S., "Modeling Full-Envelope Aerodynamics of Small UAVs in Realtime," AIAA Atmospheric Flight Mechanics Conference, AIAA Paper 2010-7635, Toronto, Ontario, Canada, August 2010.
+Loth, E., Selig, M.S., and Moriarty, P., "Morphing Segmented Wind Turbine Concept," AIAA 28th Applied Aerodynamics Conference, AIAA Paper 2010-4400, Chicago, IL, June 2010.
+Sukumar, P. P. and Selig, M. S., "Dynamic Soaring of Sailplanes over Open Fields," AIAA 28th Applied Aerodynamics Conference, AIAA Paper 2010-4953, Chicago, IL, June 2010.
+Uhlig, D., Selig, M.S. and Neogi, N., "Health Monitoring via Neural Networks," AIAA Infotech 2010, AIAA Paper 2010-3419, Atlanta, Georgia, April 2010.
+Deters, R.W. and Selig, M.S., "Static Testing of Micro Propellers," AIAA 26th Applied Aerodynamics Conference,  AIAA Paper 2008-6246, Honolulu, Hawaii, August 2008
+Uhlig, D. and Selig, M.S., "Post Stall Propeller Behavior at Low Reynolds Numbers," AIAA 46th Aerospace Sciences Meeting, AIAA Paper 2008-407, Reno, NV, Jan 2008.
+Clarke, J.P., Cerven, K., March, J., Olszewski, M., Wheaton, B., Williams, M., Yu, J., Selig, M.S., Loth, E. and Burton, R.L, "Supersonic Aircraft for Reusable Rocket Air-Launch (SARRA)," AIAA/ASME/SAE/ASEE 43rd Joint Propulsion Conference, AIAA Paper 2007-5841, Cincinnati, OH, July 2007.
+Bovais, C., Levy, D., Page, G., Powell, S., Selig, M.S., and Zickur, T., "Writing the Rules:  An inside Look at the AIAA Student Design/Build/Fly Competition," AIAA 6th Aviation Technology, Integration and Operations Conference (ATIO), AIAA Paper 2006-7832, Wichita, Kansas, 2006.
+Mallipudi, S.V. and Selig, M.S. and Long, K., "Use of a Four-Hole Cobra Pressure Probe to Determine the Unsteady Wake Characteristics of Rotating Objects,"  AIAA 24th Aerodynamic Measurement Technology and Ground Testing Conference, AIAA Paper 2004-2299, Portland, Oregon, June 2004.
+Selig, M.S. and McGranahan, B.D., "Wind Tunnel Tests of Six Airfoils for Use on Small Wind Turbines," AIAA 42nd Aerospace Sciences Meeting, AIAA Paper 2004-1188, Reno, NV, January 2004.
+Deters, R.W., Broughton, B.A., and Selig, M.S., "A Retrospective: Development of Simulation Models for the 1903 and 1905 Wright Flyers," AIAA 42nd Aerospace Sciences Meeting, AIAA Paper 2004-0211, Reno, NV, January 2004.
+McGranahan, B.D. and Selig, M.S., "Surface Oil Flow Measurements on Several Airfoils at Low Reynolds Numbers," AIAA 42nd Applied Aerodynamics Conference, AIAA Paper 2003-4067, Orlando, FL, June 2003.
+Bragg, M.B., Basar, T., Perkins, W.R., Selig, M.S., Voulgaris, P.G., Melody, J.W., and Sarter, N., "Smart Icing Systems for Aircraft Icing Safety," FAA In-flight Icing / Ground De-icing International Conference, SAE Paper 2003-01-2100, Chicago, IL, June 2003.
+
+Dimock, G.A. and Selig, M.S., "The Aerodynamic Benefits of Self-Organization in Bird Flocks," AIAA 41st Aerospace Sciences Meeting, AIAA Paper 2003-0608, Reno, NV, January 2003.
+Dimock, G.A., Deters, R.W., and Selig, M.S., "Icing Scenarios with the Icing Encounter Flight Simulator," AIAA 41st Aerospace Sciences Meeting, AIAA Paper 2003-0023, Reno, NV, January 2003.
+Gardner, B.A. and Selig, M.S., "Airfoil Design Using a Genetic Algorithm and an Inverse Method," AIAA 41st Aerospace Sciences Meeting, AIAA Paper 2003-0043, Reno, NV, January 2003.
+Broughton, B.A. and Selig, M.S., "A Hybrid Inverse Design Method for Non-Lifting Bodies in Incompressible Flow," AIAA 41st Aerospace Sciences Meeting, AIAA Paper 2003-0213, Reno, NV, January 2003.
+Soso, M. and Selig, M.S., "An Angle of Attack Correction Scheme for the Design of Low Aspect Ratio Wings with Endplates," SAE Motorsports Engineering Conference and Exposition, SAE Paper No 02, MSEC-15, Indianapolis, IN, November 2002.
+Broughton, B.A., and Selig, M.S., "A Hybrid Inverse Design Method for Axisymmetric Bodies in Incompressible Flow," AIAA 20th Applied Aerodynamics Conference, AIAA Paper 2002-3142, St Louis, MO, June 2002.
+Deters, R.W., Dimock, G.A., and Selig, M.S., "Icing Encounter Flight Simulator with an Integrated Smart Icing System," AIAA Modeling and Simulation Technologies Conference, AIAA Paper 2002-4599, Monterey, CA, August 2002.
+Sehgal, B., Deters, R.W., and Selig, M.S., "Icing Encounter Flight Simulator," AIAA 40th Aerospace Sciences Meeting, AIAA Paper 2002-0817, Reno, NV, January 2002.
+Bragg, M.B., Basar, T., Perkins, W.R., Sarter, N.B., Selig, M.S., Voulgaris, P.G. and Melody, J.W., "Smart Icing Systems for Aircraft Icing Safety," AIAA 40th Aerospace Sciences Meeting, AIAA Paper 2002-0813, Reno, NV, January 2002.
+Uppuluri, S. and Selig, M.S., "Hybrid Wing Design to Match Full-Scale Wing Ice Accretion," AIAA 40th Aerospace Sciences Meeting, AIAA Paper 2002-0243, Reno, NV, January 2002.
+Gopalarathnam, A., Broughton, B.A, McGranahan, B.D, and Selig, M.S., "Design of Low Reynolds Number Airfoils with Trips," AIAA 19th Applied Aerodynamics Conference, AIAA Paper 2001-2463, Anaheim, CA, June 2001. 
+Selig, M.S., Gopolarathnam, A., Giguère, P., and Lyon, C.A., "Systematic Airfoil Design Studies at Low Reynolds Numbers," Proceedings of the Conference on Fixed, Flapping, and Rotary Wing Vehicles at Very Low Reynolds Numbers, T.J. Mueller (ed.), Notre Dame, IN, June 2000. 
+Gopalarathnam, A. and Selig, M.S., "A Hybrid Approach to Inverse Design of Complex Aerodynamic Systems," AIAA 38th Aerospace Sciences Meeting, AIAA Paper 2000-0784, Reno, NV, January 2000. 
+Giguère, P. and Selig, M.S., "Blade Geometry Optimization for the Design of Wind Turbine Rotors," AIAA 38th Aerospace Sciences Meeting, AIAA Paper 2000-0045, Reno, NV, January 2000. 
+Gopalarathnam, A. and Selig, M.S., "A Hybrid Method for Multipoint Inverse Wing Design," AIAA 37th Aerospace Sciences Meeting, AIAA Paper 99-0401, Reno, NV, January 1999. 
+Gopalarathnam, A. and Selig, M.S., "A Design Methodology for Low-Speed Natural Laminar Flow Airfoils," AIAA 37th Aerospace Sciences Meeting, AIAA Paper 99-0399, Reno, NV, January 1999. 
+Whale, J. and Selig, M.S., "Correcting Inflow Measurements from HAWTs Using a Lifting-Surface Code," AIAA 37th Aerospace Sciences Meeting, AIAA Paper 99-0040, Reno, NV, January 1999. 
+Giguère, P. and Selig, M.S., "Blade Design Tradeoffs Using Low-Lift Airfoils for Stall-Regulated HAWTs," AIAA 37th Aerospace Sciences Meeting, AIAA Paper 99-0036, Reno, NV, January 1999.  Also, NREL/CP-500-26091, Golden, CO, April 1999. 
+Jasinski, W.J. and Selig, M.S, "Experimental Study of Open-Wheel Race-Car Front Wings," SAE Motorsports Engineering Conference and Exposition, SAE Paper No 983042, Dearborn, MI, November 1998. 
+Gopalarathnam, A. and Selig, M.S., "A Multipoint Viscous Design Method for Multi-Element Airfoils," AIAA 16th Applied Aerodynamics Conference, AIAA Paper 98-2404, Albuquerque, NM, June 1998. 
+Raj, N. and Selig, M.S., "Capabilities of WTPREP for Blade Airfoil Data for HAWTs," American Wind Energy Association WINDPOWER 1998 Conference, Bakersfield, CA, April 1998.
+Giguère, P. and Selig, M.S., "Aerodynamic Effects of Leading-Edge Tape on Airfoils at Low Reynolds Numbers," American Wind Energy Association WINDPOWER 1998 Conference, Bakersfield, CA, April 1998.
+Du, Z. and Selig, M.S., "The Effect of Rotation of the Boundary Layer of a Wind Turbine Blade," American Wind Energy Association WINDPOWER 1998 Conference, Bakersfield, CA, April 1998.
+Filippone, A. and Selig, M.S., "Low-Aspect-Ratio Wings for Wing-Ships," AIAA 36th Aerospace Sciences Meeting, AIAA Paper 98-0761, Reno, NV, January 1998. 
+Ninham, C.P.,  Raju, R. and Selig, M.S., "A Real-Time Atmospheric Turbulence Model for Aircraft Flight Simulators," AIAA 36th Aerospace Sciences Meeting, AIAA Paper 98-0688, Reno, NV, January 1998. 
+Saeed, F., Selig, M.S., and Bragg, M.B., "Experimental Validation of Hybrid Airfoil Design Procedure for Full-Scale Ice Accretion Simulation," AIAA 36th Aerospace Sciences Meeting, AIAA Paper 98-0199, Reno, NV, January 1998. 
+Du, Z. and Selig, M.S., "A 3-D Stall-Delay Model for Horizontal Axis Wind Turbine Performance Prediction," ASME/AIAA Joint Wind Energy Symposium, AIAA Paper 98-0021, Reno, NV, January 1998. 
+Giguère, P. and Selig, M.S., "Aerodynamic Blade Design Methods for Horizontal Axis Wind Turbines," 1997 Canadian Wind Energy Conference, Quebec City, Quebec, Canada, October 1997. 
+Gopalarathnam, A., Selig, M.S. and Hsu, F., "Design of High-Lift Airfoils for Low-Aspect Ratio Wings with Endplates," AIAA 15th Applied Aerodynamics Conference, AIAA Paper 97-2232, Atlanta, GA, June 1997. 
+Tangler, J.L. and Selig, M.S., "An Evaluation of an Empirical Model for Stall Delay Due to Rotation for HAWTs," American Wind Energy Association WINDPOWER 1997 Conference, Austin, TX, June 1997. 
+Ninham, C. and Selig, M.S., "An Interactive Windows 95/NT Version of PROPID for the Aerodynamic Design of Horizontal Axis Wind Turbines," American Wind Energy Association WINDPOWER 1997 Conference, Austin, TX, June 1997. 
+Giguère, P. and Selig, M.S., "New Airfoils for Small Horizontal-Axis Wind Turbines," American Wind Energy Association WINDPOWER 1997 Conference, Austin, TX, June 1997. 
+Jasinski, W.J, Noe, S.C., Selig, M.S., and Bragg, M.B., "Wind Turbine Performance under Icing Conditions," ASME/AIAA Joint Wind Energy Symposium, AIAA Paper 97-0977, Reno, NV, January 1997. 
+Lyon, C.A., Selig, M.S., and Broeren, A.P., "Boundary Layer Trips on Airfoils at Low Reynolds Numbers," AIAA 35th Aerospace Sciences Meeting, AIAA Paper 97-0511, Reno, NV, January 1997. 
+Saeed, F., Selig, M.S., and Bragg, M.B., "A Hybrid Airfoil Design Method to Simulate Full-Scale Ice Accretion Throughout a Given CL-Range," AIAA 35th Aerospace Sciences Meeting, AIAA Paper 97-0054, Reno, NV, January 1997. 
+Fisichella, C.J. and Selig, M.S., "A Comparison of the Inflow Predictions of Three Wind Turbine Rotor Aerodynamic Analysis Codes," American Wind Energy Association WINDPOWER 1996 Conference, Denver, CO, June 1996. 
+Giguère, P. and Selig, M.S., "Aerodynamic Performance of Small Wind Turbines Operating at Low Reynolds Numbers," American Wind Energy Association WINDPOWER 1996 Conference, Denver, CO, June 1996. 
+Giguère, P. and Selig, M.S., "Desirable Airfoil Characteristics for Large Variable-Speed Horizontal Axis Wind Turbines," American Wind Energy Association WINDPOWER 1996 Conference, Denver, CO, June 1996. 
+Gopalarathnam, A. and Selig, M.S., "A Multipoint Inverse Method for Multi-Element Airfoil Design," AIAA 14th Applied Aerodynamics Conference, AIAA Paper 96-2396, New Orleans, LA, June 1996. 
+Giguère, P. and Selig, M.S., "Freestream Velocity Measurements and Corrections for Two-Dimensional Testing with Splitter Plates," AIAA 14th Applied Aerodynamics Conference, AIAA Paper 96-2388, New Orleans, LA, June 1996. 
+Saeed, F., Selig, M.S. and Bragg, M.B., "A Design Procedure for Subscale Airfoils with Full-Scale Leading Edges for Ice Accretion Testing," AIAA 34th Aerospace Sciences Meeting, AIAA Paper 96-0635, Reno, NV, January 1996. 
+Selig, M.S., Guglielmo, J.J., Broeren, A.P. and Giguère, P., "Experiments on Airfoils at Low Reynolds Numbers," AIAA 34th Aerospace Sciences Meeting, AIAA Paper 96-0062, Reno, NV, January 1996. 
+Saeed F. and Selig, M.S., "A New Class of Airfoils with Slot-Suction," AIAA 34th Aerospace Sciences Meeting, AIAA Paper 96-0058, Reno, NV, January 1996. 
+Saeed, F. and Selig, M.S., "A Multipoint Inverse Airfoil Design Method for Slot-Suction Airfoils," AIAA 13th Applied Aerodynamics Conference, AIAA Paper 95-1857, San Diego, CA, June 1995. 
+Guglielmo, J.J., and Selig, M.S., "Large Spanwise Drag Variations in Profile Drag for Airfoils at Low Reynolds Numbers," AIAA 13th Applied Aerodynamics Conference, AIAA Paper 95-1783, San Diego, CA, June 1995. 
+Zych, T. and Selig, M.S., "Preliminary Design and Cost Analysis of a Family of Unmanned Aerial Vehicles," AIAA 13th Applied Aerodynamics Conference, AIAA Paper 95-1883, San Diego, CA, June 1995. 
+Selig, M.S., Giguère, P., Guglielmo, J.J., and Broeren, A.P., "Wind Tunnel Test Results of Five Free Flight Airfoils," National Free Flight Society Symposium Proceedings, Muncie, IN, June 1995. 
+Selig, M.S. and Coverstone-Carroll, V.L., "Application of a Genetic Algorithm to Wind Turbine Design," ASME ETCE 14th Wind Energy Symposium, Houston, TX, January 1995. 
+Selig, M.S. and Guglielmo, J.J., "High-Lift Low Reynolds Number Airfoil Design," AIAA 12th Applied Aerodynamics Conference, AIAA Paper 94-1866, Colorado Springs, CO, June 1994. 
+Selig, M.S. and Tangler, J.L., "A Multipoint Inverse Design Method for Horizontal Axis Wind Turbines," American Wind Energy Association WINDPOWER 1994 Conference, Minneapolis, MN, May 1994. 
+Selig, M.S., "Multi-Point Inverse Design of an Infinite Cascade of Airfoils," AIAA 10th Applied Aerodynamics Conference, AIAA Paper 92-2650, Palo Alto, CA, June 1992. 
+Selig, M.S. and Maughmer, M.D., "Generalized Multi-Point Inverse Airfoil Design," AIAA 9th Applied Aerodynamics Conference, AIAA Paper 91-3333, Baltimore, MD, September 1991. 
+Dini, P., Selig, M.S., and Maughmer, M.D., "A Simplified e^n Method for Separated Boundary Layers," AIAA 9th Applied Aerodynamics Conference, AIAA Paper 91-3285, Baltimore, MD, September 1991. 
+Selig, M.S. and Maughmer, M.D., "A Multi-Point Inverse Airfoil Design Method Based on Conformal Mapping," AIAA 29th Aerospace Sciences Meeting, AIAA Paper 91-0069, Reno, NV, January 1991. 
+Selig, M.S., Maughmer, M.D., and Somers, D.M., "An Airfoil for General Aviation Applications," DOT/FAA/CT-90/11, Proceedings of the 1990 AIAA/FAA Joint Symposium on General Aviation Systems, Ocean City, NJ, April 1990, pp. 280-291. 
+Selig, M.S., Smits, A.J., and Fernando, E.M., "Periodic Slot Blowing of a Supersonic Turbulent Boundary Layer," International Workshop on the Physics of Turbulent Compressible Mixing, Princeton, NJ, October 1988. 
+Selig, M.S., "Dynamic Control of Unsteady Shock-Wave/Turbulent Boundary-Layer Interactions," NASA Langley Research Center, AIAA 1988 Mid-Atlantic Regional  Student Paper Conference, Hampton, VA, April 1988. 
+Selig, M.S., Andreopoulos, J., Muck, K.C., Dussauge, J.P., and Smits, A.J., "Simultaneous Wall-Pressure and Mass-Flux Measurements Downstream of a Shock-Wave/Turbulent Boundary-Layer Interaction," AIAA 25th Aerospace Sciences Meeting, AIAA Paper 87-0550, Reno, NV, January 1987.
+Maughmer, M.D. and Selig, M.S., "Low Reynolds Number Airfoil Design," Proceedings of the Conference on Low Reynolds Number Airfoil Aerodynamics, T.J. Mueller (ed.), Notre Dame, IN, June 1985. 
+Selig, M.S., "The Design of Airfoils at Low Reynolds Numbers," AIAA 23rd Aerospace Sciences Meeting, AIAA Paper 85-0074, Reno, NV, January 1985. 
+Click for more
+Patents
+US Patent Application Publication, US 61/837,235, "2-D Fairing for a Wind Turbine Tower and Related Method," June 20, 2013 (with Loth, E.)
+US Patent Application Publication No. US 20130064663 A1, US 13/528,753, "Morphing Segmented Wind Turbine and Related Method," Mar 14, 2013 (with Loth, E. and Steele, A.)
+United States Patent 6,503,058, "Airfoil Configuration for Wind Turbine," January 7, 2003 (with Kyle K. Wetzel, assigned to GE Wind Energy)
+United States Patent 6,382,921, "Low Reynolds Number, Low Drag, High Lift Airfoil," May 7, 2002 (with William Holmes and Frank Stauder, assigned to Siemens VDO Automotive, Inc., Mississauga, CA)
+International Patent WO 01/83983, "Airfoil Configuration for Wind Turbine," November 8, 2001 (with Kyle K. Wetzel, assigned to GE Wind Energy)
+European Patent 1152148, "Airfoil Profiles for Wind Turbines," July 11, 2001 (with Kyle K. Wetzel, assigned to GE Wind Energy)
+Click for more
+Reports
+Bansal, S., Ananda, G.K., and Selig, M.S., "Stall Characteristics of Wind Turbine Airfoils," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 16-01 UILU ENG 16-0501, prepared for Northern Power Systems, Barre, VT, July 2016, 297 pages.
+
+Ananda, G.K., Deters, R.W., and Selig, M.S.,
+"Wind Tunnel Tests of Airfoils for
+Stratospheric Persistent," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 14-04 UILU ENG
+14-0504, prepared for DSO National Laboratories, Singapore, October 2014, 114 pages.
+Ananda, G.K., Deters, R.W., and Selig, M.S., "Wind Tunnel Tests of Airfoils for
+Stratospheric Persistent
+Unmanned Aircraft Systems," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 14-03 UILU ENG
+14-0503, prepared for Google, Mountain View, CA, July 2014, 128 pages
+Ananda, G.K., Deters, R.W., and Selig, M.S., "Low Reynolds Number Wind Tunnel Measurements of Trapped Vortex Airfoils- Phase II," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 14-01 UILU ENG 14-0501, prepared for King Fahd University of Petroleum & Minerals, Kingdom of Saudi Arabia, February 2014, 60 pages.
+Ananda, G.K., Deters, R.W., and Selig, M.S., "Low Reynolds Number Wind Tunnel Measurements of Trapped Vortex Airfoils - Phase I," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 13-02 UILU ENG 13-0502, prepared for King Fahd University of Petroleum & Minerals, Kingdom of Saudi Arabia, November 2013, 16 pages.
+Deters, R.W., Ananda, G.K., and Selig, M.S., "Low Reynolds Number Wind Tunnel Measurements of the NG01 Airfoil," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 13-01, UILU ENG 13-0501, prepared for AeroVironment, Inc., Monrovia, CA, January 2013, 28 pages.
+Pomeroy, B.W., Williamson, G.A., and Selig, M.S., "Aerodynamic Performance of Well Separated Multielement Airfoils for Wind Turbine Blades," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-11 UILU ENG 11-0504, prepared for GE Energy, Greenville, SC, November 2011, 119 pages.
+Pomeroy, B.W., Williamson, G.A., and Selig, M.S., "Aerodynamic Performance of Multielement Airfoils for Wind Turbine Blades," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-04 UILU ENG 11-0511, prepared for GE Energy, Greenville, SC, September 2011, 158 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades - Phase II: Part V - Wind Tunnel Tests of the DU 96-W-180 Airfoil with Trips on the Upper and Lower Surfaces," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-10 UILU ENG 11-0510, prepared for 3M, St. Paul, MN, November 2011, 18 pages.
+
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades - Phase II: Part IV - Wind Tunnel Tests of the DU 96-W-180 Airfoil with a Boundary Layer Trip and Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-09 UILU ENG 11-0509, prepared for 3M, St. Paul, MN, November 2011, 31 pages.
+
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades - Phase II: Part III - Wind Tunnel Tests of the DU 96-W-180 Airfoil with Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-08 UILU ENG 11-0508, prepared for 3M, St. Paul, MN, November 2011, 68 pages.
+
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades - Phase II: Part I - Wind Tunnel Tests of the S809 Airfoil with 44-μm Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-07 UILU ENG 11-0507, prepared for 3M, St. Paul, MN, November 2011, 35 pages.
+
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades - Phase II: Part I - Wind Tunnel Tests of the S809 Airfoil with 44-μm Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-06 UILU ENG 11-0506, prepared for 3M, St. Paul, MN, November 2011, 60 pages.
+
+Pomeroy, B.W., Ananda, G.K., and Selig, M.S., "Wind Tunnel Measurements of Thick Airfoils for Wind Turbines," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-05 UILU ENG 11-0505, prepared for GE Energy, Greenville, SC, October 2011, 78 pages.
+
+Sareen, A., Sapre, C.A., and Selig, M.S., "Effects of Leading Edge Erosion and Erosion Mitigation Strategies on Wind Turbine Blade Performance," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-03 UILU ENG 11-0503, prepared for 3M, St. Paul, MN, May 2011, 16 pages.
+
+Sareen, A., Sapre, C.A., and Selig, M.S., "Wind Tunnel Tests of the DU 96-W-180 Airfoil with Wind Protection Tape," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-02 UILU ENG 11-0502, prepared for 3M, St. Paul, MN, May 2011, 42 pages.
+
+Sareen, A., Sapre, C.A., and Selig, M.S., "Wind Tunnel Tests of the DU 96-W-180 Airfoil with Mild to Severe Leading Edge Erosion," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 11-01 UILU ENG 11-0501, prepared for 3M, St. Paul, MN, May 2011, 86 pages.
+
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part VI - Additional Results of Wind Tunnel Tests of the S809 Airfoil with Riblet Film," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 09-06 UILU ENG 09-0506, prepared for 3M, St. Paul, MN, December 2009, 41 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part V - Wind Tunnel Tests of the S809 Airfoil with 62-micron Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 09-05 UILU ENG 09-0505, prepared for 3M, St. Paul, MN, December 2009, 46 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part IV - Wind Tunnel Tests of the S809 Airfoil with 150-micron Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering,AE 09-04 UILU ENG 09-0504, prepared for 3M, St. Paul, MN, December 2009, 46 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part III - Wind Tunnel Tests of the S809 Airfoil with 100-micron Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 09-03 UILU ENG 09-0503, prepared for 3M, St. Paul, MN, December 2009, 31 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part II - Wind Tunnel Tests of the S809 Airfoil with 100-micron Riblets," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 09-02 UILU ENG 09-0502, prepared for 3M, St. Paul, MN, November 2009, 34 pages.
+Deters, R.W., Henry, S.P., Sareen, A., and Selig, M.S., "Performance Benefits of Aerodynamic Enhancement Tape Applied to Airfoils for Wind Turbine Blades: Part I - Benchmark Wind Tunnel Tests of the S809 Airfoil," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 09-01 UILU ENG 09-0501, prepared for 3M, St. Paul, MN, November 2009, 87 pages.
+Deters, R.W. and Selig, M.S., "Wind Tunnel Testing of the ICON 021816 LSA Airfoil," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-09, UILU ENG 08-0509, prepared for ICON Aircraft Inc., Los Angeles, CA, December 2008, 70 pages. 
+Deters, R.W. and Selig, M.S., "Wind Tunnel Testing of Three Airfoils for Northern Power Systems," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-08, UILU ENG 08-0508, prepared for Northern Power Systems, Inc., Barre, VT, December 2008, 96 pages.
+Deters, R.W. and Selig, M.S., "Airfoil Performance Tests for the Global Observer Unmanned Aircraft System - Phase II," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-07, UILU ENG 08-0507, prepared for AeroVironment, Inc., Monrovia, CA, December 2008, 108 pages.
+Deters, R.W. and Selig, M.S., "Airfoil Performance Tests for the Global Observer Unmanned Aircraft System - Phase I," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-06, UILU ENG 08-0506, prepared for AeroVironment, Inc., Monrovia, CA, December 2008, 105 pages.
+Deters, R.W. and Selig, M.S., "Low Reynolds Number Airfoil Testing of a Dynamic Flap Airfoil," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-05, UILU ENG 08-0505, prepared for FlexSys, Inc., Ann Arbor, MI, December 2008, 58 pages.
+Deters, R.W. and Selig, M.S., "Airfoil Tests for Distributed On-Blade Control for Wind Turbines," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-04, UILU ENG 08-0504, prepared for Continuum Dynamics, Inc., Ewing, NJ, November 2008, 57 pages.
+Deters, R.W. and Selig, M.S., "Wind Tunnel Tests of the E387 Airfoil with Active Flow Control at Low Reynolds Numbers," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-02, UILU ENG 08-0502, prepared for FlexSys, Inc., Ann Arbor, MI, June 2008, 77 pages.
+Deters, R.W. and Selig, M.S., "Aerodynamic Performance of Micro Aerial Vehicle Propellers in Static Thrust Conditions," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 08-01, UILU ENG 08-0501, prepared for Spin Master Ltd, Toronto, Ontario, Canada, June 2008, 66 pages.
+Hill, E., Rios, M., Botura, G., Riley, J.T., Dumont, C.J., Pullin, D., Uppuluri, S., Broeren, A., Selig, M.S., and Anderson, D.N., "Investigations of Performance of Pneumatic Deicing Boots, Surface Ice Detectors, and Scaling of Intercycle Ice," DOT/FAA/AR-06/48, Final Report, Nov 2006.
+Brandt, J.B. and Selig, M.S., "Wind Tunnel Testing of Four APC Propellers," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AE 05-01, UILU-ENG-05-0501, prepared for AeroVironment, Inc., Monrovia, CA, May 2005, 48 pages.
+Brandt, J.B. and Selig, M.S., "Wind Tunnel Testing of the Luna Rossa F1T3, R2, and W1 Airfoils," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AAE 04-03, UILU-ENG-04-0503, prepared for Luna Rossa Srl, Milano, Italy, July 2004, 71 pages.
+Selig, M.S. and McGranahan, "Wind Tunnel Aerodynamic Tests of Six Airfoils for Use on Small Wind Turbines," NREL/SR-500-34515, Golden, CO, October 2004, 134 pages. Also to appear as Summary of Low Speed Airfoil Data, Vol 4.
+Broughton, B.A. and Selig, M.S., "Wind Tunnel Testing of the CDI LRA 2c Airfoil," University of Illinois at Urbana-Champaign, Dept. of Aerospace Engineering, AAE 03-04, UILU-ENG-03-0504, prepared for Continuum Dynamics, Inc., Ewing, NJ, September 2003, 29 pages.
+Broughton, B.A., Gardner, B.A., McGranahan, B.D., and Selig, M.S., "Wind Tunnel Testing of the AeroVironment Helios Airfoil, Pod and Heat Exchanger Duct,"University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 02-05, UILU-ENG-02-0505, prepared for AeroVironment, Inc. Monrovia, CA, December 2002, 62 pages.
+Gardner, B.A., Broeren, A.P., and Selig, M.S., "Wind Tunnel Tests of Four Airfoils for Sailboat Rudders," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 02-04, UILU-ENG-02-0504, prepared for Farr Yacht Design, Ltd., Annapolis, MD, June 2002, 90 pages.
+Broughton, B.A. and Selig, M.S., "Wind Tunnel Testing of the ND-LoFoil Airfoil with and without Boundary Layer Trips," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 01-05, UILU-ENG-01-0505, prepared for University of Notre Dame, Notre Dame, IN, February 2001, 27 pages.
+Carroll, C.A., Broughton, B.A., and Selig, M.S., "Wind Tunnel Testing of the S8022, S8024 and S8025 Airfoils with and without Boundary Layer Trips," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 01-04, UILU-ENG-01-0504, prepared for Farr Yacht Design, Ltd, Annapolis, MD, February 2001, 64 pages.
+Carroll, C.A., Broughton, B.A., and Selig, M.S., "Wind Tunnel Testing of the S6078 Airfoil with Simulated Solar Array Configurations," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 01-03, UILU-ENG-01-0503, prepared for AeroVironment, Inc, Monrovia, CA, February 2001, 33 pages.
+Broughton, B.A., Carroll, C.A., and Selig, M.S., "Wind Tunnel Testing of the S1052 and S1054 Flapped Airfoils for Unmanned Flying Wing Designs," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 01-02, UILU-ENG-01-0502, prepared for the Naval Research Laboratory, Washington, DC, February 2001, 76 pages.
+Broughton, B.A., Carroll, C.A., and Selig, M.S., "Wind Tunnel Testing of the S2012, S2014 and S2016 Airfoils for Automobile Radiator Fans," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 01-01, UILU-ENG-01-0501, prepared for Siemens Canada, London, Ontario, Canada, February 2001, 37 pages.
+Uppuluri, S., Broeren, A., and Selig, M.S., "The Design of a Hybrid Airfoil for the NACA 23012," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 00-01, UILU-ENG-00-0501, prepared for the Federal Aviation Administration, William J. Hughes Technical Center, Atlantic City International Airport, NJ, April 2000, 22 pages.
+Carroll, C.A., Crosby, C.P., and Selig, M.S., "High Downforce Airfoils in Ground Effect Part 2: A Trade Study for Use in Open-Wheeled Race-Car Front-Wing Design," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 99-04, UILU-ENG-99-0504, prepared for Newman-Haas Racing, Lincolnshire, IL, April 1999, CD-ROM format.
+Carroll, C.A., Lyon, C.A, and Selig, M.S., "High Downforce Airfoils in Ground Effect Part 1: A Trade Study for Use in Open-Wheeled Race-Car Front-Wing Design," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 99-03, UILU-ENG-99-0503, prepared for Newman-Haas Racing, Lincolnshire, IL, November 1998, approx. 120 pages.
+Gopalarathnam, A. and Selig, M.S., "Design of an Airfoil for the AeroVironment Centurion Pods," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 98-09, UILU-ENG-98-0509, prepared for AeroVironment, Monrovia, CA, November 1998, 19 pages.
+Giguère, P. and Selig, M.S., "Design of a Tapered and Twisted Blade for the NREL Combined Experiment Rotor," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, prepared under the National Renewable Energy Laboratory Subcontract No. XAF-4-14076-03, March 1998, 22 pages. Also, NREL/SR-500-26173, Golden, CO, April 1999.
+Whale, J., Giguère, P., and Selig, M.S., "Wind Turbines for Electric Power Generation: A Critical Analysis," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 98-08, UILU-ENG-98-0508, prepared for Caterpillar, Inc, Peoria, IL, July 1998, 14 pages.
+Selig, M.S. and Lyon, C.A., "Pathfinder Airfoil Tests: Addendum," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 98-03, UILU-ENG-98-0503, prepared for AeroVironment, Inc., Monrovia, CA 91016, February 1998, 89 pages. 
+Selig, M.S. and Lyon, C.A., "Centurion Airfoil Tests," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 98-02, UILU-ENG-98-0502, prepared for AeroVironment, Inc., Monrovia, CA, February 1998, 226 pages. 
+Giguère, P. and Selig, M.S., "Aerodynamic Blade Design for the WindLite 8-kW Wind Turbine," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 98-01, UILU-ENG-98-0501, prepared for WindLite Company, Inc, January 1998, 25 pages. 
+Page, G. S., Bovias, C., Selig, M., and Vargas, W., (eds.), "Compilation of the Final Reports for the AIAA Design/Build/Fly Competition," AIAA, New York, NTIS Accession Number: AD-A329 477/4/XAB, August 1997, 481 pages.
+Selig, M.S. and Lyon, C.A., "Pathfinder Airfoil Tests," University of Illinois at Urbana-Champaign, Dept. of Aeronautical and Astronautical Engineering, AAE 96-11, UILU-ENG-96-0511, prepared for AeroVironment, Inc., Monrovia, CA 91016, September 1996, 155 pages. 
+Click for more
+Other Scholarly Activities
+Reviewer, Aerospace Science and Technology
+Reviewer, AIAA Journal of Aircraft 
+Reviewer, AIAA Journal of Spacecraft and Rockets
+Reviewer, AIAA Journal
+Reviewer, AIAA Progress in Aeronautics and Astronautics	  
+Reviewer, ASME Journal of Fluids Engineering
+Reviewer, ASME Journal of Solar Energy Engineering	
+Reviewer, Computers and Fluids	
+Reviewer, Experiments in Fluids	
+Reviewer, Interface Focus
+Reviewer, International Journal of Intelligent Unmanned Systems
+Reviewer, International Journal of Micro Air Vehicles
+Reviewer, Journal of Aerospace Engineering
+Reviewer, Journal of Applied Mechanics
+Reviewer, Journal of Applied Polymer Science
+Reviewer, Journal of Fluid Mechanics
+Reviewer, Journal of Numerical Methods in Fluids
+Reviewer, Journal of the Royal Society Interface
+Reviewer, Journal of Wind Engineering & Industrial Aerodynamics
+Reviewer, Mathematical and Computer Modelling
+Reviewer, Nature
+Reviewer, The Aeronautical Journal
+Reviewer, Wind Energy
+Reviewer, Wind Energy (Editorial Board 1998-2007)
+Reviewer, AFOSR BAA (proposals)
+Reviewer, AIAA Conference Papers
+Reviewer, AIAA/ASME Wind Energy Conference Papers	
+Reviewer, Australian Research Council (proposals)
+Reviewer, Cambridge University Press
+Reviewer, Department of Energy (proposals)
+Reviewer, Elsevier Science Limited     
+Reviewer, Elsevier/Butterworth-Heinemann Publishers  
+Reviewer, John Wiley and Sons, Inc
+Reviewer, National Renewable Energy Laboratory (reports)
+Click for more
+Teaching Honors
+Engineering Council Award for Excellence in Advising, University of Illinois at Urbana-Champaign (2010)
+List of Teachers Ranked Excellent by Their Students, University of Illinois at Urbana-Champaign (2005)
+
+Research Honors
+American Institute of Aeronautics and Astronautics Aerodynamics Award (2014)
+Associate Fellow, American Institute of Aeronautics and Astronautics (2013)
+American Institute of Aeronautics and Astronautics Co-Founder Award for the AIAA Design/Build/Fly Competition (2007)
+LSF Le Gray Award for Outstanding Service to Soaring (2005)
+American Wind Energy Association (AWEA) Wind Energy Academic Award (2002)
+NASA TGIR Award "Revolutionize Aviation" to Aircraft Icing Research Team (AGATE)
+ (2001)
+Sigma Gamma Tau Aerospace Engineering National Honor Society (Inducted 1999)
+Technical Chair, Applied Aerodynamics, American Institute of Aeronautics and Astronautics 35th Aerospace Sciences Meeting (1997)
+UIUC Campus Research Board Award (1994)
+Department of Energy Summer Faculty Fellowship Award (1993)
+Click for more
+
+Recent Courses TaughtAE 416 - Applied Aerodynamics
+
+
+
+
+
+
+
+
+

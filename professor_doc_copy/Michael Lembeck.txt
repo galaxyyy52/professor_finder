@@ -1,0 +1,101 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Michael Lembeck 
+
+
+
+Associate Professor of Practice
+(217) 300-8009
+mlembeck@illinois.edu
+211 Talbot Laboratory
+
+
+
+For More Information
+Laboratory for Advanced Space Systems at Illinois (LASSI)
+Video: Aerospace Engineering Faculty in Focus: Michael Lembeck
+
+BiographyMichael F. Lembeck (B.S. '80, M.S. '81, Ph.D., '91 UIUC) is a Clinical Associate Professor in Aerospace Engineering. Dr. Lembeck has led or worked on multiple government and commercial spaceflight programs, including JPL's Galileo Jupiter Orbiter, Space Industries, Inc.'s Wake Shield Facility, Orbital Sciences' OrbView/Warfighter commercial remote sensing programs, and the Northrop/Boeing CEV and Boeing commercial crew programs.As the Requirements Division Director for the Exploration Systems Mission Directorate at NASA Headquarters, Dr. Lembeck participated in the formulation of President Bush's Vision for Space Exploration and managed the original development of requirements for the Constellation/Orion program. Dr. Lembeck is an Associate Fellow of the AIAA and the Director of the Laboratory for Advanced Space Systems at Illinois (LASSI).
+Student Organizations
+Illinois Space Society NASA Micro-G Next Program Advisor
+
+Design Teams
+NASA RASC-AL Project Team Co-advisor
+
+
+Research Interests
+Unidentified Anomalous Phenomena Detection, Characterization, and Evaluation
+Space Systems Engineering
+Low cost, high performance CubeSat systems development
+
+
+Research Areas
+Space Systems 
+
+
+Articles in Conference Proceedings
+Young, C., Alpine, P., Lembeck, M., Estrada, J., "Preliminary Design of the DarkNESS Observatory for Fermi National Accelerator Laboratory", 37th Small Satellite Conference, Utah State University, Aug. 5-10, 2023.
+Naldoza, V.G,  Power, L., Bahlous-Boldi. A.,  Zosky, M., Lembeck, M. Walsh, B., " Measuring Solar Irradiance Variability with GISSMO," AGU Fall Meeting, December 12-16, 2022.
+Auster, A., Bojinov, B., Kesarwani, S., Sieck, G., Shah, R., Odeen, M., McCarthy, S., Frankenthor, M., Patel, K., Davis, G., Samhouri, F., Lim, E., Dayal, G., Lauer, B., Arostegui, A., Bansal, I., Wang, A., Kosiarz, J., Mihevc, Z., Raju, A., Moy, K., Porwal, A., Kulcsar, A., Palmowski, J., Lembeck, M., Putnam, Z., and Hou, L., "Mars Ice Thermal Harvesting Rig & ISRU Laboratory (MITHRIL)," AIAA ASCEND 2022, Las Vegas, NV, Oct 24-26, 2022.
+Sultana, N, Krynski, j., Lim, J., Floyd, J., Power, L., Lembeck, M., Makarov, V., Kwiat, P., Jennewein, T., “CubeSat Single-Photon Detector Module for Performing In-Orbit Laser Annealing To Heal Radiation Damage,” 36th Annual Small Satellite Conference, Logan, UT, Aug 6-11, 2022
+Dimon, W., Van Stralen, N., Nigam, R., Chase, N., Tran, H., Lembeck, M., "D-AnoGAN: Anomaly Detection in Disconnected Data Manifolds with Generative Adversarial Networks," IEEE World Congress on Computational Intelligence, Padua, Italy, July 18-23, 2022.
+Reiley, K., Burghardt, M., Wood, M., Ingham, J., and Lembeck, M.F. “Preliminary Design of the Boeing Commercial Crew Transportation System.”
+AIAA Space 2012, Pasadena, CA., Sept 11-Sep 13, 2012.
+Lembeck, M.F. "Fuzzy Logic Control of the Commercial Refrigeration/Incubation Module (CRIM)." AIAA Computers in Aerospace IX, AIAA#93-4613,
+San Diego, CA, October 19-21,1993.
+Click for more
+Refereed Conference Papers and Presentations
+Kelsey Ortiz, Michael Lembeck, Thomas Jennewein, Alexander Ling, Phil Battle, Paul Kwiat, Makan Mohageg, "SEAQUE: Satellite Entanglement and Annealing Quantum Experiment ," 11th Annual International Space Station Research and Development Conference (ISSRDC),  Wash, DC, July 25-28, 2022.
+
+Nigar Sultana, Thomas Jennewein, Paul Kwiat, Joanna Krynski, Logan Power, Michael Lembeck, Jin Gyu Lim, Vadim Makarov, “CubeSat single-photon detector module for performing in-orbit laser annealing to heal radiation damage,“ 36th Annual Small Satellite Conference, Logan, UT, Aug 6-11, 2022.
+
+Magazine Articles
+Lembeck, M., Graves, R. "An Open Minded Approach to UAP,"  Merged Podcast, Aug 15, 2023.
+Lembeck, M.F. “Why Space Exploration is Important to the United States.” adAstra OnLine, The Magazine of the National Space Society, June 15,
+2006.
+
+Professional Societies
+Co-chair, AIAA Unidentified Anomalous Phenomena Integration and Outreach Committee, 2023
+
+Honors
+NASA Group Achievement Award for Galileo Orbiter Design, Development, and Test (1991)
+National Space Society’s Ad Astra magazine Top 25 “Rising Stars in Space.” (1994)
+University of Illinois at Urbana-Champaign Aeronautical and Astronautical Engineering Department Outstanding Recent Alumnus (1995)
+NASA Medal for Exceptional Engineering Achievement (2005)
+University of Illinois at Urbana-Champaign Aerospace Department Distinguished Alumnus Award (2018)
+
+
+Recent Courses TaughtAE 199 SAT - Intro to CubeSat Development
+AE 442 S1 (AE 442 S2) - Aerospace Systems Design I
+AE 443 S1 - Aerospace Systems Design II
+AE 498 IHS (AE 498 SDI) - Spacecraft Design Integration
+ENG 491 CU1 - Nanosatellite Design Build 1
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+ 
+
+
+Pramod Viswanath he/him/his
+
+
+Administrative TitlesGilmore Family Endowed Professorship
+
+Professor Emeritus
+
+pramodv@illinois.edu
+ 
+
+
+
+For More Information
+ Prof. Viswanath's Home Page 
+
+Education
+Doctor of Philosophy, Major: Electrical Engineering and Computer Science, University of California at Berkeley, 2000
+
+Research StatementMy area of research is Wireless Communication Networks. My main research interests are in understanding fundamental limitations to reliable wireless communication and to leverage this understanding into engineering solutions for wireless networks. An important component of my research is to take a system view of wireless communication by a joint consideration of networking and medium access issues with the underlying time-varying wireless channel.More broadly, I am interested in understanding fundamental limitations to network information transmission and representation. Some of our recent research resolves decades-long open problems in optimal network information compression.My publications provide a finer look at the nature of my research interests and the engineering scope of contributions.
+Research Interests
+Wireless Communication, Information Theory, Cryptocurrencies
+
+
+Research Areas
+Communication networks
+Communications
+Information theory
+Wireless communication systems
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Machine learning
+Network science and engineering
+Speech, language, and audio processing
+Click for more
+Honors
+Associate Editor for Communications at the IEEE Transactions on Information Theory, 2006-2008.
+NSF CAREER Award, 2003
+Bernard Friedman Prize, Department of Mathematics,
+University of California at Berkeley, 2000
+Eliahu Jury Award, Department of EECS,
+University of California at Berkeley, 2000
+Motorola Gold Medal,
+Indian Institute of Science, 1995
+M R Khambati Gold Medal,
+Indian Institute of Science, 1995
+Click for more
+Teaching Honors
+Present in the "an incomplete list of teachers ranked as excellent by their students" for  the semesters of Fall 2003, Fall 2007, Spring 2008, Fall 2011. 
+
+
+
+Recent Courses TaughtECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 398 BD - Making Sense of Big Data
+ECE 461 - Digital Communications
+ECE 598 PV - Learning: Algorithms & Models
+
+
+
+
+
+
+
+Related News
+
+
+Miller and Viswanath lead effort to design cryptocurrency surpassing Bitcoin
+
+
+Viswanath aims to create new blockchain technology that imitates human-like trust
+
+
+Professors receive grant to develop protocols to preserve cyber anonymity
+
+
+ECE researchers among the "most cited" in engineering
+
+
+Kairouz presented with Sigmetrics Best Paper Award for research on anonymous social networks
+
+
+Mu wins $15,000 Microsoft Graduate Research Women's Scholarship
+
+
+
+
+
+
+
+

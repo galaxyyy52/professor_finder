@@ -1,0 +1,132 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Frank J Brooks 
+
+
+
+
+
+
+
+
+
+fjb@illinois.edu
+ 
+
+
+
+
+
+Overview
+Publications
+
+
+
+
+Education
+Ph.D. in Physics, Washington University in St. Louis, 2008
+M.Sc. in Physics, University of Missouri, 2001
+B.A. in Mathematics, University of St. Louis , 1999
+A.A. in Mathematics, St. Louis Community College at Florissant Valley, 1996
+
+Academic Positions
+Research Assistant Professor, Bioengineering, University of Illinois Urbana-Champaign, 2019 - present
+Research Assistant Professor, Department of Biomedical Engineering, Washington University in Saint Louis, 2017-2019
+Research Instructor, Department of Radiology, Washington, 2014-2017
+Research Instructor, Department of Radiation Oncology, Washington, 2013-2014
+Postdoctoral Researcher, Department of Radiation Oncology, Washington, 2010-2013
+Postdoctoral Researcher, Department of Physics, Washington University in Saint, 2008-2009
+Instructor, Washington University in Saint Louis, (Physics, Calculus, Python Programming), 2009, 2012, 2015-2016
+Instructor,  St. Louis Community College at Florissant Valley (Calculus, Physics, Linear Algebra), 2002-2003, 2006, 2008-2010
+Click for more
+Other Professional Activities
+Reviewer for: IEEE-Transactions on Medical Imaging, Journal of Medical Imaging, Medical Physics, Nature: Scientific Reports, Journal of Nuclear Medicine, Nuclear Medicine Communications, Pattern Recognition Letters, Physica Medica, Journal of the Royal Statistical Society
+
+Professional Societies
+American Statistical Association
+
+Service on Department Committees
+Authored an Investment for Growth Proposal which was recommended for funding to develop the online 'AI in Medicine' course.
+Faculty Search Committee, 2020
+
+Service on College Committees
+Carle - Illinois AI Working Group Member since 2020
+
+Service on Campus Committees
+COVID-19 Research Oversight Committee (C-ROC)
+University of Illinois Faculty Senate 2021 - 2023
+
+
+
+
+
+Selected Articles in Journals
+Deshpande R, Avachat A, Brooks FJ, Anastasio MA. "Investigating The Robustness of A Learning-Based Method for Quantitative Phase Retrieval from Propagation-Based X-Ray Phase Contrast Measurements under Laboratory Conditions" Phys Med Biol Accepted but not yet catalogued (2023).
+Kelkar V, Gotsis DS, Brooks FJ, KC P, Myers KJ, Zeng R, Anastasio MA. "Assessing the ability of generative adversarial networks to learn canonical medical image statistics." IEEE  Trans Med Imag Accepted; Early Online Publication (2023). doi: 10.1109/TMI.2023.3241454.
+Deshpande R, Anastasio MA, Brooks FJ. "Evaluating the capacity of deep generative models to reproduce measurable high-order spatial arrangements in diagnostic images." In Medical Imaging 2022: Image Processing, vol. 12032, pp. 521-526. SPIE, (2022).
+Park S, Brooks FJ, Villa U, Su R, Anastasio MA, Oraevsky AA, "Normalization of optical fluence distribution for three-dimensional functional optoacoustic tomography of the breast," J. Biomed. Opt. 27(3) 036001 (2022).
+Zhou W, Bhadra S, Brooks FJ, Li H, Anastasio MA, "Learning stochastic object models from medical imaging measurements by use of advanced ambient generative adversarial networks," J. Med. Imag. 9(1), 015503 (2022).
+Bhadra S, Kelkar VA, Brooks FJ, Anastasio MA. On hallucinations in tomographic image reconstruction. (2021) IEEE Trans Med Imaging. 40(11) (2021).
+Shihab Uddin KM, Zhang M, Brooks F, Anastasio M, Zhu Q, "Improved breast cancer diagnosis using ultrasound guided diffuse optical tomography" Optics InfoBase Conference Papers. Part F178-Translational-2020 (2020)
+Bhadra S, Kelkar V, Brooks FJ and Anastasio MA, "Assessing Regularization in Tomographic Imaging via Hallucinations in The Null Space", Proceedings of SPIE on Medical Imaging (2020).
+Zhou W, Bhadra S, Brooks FJ, Li H and Anastasio MA, "Progressively-Growing AmbientGANs For Learning Stochastic Object Models From Imaging Measurements", Proceedings of SPIE on Medical Imaging (2020).
+Brooks FJ, Gunsten SP, Vasireddi SK, Brody SL, Anastasio MA: Using the Image Texture Observed in X-ray Phase-contrast-enhanced Projection Images of in vivo Mouse Lungs to Predict Inï¬‚ation Pressure. Phys Reports: 7(16) e14208 (2019)
+Chen DL, Huang HJ, Byers DE, Shifren A, Engle JT, Arentson E, Kemp D, Phillips S, Fujiwara H, Scherrer DE,  Spayd KJ, Brooks FJ, Pierce RA, Castro M, Isakow W: The Peroxisome Proliferator-Activated Receptor Agonist Pioglitazone and 5-Lipoxygenase Inhibitor Zileuton Have No Effect on Lung Inï¬‚ammation in Healthy Volunteers as Detected by Positron Emission Tomography PLoS One 13(2): e0191783 (2017)
+Michel LS, Dyroff S, Brooks FJ, Spayd KJ, Lim S, Engle JT, Phillips S, Tan B, Wang-Gillam A, Bognar C, Chu W, Zhou D, Mach RH, Laforest R, Chen DL: Imaging poly(ADP-ribose) polymerase activity in cancer with positron emission tomography: Preclinical assessment and ï¬rst-in-human studies. Radiology 282:453-463 (2017)
+Brooks FJ, Grigsby PW: Low-order non-spatial effects dominate second-order spatial effects in the texture quantiï¬er analysis of 18F-FDG-PET images PLoS ONE 10(2): e0116574 (2015)
+Brooks FJ, Grigsby PW: The Effect of Small Tumor Volumes on Studies of Intra-tumoral Heterogeneity of Tracer Uptake J Nuc Med 55:37-42 (2014)
+Brooks FJ, Grigsby PW: FDG uptake heterogeneity in FIGO IIb cervical carcinoma does not predict pelvic lymph node involvement Radiat Oncol 8:294 (2013)
+Brooks FJ: Area under the cumulative SUV volume histogram is not a viable metric of intratumoral metabolic heterogeneity: further comments [Letter-to-the-editor]. Eur J Nucl Med Mol Imaging. 40(12):1926-1927 (2013)
+Brooks FJ: On some misconceptions about tumor heterogeneity quantiï¬cation [Letter-to-the-editor]. Eur J Nucl Med Mol Imaging. 40(8):1292-4 (2013)
+Brooks FJ, Grigsby PW: Quantiï¬cation of Heterogeneity Observed in Medical Images. BMC Med Imaging 13(1):7 (2013)
+Brooks FJ, Grigsby PW: Current Measures of Metabolic Heterogeneity Within Cervical Cancer Do Not Predict Disease Outcome. Radiat Oncol 6:69 (2011)
+Brooks FJ, Carlsson AE: Actin Polymerization Overshoots Induced by Plus-end Capping. Phys Biol 7:016008 (2010)
+Brooks FJ, Carlsson AE: Nonequilibrium Actin Polymerization Treated by a Truncated Rate-equation Method. Phys Rev E 79:031914 (2009)
+Brooks FJ, Carlsson AE: Actin Polymerization Overshoots and ATP Hydrolysis as Assayed by Pyrene Fluorescence. Biophys J 95(3) 1050-1062 (2008)
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+$1.7 million NIH grant awarded to bioengineering research team for development of new computational tools 
+
+
+Investigating medical imaging hallucinations
+
+
+University of Illinois Urbana-Champaign launches first-of-its-kind AI in Medicine Certificate program for healthcare professionals 
+
+
+New X-ray imaging facility opens at Beckman Institute
+
+
+Bioengineering welcomes three research faculty
+
+
+
+
+
+
+
+

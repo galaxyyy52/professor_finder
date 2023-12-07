@@ -1,0 +1,178 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Alexandre Tartakovsky 
+
+
+
+
+
+
+Professor
+
+
+(217) 300-2249
+amt1998@illinois.edu
+3026 Civil Eng Hydrosystems Lab
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaWater Resources Engineering and Science
+Research Areas
+Water Resources Engineering and Science
+
+Education
+M.Sc., Department of Mathematics and Mechanics, Kazan State University, Russia, Applied Mathematics/Fluid Mechanics (1994)
+Ph.D., Department of Hydrology and Water Resources, The University of Arizona, Tucson, Hydrology (2002)
+
+Academic Positions
+Associate Professor, University of South Florida, School of Geosciences, Department of Mathematics and Statistics, Tampa, FL (2013-2014)
+Professor, University of Illinois at Urbana-Champaign, Department of Civil and Environmental Engineering, Urbana, IL (2019-present) 
+
+Other Professional Employment
+Graduate Research Assistant/Associate, Department of Hydrology and Water Resources, University of Arizona, Tucson, AZ. (1998-2002)
+Post Doctoral Researcher, Idaho National Engineering and Environmental Laboratory, Subsurface Science Initiative, Idaho Falls, ID. (2002-2004)
+Scientist, Pacific Northwest National Laboratory, Computational Science and Mathematics, Richland, WA. (2004-2014)
+Associate Division Director for Computational Mathematics, Advanced Computing, Mathematics and Data Division, Pacific Northwest National Laboratory, Richland, WA. (2014-2019)
+
+Professional Societies
+Society for Industrial and Applied Mathematicians (SIAM)
+American Geophysical Union (AGU)
+
+
+
+Research Interests
+Inference abd parameter estimation
+Multiscale modeling
+Uncertainty quantification
+Physics-informed machine learning
+Pore-scale multiphase flow and reactive transport
+Subsurface flow and transport
+Click for more
+Research StatementTartakovsky's research interests are at the intersection of flow and transport of contaminants, groundwater-surface water interactions and scientific machine learning.
+Primary Research AreaWater Resources Engineering and Science
+Research Areas
+Water Resources Engineering and Science
+
+
+
+Selected Articles in Journals
+QiZhi He, Panos Stinis, and Alexandre M. Tartakovsky. Physics-constrained deep neural network method for estimating parameters in a redox flow battery. Journal of Power Sources, 528:231147, 2022
+QiZhi He and Alexandre M. Tartakovsky. Physics-informed neural network method for forward and backward advection-dispersion equations. Water Resources Research, 57(7):e2020WR029479, 2021. e2020WR029479 2020WR029479
+Brandon Reyes, Amanda A. Howard, Paris Perdikaris, and Alexandre M. Tartakovsky. Learning unknown physics of non-newtonian fluids. Phys. Rev. Fluids, 6:073301, Jul 2021
+Kailai Xu, Alexandre M. Tartakovsky, Jeff Burghardt, and Eric Darve. Learning viscoelasticity models from indirect data using deep neural networks. Computer Methods in Applied Mechanics and Engineering, 387:114124, 2021
+Xiu Yang, Guzel Tartakovsky, and Alexandre M. Tartakovsky. Physics information aided kriging using stochastic simulation models. SIAM Journal on Scientific Computing, 43(6):A3862–A3891, jan 2021 
+Brandon C Reyes, Irene Otero-Muras, Michael T Shuen, Alexandre M Tartakovsky,and Vladislav A Petyuk. CRNT4SBML: a Python package for the detection of bistability in biochemical reaction networks. Bioinformatics, 36(12):3922-3924, 05 2020
+A. M. Tartakovsky, C. Ortiz Marrero, Paris Perdikaris, G. D. Tartakovsky, and D. Barajas- Solano. Physics-informed deep neural networks for learning parameters and constitutive rela- tionships in subsurface flow problems. Water Resources Research, 56(5):e2019WR026731, 2020. 
+Jing Li and Alexandre M. Tartakovsky. Gaussian process regression and conditional polynomial chaos for parameter estimation. Journal of Computational Physics, page 109520, 2020
+QiZhi He, David Barajas-Solano, Guzel Tartakovsky, and Alexandre M. Tartakovsky. Physics-informed neural networks for multiphysics data assimilation with application to subsurface trans- port. Advances in Water Resources, page 103610, 2020
+Erin Arai, Alexandre Tartakovsky, R. Glynn Holt, Sheryl Grace, and Emily Ryan. Comparison of surface tension generation methods in smoothed particle hydrodynamics for dynamic systems. Computers & Fluids, 203:104540, 2020
+Ramakrishna Tipireddy, David A. Barajas-Solano, and Alexandre M. Tartakovsky. Conditional Karhunen-Lo`eve expansion for uncertainty quantification and active learning in partial differential equation models. Journal of Computational Physics, 418:109604, 2020
+Peiyuan Gao, Xiu Yang, and Alexandre M. Tartakovsky. Learning coarse-grained potentials for binary fluids. Journal of Chemical Information and Modeling, 07 2020
+Amanda A. Howard and Alexandre M. Tartakovsky. Non-local model for surface tension in fluid-fluid simulations. Journal of Computational Physics, 421:109732, 2020
+Alexandre M. Tartakovsky and David Barajas-Solano. Explaining persistent incomplete mixing in multicomponent reactive transport with eulerian stochastic model. Advances in Water Resources, 145:103729, 2020
+A.M. Tartakovsky, D.A. Barajas-Solano, and Q. He. Physics-informed machine learning with conditional karhunen-lo`eve expansions. Journal of Computational Physics, 426:109904, 2021
+Amanda A. Howard and Alexandre M. Tartakovsky. A conservative level set method for n- phase flows with a free-energy-based surface tension model. Journal of Computational Physics, 426:109955, 2021
+E. Shigorina, F. Ru ̈diger, A. M. Tartakovsky, M. Sauter, and J. Kordilla. Multiscale smoothed particle hydrodynamics model development for simulating preferential flow dynamics in fractured porous media. Water Resources Research, 57(3):e2020WR027323, 2021. e2020WR027323 2020WR027323
+Jannes Kordilla, Marco Dentz, and Alexandre M. Tartakovsky. Numerical and analytical modeling of flow partitioning in partially saturated fracture networks. Water Resources Research, 57(4):e2020WR028775, 2021. e2020WR028775 2020WR028775
+Timothy D. Scheibe, Ellyn M. Murphy, Xingyuan Chen, Amy K. Rice, Kenneth C. Carroll, Bruce J. Palmer, Alexandre M. Tartakovsky, Ilenia Battiato, and Brian D. Wood. An analysis platform for multiscale hydrogeologic modeling with emphasis on hybrid multiscale methods. Groundwater, 53(1):38{56, 2015
+X. Yang, Y. Mehmani, W. A. Perkins, A. Pasquali, M. Schonherr, K. Kim, M. Perego, M. L. Parks, N. Trask, M. T. Balho, M. C. Richmond, M. Geier, M. Krafczyk, Li-Shi Luo, A. M. Tartakovsky, and T. D. Scheibe. Intercomparison of 3D pore-scale flow and solute transport simulation methods. Advances in Water Resources, 95:176-189, 2016
+Jinwang Tan, Alexandre M. Tartakovsky, Kim Ferris, and Emily M. Ryan. Investigating the effects of anisotropic mass transport on dendrite growth in high energy density lithium batteries. Journal of The Electrochemical Society, 163(2):A318-A327, 2016
+Alexandre M. Tartakovsky and Alexander Panchenko. Pairwise force smoothed particle hydrodynamics model for multiphase flow: Surface tension and contact line dynamics. Journal of Computational Physics, 305:1119-1146, 2016
+Uditha C. Bandara, Bruce J. Palmer, and Alexandre M. Tartakovsky. Effect of wettability alteration on long-term behavior of fluids in subsurface. Computational Particle Mechanics, 1-13, 2016
+David A. Barajas-Solano and Alexandre M. Tartakovsky. Probabilistic density function method for nonlinear dynamical systems driven by colored noise. Phys. Rev. E, 93:052121, May 2016
+Bowen Ling, Alexandre M. Tartakovsky, and Ilenia Battiato. Dispersion controlled by permeable surfaces: surface properties and scaling. Journal of Fluid Mechanics, 801:13-42, 8 2016
+Huan Lei, Nathan A. Baker, Lei Wu, Gregory K. Schenter, Christopher J. Mundy, and Alexandre M. Tartakovsky. Smoothed dissipative particle dynamics model for mesoscopic multiphase flows in the presence of thermal fluctuations. Phys. Rev. E, 94:023304, Aug 2016
+David A. Barajas-Solano and A. M. Tartakovsky. Hybrid multiscale finite volume method for advection-diffusion equations subject to heterogeneous reactive boundary conditions. Multiscale Modeling & Simulation, 14(4):1341-1376, 2016
+Wenxiao Pan, Kyungjoo Kim, Mauro Perego, Alexandre M Tartakovsky, and Michael L Parks. Modeling electrokinetic flows by consistent implicit incompressible smoothed particle hydrodynamics. Journal of Computational Physics, 334:125-144, April 2017
+Bowen Ling, Jie Bao, Mart Oostrom, Ilenia Battiato, and Alexandre M. Tartakovsky. Modeling variability in porescale multiphase flow experiments. Advances in Water Resources, 105:29-38, 2017
+Elena Shigorina, Jannes Kordilla, and Alexandre M. Tartakovsky. Smoothed particle hydrodynamics study of the roughness effect on contact angle and droplet flow. Physical Review E, 6(3):033115, 2017
+R. Tipireddy, P. Stinis, and A.M. Tartakovsky. Basis adaptation and domain decomposition for steady-state partial differential equations with random coefficients. Journal of Computational Physics, 351(Supplement C):203-215, 2017
+A. M. Tartakovsky, M. Panzeri, G. D. Tartakovsky, and A. Guadagnini. Uncertainty quantification in scale-dependent models of flow in porous media. Water Resources Research, 53:9392-9401, 2017
+Zhijie Xu and Alexandre M. Tartakovsky. Method of model reduction and multifidelity models for solute transport in random layered porous media. Physical Review E, 96(3):033314, September 2017
+Jannes Kordilla, Torsten Noffz, Marco Dentz, Tobias Geyer, and Alexandre M. Tartakovsky. Effect of unsaturated flow modes on partitioning dynamics of gravity-driven flow at a simple fracture intersection: Laboratory study and three-dimensional smoothed particle hydrodynamics simulations. Water Resources Research, 53(11):9496-9518, 2017
+W. S. Rosenthal, Z. Huang, and A. M. Tartakovsky. Ensemble Kalman filter for dynamic state estimation of power grids stochastically driven by time-correlated mechanical input power. IEEE Transactions on Power Systems, PP(99):1-1, 2017
+R Tipireddy, P Stinis, and A.M. Tartakovsky. Stochastic basis adaptation and spatial domain decomposition for partial dierential equations with random coecients. SIAM/ASA Journal on Uncertainty Quantification, 6(1):273-301, 2018
+David A. Barajas-Solano and Alexandre M. Tartakovsky. Probability and cumulative density function methods for the stochastic advection-reaction equation. SIAM/ASA Journal on Uncertainty Quantification, 6(1):180-212, 2018
+Bowen Ling, Mart Oostrom, Alexandre M. Tartakovsky, and Ilenia Battiato. Hydrodynamic dispersion in thin channels with micro-structured porous walls. Physics of Fluids, 30(7):076601, 2018
+Long Pan, Peiyuan Gao, Elena Tervoort, Alexandre Tartakovsky, and Markus Niederberger. Surface energy-driven ex-situ hierarchical assembly of low-dimensional nanomaterials on graphene aerogels: A versatile strategy. Journal of Materials Chemistry A, 6:18551-18560, 2018
+X. Yang, W. Li, and A. Tartakovsky. Sliced-inverse-regression{aided rotated compressive sensing method for uncertainty quantification. SIAM/ASA Journal on Uncertainty Quantification, 6(4):1532-1554, 2018
+Elena Shigorina, Alexandre Tartakovsky, and Jannes Kordilla. Investigation of gravity-driven infiltration instabilities in smooth and rough fractures using a pairwise-force smoothed particle hydrodynamics model. Vadose Zone Journal, Doi: 10.2136/vzj2018.08.0159, 2019
+Daniel Dylewsky, Xiu Yang, Alexandre Tartakovsky, and J Nathan Kutz. Engineering structural robustness in power grid networks susceptible to community desynchronization. Applied Network Science, 4(1):24, 2019
+Xiu Yang, David Barajas-Solano, Guzel Tartakovsky, and Alexandre M. Tartakovsky. Physics informed coKriging: A Gaussian-process-regression-based multifidelity method for data-model convergence. Journal of Computational Physics, 395:410-431, 2019
+D.A. Barajas-Solano and A.M. Tartakovsky. Approximate Bayesian model inversion for PDEs with heterogeneous and state-dependent coefficients. Journal of Computational Physics, 395:247-262, 2019
+Panos Stinis, Tobias Hagge, Alexandre M. Tartakovsky, and Enoch Yeung. Enforcing constraints for interpolation and extrapolation in generative adversarial networks. Journal of Computational Physics, 397:108844, 2019
+Click for more
+Abstracts (in print or accepted)
+Tartakovsky, A.M. and Barajas-Solano, D.A., 2019, December. Model inversion via conditioned Karhunen-Loève expansions. In AGU Fall Meeting Abstracts (Vol. 2019, pp. H31K-1864).
+Kordilla, J., Dentz, M. and Tartakovsky, A., 2020, May. Partitioning of preferential flows in fracture networks: Smoothed Particle Dynamics simulations and analytical modeling of infiltration dynamics. In EGU General Assembly Conference Abstracts (p. 22595).
+He, Q. and Tartakovsky, A.M., 2020, December. Applying Convex Weighting Physics-Informed Neural Networks to Subsurface Modeling and Characterization Problems. In AGU Fall Meeting Abstracts (Vol. 2020, pp. H036-0003).
+Kordilla, J., Dentz, M. and Tartakovsky, A.M., 2021, April. Flow partitioning in partially saturated fracture networks: Relation between dispersive properties and internal fracture geometry. In EGU General Assembly Conference Abstracts (pp. EGU21-12255).
+Tartakovsky, A.M., Yeung, Y.H. and Barajas-Solano, D.A., 2021, December. Physics-Informed Machine Learning Method for Large-Scale Data Assimilation Problems. In AGU Fall Meeting 2021. AGU.
+Kohanpur, A.H., Tartakovsky, A.M., Saksena, S., Dey, S., Johnson, M., Yeghiazarian, L. and Riasi, M.S., 2021, December. Parametric Uncertainty Quantification in Urban Flooding Models. In AGU Fall Meeting 2021. AGU.
+Click for more
+Pending Articles
+1.	Brandon Reyes, Amanda A Howard, Paris Perdikaris, and Alexandre M Tartakovsky. Learning unknown physics of non-Newtonian fluids. Physical Review Fluids
+Tong Ma, Renke Huang, David Barajas-Solano, Ramakrishna Tipireddy, and Alexandre M. Tartakovsky. Electric load and power forecasting using ensemble Gaussian process regression. arXiv preprint arXiv:1910.03783, 2019
+Ramakrishna Tipireddy, Paris Perdikaris, Panos Stinis, and Alexandre Tartakovsky. A comparative study of physics-informed neural network models for learning unknown dynamics and constitutive relations. arXiv preprint arXiv:1904.04058, 2019
+Xiu Yang, Guzel Tartakovsky, and Alexandre Tartakovsky. Physics-informed kriging: A physics-informed Gaussian process regression method for data-model convergence. SIAM Journal on Scientific Computing M121371, arXiv preprint arXiv:1809.03461, 2018
+David Barajas-Solano and Alexandre M. Tartakovsky. Hybrid timestepping scheme for the hybrid multiscale finite volume method. Advances in Water Resources, 2019
+David A. Barajas-Solano and A.M. Tartakovsky. Multivariate Gaussian process regression for multiscale data assimilation and uncertainty reduction. Advances in Water Resources, ADWR-2019-1079(arXiv:1804.06490), 2018
+Ramakrishna Tipireddy and Alexandre Tartakovsky. Physics-informed machine learning method for forecasting and uncertainty quantification of partially observed and unobserved states in power grids. arXiv preprint arXiv:1806.10990, 2018
+Click for more
+
+
+Honors
+George E. P. Smith Graduate Fellowship for AY2000-2001, University of Arizona. (2000)
+2001-2002 John and Margaret Harshbarger Doctoral Fellow in Hydrology and Water Resources, University of Arizona. (2001)
+Outstanding Performance Award, Computational and Information Science Directorate, PNNL (2005)
+Department of Energy (DOE) Office of Science Early Career Award in Science and Engineering. (2008)
+Presidential Early Career Award for Scientists and Engineers. (2008)
+U.S. Department of Energy (DOE) Office of Science Early Career Research Program Award. (2011)
+Click for more
+Other Honors
+National Academy of Sciences Kavli Frontiers of Science Alumni, 2016 German American Frontiers (2016)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+The Future Starts Now, Part 2
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

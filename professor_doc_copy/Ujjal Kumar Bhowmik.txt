@@ -1,0 +1,98 @@
+
+
+
+
+
+
+
+ 
+
+
+Ujjal Kumar Bhowmik 
+
+
+
+Teaching Assistant Professor
+(217) 300-4257
+ubhowmik@illinois.edu
+2054 Electrical & Computer Eng Bldg
+
+
+
+Education
+Ph.D. in Electrical Engineering,
+The University of Alabama in Huntsville (UAH),
+2012
+MSE in Electrical Engineering,
+The University of Alabama in Huntsville (UAH),
+2008
+
+M.Tech in Electrical Engineering,
+Indian Institute of Technology (IIT), Kharagpur, India.
+B.Sc. in Electrical & Electronic Engineering,
+Khulna University of Engineering and Technology (KUET), Bangladesh.
+
+
+
+Selected Articles in Journals
+Ujjal K. Bhowmik, GoutamSaha, AlokBarua and S. Sinha, “On-line Detection of Contamination in a Bioprocess Using Artificial Neural Networks,” Chemical Engineering and Technology, Vol. 23, No. 6, pp. 543-549, June 2000.
+Ujjal K. Bhowmik and Reza R. Adhami, “A Novel Technique for Mitigating Motion Artifacts in 3D Brain Imaging System,” Journal of Scientia Iranica- Elsevier Press. Vol. 20, Issue 3, pp. 746–759, June 2013.
+Ujjal K. Bhowmik, M. Zafar Iqbal and Reza R. Adhami, “Mitigating Motion Artifacts in FDK Based 3D Cone-beam Brain Imaging System using Markers,” Central European Journal of Engineering, SpringerLink, Vol. 2, No. 3, pp.369-382, 2012, (DOI:10.2478/s13531-012-0011-7).
+Ujjal K. Bhowmik, and Reza R. Adhami, “Correlation and Support Vector Machine based Motion Artifacts Mitigation in 3D Computer Tomography,” Journal of X-ray Science and Technology, IOS Press, Vol. 20, No. 2, pp. 141-160, May 2012.
+Jamal Alikhani, Bahareh Shoghli, Ujjal K. Bhowmik, Arash Massoudieh, “An Adaptive Time-Step Backward Differentiation Algorithm to Solve Stiff Ordinary Differential Equations: Application to Solve Activated Sludge Models,” American Journal of Computational Mathematics, Vol. 6, pp. 298-312, November 2016.
+
+Refereed Conference Papers and Presentations
+D. Smith, U.K. Bhowmik, and Y.W. Chen, "Understanding the impacts of extra credit modules on students’ learning experience in a 100-level Electrical and Computer Engineering Course" accepted at the 2023 ASEE Annual Conference & Exposition, Baltimore, June 25 - 28, 2023
+
+I. Alviar, U.K. Bhowmik, Y.W. Chen, "Customizing Learning Paths for Parallel Computing Topics - Curriculum Improvement of Introduction to Programming Course in ECE" accepted to be published at the 2023 ASEE Annual Conference & Exposition, Baltimore, June 25 - 28, 2023
+
+Z. Zhu, U. K. Bhowmik, Y. Wang, Z. Cheng, Y. W. Chen, "Having it All: Infusing Parallel Computational Thinking in the Lower-level Computer Engineering Curriculum Using Extended Learning Modules", in Proc. of the 2021 American Society for Engineering Education Virtual Annual Conference, Jul. 26 – 29, 2021.
+
+Jamal Alikhani, Arash Massoudieh, and Ujjal K. Bhowmik, " GPU-accelerated Solution of Activated Sludge Model's System of ODEs with a High Degree of Stiffness," accepted in The 2016 International Conference on Computational Science and Computational Intelligence, December 15-17, 2016, Las Vegas, USA.
+Ujjal K. Bhowmik, Tyler Cork, and Nick W. Hudyma, "Polynomial regression, Area and Length based filtering to remove misclassified pixels acquired in the crack segmentation process of 2D X-ray CT images of tested plaster specimens," the IEEE CPS - CSCI 2015 Int'l Conference, held in Las-Vegas, Dec 7-9, 2015.
+Dat Tran, Kiet Duong and Ujjal K. Bhowmik, “A VHDL Based Controller Design for Non-contact Temperature and Breathing Sensors Suitable for Crib,” IEEE BIBE 2014, Nov. 10-12, 2014, Florida, USA.
+Ujjal K. Bhowmik, Divya Mandala, Nick W. Hudyma, O. Patrick Kreidl, and Alan Harris “Segmentation of Cracks in X-ray CT Images of Tested Macroporous Plaster Specimens,”  IEEE Southeastcon 2014,  march 13-16, 2014, Lexington, Kentucky, USA. (This paper was awarded as the best technical paper in the conference)
+Ujjal K. Bhowmik, Reza R. Adhami, “A Correlation and LS-VSM based approach to Mitigate Motion Artifacts in FDK Based 3D Cone-beam Tomography,” 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC ’11), August 30 - September 3, 2011, Boston, MA, USA.
+Ujjal K. Bhowmik, Araveti Venkata Sudeepth, Reza R. Adhami “An Innovative  Approach to Reduce Streaking Artifacts  in FDK Based  3D Cone-beam Tomography,”  IEEE Southeastcon 2011,  march 17-21, 2011, Nashville, USA.
+Ujjal K. Bhowmik, Reza R. Adhami, “A Head Motion Measurement System Suitable for 3D Cone-beam
+Tomography Using Markers,” 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC ’12), August 28 - September 1, 2012, San Diego, CA, USA.
+Lightning Talks of EduHPC 2019: EXCELLENCE IN COMPUTER ENGINEERING EDUCATION (EXCEED): INTEGRATING PDC TOPICS IN THE ECE COURSES AT UIUC. Denver, Colorado, Co-located with SC19, Sunday, November 17, 2019. By: Dong San Choi, Yuting Chen, Zuofu Cheng, and Ujjal Bhowmik
+
+Kiet Duong, Dat Tran, and Ujjal K. Bhowmik, "A VHDL Based Controller Design for Photoplethysmography Based Heart Rate Monitoring System," the IEEE CPS - CSCI 2015, held in Las-Vegas, Dec 7-9, 2015.
+Ujjal K. Bhowmik, and  Reza R. Adhami, “Motion Artifacts Compensation in FDK based 3D cone-beam Tomography Using Correlation of X-Ray Projections,” Proceedings of The International Conference on Image Processing, Computer Vision & Pattern Recognition (IPCV 2011), pp. 407-413, July 18-21, 2011,  Las Vegas, USA.
+Ujjal K. Bhowmik, Ashkan Ashrafi, Reza R. Adhami, “A Fingerprint Verification Algorithm Using The Smallest Minimum Sum of Closest Euclidean Distance,” 19th International Conference on Electronics, Communications and Computers (Conielecomp’ 2009), February 26- 28, 2009, Cholula, Puebla Mexico.
+Click for more
+Honors
+Collins Scholar, The Grainger College of Engineering, University of Illinois at Urbana-Champaign (2019-2020)
+
+Strategic Instructional Innovations Program (SIIP) Award 2019
+
+Teaching Honors
+The Kaman Best Teacher Award (2015), School of Engineering, the Catholic University of America, Washington DC.
+
+Research Honors
+Best technical paper award at the IEEE SoutheastCon 2014 International Conference, Lexington, Kentucky. 
+
+Other Honors
+Inducted in Phi Kappa Phi, Honor Society, in 2011.
+
+
+Recent Courses TaughtECE 120 - Introduction to Computing
+ECE 220 - Computer Systems & Programming
+ECE 484 - Principles of Safe Autonomy
+
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

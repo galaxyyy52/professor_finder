@@ -1,0 +1,107 @@
+
+
+
+
+
+
+
+ 
+
+
+ Mark Hasegawa-Johnson he/him/his
+
+
+Administrative TitlesWilliam L. Everitt Faculty Scholar
+
+Professor
+(217) 333-0925
+jhasegaw@illinois.edu
+2011 Beckman Institute
+
+
+
+For More Information
+Statistical Speech Technology Group
+
+
+Education
+Ph.D., Elec. Eng. & Comp. Sc., MIT, 1996
+
+BiographyMark Hasegawa-Johnson has been on the faculty at the University of Illinois since 1999, where he is currently a Professor of Electrical and Computer Engineering.  He received his Ph.D. in 1996 at MIT, with a thesis titled "Formant and Burst Spectral Measures with Quantitative Error Models for Speech Sound Classification," after which he was a post-doc at UCLA from 1996-1999.  Prof. Hasegawa-Johnson is a Fellow of the Acoustical Society of America (2011, for contributions to vocal tract and speech modeling) and a Fellow of the IEEE (2020, for contributions to speech processing of under-resourced languages).  He is currently Senior Area Editor of the IEEE Transactions on Audio, Speech and Language, and a member of the  ISCA Diversity Committee.  He has published 308 peer-reviewed journal articles, patents and conference papers in the general area of automatic speech analysis, including machine learning models of articulatory and acoustic phonetics, prosody, dysarthria, non-speech acoustic events, audio source separation, and under-resourced languages.
+Teaching StatementProfessor Hasegawa-Johnson typically teaches Artificial Intelligence (CS 440/ECE 448), Multimedia Signal Processing (ECE 417), Speech Processing (ECE 537), and Speech and Image Analysis (ECE 401).  He has also taught Digital Signal Processing (ECE 551), Audio Engineering (ECE 403), Pattern Recognition (ECE 544NA), and Probability (ECE 313).
+Research StatementDr. Hasegawa-Johnson's research is focused on the area of automatic speech recognition, with a particular focus on the mathematization of linguistic concepts. In the past five years, Dr. Hasegawa-Johnson's group has developed mathematical models of concepts from linguistics including a rudimentary model of pre-conscious speech perception (the landmark-based speech recognizer), a model that interprets pronunciation variability by figuring out how the talker planned his or her speech movements (tracking of tract variables from acoustics, and of gestures from tract variables), and a model that uses the stress and rhythm of natural language (prosody) to disambiguate confusable sentences. Recent application successes include:* Speech recognition for talkers with cerebral palsy.  The automatic system, suitably constrained, outperforms a human listener.* Retrieval of broadcast television segments in four languages, based on queries specified in the international phonetic alphabet.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took third place in this international competition, and was the only finalist from the United States.* Automatic detection and labeling of non-speech audio events.  The Illinois team, including students of Prof. Hasegawa-Johnson and Prof. Huang, took first place in this international competition.* Teaching Chinese.  Software and methods developed by Prof. Hasegawa-Johnson, together with his colleagues from Linguistics and Psychology, are being tested in Mandarin language classrooms at the University of Illinois.
+Undergraduate Research OpportunitiesProfessor Hasegawa-Johnson typically supervises one or two undergraduate research projects per year, thesis research preferred.  Past student theses include automatic recognition of musical genre, factorial HMMs for the automatic recognition of speech in music backgrounds, prosody-dependent speech recognition, image source modeling of room impulse response, sonorancy classification for automatic language ID, phonetic landmark detection for automatic language ID, and digital field recorder for acquisition of a natural audio database.
+Research Interests
+Acoustic phonetics, Audio signal processing and speech recognition, Speech and auditory physiology.
+
+
+Research Areas
+Acoustics
+Adaptive signal processing
+Biomedical imaging
+Computer vision and pattern recognition
+Image, video, and multimedia processing and compression
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Random processes
+Robotics and motion planning
+Signal detection and estimation
+Signal Processing
+Speech recognition and processing
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Data science and analytics
+Data/Information Science and Systems
+
+Honors
+Fellow of the IEEE, 2020, for contributions to speech processing of under-resourced languages
+Fellow of the Acoustical Society of America, 2011, for contributions to vocal tract and speech modeling
+
+Research Honors
+Individual National Research Service Award, National Institutes of Health, 1998-1999.
+Frederic Vinton Hunt Post-Doctoral Fellowship, Acoustical Society of America, 1996-1997.
+Paul L. Fortescue Graduate Fellow, IEEE, 1988-1989.
+
+
+Recent Courses TaughtCS 440 (ECE 448) - Artificial Intelligence
+ECE 401 - Signal and Image Analysis
+ECE 417 - Multimedia Signal Processing
+ECE 537 - Speech Processing Fundamentals
+ECE 590 SIC (ECE 590 SIO, ECE 590 SIP) - Speech
+
+
+
+
+
+
+
+Related News
+
+
+Hasegawa-Johnson leads researchers working to make speech-recognition technology more accessible
+
+
+Making speech recognition technology more inclusive
+
+
+Hasegawa-Johnson comments on AI transcription of human speech
+
+
+Mark Hasegawa-Johnson comments on how speech recognition technology can open doors
+
+
+Speech Accessibility Project highlighted in article on Amazon's Dialogue Boost
+
+
+Hasegawa-Johnson elected Fellow of the International Speech Communication Association
+
+
+
+
+
+
+
+

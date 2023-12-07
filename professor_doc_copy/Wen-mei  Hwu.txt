@@ -1,0 +1,209 @@
+
+
+
+
+
+
+
+ 
+
+
+Wen-mei Hwu 
+
+
+
+AMD Jerry Sanders Chair Emeritus
+(217) 244-8270
+w-hwu@illinois.edu
+215 Coordinated Science Lab
+
+
+
+For More Information
+Center for Cognitive Computing Systems Research (C3SR) IBM/UIUC.
+Wen-mei Hwu's research home page
+
+Education
+Ph.D., Computer Science, University of California, Berkeley, 1987
+
+Academic Positions
+Acting Department Head, Electrical & Computer Engineering - August 2018 to August 2019
+Chief Scientist, Parallel Computing Institute, University of Illinois at Urbana-Champaign - May 2009 to present
+Sanders III Advanced Micro Devices, Inc., Endowed Chair in Electrical and Computer Engineering - March 2003 to present
+Franklin W. Woeltge Professor of Electrical and Computer Engineering - August 2000 to 2003
+Research Professor of Coordinated Science Laboratory - August 1996 to Present
+Professor, Electrical & Computer Engineering - August 1996 to Present
+Click for more
+Major Consulting Activities
+Director, WaterBit, Santa Clara, California, January 2015 to January 2018
+
+Course Development
+ECE 508, "Parallel Algorithm Techniques." Algorithm techniques for enhancing the scalability of parallel software:  scatter vs. gather, problem decomposition, spatial sorting and binning, privatization for reduced conflicts, tiling for data locality, regularization for improved load balance, compaction to conserve memory bandwidth, double-buffering to overlap latencies, and data layout for improved efficiency of DRAM accesses. These techniques address the most challenging problems in building scalable parallel software. (For Fall 2014).
+Coursera Online course, "Heterogeneous Parallel Programming." Developed and created for an initial offering in 2012.  This course teaches the use of CUDA/OpenCL, OpenACC, and MPI for programming heterogeneous parallel computing systems based on GPUs. It is application oriented and only introduces necessary technological knowledge to solidify understanding. The 2012 offering drew more than 26,000 students registered, 9,900 students participated in the programming lab, 461 students earned certificate of achievement, and 2,142 students earned certificate of distinction. Hwu and his Ph.D. student Abdul Dakkak developed a scalable, web-based GPU programming environment using the Amazon GPU Cloud to enable students from all-over the world to do hands-on GPU programming exercises with their laptops, tablets, and even mobile phones. Subsequent offerings of this course in 2013 and 2014 resulted in similar numbers and further built up a team of 300 volunteer teaching assistants who cover the class forum in all time zones. The total number of students from all three offerings exceeded 70,000.
+ECE 598HK, "Parallel Algorithm Techniques." Algorithm techniques for enhancing the scalability of parallel software:  scatter-to-gather, problem decomposition, binning, privatization, tiling, regularization, compaction, double-buffering, and data layout. These techniques address the most challenging problems in building scalable parallel software: limited parallelism, data contention, insufficient  memory bandwidth, load balance, and communication latency. (For Spring 2013).
+ECE 408, "Applied Parallel Programming." Co-created the course with David Kirk, Chief Scientist and Fellow of NVIDIA. Developed lectures, lab material, final project workshops. The lecture recordings have been downloaded by thousands of students worldwide. A new book has been published: "Programming Massively Parallel Processors, A Hands-on Approach"  Morgan Kaufman Publisher, (ISBN 978-0-12-381472-2) - 2010.
+
+Research Interests
+Architecture, microarchitecture, libraries, and programming tools for parallel cognitive computing systems.
+
+
+Research Areas
+Algorithms and computational complexity
+Biomedical imaging
+Cloud computing
+Compilers
+Computed imaging systems
+Computer architecture
+Logic design and VLSI
+Machine learning
+Machine learning and pattern recognition
+Natural language processing
+Operating systems
+Parallel processing
+Programming languages
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Cognitive computing
+Computational science and engineering
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Imaging science and systems
+Machine learning
+Machine vision
+Medical imaging
+Smart infrastructures
+Speech, language, and audio processing
+Click for more
+Books Authored or Co-Authored (Original Editions)
+"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, First Edition, Morgan Kaufmann, Elsevier, 2010
+
+Books Authored or Co-Authored (Revisions)
+"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, Third Edition, Elsevier, 2017. (3000+ citations, Google Scholar)
+"Programming Massively Parallel Processors - A Hands-on Approach," David B. Kirk, Wen-mei W. Hwu, Second Edition, Morgan Kaufmann, Elsevier, 2012.
+
+Selected Articles in Journals
+J. M.Cecilia, A. Llanesa, J. L. Abellán, J. Gómez-Luna, L-W. Chang, W. W. Hwu, “High-throughput Ant Colony Optimization on graphics processing units,” Journal of Parallel and Distributed Computing, Vol. 113, March 2018, Pages 261-274. 
+N. S. Kim, D. Chen, J. Xiong, W. W. Hwu, “Heterogeneous Computing Meets Near-Memory Acceleration and High-Level Synthesis in the Post-Moore Era,” IEEE MICRO, July/August 2017, pp. 10-18.
+Javier Cabezas, Isaac Gelado, John E. Stone, Nacho Navarro, David Kirk, Wen-mei Hwu. "Runtime and Architecture Support for Efficient Data Exchange in Multi-Accelerator Applications," IEEE Transactions on Parallel and Distributed Systems, 2015.
+Y. Heo, X-L. Wu, D. Chen, J. Ma, and W.W. Hwu, “BLESS: Bloom-filter-based error correction solution for high-throughput sequencing reads,” Bioinformatics, Jan 21, 2014.
+Stratton, John A.; Rodrigues, Christopher I.; Sung, Ray; Chang, Li-Wen; Anssari, Nasser; Liu, Daniel; Hwu, Wen-mei; Obeid, Nady, "Algorithm and Data Optimization Techniques for Scaling to Massively Threaded Systems", IEEE Computer, vol. 45, no. 8, pp. 26-32, Aug. 2012 .
+S. Ryoo, C.I. Rodrigues, S.S. Stone, J.A. Stratton, Z. Ueng, S.S. Barghsorkhi, W.W. Hwu, "Program Optimization Carving for GPU Computing," Journal of Parallel and Distributed Computing (2008), doi:10.1016/j.jpdc.2008.05.011.
+S.S. Stone, J.P. Haldar, S. C. Tsao, W.W. Hwu, B.P. Sutton, Z.P. Liang, “Accelerating Advanced MRI Reconstruction on GPUs,” Journal of Parallel and Distributed Computing, (2008), doi:10.1016/j.jpdc.2008.05.013.
+Hillery C. Hunter, Erik M. Nystrom, Daniel A. Connors, Wen-mei W. Hwu, Hardware-Compiler Co-Design for Adjustable Data Power Savings, International Journal of Embedded Systems. February 2007.
+R.D. Barnes, S. Ryoo, and W. W. Hwu, "Tolerant Cache-Miss Latency with Multipass Pipelines," Special Issue on Top Picks from Microarchitecture Conferences, IEEE Micro, Volume 26, No. 1, January/February 2006
+Click for more
+Articles in Conference Proceedings
+M. Hidayetoglu, C. Pearson, I. El Hajj, L. Gurel, W. C. Chew, W. W. Hwu, "A Fast and Massively-Parallel Solver for Nonlinear Tomographic Image Reconstruction", In Proceedings of the 32nd IEEE International Parallel and Distributed Processing Symposium (IPDPS), May, 2018.
+W. W. Hwu, I. El Hajj, S. Garcia de Gonzalo, C. Pearson, N. S. Kim, D. Chen, J. Xiong, Z. Sura, "Rebooting the Data Access Hierarchy of Computing Systems", In IEEE International Conference on Rebooting Computing (ICRC), November, 2017.
+P. Bruel, S. Rahul Chalamalasetti, C. Dalton, I. El Hajj, A. Goldman, C. Graves, W. W. Hwu, P. Laplante, D. Milojicic, G. Ndu, J. P. Strachan, "Generalize or Die: Operating Systems Support for Memristor-based Accelerators,â€ In IEEE International Conference on Rebooting Computing (ICRC), 2017.
+
+Juan Gómez-Luna, Izzat El Hajj, Li-Wen Chang, Victor Garcia-Flores, Simon Garcia de Gonzalo, Tom Jablin, Antonio J. Peña, Wen-mei Hwu, "Chai: Collaborative Heterogeneous Applications for Integrated-architectures," JEEE International Symposium on Performance Analysis of Systems and Software (ISPASS), 2017.
+Li-Wen Chang, Juan Gómez-Luna, Izzat El Hajj, Sitao Huang, Deming Chen, Wen-mei Hwu, "Collaborative Computing for Heterogeneous Integrated Systems," ACM/SPEC International Conference on Performance Engineering (ICPE), 2017.
+Sitao Huang, Gowthami Jayashri Manikandan, Anand Ramachandran, Kyle Rupnow, Wen-mei Hwu, Deming Chen, "Hardware Acceleration of the Pair-HMM Algorithm for DNA Variant Calling," International Symposium on Field-Programmable Gate Arrays (ISFPGA), 2017.
+Mert Hidayetoglu, Carl Pearson, Weng Cho Chew, Levent Gurel, Wen-mei Hwu, "Large Inverse-Scattering Solutions with DBIM on GPU-Enabled Supercomputers,"  Applied and Computational Electromagnetics Symposium (ACES 2017), Florence, Italy. 
+Izzat El Hajj, Alexander Merritt, Gerd Zellweger, Dejan Milojicic, Reto Achermann, Paolo Faraboschi, Wen-mei Hwu, Timothy Roscoe, Karsten Schwan, "SpaceJMP: Programming with Multiple Virtual Address Spaces," Proceedings of the 21th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '16), April 2-6, 2016.
+Li-Wen Chang, Hee-Seok Kim, Wen-mei Hwu, "DySel: Lightweight Dynamic Selection for Kernel-based Data-parallel Programming Model," Proceedings of the 21th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '16), April 2-6, 2016
+Li-Wen Chang, Izzat El Hajj, Hee-Seok Kim, Juan Gómez-Luna, Abdul Dakkak, Wen-mei Hwu, "A Programming System for Future Proofing Performance Critical Libraries," Proceedings of the 21th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP 2016), March 12-16, 2016.
+Li-Wen Chang, Izzat El Hajj, Christopher I. Rodrigues, Juan Gómez-Luna, Wen-mei Hwu, "Efficient Kernel Synthesis for Performance Portable Programming," Proceedings of the 49th Annual IEEE/ACM International Symposium on Microarchitecture, 2016.  
+Izzat El Hajj, Juan Gómez-Luna, Cheng Li, Li-Wen Chang, Dejan Milojicic, Wen-mei Hwu, "KLAP: Kernel Launch Aggregation and Promotion for Optimizing Dynamic Parallelism," Proceedings of the 49th Annual IEEE/ACM International Symposium on Microarchitecture, 2016.
+Juan Gómez-Luna, Li-Wen Chang, Wen-mei Hwu, I-Jui Sung, Nicolás Guil, "In-Place Data Sliding Algorithms for Many-Core Architectures," Parallel Processing, 2015 44th International Conference on (ICPP 2015).
+
+Hee-Seok Kim, Izzat El Hajj, John A. Stratton, Steve S Lumetta, Wen-mei Hwu. "Locality-Centric Thread Scheduling for Bulk-synchronous Programming Models on CPU Architectures," International Symposium on Code Generation and Optimization (CGO), 2015. Best Paper Award Nominee.
+X. Chen, L.-W. Chang, C.I. Rodrigues, J. Lv, Z. Wang, W.W. Hwu, "Adaptive Cache Management for Energy-efficient GPU Computing," Proceedings of the 47th Annual IEEE/ACM International Symposium on Microarchitecture, December 2014
+J. Cabezas, L. Vilanova, I. Gelado, T. Jablin, N. Navarro, W. W. Hwu, "Automatic Execution of single-GPU Computations Across Multiple GPUs," Proceedings of the 23rd International Conference on Parallel Architecture and Compilation (PACT), 2014
+C. Rodrigues, A. Dakkak, T. Jablin and W.W. Hwu, "Triolet: A Programming System that Unifies Algorithmic Skeleton Interfaces for High-Performance Cluster Computing," Proceedings of the 19th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming, February, 2014.
+I.-J. Sung, J. Gomez-Luna, J. M. Gonzalez-Linares, N. Guil and W.W. Hwu, "In-Place Transposition of Rectangular Matrices on Accelerators," Proceedings of the 19th ACM SIGPLAN symposium on Principles and Practice of Parallel Programming, February, 2014.
+A. Papakonstantinou, D. Chen, W.W.  Hwu, Wen-mei; Cong, Jason; Liang, Yun, "Throughput-Oriented Kernel Porting onto FPGAs," Proceedings of the 50th Annual Design Automation Conference, May 2013.
+L. Chang, J.A. Stratton, H. Kim, and W.W. Hwu, “A Scalable, Numerically Stable Tridiagonal Solver Using GPUs,” The International Conference for High-Performance Computing Networking, Storage, and Analysis (SC’12), Salt Lake City, 2012.
+Click for more
+Teaching Honors
+College of Engineering Rose Award for Teaching Excellence, University of Illinois at Urbana-Champaign. (2018)
+College of Engineering Collins Award for Innovative Teaching, University of Illinois at Urbana-Champaign.  (2014)
+Engineering Council Award for Excellence in Advising, University of Illinois at Urbana-Champaign. (2013)
+ECE Outstanding Teacher Award.  (2002)
+Inclusion in the 1992, 1993, 1994, 1997, and 2001 Advisor's List, College of Engineering, University of Illinois.
+Inclusion in the Incomplete List of Teachers Ranked as Excellent, University of Illinois, Spring 2018, Spring 2017, Fall 2016, Fall 2015, Spring 2013, Fall 2102, Fall 2012, Fall 2009, Spring 2009, Fall 2007, Spring 2006, Spring 2003, Fall 2003, Spring 2003, Fall 1998, Spring 1998, Fall 1997, Fall 1996, Spring 1996, Fall 1995, Fall 1994, Spring 1994, Fall 1993, Spring 1993, Fall 1992, Spring 1992, Fall 1991, Spring 1991, Fall 1990, Spring 1990, Spring 1989, Spring 1988.
+Tau Beta Pi Daniel C. Drucker Eminent Faculty Award, College of Engineering, University of Illinois, Urbana-Champaign. (2001)
+Pierce Award, College of Engineering, University of Illinois. (1997)
+Eta Kappa Nu Holmes MacDonald Outstanding Teaching Award. (1997)
+Presidential letter from Bill Clinton. (1993)
+Eta Kappa Nu Outstanding Young Electrical Engineer Award for 1993 by the National Jury of Award. (1993)
+Click for more
+Research Honors
+MICRO Test-of-Time Award, International Symposium on Microarchitecture (2014)
+IEEE Computer Society B. R. Rau Award. (2014)
+NVIDIA CUDA Center of Excellence (CCoE) Achievement Award - Annual Competition among 22 CCoEs worldwide. (2014)
+IBM Faculty Award. (2013)
+NVIDIA CUDA Center of Excellence (CCoE) Achievement Award - Annual Competition among 22 CCoEs worldwide. (2013)
+Best Paper Award from FCCM 2011. "Multilevel Granularity Parallelism Synthesis on FPGAs", Papakonstantinou, Alexandros; Liang, Yun; Stratton, John A.; Gururaj, Karthik; Chen, Deming; Hwu, Wen-mei; Cong, Jason. Proceedings of the 2011 International Symposium on Field-Programmable Custom Computing Machines (FCCM). (2011)
+Distinguished Alumni Award, Electrical and Computer Science Department, University of California, Berkeley. (2010)
+Best Paper Award, “XMalloc: A Scalable Lock-free Dynamic Memory Allocator for Many-core Machines,” Proceedings of the 10th IEEE 1st Workshop on Frontier of GPU Computing, International Conference on Computer and Information Technology (CIT 2010). (2010)
+Best Self-Built Cluster Award, SC 2010. (2010)
+UC Berkeley Distinguished Alumni Award in Computer Sciences. (2010)
+IEEE Computer Society Charles Babbage Award. (2009)
+ISCA Influential Paper Award. (2006)
+IEEE Micro's Top Picks from the Microarchitecture Conferences. (2005)
+ACM Fellow. (2002)
+ComputerWorld Honors Archive Medal, Nominated by Hewlett-Packard. (2002)
+Tau Beta Pi 2001 Daniel Drucker Eminent Faculty Award.  College of Engineering, University of Illinois, Urbana-Champaign. (2001)
+ACM Grace M. Hopper Award. (1999)
+IEEE Fellow. (1998)
+ACM SigArch Maurice Wilkes Award. (1998)
+University Scholars Award, University of Illinois. (1994)
+Senior Xerox Award for Faculty Research, College of Engineering, University of Illinois. (1994)
+Best paper award for, "Comparing Static and Dynamic Code Scheduling for Multiple-Instruction-Issue Processors," in the Proceedings of the 24th Annual ACM/IEEE International Symposium on Microarchitecture, Albuquerque, New Mexico. (1991)
+NSF Research Initiation Award. (1988)
+Best paper award for "HPSm2: a Refined Single-chip Microengine," presented at the 21st Annual Hawaii International Conference on System Sciences. (1988)
+Best paper award for "An HPS Implementation of VAX; Initial Design and Analysis," presented at the 19th Annual Hawaii International Conference on System Sciences. (1986)
+Click for more
+Public Service Honors
+IEEE IPDPS Recognition of Service Award. (2009)
+ACM Recognition of Service Award. (2008)
+ACM Recognition of Service Award. (2003)
+IEEE Computer Society Certification of Appreciation. (2001)
+ACM Recognition of Service Award. (1994)
+IEEE Computer Magazine 1993 list of distinguished reviewers. (1993)
+IEEE Computer Society Certificate of Appreciation. (1993)
+Click for more
+
+Recent Courses TaughtECE 408 (CS 483, CSE 408) - Applied Parallel Programming
+ECE 498 ICC (ECE 498 IL1, ECE 498 IL2, ECE 498 IL3, ECE 498 IL4) - IoT and Cognitive Computing
+ECE 508 (CS 508) - Manycore Parallel Algorithms
+
+
+
+
+
+
+
+Related News
+
+
+ECE alum named in 2022 Forbes 30 Under 30 list
+
+
+ECE researchers lead interdisciplinary team, continue to earn accolades
+
+
+Illinois ECE professors lead multi-disciplinary efforts to improve computing platforms
+
+
+C3SR long-term project begins to pay dividends
+
+
+Illinois ECE team named IEEE HPEC GraphChallenge Champions
+
+
+Illinois ECE graduate student receives 2020 Google PhD Fellowship
+
+
+
+
+
+
+
+

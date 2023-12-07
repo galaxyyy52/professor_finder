@@ -1,0 +1,210 @@
+
+
+
+
+
+
+
+ 
+
+
+
+ Ann Sychterz 
+
+
+
+
+
+Faculty Affiliate, Beckman Institute for Advanced Science and TechnologyFaculty Fellow, National Center for Supercomputing Applications
+Assistant Professor
+
+
+(217) 244-6148
+asychter@illinois.edu
+2122 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaStructural Engineering
+Research Areas
+Structural Engineering
+Sustainable and Resilient Infrastructure Systems
+
+For More Information
+sychterz.cee.illinois.edu
+
+BiographyAnn Sychterz(SICK-tesh) obtained her PhD in 2018 from the Swiss Federal Institute of Technology Lausanne (EPFL) addressing the novel use of control algorithms, statistical diagnostic tools, and real-time feedback on a full-scale tensegrity structure to enable smooth deployability, damage detection, adaptation, and learning. During her masters of applied science obtained in 2014 at the University of Waterloo, she built full-scale aluminum pedestrian bridges for vibration characterization and control. She completed a postdoctoral position at the University of Michigan on actuator optimization of adaptive origami structures. With her team at SMARTI lab at the University of Illinois, they harness geometrically nonlinear systems, such as tensegrity structures and origami, for adaptive civil infrastructure. She is a faculty fellow of the National Center for Supercomputing Applications and a faculty affiliate of the Beckman Institute for Advanced Science and Technology in the Autonomous Materials Systems group. She is an active member of the Association for Shell and Spatial Structures (IASS) in working group 15: Structural Morphology.Ann has had industry experience in design firms such as civil and mechanical engineering at Walterfedy in Kitchener, Canada and structural engineering at MMM Group in Toronto, Canada. These large-scale interdisciplinary projects -- such as Conestoga College and St. Joseph's Healthcare in Hamilton -- were focused on sustainable design and LEED certification. During her undergraduate degree, she was a captain of the UW student team for the Great Northern Concrete Toboggan Race and also served as a mentor for the concrete canoe and ASCE steel bridge student teams.
+Education
+Ph.D, Civil Engineering, Swiss Federal Institute of Technology Lausanne (EPFL), Switzerland, 2018
+M.A.Sc, Civil Engineering, University of Waterloo, Canada, 2014
+B.A.Sc, Civil and Environmental Engineering, University of Waterloo, Canada, 2012
+
+Academic Positions
+Assistant Professor, Civil and Environmental Engineering, 01/2020 - Present
+Adjunct Assistant Professor, Mechanical Science and Engineering, 08/2022 - Present
+Faculty Fellow, ORMIR, Gies College of Business, 08/2021 - Present
+Levenick Sustainable Teaching Fellow, Institute for Sustainability Energy and Environment, 02/2021 - Present
+Postdoctoral Researcher, Civil Engineering, University of Michigan at Ann Arbor, 02/2019 - 12/2019
+Faculty Fellow, National Center for Supercomputing Applications, University of Illinois, 07/2020 - Present
+Faculty Affiliate, Beckman Institute for Advanced Science and Technology, University of Illinois, 10/2020 - Present
+Click for more
+Journal Editorships
+Guest Editor, ASCE Journal of Structural Engineering
+Guest Editor, Frontiers in Built Environment: Structural Sensing
+
+Professional Societies
+Society of Women Engineers, Member
+American Society of Civil Engineers (ASCE), A. Member
+Structural Engineering Institute (SEI) of ASCE, A. Member
+Engineering Mechanics Institute (EMI) of ASCE, A. Member
+International Association for Shell and Spatial Structures (IASS), Member (WG15 Structural Morphology)
+Canadian Society for Civil Engineering, A. Member
+
+Click for more
+Other Outside Service
+Academic liason, Illinois Department of Transportation, Bridges and Foundations
+Committee member, ASCE SEI Young Professional Committee
+Committee member, ASCE EMI Structural Health Monitoring Committee
+Committee member, ASCE EMI Dynamics
+Committee member, ASCE EMI Experimental Analysis and Instrumentation
+Committee member, CSCE Structures Group
+Reviewer, Engineering Structures
+Reviewer, ASCE Journal of Bridge Engineering
+Reviewer, Journal of Sound and Vibration
+Associate Editor and Reviewer, Frontiers in Built Environment
+Treasurer, ASCE SEI Structural Control and Sensing Technical Committee
+Associate Editor and Reviewer, ASCE Journal of Structural Engineering
+Click for more
+
+
+Research Interests
+Form-finding methods for cable and tensile structures
+Optimized sensor placement for civil structures
+Structural dynamics
+Machine learning and robotics for civil structures
+Damage mitigation and risk assessment in large-scale structures
+Adaptive and deployable structures
+Click for more
+Research Statement A manifestation of sustainability in infrastructure is the reduction of embodied energy and energy required in the manufacturing process. Adaptive structures show promise to address challenges for structures currently being overdesigned and unmodifiable our ever-changing environment. Emerging technologies for civil engineering structures combine sensing with real-time active feedback control which includes form-finding methods, structural dynamics, statistical diagnostic tools, sensor placement optimization, robotics, and multi-scale experimental testing. This work combines structural engineering with mechanical engineering, electrical engineering, computer science, and architecture for experimental and analytical research to develop active control adaptive systems for civil infrastructure.
+Primary Research AreaStructural Engineering
+Research Areas
+Structural Engineering
+Sustainable and Resilient Infrastructure Systems
+
+
+
+Selected Articles in Journals
+Gathman, H.F and Sychterz, A.C., Design of a full-scale aluminum plate-based tensegrity structure, Journal of the International Association for Shell and Spatial Structures, (In-press) 2023
+
+Baruah, A.C and Sychterz A.C., Assessment and comparison of cable-actuation of pill bug inspired adaptive origami structure using computer vision and dynamic relaxation, Frontiers in Built Environment 2021 , https://doi.org/10.3389/fbuil.2022.813543
+Sychterz, A.C., Bernardi, I., Tom, J., Beemer, R. Nonlinear soil-structure behavior of a deployable and compliant anchor system, Canadian Journal of Civil Engineering, 10.1139/cjce-2021-0204, 2021
+Sychterz, A.C. and Baruah, A.C., Active Control for Adaptive Origami Structures Undergoing Damage, Engineering Structures,  24, 10.1016/j.engstruct.2021.112457, 2021, 1–9
+Sychterz, A.C. and Smith, I.F.C., Damage mitigation of near-full-scale deployable tensegrity structure through behavior biomimetics, Journal of Structural Engineering, 146 (1), 10.1061/(ASCE)ST.1943-541X.0002470, 2020.
+Sychterz, A.C. and Smith, I.F.C., Deployment and shape change of a tensegrity structure using path-planning and feedback control, Frontiers in Built Environment, 10.3389/fbuil.2018.00045, 2018.
+Sychterz, A.C. and Smith, I.F.C., Using dynamic measurements to detect and locate ruptured cables on a tensegrity structure, Engineering Structures, 173 (10), 10.1016/j.engstruct.2018.06.083, 2018, 631—642.
+Veuve, N., Sychterz, A.C., and Smith, I.F.C., Active control of a deployable tensegrity structure, Engineering Structures, 152, 10.1016/j.engstruct.2017.08.062, 2017, 14—23.
+Bel Hadj Ali, N., Sychterz A.C., and Smith I.F.C., A dynamic-relaxation formulation for analysis of cable structure with slide-induced friction, Journal of Solids and Structures, 126-127, 10.1016/j.ijsolstr.2017.08.008, 2017, 240—251.
+Sychterz, A.C. and Smith I.F.C., Joint friction during deployment of a near-full-scale tensegrity footbridge, Journal of Structural Engineering, 143 (9), 10.1061/(Asce)St.1943-541X.0001817, 2017, 1—9.
+Dey, P., Sychterz, A.C., Narasimhan, S., and Walbridge, S., Performance of pedestrian-load models through experimental studies on lightweight aluminum bridges, Journal of Bridge Engineering, 21 (8), 10.1061/(Asce)Be.1943-5592.0000824, 2016, 1—12.
+Sychterz A.C., Schill, T. and Verspagen, B., Low-impact development measures of storm water management system at Conestoga College South Campus, Journal of Water Management Modeling, 10.14796/JWMM.C371, (2), 2014.
+Click for more
+Articles in Conference Proceedings
+Tucker, K. and Sychterz A.C. "Comparison of biologically inspired functionally-graded deployable geosystems with experimental measurements", Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Melbourne, Australia, 2023
+Baruah A.C. and Sychterz A.C. ''Damage detection of cable-actuated origami structure using dynamic relaxation'', Engineering Mechanics Institute Conference 2022, Baltimore, Maryland. 1--4
+Paul, S. and Sychterz, A.C. "Robustness of Multilayered Random-network Architected Material through Experimental Testing", ASCE Engineering Mechanics Institute Conference 2022, Baltimore, Maryland, USA, 1--4
+Grendzinski, M. and Sychterz, A.C. "Characterization of Torque-Driven Underground Compliant Structures Using Pushover Analysis", Engineering Mechanics Institute Conference 2022, Baltimore, Maryland. 1--4
+Torres, J.A. and Sychterz, A.C. "Virtual Reality as a Vehicle for Education in the Domains of Building Systems", American Society of Engineering Education Annual Conference and Exposition 2022, Minneapolis, MN. 1--8
+Tucker, K and Sychterz, A.C. "Analyzing Geosystems with Deployable Compliant Mechanisms for Enhanced Tension Capacity", Canadian Society of Civil Engineers Annual Conference 2022, Whistler, British Columbia. 1--8
+Sychterz, A.C. "Adaptive Aluminum Tensegrity Structure as a Bike Parking Canopy", 5th International Conference on Structures & Architecture, Aalborg, 2022, 1--8.
+Paul, S. and Sychterz A.C. “A Computational Analysis for an Adaptive Tensegrity-based Four-Module Roof Structure”, Canadian Society for Civil Engineering Conference 2021, 1—9.
+Baruah, A.C. and Sychterz A.C. “Pill-bug inspired adaptive origami tuned-mass dampers”, Canadian Society for Civil Engineering Conference 2021, 1—8.
+Gathman, H and Sychterz A.C. “Analysis of full-scale plate-based tensegrity structure using dynamic relaxation”, Canadian Society for Civil Engineering Conference 2021, 1—8.
+Paul, S. and Sychterz A.C. “Dynamic Characterization of an Adaptive Tensegrity-based Four-Module Roof Structure”, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 1—10.
+Baruah, A.C. and Sychterz A.C. “Active control of 3D printed pill-bug inspired adaptive origami”, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 1—10.
+Gathman, H and Sychterz A.C. “Full-scale plate-based tensegrity bike parking canopy”, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Surrey, UK, 2021, 1—10.
+Sychterz A.C. and Smith, I.F.C., Path-finding for deployment and midspan connection of a tensegrity structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Boston, United States, 2018.
+Sychterz, A.C and Smith I.F.C., Dynamic effects of cable rupture in a tensegrity structure, Fourth conference on Smart Monitoring, Assessment and Rehabilitation of Civil Structures, Zürich, Switzerland, 2017, 1—8. 
+Sychterz, A.C. and Smith, I.F.C., Towards biomimetic actuation for a deployable structure, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Tokyo, Japan, 2016, 1—9. 
+Sychterz, A.C. and Smith, I.F.C., Shape control for self-stress following deployment of a tensegrity footbridge, 24th International Workshop on Intelligent Computing in Engineering, Krakow, Poland, 2016, 1—11.
+Sychterz, A.C., Dalil Safaei, S., and Smith, I.F.C., Friction modeling of a deployable tensegrity footbridge, Proceedings of the International Association for Shell and Spatial Structures (IASS) Symposium, Amsterdam, The Netherlands, 2015, 1—11.
+Sychterz, A.C., Narasimhan, S., and Walbridge, S., A study on modal characterization and dynamic analysis of two aluminium pedestrian bridges in Québec, INALCO 2013 Conference Proceedings Montreal, Canada, 2013.
+Sychterz A.C., Sadhu, A., Narasimhan, S., and Walbridge, S., Results from Modal Testing of the Daigneault Creek Bridge, CSCE 2013 General Conference Proceedings, Montreal, Canada, 2013.
+Click for more
+Abstracts (in print or accepted)
+Forster, D., von Scheven, M., Sychterz A.C., and Bischoff, M. "Analysis and Design of Deployable Structures using the Redundancy Matrix", 10th GACM Colloquium on Computational Mechanics for Young Scientists from Academia and Industry, 2023 Vienna, Austria
+Forster, D., Sychterz A.C., and Bischoff, M. "Analysis of Coreless Filament Wound Structures Using Alternative Performance Indicators", ASCE Engineering Mechanics Institute (EMI 2023), Atlanta, 2023.
+Paul, S. and Sychterz A.C. "Tensile Behavior of Multi-layered Randomized Architected Material (MLRAM)", ASCE Engineering Mechanics Institute 2023, Atlanta, United States.
+Baruah, A.C. and Sychterz A.C. "Pill-Bug Inspired Adaptive Origami Structure", ASCE SEI Structures Congress 2023, New Orleans, United States.
+
+Magazine Articles
+"This Human-Sized Origami Reimagines Emergency Shelters", Wired Magazine
+
+Reports
+Swiss National Science Foundation # 200020_169026 proposal, intermediate scientific report, and final scientific report
+Smith I.F.C., Pai, S., Reuland, Y., Sychterz A.C. 2016-2019
+
+
+
+Honors
+ASCE SEI Futures Fund Young Professionals Award (01/2023)
+Faculty Fellow, ORMIR, Gies College of Business (08/2021)
+Faculty Fellow, National Center for Supercomputing Application (NCSA) (07/2020)
+Early Postdoc.Mobility, Swiss National Science Foundation (SNSF) (02/2019)
+
+Teaching Honors
+ASCE ExcEEd Fellow (07/2022)
+Levenick Sustainable Teaching Fellowship (01/2021)
+
+Research Honors
+Ontario Graduate Scholarship
+Ministry of Advance Education and Skills Development (09/2012)
+Canadian Graduate Scholarship, CGS M
+Natural Sciences and Engineering Research Council of Canada (NSERC) (09/2013)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Cha, Sychterz named ORMIR Faculty Scholars
+
+
+Summer camp introduces STEM-minded high schoolers to CEE
+
+
+Three CEE faculty named 2021-22 iSEE Levenick Teaching Fellows
+
+
+Sychterz named NCSA Faculty Fellow
+
+
+The Future Starts Now, Part 2
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

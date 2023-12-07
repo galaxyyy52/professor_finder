@@ -1,0 +1,110 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Jozien Goense 
+
+
+
+
+
+Associate Professor
+
+
+
+goense@illinois.edu
+ 
+
+
+
+
+
+Overview
+Research
+Publications
+
+
+
+
+Primary Research AreaBiomedical imaging - Functional MRI
+Research Areas
+Functional MRI
+MRI
+Systems biology
+
+Academic Positions
+Affiliate faculty, Neuroscience Program, University of Illinois at Urbana Champaign, Urbana, IL
+Faculty, Beckman Institute for Advanced Science and Technology, Urbana, IL
+Associate Professor, Department of Psychology, University of Illinois at Urbana Champaign, Champaign, IL
+
+
+
+Primary Research AreaBiomedical imaging - Functional MRI
+Research Areas
+Functional MRI
+MRI
+Systems biology
+
+
+
+Chapters in Books
+Nothnagel N, Huber L, Goense J (2023). Sequences and contrasts for non-BOLD fMRI. In: ‘Ultra high field Neuro MRI’. Elsevier series on ‘Advances in Magnetic Resonance Technology and Applications’. Eds. B Poser, M Guye, K Markenroth Bloch
+
+Zaldivar D, Logothetis NK, Rauch A, Goense J (2017). Pharmaco-based MRI and neurophysiology in non-human primates. In: In vivo Neuropharmacology and Neurophysiology. Springer Neuromethods Series. Ed. A Philippu
+
+Selected Articles in Journals
+Bohraus Y, Merkle H, Logothetis NK, Goense J (2023). Laminar differences in functional oxygen metabolism in monkey visual cortex measured with calibrated fMRI. Cell Reports 42(11): 113341
+
+Sri S, Greenstein A, Granata A, Collcutt A, Jochems A, McColl B, Díaz Castro B, Webber C, Arteaga Reyes C, Hall C, Lawrence C, Hawkes C, Pegasiou-Davies C-M, Gibson C, Crawford C, Smith C, Vivien D, McLean F, Wiseman F, Brezzo G, Lalli G, Pritchard H, Markus H, Bravo-Ferrer I, Taylor J, Leiper J, Berwick J, Gan J, Gallacher J, Moss J, Goense J, McMullan L, Work L, Turner L, Stringer M, Ashford M, Abulfadl M, Conlon N, Malhotra P, Bath P, Canter R, Brown R, Ince S, Anderle S, Young S, Quick S, Szymkowiak S, Hill S, Allan S, Wang T, Quinn T, Procter T, Farr TD, Zhao X, Yang Z, Hainsworth AH*,Wardlaw JM* (2023). A Multi-disciplinary Commentary on Preclinical Research to investigate Vascular Contributions to Dementia. Cerebral Circulation - Cognition and Behavior 5: 100189
+Huber L, Poser BA, Bandettini PA, Arora K, Wagstyl K, Cho S, Goense J, Nothnagel N, Morgan AT, van den Hurk J, Mueller AK, Reynolds RC, Glen DR, Goebel R, Gulban OF (2021) LayNii: A software suite for layer-fMRI. NeuroImage 237: 118091
+Huber L, Finn ES, Handwerker DA, Bönstrup M, Glen D, Kashyap S, Ivanov D, Petridou N, Marrett S, Goense J, Poser BA, Bandettini PA (2020) Sub-millimeter fMRI reveals multiple topographic digit representations that form action maps in human motor cortex. NeuroImage 208: 116463
+Zaldivar D, Rauch A, Logothetis NK, Goense J (2018) Two distinct profiles of fMRI and neurophysiological activity elicited by acetylcholine in visual cortex. PNAS 115(5): E12073-12082
+
+Grent-’t Jong T, Gross J, Goense J, Wibral M, Gajwani R, Gumley AI, Lawrie S, Schwannauer M, Schultze-Lutter F, Navarro Schröder T, Koethe D, Leweke FM, Singer W, Uhlhaas PJ (2018) Resting-state gamma-band power alterations in schizophrenia reveal functional E/I-balance abnormalities across illness-stages. eLife 7: e37799
+Goense J (2018) Resolving memory circuits with layer-dependent fMRI. Neuron 99: 1107-1109
+Zaldivar D, Goense J, Lowe S, Logothetis NK, Panzeri S (2018) Dopamine is signalled by mid-frequency oscillations and boosts output layers visual information in visual cortex. Current Biology 28: 224-235
+
+Huber L, Handwerker DA, Jangraw DC, Chen G, Hall A, Stüber C, Gonzalez-Castillo J, Ivanov D, Marrett S, Guidi M, Goense J, Poser BA, Bandettini PA (2017) High-resolution CBV-fMRI allows mapping of laminar activity and connectivity of cortical input and output in human M1. Neuron 96: 1253-1263
+Click for more
+Articles in Conference Proceedings
+Zaldivar D, Bohraus Y, Logothetis NK, Goense J (2023). Layer dependent changes of neural activity underlying laminar fMRI. Proc. International Society for Magnetic Resonance in Medicine
+Nothnagel ND, Morgan AT, Symon A, Muckli L, Goense J (2023). Optimized signal saturation for fast functional line scanning of cortical layers. Proc. International Society for Magnetic Resonance in Medicine
+Nothnagel ND, Symon A, Morgan AT, Huber L, Riddell J, Goense J (2021) VASO-fMRI with Nordic-PCA for laminar sensory testing at 7 Tesla. Proc. International Society for Magnetic Resonance in Medicine
+Morgan AT, Nothnagel N, Goense J, Muckli L (2020) High resolution line scanning reveals distinct response properties across human cortical layers. Proc. International Society for Magnetic Resonance in Medicine
+
+Invited Lectures
+‘Laminar fMRI in humans and animals’. 
+‘Laminar specific fMRI at high field’.
+‘Ultra high resolution fMRI: mesoscopic, mechanistic, multidisciplinary’. 
+‘Neurovascular coupling across cortical layers’. 
+‘Cortical layer specific fMRI at ultra high field’. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

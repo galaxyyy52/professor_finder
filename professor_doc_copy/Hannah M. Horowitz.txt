@@ -1,0 +1,139 @@
+
+
+
+
+
+
+
+ 
+
+
+
+ Hannah M. Horowitz 
+
+
+
+
+
+Assistant Professor
+
+
+
+hmhorow@illinois.edu
+3219 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+
+For More Information
+Horowitz Research Group
+
+BiographyDr. Hannah M. Horowitz joined the CEE department as an Assistant Professor in January 2020. She is also an Affiliate Assistant Professor in the department of Atmospheric Sciences. Her research focuses on the interactions between human activity, atmospheric chemistry, climate, and pollution, through developing and applying global models. Previously, she was an NSF Atmosphere and Geospace Sciences Postdoctoral Research Fellow and Joint Institute for the Study of the Atmosphere and Ocean (JISAO) Postdoctoral Fellow at the University of Washington. She received her Ph.D. in Earth and Planetary Sciences and M.S. in Environmental Science and Engineering from Harvard University. Her awards include a certificate of distinction in teaching, the NSF Graduate Research Fellowship and GROW with USAID Research and Innovation Fellowship, and frequent presentation awards at conferences. Dr. Horowitz enjoys engaging in public scientific outreach and diversity, equity, and inclusion in STEM activities. 
+Education
+Ph.D. Earth and Planetary Sciences, Harvard University, 2017
+M.S. Environmental Science and Engineering, Harvard University, 2016
+B.A. Earth and Planetary Sciences, Harvard College, 2011
+
+Academic Positions
+Affiliate Professor, University of Illinois at Urbana-Champaign, Atmospheric Sciences, August 2020 - present
+Assistant Professor, University of Illinois at Urbana-Champaign, Civil and Environmental Engineering, January 2020 - present
+NSF AGS and JISAO Postdoctoral Research Fellow, University of Washington, Atmospheric Sciences, 2017 - 2019
+
+Professional Societies
+Association of Environmental Engineering and Science Professors, Member
+Earth Science Women's Network, Member
+American Meteorological Society, Member
+American Geophysical Union, Member
+
+Other Outside Service
+Science Communication Fellow and Volunteer, Pacific Science Center, Seattle, WA, January 2018 - December 2019
+
+
+
+Research Interests
+Atmospheric chemistry - climate interactions
+Air quality in a changing climate
+Biogeochemical cycling of toxic pollutants
+Global earth system modeling
+
+Research StatementDr. Horowitz’s research focuses on the coupling between human activity, climate, biogeochemistry, and pollution, with the goals of informing policy and protecting human and ecosystem health. Questions guiding her research include: How do we get from human activity all the way to environmental and health impacts? How can we improve predictions of impacts to serve society? Examples of Dr. Horowitz’s specific interests are: understanding atmospheric chemistry- and aerosol- climate interactions, predicting future air quality, and assessing impacts of climate change on environmental pollution. In her work, she develops and uses global numerical models at a hierarchy of complexities (simple box models to coupled 3-D Earth system models) informed by analysis of observations and theory. 
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+
+
+
+Selected Articles in Journals
+Confer, Kaitlyn L., L. Jaeglé, G. E. Liston, S. Sharma, V. Nandan, J. Yackel, M. Ewert, H. M. Horowitz, Impact of changing Arctic sea ice extent, sea ice age, and snow depth on sea salt aerosol from blowing snow and the open ocean for 1980-2017, Journal of Geophysical Research - Atmospheres, 2023.
+MacFarlane, S., J.A. Fisher, H.M. Horowitz, V. Shah. Two decades of changing anthropogenic mercury emissions in Australia: inventory development, trends, and atmospheric implications, Environmental Science: Processes and Impacts (invited), 2022. 
+ H. M. Horowitz, C. Holmes, A. Wright, T. Sherwen, X. Wang, M. Evans, J. Huang, L. Jaeglé, Q. Chen, S. Zhai, and B. Alexander, Effects of sea salt aerosol emissions for Marine Cloud Brightening on atmospheric chemistry: Implications for radiative forcing, Geophysical Research Letters, 2020. 
+Streets, D.G., H. M. Horowitz, Z. Lu, L. Levin, C. P. Thackray, and E.M. Sunderland, Five hundred years of anthropogenic mercury: spatial and temporal release profiles, Environmental Research Letters, 2019.
+Zhang, Y., H. M. Horowitz, J. Wang, Z. Xie, J. Kuss, and A. Soerensen, A coupled atmosphere-ocean model for air-sea exchange of mercury in the global ocean: Insights into wet deposition and atmospheric redox chemistry, Environmental Science and Technology, 2019.
+Streets, D.G., H. M. Horowitz, Z. Lu, L. Levin, C. P. Thackray, and E.M. Sunderland, Global and regional trends in mercury emissions and concentrations, 2010-2015, Atmospheric Environment, 2019. 
+H. M. Horowitz, R.M. Garland, M. Thatcher, W.A. Landman, Z. Dedekind, J. van der Merwe, and F.A. Engelbrecht, Evaluation of climate model aerosol seasonal and spatial variability over Africa using AERONET, Atmos. Chem. Phys., 2017. 
+H. M. Horowitz, D.J. Jacob, Y. Zhang, T.S. Dibble, F. Slemr, H.M. Amos, J.A. Schmidt, E.S. Corbitt, E.A. Marais, and E.M. Sunderland, A new mechanism for atmospheric mercury redox chemistry: implications for the global mercury budget, Atmos. Chem. Phys., 2017.
+Streets, D.G., H. M. Horowitz, D.J. Jacob, Z. Lu, L. Levin, A. Ter Schure, and E.M. Sunderland, Total mercury released to the environment by human activities, Environ. Sci. Technol., 2017.
+J. Schmidt, D. Jacob, H. M. Horowitz, L. Hu, T. Sherwen, M. J. Evans, Q. Liang, R. M. Suleiman, D. E. Oram, M. Le Breton, C. J. Parcival, S. Wang, B. Dix, and R. Volkamer, Modeling the observed tropospheric BrO background: Importance of multiphase chemistry and implications for ozone, OH, and mercury, JGR-Atmospheres, 2016.
+R. Sun, D. G. Streets, H. M. Horowitz, H. M. Amos, G. Liu, V. Perrot, J-P Toutain, H. Hintelmann, E. M. Sunderland, and J. E. Sonke, Historical (1850-2010) mercury stable isotope emissions from anthropogenic sources to the atmosphere, Elementa, 2016. 
+Y. Zhang, D. J. Jacob, H. M. Horowitz, L. Chen, H. M. Amos, D. P. Krabbenhoft, F. Slemr, V. St. Louis, and E. M. Sunderland, Observed decrease in atmospheric mercury explained by global decline in anthropogenic emissions, PNAS, 2016.
+Chen, L., Y. Zhang, D. J. Jacob, A. Soerensen, J. Fisher, H. M. Horowitz, E. S. Corbitt, and X. Wang, Differences in decadal trends of atmospheric mercury between the Arctic and northern mid-latitudes suggest a decline in Arctic Ocean mercury, Geophys. Res. Letters, 2015. 
+Amos, H. M., J. E. Sonke, D. Obrist, N. Robins, N. Hagan, H. M. Horowitz, R. P. Mason, M. Witt, I. Hedgecock, E. S. Corbitt, and E. M. Sunderland, Observational and modeling constraints on global anthropogenic enrichment of mercury: a critical review, Env. Sci. Technol., 2015. 
+Horowitz, H. M., D. J. Jacob, H. M, Amos, D. G. Streets, and E. M. Sunderland, Historical mercury releases from commercial products: global environmental implications, Env. Sci. Technol., 48 (17), 10242-10250, 2014.
+Amos, H. M., D. J. Jacob, D. Kocman, H. M. Horowitz, Y. Zhang, S. Dutkiewicz, M. Horvat, E. S. Corbitt, and E. M. Sunderland, Global biogeochemical implications of mercury discharges from rivers and sediment burial, Env. Sci. Technol., 48, 9514-9522, 2014. 
+Click for more
+
+
+Honors
+15th Atmospheric Chemistry Colloquium for Emerging Senior Scientists (ACCESS XV) (2019)
+Surface Ocean Lower Atmosphere Studies (SOLAS), Early Career Scientist Presentation Award (2019)
+
+Research Honors
+NSF Atmospheric and Geospace Sciences Postdoctoral Research Fellowship (2017-2019)
+JISAO Postdoctoral Research Fellowship (2017-2019)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+DOE funds research into impact of sea salt aerosol particles from sea ice leads on climate
+
+
+Senior Cici Teng takes advantage of undergraduate research opportunity
+
+
+The Future Starts Now, Part 2
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+
+
+
+
+
+
+
+ 
+
+
+Hyunseok Kim 
+
+
+
+Assistant Professor
+
+hyunseok@illinois.edu
+2256 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Hyunseok Kim Research Group
+
+Education
+Ph.D. in Electrical and Computer Engineering, University of California, Los Angeles, 2018
+B.S. in Electrical Engineering and Computer Science, Seoul National University, 2011
+
+Other Professional Employment
+Research Scientist, Massachusetts Institute of Technology, 2022-2023
+Postdoctoral Associate, Massachusetts Institute of Technology, 2019-2022
+
+Graduate Research OpportunitiesI am an incoming assistant professor of the ECE department, starting January 2024. As a new lab, we have multiple openings for PhD students. We welcome highly motivated students with a passion for tackling challenging questions to make a real impact in the field of semiconductor devices, materials, and integrated platforms. Interested students are encouraged to directly contact Prof. Hyunseok Kim (hyunseok@illinois.edu) with a CV. 
+Research Interests
+3D heterogeneous integration technologies for sensor fusion and ubiquitous electronics
+Low-dimensional and mixed-dimensional heterostructures for novel physical phenomena and coupling
+III-V, III-N, and 2D materials for electronics and optoelectronics
+
+
+
+Selected Articles in Journals
+Hyunseok Kim*, Yunpeng Liu*, Kuangye Lu*, Celesta S. Chang*, Dongchul Sung, Marx Akl, Kuan Qiao, Ki Seok Kim, Bo-In Park, Menglin Zhu, Jun Min Suh, et al., “High-throughput manufacturing of epitaxial membranes from a single wafer by 2D materials-based layer transfer process” Nature Nanotechnology, 18(5), 464-470 (2023)
+
+Jiho Shin*, Hyunseok Kim*, Suresh Sundaram*, Junseok Jeong*, Bo-In Park, Celesta S. Chang, Joonghoon Choi, Taemin Kim, Mayuran Saravanapavanantham, et al., “Vertical full-colour micro-LEDs via 2D materials-based layer transfer”, Nature, 614(7946), 81-87 (2023)
+
+Hyunseok Kim*, Sangho Lee*, Jiho Shin*, Menglin Zhu, Marx Akl, Ne Myo Han, Kuangye Lu, Celesta S. Chang, Jun Min Suh, Ki Seok Kim, et al., “Graphene nanopattern as a universal epitaxy platform for single-crystal membrane production and defect reduction”, Nature Nanotechnology, 17(10), 1054-1059 (2022) 
+
+Chanyeol Choi*, Hyunseok Kim*, Ji-Hoon Kang*, Min-Kyu Song*, Hanwool Yeon, Celesta S. Chang, Jun Min Suh, Jiho Shin, Kuangye Lu, Bo-In Park, et al., “Reconfigurable heterogeneous integration using stackable chips with embedded artificial intelligence”, Nature Electronics, 5(6), 386-393 (2022)
+
+Hyunseok Kim*, Celesta S. Chang*, Sangho Lee*, Jie Jiang, Junseok Jeong, Minseong Park, Yuan Meng, Jongho Ji, Yeunwoo Kwon, Xuechun Sun, Wei Kong, Hyun S. Kum, Sang-Hoon Bae, Kyusang Lee, Young Joon Hong, Jian Shi, and Jeehwan Kim, “Remote epitaxy”, Nature Reviews Methods Primers, 2:40 (2022)
+
+Hyunseok Kim*, Kuangye Lu*, Yunpeng Liu, Hyun S. Kum, Ki Seok Kim, Kuan Qiao, Sang-Hoon Bae, Sangho Lee, You Jin Ji, Ki Hyun Kim, et al., “Impact of 2D–3D Heterointerface on Remote Epitaxial Interaction through Graphene”, ACS Nano, 15(6), 10587-10596 (2021)
+
+Click for more
+
+Recent Courses TaughtECE 444 - IC Device Theory & Fabrication
+
+
+
+
+
+
+
+Related News
+
+
+ECE welcomes seven new faculty
+
+
+
+
+
+
+
+

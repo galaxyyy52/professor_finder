@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+ 
+
+
+ Matthew Caesar he/him/his
+
+
+
+Professor
+(847) 323-2968
+caesar@illinois.edu
+3118 Siebel Center for Comp Sci
+
+
+
+For More Information
+Matthew Caesar's home page
+
+Education
+Ph.D., Computer Science, University of California, Berkeley, 2007
+
+Research Interests
+Simplifying management and improving reliability of distributed systems and networks through principles of self-organization and self-diagnosis, with an emphasis on wide-area networks and networked systems.
+My research focuses on the design, analysis, and implementation of distributed systems and networks on the extremely large scale, with an emphasis on network operations, measurement, and availability. I am particularly interested in improving availability and performance of the Internet infrastructure, including routing, DNS, and data centers.
+
+
+Research Areas
+Security and Privacy
+Systems and Networking
+
+
+
+Recent Courses TaughtCS 437 CHI (CS 437 CSP, CS 437 DSO, CS 437 IOT, CS 437 IT3, CS 437 IT4, CS 437 ITG, CS 437 MC3, CS 437 MC4, CS 437 MCS) - Topics in Internet of Things
+CS 497 - CS Team Project
+CS 498 ISE (CS 498 IT3, CS 498 IT4, CS 498 ITC, CS 498 ITF, CS 498 ITO) - Internet of Things
+ECE 435 (CS 436) - Computer Networking Laboratory
+
+
+
+
+
+
+
+Related News
+
+
+Caesar's Passion for IoT Helps Transition his Graduate Course into an Online, Hands-on Coursera Specialization
+
+
+CS, CSL Alum Shares Advice From Unique Student Experience
+
+
+Caesar Works to Improve Internet Connectivity During Disaster Response
+
+
+Amazon's Move Off Oracle Caused Prime Day Outage In One Major Warehouse
+
+
+Internal Documents Show How Amazon Scrambled To Fix Prime Day Glitches
+
+
+Websites Hacked To Mint Crypto-cash
+
+
+
+News Notes
+
+
+
+
+
+
+
+

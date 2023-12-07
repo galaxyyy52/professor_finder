@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+ 
+
+
+Mohammed El-Kebir 
+
+
+
+Assistant Professor
+(217) 333-0135
+melkebir@illinois.edu
+3216 Siebel Center for Comp Sci
+
+
+
+For More Information
+https://www.el-kebir.net
+
+Education
+Ph.D., Computer Science, VU University Amsterdam and Centrum Wiskunde & Informatica (CWI), 2015
+M.S., Bioinformatics, VU University Amsterdam, 2010
+M.S., Computer Science and Engineering, Eindhoven University of Technology, 2009
+B.S., Computer Science and Engineering, Eindhoven University of Technology, 2006
+
+BiographyEl-Kebir received his PhD in Computer Science at VU University Amsterdam and Centrum Wiskunde & Informatica  (2015) under the direction of Jaap Heringa and Gunnar Klau. He did postdoctoral training with Ben Raphael at Brown University and Princeton University (2014-2017). In 2018, he joined the University of Illinois at Urbana-Champaign as an Assistant Professor of Computer Science. El-Kebir has affiliate faculty appointments in Electrical and Computer Engineering, the Institute of Genomic Biology and the National Center for Supercomputing Applications. He received the National Science Foundation CISE Research Initiation Initiative (CRII) Award in 2019 and the CAREER Award in 2021.El-Kebir's main research is in combinatorial optimization algorithms for problems in computational biology, with a particular focus on cancer genomics. Among his major contributions are advances in the theoretical foundations of cancer phylogenetics (e.g., hardness proofs for phylogeny estimation problems from mixture data), methods for the estimation of cancer phylogenies from sequencing data of tumors, and new mathematical models for studying cancer evolution and metastasis.El-Kebir's current focus is on developing methods that enable the estimation of cancer phylogenies from single-cell sequencing data. A specific challenge he is addressing is the integration of data obtained from the same tumor using distinct single-cell technologies. Another focus is the development of comprehensive evolutionary models for somatic mutations that occur at varying genomic scales. More generally, El-Kebir is developing novel problem statements and corresponding methods to analyze omics data in novel ways, thereby improving scientific discovery.
+Academic Positions
+Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, Institute of Genomic Biology, 2018-Present
+Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, Department of Electrical and Computer Engineering, 2018-Present
+Assistant Professor (affiliate), University of Illinois at Urbana-Champaign, National Center of Supercomputing Applications, 2018-Present
+Assistant Professor, University of Illinois at Urbana-Champaign, Department of Computer Science, 2018-Present
+Postdoc, Princeton University, Department of Computer Science, 2016-2017
+Postdoc, Brown University, Department of Computer Science, 2015-2016
+Click for more
+Research Interests
+Combinatorial optimization and its applications to cancer and infection genomics
+
+
+Research Areas
+Bioinformatics and Computational Biology
+Theory and Algorithms
+
+
+Selected Articles in Journals
+M. El-Kebir, L. Oesper, H. Acheson-Field, B. J. Raphael. Reconstruction of clonal trees and tumor composition from multi-sample sequencing data, Bioinformatics, 31(12):i62--i70, 2015. Special issue for Intelligent Systems for Molecular Biology (ISMB) 2015.
+M. El-Kebir, G. Satas, L. Oesper, B.J. Raphael. Inferring the Mutational History of a Tumor using Multi-State Perfect Phylogeny Mixtures, Cell Systems, 3(1):43--53, 2016. Extended version of selected papers that appeared in Research in Computational Molecular Biology (RECOMB) 2016.
+The Computational Pan-Genomics Consortium. Computational pan-genomics: status, promises and challenges, Briefings in Bioinformatics, bbw089, 2016.
+M. El-Kebir, G. Satas, B.J. Raphael. Inferring parsimonious migration histories for metastatic cancers. Nature Genetics, 50:718-726, 2018.
+M. El-Kebir. SPhyR: Tumor Phylogeny Estimation from Single-Cell Sequencing Data under Loss and Error. Bioinformatics (ECCB 2018), 34(17):i671-679, 2018. Special issue for European Conference on Computational Biology (ECCB) 2018.
+N. Aguse, Y. Qi, M. El-Kebir. Summarizing the Solution Space in Tumor Phylogeny Inference by Multiple Consensus Trees. Bioinformatics, 35(14):i408-i146, 2019. Special issue for Intelligent Systems for Molecular Biology/European Conference on Computational Biology (ISMB/ECCB) 2019.
+P. Sashittal and M. El-Kebir. Sampling and Summarizing Transmission Trees with Multistrain Infections. Bioinformatics, 36:i362--i370, 2020. Special issue for Intelligent Systems for Molecular Biology (ISMB) 2020.
+J. Wu and M. El-Kebir. ClonArch: Visualizing the Spatial Clonal Architecture of Tumors. Bioinformatics, 36:i161--i168, 2020. Special issue for Intelligent Systems for Molecular Biology (ISMB) 2020.
+S. Christensen, J. Kim, N. Chia, O. Koyejo, M. El-Kebir. Detecting evolutionary patterns of cancers using consensus trees. Bioinformatics, 36:i684--i691, 2020. Special issue for European Conference on Computational Biology (ECCB) 2020.
+C. Zhang, P. Sashittal, M. Xiang, Y. Zhang, A. Kazi, M. El-Kebir. Accurate Identification of Transcription Regulatory Sequences and Genes in Coronaviruses. Molecular Biology and Evolution, Volume 39, Issue 7, July 2022. Extended version of Research in Computational Molecular Biology (RECOMB) 2022 paper.
+B. Berger, D. Tian, W.V. Li, M. El-Kebir, A.I. Tomescu, R. Singh, N. Beerenwinkel, Y. Li, C. Boucher and Z. Bar-Joseph. What Are the Keys to Succeeding as a Computational Biologist in Today's Research Climate? Cell Systems 13, no. 10 (October 2022): 781–85.
+S. Ivanovic and M. El-Kebir. Modeling and Predicting Cancer Clonal Evolution with Reinforcement Learning. Genome Research, to appear. Extended version of Research in Computational Molecular Biology (RECOMB) 2023 paper.
+Click for more
+Articles in Conference Proceedings
+S. Ivanovic and M. El-Kebir. Modeling and Predicting Cancer Clonal Evolution with Reinforcement Learning. RECOMB 2023, Annual International Conference on Research in
+  Computational Molecular Biology, Istanbul, Turkey, April 16-19, 2023. Acceptance rate: 20%. (Invited journal version to appear in Genome Research.)
+C. Zhang, P. Sashittal and M. El-Kebir. CORSID enables de novo identification of transcription regulatory sequences and genes in coronaviruses. RECOMB 2022, Annual International Conference on Research in Computational Molecular Biology, La Jolla, USA, May 22-25, 2022. Acceptance rate: 20%. (Extended journal version appeared in Molecular Biology and Evolution.)
+L.L. Weber, P. Sashittal and M. El-Kebir. doubletD: Detecting doublets in single-cell DNA sequencing. ISMB/ECCB 2021, Intelligent Systems in Molecular Biology/European Conference on Computational Biology, Lyon, France, July 27-30, 2021. Acceptance rate: 19%.
+D. Pradhan and M. El-Kebir. On the Non-uniqueness of Solutions to the Perfect Phylogeny Mixture Problem. RECOMB-CG 2018, RECOMB Comparative Genomics, Magog-Orford (Sherbrooke), Quebec, Canada, October 9-12, 2018.  Acceptance rate: 60%. (Extended journal version appeared in Algorithms for Molecular Biology.)
+M. El-Kebir. SPhyR: Tumor Phylogeny Estimation from Single-Cell Sequencing Data under Loss and Error. ECCB 2018, European Conference on Computational Biology, Athens, Greece, September 9-12, 2018. Acceptance rate: 17%.
+M. El-Kebir. Parsimonious Migration History Problem: Complexity and Algorithms. WABI 2018, Workshop on Algorithms in Bioinformatics, Helsinki, Finland, August 20-22, 2018. Acceptance rate: 44%.
+S. Zaccaria, M. El-Kebir, G. W. Klau, B. J. Raphael. The Copy-Number Tree Mixture Deconvolution Problem and Applications to Multi-Sample Bulk Sequencing Tumor Data. RECOMB 2017, Annual International Conference on Research in Computational Molecular Biology, Hong Kong, China, May 3-7, 2017. Acceptance rate: 21%. (Extended journal version appeared in Journal for Computational Biology.)
+M. El-Kebir, B.J. Raphael, R. Shamir, R. Sharan, S. Zaccaria, M. Zehavi, R. Zeira. Copy-Number Evolution Problems: Complexity and Algorithms. WABI 2016, Workshop on Algorithms in Bioinformatics, Aarhus, Denmark, August 22-24, 2016. Acceptance rate: 48%. (Invited journal version appeared in Algorithms for Molecular Biology.)
+M. El-Kebir, G. Satas, L. Oesper, B. J. Raphael. Multi-State Perfect Phylogeny Mixture Deconvolution and Applications to Cancer Sequencing. RECOMB 2016, Annual International Conference on Research in Computational Molecular Biology, Santa Monica, CA, April 18-21, 2016. Acceptance rate: 21%. (Invited journal version appeared in Cell Systems.)
+M. El-Kebir, L. Oesper, H. Acheson-Field, B. J. Raphael. Reconstruction of clonal trees and tumor composition from multi-sample sequencing data. ISMB 2015, Annual International Conference on Intelligent Systems for Molecular Biology, Dublin, Ireland, July 10-14, 2015. Acceptance rate: 17%.
+Click for more
+Journal Editorships
+Proceedings of the 21st International Workshop on Algorithms in Bioinformatics, WABI 2021, August 2–4, 2021, Virtual Conference. Edited by Alessandra Carbone and Mohammed El-Kebir. 10.4230/LIPIcs.WABI.2021.0
+
+Conferences Organized or Chaired
+Co-organizer National Cancer Institute (NCI) Spring School on Algorithmic Cancer Biology, March 13-19, 2023
+Area co-chair for 'General Computational Biology' at Intelligent Systems for Molecular Biology (ISMB) / European Conference on Computational Biology (ECCB) 2021, ISMB 2022 and ISMB/ECCB 2023
+Co-organizer of Cancer Evolution workshop at Pacific Symposium on Biocomputing (PSB) 2022.
+Program Committee co-chair, Workshop on Algorithms in Bioinformatics (WABI) 2021
+
+Professional Societies
+Member of Society for Molecular Biology and Evolution (SBME), 2022 - present
+Member of Association for Computing Machinery (ACM), 2018 - present
+Member of American Association for the Advancement of Science (AAAS), 2018 - present
+Member of Institute of Electrical and Electronics Engineers (IEEE), 2018 - present
+Member of International Society for Computational Biology (ISCB), 2012 - present
+
+Other Outside Service
+Program Committee Member: RECOMB-Comparative Genomics, (RECOMB-CG, 2021-2023)
+Program Committee Member: Conference on Research in Computational Molecular Biology (RECOMB, 2020-2023)
+Program Committee Member: Great Lakes Bioinformatics Conference (GLBIO, 2019, 2021, 2023)
+Program Committee Member: Intelligent Systems in Molecular Biology  (ISMB 2019-2023)
+Program Committee Member: International Symposium on Mathematical and Computational Oncology (ISMCO, 2019-2021)
+Program Committee Member: Workshop on Algorithms in Biology (WABI, 2019, 2021-2023)
+Program Committee Member: RECOMB-Computational Cancer Biology, (RECOMB-CCB, 2019, 2020, 202, 2023)
+Program Committee Member: ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB, 2018-2022)
+Program Committee Member: Computational Intelligence methods for Bioinformatics and Biostatistics (CIBB, 2017, 2019)
+Program Committee Member: European Conference on Computational Biology (ECCB, 2016, 2019)
+Reviewer for several journals (Nature Communications, Nature Cancer, Genome Biology, PLOS One/CB, Bioinformatics, Genome Research, etc.)
+Click for more
+Research Honors
+National Science Foundation's CAREER Award (2021)
+Young Investigator Award by Netherlands Bioinformatics and Systems Biology research school (2015)
+
+Improvement Activities
+Collins scholar program (graduation April, 2019)
+
+
+Recent Courses TaughtCS 466 - Introduction to Bioinformatics
+CS 591 BIO - Bioinformatics and Computation
+CS 598 MEB - Computational Cancer Genomics
+
+
+
+
+
+
+
+Related News
+
+
+El-Kebir's Recent Research with Students Produces a Tool to Further Identify Genes Associated with the Coronavirus
+
+
+AI in Cancer Research: Tumor Phylogenetics
+
+
+El-Kebir's NSF CAREER Award Recognizes His Potential to Further Develop Understanding of Cancerous Tumors
+
+
+El-Kebir, Peng Lead Research Finding Multiple SARS CoV-2 Virus Strains Can Co-Exist in Patients
+
+
+Meet the Siebel Scholars Class of 2020
+
+
+Method Revolutionizes Tracking The Spread Of Cancer
+
+
+
+News Notes
+
+
+
+
+
+
+
+

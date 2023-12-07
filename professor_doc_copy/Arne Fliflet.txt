@@ -1,0 +1,115 @@
+
+
+
+
+
+
+
+ 
+
+
+Arne  Fliflet 
+
+
+
+Lecturer
+(217) 244-9424
+afliflet@illinois.edu
+3056 Electrical & Computer Eng Bldg
+
+
+
+Education
+Ph.D. Physics, University of Virginia, 1975
+B.Sc. Physics, Duke University, 1970
+
+BiographyArne W. Fliflet received the B.Sc. degree from Duke University, Durham, NC, in 1970, and the Ph.D. degree from the University of Virginia, Charlotte, VA, in 1975, both in physics. His dissertation was on the application of many body perturbation theory to atomic photoionization. As a Research Fellow at Caltech from 1975 to 1979, he developed theoretical approaches to low-energy electron-molecule scattering.  In 1979 he joined a small consulting firm, B-K Dynamics, Inc., in Rockville, MD. At B-K Dynamics, he was involved with some of the first gyrotron research conducted in the United States, including the development of theoretical models and computer codes used in gyrotron design. In 1982, he joined the Naval Research Laboratory (NRL) as a Research Physicist in the Plasma Physics Division. At NRL he conducted theoretical and experimental research on gyrotrons, related high power coherent millimeter-wave radiation sources, and gyrotron applications. For many years he served as the head of the Particle and Radiation Beam Generation Section. His areas of research included: gyrotrons for tokamak plasma heating, relativistic gyrotrons, cyclotron auto-resonance masers, quasi-optical gyrotrons, magnicons, near-terahertz, higher-harmonic gyrotrons, microwave processing of materials, and millimeter-wave cloud radars.  In 2014 he joined the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign where he serves as a Lecturer. He has authored or coauthored over 100 papers and holds seven patents. Dr. Fliflet is a Fellow of the American Physical Society and a Senior Member and Life Member of IEEE.
+Academic Positions
+Lecturer, ECE Department UIUC, Electromagnetics, August 16, 2014-present.
+
+Other Professional Employment
+Project Scientist, B-K Dynamics, Inc., Rockville, MD, 1979-1982.
+Research Physicist, Naval Research Laboratory, Washington, DC, October 1, 1982-August 15, 2014.
+Research Fellow, California Institute of Technology, 1975-1979
+
+Teaching StatementDr. Fliflet has taught mid-level courses in the ECE Department including ECE 210 Analog Signal Processing, ECE 329 Fields and Waves I, ECE 330 Power Circuits and Electromerchanics, and ECE 445 Senior Design Laboratory.Proposed and continues to  develop a ECE498/598 course on Microwave Vacuum Power Electronics
+Research StatementCurrent research area is terahertz gyrotrons. Currently assisting the US Naval Research Laboratory conduct a 550 GHz, 10 kW, second-harmonic gyrotron experiment. Designed a 60 kV, 4A electron gun for this experiment which was fabricated by Communications and Power Industries, Inc.
+Research Interests
+Radar investigation of clouds
+Microwave processing of materials
+Terahertz gyrotron oscillators and amplifiers
+High power vacuum electronics
+
+
+Research Areas
+Atmospheric and ionospheric measurements
+Computational electromagnetics
+Lasers and optical physics
+Microwave devices and circuits
+Modeling and simulation of laser systems 
+Radar and LIDAR
+Click for more
+
+Research Topics
+Charge particle physics and engineering
+RF and microwave engineering
+
+Selected Articles in Journals
+A.W. Fliflet, M.E. Read, K.R. Chu, and R. Seeley, “A Self-Consistent Field Theory for Gyrotron Oscillators: Application to a Low Q Gyromonotron,” Int. J. Electronics 53, 505 (1982).
+W.M. Manheimer, A.W. Fliflet, K. St. Germain, G.L. Linde, W.J. Cheung, V. Gregors-Hansen, B.G. Danly, and M.T. Ngo, “Initial Cloud Images with the NRL High Power 94 GHz WARLOC Radar,” Geophys. Res. Lett. 30, 1103-1107 (2003).
+A.W. Fliflet and W.M. Manheimer, “Measurement of Correlation Functions and Power Spectra in Clouds Using the NRL WARLOC Radar,” IEEE Trans. Geoscience and Remote Sensing 44, 3247-3261 (2006).
+A. W. Fliflet, M. K. Hornstein and S. H. Gold, “Enhanced Stability of Second and Fourth Harmonic Gyrotrons Driven by a Frequency-Doubled Pre-bunched Beam,” IEEE Trans. Plas. Sci. 39, p. 1061 (2011).
+A.W. Fliflet, S.L. Miller, and M.A. Imam, "Evaluation of Microwave-Sintered Titanium and Titanium Alloy Powder Compacts," Ceramic Transactions 234, p. 83 (2012).
+
+
+B.Y. Rock and A.W. Fliflet, “Analysis and Design of a Quasi-Optical Mode Converter for a 1-kW, 550 GHz, TE15,2-Mode Gyrotron,” IEEE Trans.THz Sci. Tech., 3,641-644 (2013).
+Click for more
+Patents
+“Multi-Slot RF-Circuit for Gyroklystron Bunching Cavities,” by S.H. Gold and A.W. Fliflet, U.S. Patent 5,038,077 (Date: Aug. 6, 19991).
+“Processing of nanocrystalline metallic powders and coatings using the polyol process,” L.K. Kurihara, R.W. Bruce, A.W. Fliflet, D. Lewis, U.S. Patent 6,746,510 (June 8, 2004).
+“Removing radar absorbing coatings,” D. Lewis, III, A.W. Fliflet, and R.W. Bruce, U.S. Patent 6,802,907 (October 12, 2004).
+“Microwave assisted continuous synthesis of nanocrystalline powders and coatings using the polyol process,” D. Lewis, III, R.W. Bruce, A.W. Fliflet, S.H. Gold, L.K. Kurihara, U.S. Patent 6,833,019 (December 21, 2004).
+“Microwave assisted reactive brazing of ceramic materials,” R.W. Bruce, D. Lewis, III, M. Kahn, A.W. Fliflet, S.H. Gold, U.S. Patent 7,022,198 (April 4, 2006).
+“Long Range Active Thermal Imaging System and Method,” R.F. Hubbard, A.W. Fliflet, G.B. Smith, M.K. Hornstein, D. Lewis, III, J.H. Bowles, and D.A. Kidwell, US Patent No. 7,795,583.
+“Sintering of metal and alloy powder by microwave/millimeter-wave heating,” M. A. Imam and A. Fliflet, US Patent 8431071B2, Issued April 30, 2013.
+Click for more
+Professional Societies
+Member-at-Large of Executive Committee of the Prairie Section of the American Physical Society (2020-2021)
+
+Service on University Committees
+Senator for ECE Department
+
+Research Honors
+Senior Member, IEEE (Membership No. 08022709) (2014)
+Fellow, American Physical Society (Membership No. FL591461) (1990)
+
+
+Recent Courses TaughtECE 445 - Senior Design Project Lab
+ECE 498 AF4 (ECE 498 AWF, ECE 498 ON3, ECE 498 ON4) - Microwave Vac Pwr Elect
+ME 470 ZJU - Senior Design Project
+ME 498 ZJU - Senior Design Project
+
+
+
+
+
+
+
+Related News
+
+
+Undergraduate team projects win Senior Design Awards
+
+
+Students take home Senior Design awards
+
+
+Seven new faculty members join ECE ILLINOIS
+
+
+
+
+
+
+
+

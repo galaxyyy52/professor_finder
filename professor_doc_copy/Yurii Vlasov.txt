@@ -1,0 +1,246 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Yurii Vlasov 
+
+
+
+
+
+Founder Professor
+
+
+(217) 300-1870
+yvlasov@illinois.edu
+1250 Micro & Nanotechnology Lab
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaBio-Micro and Nanotechnology
+Research Areas
+Biomedical imaging
+Biophotonics
+Micro and molecular technologies
+Nanosensors
+Neural engineering (general)
+Neural recording 
+Click for more
+For More Information
+Group website
+
+Plenary presentation at SPIE Photonics West 2015  (video)
+Plenary presentation at CLEO/QELS 2012 (video; starts at 18')
+
+BiographyDr. Yurii Vlasov is a John Bardeen Endowed Chair in Electrical and Computer Engineering and Physics at the University of Illinois at Urbana-Champaign. He is tenured with the departments of Electrical and Computer Engineering, Physics, Materials Science and Engineering, and Bio-Engineering, as well as Carle Illinois College of Medicine. At the UIUC he established the Integrated Neurotechnology lab devoted to development of advanced engineering approaches aimed at reverse engineering of the brain circuits. The major themes include development of silicon-based nanofluidic and nanophotonic neural probes, in-vivo neurobiological experiments with massive recording and manipulation of brain activity, and, lastly, development of machine-learning algorithms to analyze large neural datasets.
+Prior to joining the UIUC in 2016, Dr. Vlasov held various research and managerial positions at the IBM T.J. Watson Research Center in N.Y. where he led broad company-wide efforts in integrated silicon nanophotonics and more recently in neuromorphic computing architectures. He initiated the Silicon Nanophotonics project in 2001 and managed it for over 15 years from its early fundamental research stage up to commercial manufacturing of optical transceivers for large-scale datacenters and supercomputers. The technology has been fully qualified and deployed for commercial production at GlobalFoundries.
+Prior to joining IBM in 2001, Dr. Vlasov developed semiconductor nanophotonics at the N.E.C. Research Institute in Princeton, N.J. and at the Strasbourg IPCMS Institute in France. For over a decade, he was also a Research Scientist with the Ioffe Institute of Physics and Technology in St. Petersburg, Russia working on optics of nanostructured semiconductors. He received his M.S. from the University of St. Petersburg (1988) and Ph.D from the Ioffe Institute (1994), both in physics.
+Dr. Vlasov is a member of the  National Academy of Engineering  and a Fellow of the APS, the IEEE, and the OSA. He has published over 300 papers, filed over 100 patents, and delivered over 100 invited, plenary and tutorial talks. He received the IBM CEO Corporate Award, the Best of IBM Award, and several IBM Outstanding Technical Achievement Awards, as well as was named Scientist of the Year by the Scientific American journal. Dr. Vlasov and his work has been covered in numerous major newspapers, including New York Times, Forbes, Wall Street Journal, and others. It has been featured on television news programs including The Tonight Show, ABC, CBS, etc. It has also been highlighted in review columns on Science Daily, Scientific American Journal, New Scientist, etc.
+Education
+MS (Biophysics) 1988, University of St.-Petersburg, Physics Department, Russia
+PhD (Physics) 1994, Ioffe Institute of Physics and Technology, St.-Petersburg, Russia
+
+Academic Positions
+2021- current, John Bardeen Endowed Chair, Electrical Engineering and Physics, UIUC
+2016 - 2021,	Grainger Engineering Breakthrough Initiative (GEBI) Founder Professor, Electrical and Computer Engineering, UIUC
+2016 - current,	Inaugural Professor, Clinical Neuroscience, Carle Illinois College of Medicine, UIUC
+2016 - current, Professor, Department of BioEngineering, UIUC
+2016 - current , Neurotechnology for Memory and Cognition, Beckman Institute for Advanced Science and Technology, UIUC
+2016 - current, Professor, Neuroscience Program, UIUC
+2016 - current, Professor, Department of Materials Science and Engineering, UIUC
+2016 - current, Holonyak Micro and Nano Technology Laboratory, UIUC
+2007-2008, Adjunct Professor, ECE Department, Columbia University
+Click for more
+Other Professional Employment
+2015-2016 Manager, Department of Brain-Inspired Technologies, IBM TJ Watson Research Center, NY
+2013- 2014 Visiting Scientist, HHMI Janelia Farm Research Campus, VA
+2008- 2013 Manager,Department of  Silicon Integrated Nanophotonics, IBM TJ Watson Research Center, NY
+2001-2008 Project Lead, Silicon Nanophotonics, IBM TJ Watson Research Center, NY
+2000-2001 Scientist, NEC Research Institute, Inc., Princeton NJ
+1998-2000 Postdoctoral Member of Staff, NEC Research Institute, Inc., Princeton NJ
+1996-1997 Postdoctoral Fellow, Strasbourg Institute of Materials Physics, France
+1994-2000 Research Scientist, Ioffe Institute of Physics and Technology, Russia
+1988-1994 Junior Research Scientist, Ioffe Institute of Physics and Technology, Russia
+Click for more
+Major Consulting Activities
+2015-2018  Senior Fellow ,  Janelia Research Campus, Howard Hughes Medical Institute, VA
+
+Professional Registrations
+NAE Member 2021
+IEEE Fellow 2015
+APS Fellow 2007
+OSA Fellow 2006
+
+Professional Societies
+The Optical Society of America, Steering Committee, Quantum Electronics and Laser Science Conference, 2018
+Led development of a novel CWDM4 proposal for the IEEE 100G Ethernet 802.3bm committee that once acquired a highest level of  support on the floor. Full baseline proposal (draft clause 96) with all specifications had been prepared for final voting. Although no consensus was reached by 802.3bm, several MSA had been established following the specs of the initial IEEE CWDM4 proposal as CWDM4,  CLR4 and Open Optics.
+
+Service to Federal and State Government
+Scientific Advisory Council, Argonne National Laboratory (2017-2020)
+Reviewer, NIH BRAIN Initiative Review panels and Study sections (2015-current). 
+	ZNS1-SRB-G-13,
+	ZNS1-SRB-G-21,
+	ZEB1-OSR-F-M1,
+	ZNS1-SRB-O-01,
+	ZRG1 ETTN-B (50) R,
+	BNVT,
+	ZNS1-SRB-O-07
+
+Other Outside Service
+Advisor, DARPA Defense Sciences Research Council,  Beyond OEO bottleneck, Arlington, (2003)
+Advisor, NNI Grand Challenges in Nanoelectronics, Committee on Nanophotonics, Arlington, (2004)
+Advisor, Australian Center for Ultrahigh bandwidth Devices for Optical Systems, University of Sydney (2006-2007)
+Advisor, NSF Center for Metamaterials, Purdue University, (2006-2008)
+Advisor, University of Washington, NSF Science and Technology Center on Information Technology Research (2008-2009)
+Advisor, The Integrative Graduate Education and Research Traineeship (IGERT), Columbia University (20012-2015)
+Advisor, NSF Partnership in Research and Education in Materials at the Metamaterials Research (META-PREM). Michigan, Purdue and Cornell universities. (2015-2016)
+Click for more
+
+
+Research Interests
+Neuroengineering, Integrated neural probes, neurophotonics, Brain-machine interface, Virtual Reality systems
+Neurobiology, Experimental systems neuroscience, Hierarchical information processing in cortical networks
+Neuroinformatics, Machine learning, dimensionality reduction, network dynamics
+
+Research StatementResearch Statement  We aim to uncover the basic principles of brain computations that form the basis of perception and guide complex behavior. Our vision is to integrate engineering, systems neuroscience, and data analytics to advance our knowledge of inner working of the brain. Correspondingly, the interdisciplinary projects in the lab can be categorized into three main threads: Neuro-engineering, Neuro-biology, and Neuro-informatics. Neuro-engineering is focused on developing advanced neural probes to interrogate and manipulate the brain using nanotechnology approaches. These novel tools are used in Neuro-biology experiments to record massive datasets of brain activity in live animals during active navigation in virtual reality. Development of machine learning analytical methods in Neuro-informatics thread provides insight into functionality of neural circuits and systems.
+Primary Research AreaBio-Micro and Nanotechnology
+Research Areas
+Biomedical imaging
+Biophotonics
+Micro and molecular technologies
+Nanosensors
+Neural engineering (general)
+Neural recording 
+Click for more
+
+
+Selected Articles in Journals
+Google Scholar : total number of publications >300 including journal papers, refereed proceedings and book chapters.
+ Over 20,000 citations, H-index > 60
+Listed below are most cited or for the last 5 years
+Pre-neuronal processing of haptic sensory cues via dispersive high-frequency vibrational modes, Y Ding, Y Vlasov, bioRxiv 2022.06.15.496141
+2.	Enhancement of faradaic current in an electrochemical cell integrated into silicon microfluidic channels, Christopher Kenji Brenden, Hrishikesh Iyer, Yan Zhang, Sungho Kim, Weihua Shi , and Yurii A. Vlasov, Sensors and Actuators: B. Chemical, 2023 
+3.	Integrated silicon microfluidic chip for picoliter-scale analyte segmentation and microscale printing for mass spectrometry imaging,  Weihua Shi, Sara Bell, Hrishikesh Iyer, Christopher Kenji Brenden, Yan Zhang, Sungho Kim, Insu Park, Rashid Bashir, Jonathan Sweedler and  Yurii Vlasov, Lab on a Chip 23 (1), 72-80, 2023. 
+4.	Attomole-Level Multiplexed Detection of Neurochemicals in Picoliter Droplets by On-Chip Nanoelectrospray Ionization Coupled to Mass Spectrometry, Yan Zhang, Keyin Li, Yaoyao Zhao, Weihua Shi, Hrishikesh Iyer, Sungho Kim, Christopher Brenden, Jonathan V. Sweedler, and Yurii Vlasov, Analytical Chemistry 94 (40), 13804-13809, 2022.
+5.	Droplet-assisted electrospray phase separation using an integrated silicon microfluidic platform, Y Zhang, S Kim, W Shi, Y Zhao, I Park, C Brenden, H Iyer, P Jha, R Bashir, Jonathan V. Sweedler, and  Yurii Vlasov, Lab on a Chip 22 (1), 40-46, 3, 2022 
+Droplet Microfluidics with MALDI-MS Detection: The Effects of Oil Phases in GABA Analysis, SE Bell, I Park, SS Rubakhin, R Bashir, Y Vlasov, JV Sweedler, ACS Measurement Science Au, 8, (2021) 
+Unsupervised Discovery of Dynamic Neural Circuits, C Graber, R Loh, Y Vlasov, A Schwing, NeurIPS 2019
+Picoliter droplet generation for fast monitoring of brain chemistry with scaled silicon nanodialysis probe,   Yan Zhang, Ari Esters, Oscar Bi, and Yurii Vlasov, Transducers, 2019 
+Acceleration of Deep Neural Network Training with Resistive Cross-Point Devices, Gokmen, T., Vlasov, Y. Front. Neuroscience., 10, 333 (2016) 
+Neural coding in barrel cortex during whisker-guided locomotion, Sofroniew, N., Vlasov, Y., Hires, S., Freeman, J., Svoboda K. eLife 2015;4:e12559 (2015) 
+Reinventing germanium avalanche photodetector for nanophotonic on-chip optical interconnects, S. Assefa, F. Xia, Y.A. Vlasov, Nature 464(7285), 80-84, (2010)
+High-throughput silicon nanophotonic wavelength-insensitive switch for on-chip optical networks, Y Vlasov, WMJ Green, F Xia, Nature Photonics 2 (4), 242-246, (2008)
+Ultra-compact, low RF power, 10 Gb/s silicon Mach-Zehnder modulator, WM Green, MJ Rooks, L Sekaric, YA Vlasov, Optics Express 15 (25), 17106-17113, (2007)
+Ultracompact optical buffers on a silicon chip, F Xia, L Sekaric, Y Vlasov, Nature Photonics 1 (1), 65-71, (2006)
+Active control of slow light on a chip with photonic crystal waveguides, YA Vlasov, M O'Boyle, HF Hamann, SJ McNab, Nature 438 (7064), 65-69, (2005)
+Losses in single-mode silicon-on-insulator strip waveguides and bends, YA Vlasov, SJ McNab, Opt. Express 12 (8), 1622-1631, (2004)
+On-chip natural assembly of silicon photonic bandgap crystals, YA Vlasov, XZ Bo, JC Sturm, DJ Norris, Nature 414 (6861), 289-293, (2001)
+Chemical Approaches to Three‐Dimensional Semiconductor Photonic Crystals, DJ Norris, YA Vlasov, Advanced Materials 13 (6), 371-376, (2001)
+Synthesis of Photonic Crystals for Optical Wavelengths from Semiconductor Quantum Dots, Yu. A. Vlasov, Nan Yao, and D. J. Norris, Adv. Mater. 11, 165 (1999)
+Existence of a photonic pseudogap for visible light in synthetic opals, YA Vlasov, VN Astratov, OZ Karimov, AA Kaplyanskii, VN Bogomolov, AV Prokofiev, Physical Review B 55 (20), 13357-13360, (1997)
+Click for more
+Articles in Conference Proceedings
+Talks at conferences and symposia in total > 200 . Last 5 years contributions:
+
+Single-mode integrated out-of-plane meta beam shaper for optogenetics neurostimulation. Hrishikesh Iyer, Yurii Vlasov. SPIE Photonics West, 2022
+Single-whisker dependent active ethological navigation paradigm for studying sensory-processing in head-fixed mice in virtual reality. A. G. Armstrong, K. Hu,Y. Vlasov, Society for Neuroscience Annual Meeting, 2022
+2.	Efficient Electrochemical Sensor Integrated into Silicon Microfluidic Channel to Prevent Biofouling, Brenden C, Zhang Y, Kim S, Iyer H, Shi W, Vlasov Y. Miniaturized Systems for Chemistry and Life Sciences, µTAS 2021, (poster W4B-579.f) 
+Cortical processing dynamics during sensory-guided behavior using a tactile virtual-reality task, A. Armstrong , K. Hu, Y. Vlasov, Society for Neuroscience Annual Meeting, 2021
+Silicon Microfluidic Chip for Generation and Electrodeposition of Picoliter Dropelts for Mass Spectrometry, Shi W, Bell S, Zhang Y, Kim S, Iyer H, Brenden C, et al.. Miniaturized Systems for Chemistry and Life Sciences, µTAS 2021 (oral M1C3-2)
+On-chip Droplet-Microfluidics Electrospray Enabling Phase Separation for Neurochemical Sensing, Zhang Y, Shi W, Park I, Kim S, Brenden C, Iyer H et al, Biomedical Engineering Society Meeting, BMES 2020
+Integrated Silicon Chip Enabling Phase Separation and Electrospray of Picoliter Droplets for Mass Spectrometry Zhang Y, Zhao Y, Shi W, Iyer H, Kim S, Park I, et al. Miniaturized Systems for Chemistry and Life Sciences, µTAS 2021 (oral M1C3-1)
+Droplet-assisted Phase Separation by Integrated silicon electrospray nano-emitter for neurochemical sensing. Yan Zhang, Weihua Shi, Insu Park, Sungho Kim, Christopher Brenden, Hrishikesh Iyer, Prasoon Jha, Rashid Bashir, Yurii Vlasov, Miniaturized Systems for Chemistry and Life Sciences (micro-TAS 2020)
+Off-line Matrix Assisted Laser Desorption/Ionization-Mass Spectrometry of Microfluidic Droplets for Neurochemical Detection, Sara Bell, Stanislav Rubakhin, Insu Park, Jonathan Sweedler, Rashid Bashir, Yurii Vlasov, PITTCON (Pittsburgh Conference on Analytical Chemistry and Applied Spectroscopy) 2020 
+Discovery of dynamic functional connectivity of cortical networks,  C. Graber, R. Loh, Y.Vlasov, A.Schwing, Society for Neuroscience (2019)
+Nanoelectrospray Ionization Mass Spectrometry Detection of Neurotransmitters in Ultra-small Volume Microfluidic Droplet, Yaoyao Zhao, Insu Park, Jonathan Sweedler, Rashid Bashir, Stanislav Rubakhin, Yurii Vlasov, PITTCON 2020
+Unsupervised Discovery of Dynamic Neural Circuits, C. Graber, R. Loh, Y.Vlasov, A.Schwing, NeurIPS Neuro-AI Workshop (2019) 
+Optimization of Droplet Microfluidics for In Vivo Sampling and Analysis of Neurotransmitters, Insu Park, Jonathan Sweedler, Rashid Bashir, Sara Bell, Stanislav Rubakhin, Yaoyao Zao, Yurii Vlasov, PITTCON 2020
+Picoliter droplet generation for fast monitoring of brain chemistry with scaled silicon nanodyalisis probe,   Yan Zhang, Ari Esters, Oscar Bi, and Yurii Vlasov, Transducers 2019 - EUROSENSORS XXXIII, Solid-State Sensors, Actuators and Microsystems, 23-27 June 2019 - Berlin, Germany
+Click for more
+Patents
+In total over 100 patents in the areas of nanophotonics, CMOS manufacturing, photonics packaging, neuromorphic devices and systems, etc. , including issued (>65) and pending (>35). 
+ Last 5 years contributions:
+Implantable probes and methods of fabrication US App 63/042,856, 2020
+Voltage control of learning rate for rpu devices for deep neural network training, US App. 15/251,278, 2018
+Area and power efficient implementation of resistive processing units using complementary metal oxide semiconductor technology, US App. 15/242,691, 2018
+Accelerated neural network training using a pipelined resistive processing unit architecture, US Patent App. 15/196,350, 2018
+Resistive processing units and neural network training methods, US Patent App. 15/196,346, 2018
+Semiconductor photonic package, T Barwicz, PF Fortier, SG Harel, YA Vlasov, US Patent 9,206,965, 2015
+Resistive processing unit, T Gokmen, S Kim, YA Vlasov, US Patent App. 14/887,564, 2015
+BURIED WAVEGUIDE PHOTODETECTOR, S Assefa, WM Green, SM Shank, YA Vlasov, US Patent 20,150,268,417, 2015
+Fabrication of localized SOI on localized thick box using selective epitaxy on bulk semiconductor substrates for photonics device integration, S Assefa, WM Green, MH Khater, YA Vlasov, US Patent 20,150,348,827, 2015
+Fabrication of localized SOI on localized thick box using selective epitaxy on bulk semiconductor substrates for photonics device integration, S Assefa, WM Green, MH Khater, YA Vlasov
+US Patent 9,105,686, 2015
+Stress engineered multi-layers for integration of CMOS and Si nanophotonics, S Assefa, T Barwicz, S Kamlapurkar, MH Khater, SM Shank, YA Vlasov, US Patent 9,087,952, 2015
+Photonics device and CMOS device having a common gate, S Assefa, WMJ Green, SM Shank, YA Vlasov
+US Patent 9,059,025, 2015
+Fabricating photonics devices fully integrated into a CMOS manufacturing process, S Assefa, WMJ Green, YA Vlasov, M Yang, US Patent 9,006,049, 2015
+Optical receiver based on a decision feedback equalizer, JE Poesel, AV Rylyakov, CL Schow, YA Vlasov
+US Patent 8,953,952, 2015
+Material structures for front-end of the line integration of optical polarization splitters and rotators
+T Barwicz, DM Gill, WM Green, MH Khater, YA Vlasov, US Patent 8,942,519, 2015
+
+Click for more
+
+
+Research Honors
+National Academy of Engineering, elected member (2021)
+IBM Outstanding Technical Achievement Award (2015)
+Fellow, IEEE  (2015)
+IBM Outstanding Technical Achievement Award (2014)
+IBM Corporate Achievement Award (2012)
+IBM Outstanding Technical Achievement Award  (2008)
+Fellow, American Physical Society  (2007)
+Fellow, Optical Society of America  (2006)
+IBM Outstanding Technical Achievement Award  (2006)
+Scientist of the Year Scientific American Journal (2006)
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+NIH BRAIN Initiative supporting development of a probe to monitor brain chemistry
+
+
+Yurii A Vlasov elected to the National Academy of Engineering
+
+
+Illinois presenter lineup at the BMES 2020 Annual Meeting
+
+
+Silicon nanophotonics pioneer Vlasov joins Illinois faculty
+
+
+
+
+
+
+
+

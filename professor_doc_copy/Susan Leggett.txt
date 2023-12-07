@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Susan Leggett she/her/hers
+
+
+
+
+
+Assistant Professor
+
+
+
+sleggett@illinois.edu
+ 
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaBio-Micro and Nanotechnology
+Research Areas
+Biomaterials
+Biomechanics
+Biomedical imaging
+Breast cancer
+Cancer biology
+Cell and tissue engineering
+Cellular and molecular biomechanics
+Computational biology and biomedicine
+High-throughput analysis
+Live-cell imaging
+Microfabrication
+Single-cell biophysics
+Tumor microenvironments
+Click for more
+For More Information
+Leggett Tumor Dynamics Lab
+Google Scholar
+
+BiographySusan Leggett is currently an Assistant Professor in the Department of Bioengineering. She is an Associate Member in the Cancer Center at Illinois and an Affiliate in the Carl R. Woese Institute of Genomic Biology. Susan received her Ph.D. from Brown University in May 2018 and completed postdoctoral training at Princeton University in December 2022. She joined the University of Illinois Urbana-Champaign as an Assistant Professor in the Department of Bioengineering in January 2023. She has been awarded several honors in her field of expertise and has received national recognition; She is a 2012 Goldwater Scholar and was named a 2021 Rising Star in Engineering and Health by Columbia and Johns Hopkins University. 
+
+
+Research Statement Dr. Leggett’s research integrates live-cell imaging, bioengineering, and machine learning to elucidate dynamic single and collective cell behaviors that drive cancer progression. Her research has established tools to reverse-engineer tumors and comprehensively profile the morphology, migration, and mechanics of cancer cells with high spatiotemporal resolution. This integrative approach enables the visualization and analysis of complex cell-cell and cell-microenvironmental interactions that take place in heterogeneous and evolving tumors, providing insight into individual patient disease to advance personalized medicine. 
+Undergraduate Research OpportunitiesWe are eager to have undergraduate students join the lab. Interested students should reach out to Dr. Leggett directly.
+Graduate Research OpportunitiesWe are actively recruiting graduate students and direct interested individuals to apply to UIUC's Bioengineering Ph.D. program
+Primary Research AreaBio-Micro and Nanotechnology
+Research Areas
+Biomaterials
+Biomechanics
+Biomedical imaging
+Breast cancer
+Cancer biology
+Cell and tissue engineering
+Cellular and molecular biomechanics
+Computational biology and biomedicine
+High-throughput analysis
+Live-cell imaging
+Microfabrication
+Single-cell biophysics
+Tumor microenvironments
+Click for more
+
+
+Chapters in Books
+Hruska AM, Yang H, Leggett SE, Guo M, Wong IY. Mechanobiology of Collective Cell Migration in 3D Microenvironments. arXiv preprint arXiv:2202.02849. 2022 Feb 6.
+Leggett, S.E., Nelson, C.M. (2022). Tissue Architecture in Cancer Initiation and Progression. In: Akslen, L.A., Watnick, R.S. (eds) Biomarkers of the Tumor Microenvironment. Springer, Cham.
+
+Selected Articles in Journals
+A.M. Hruska, H. Yang, S.E. Leggett, M. Guo, I.Y. Wong. “Mechanobiology of Collective Cell Migration in 3D Microenvironments.” arXiv preprint (2022). 
+Leggett SE, Hruska AM, Guo M, Wong IY. The epithelial-mesenchymal transition and the cytoskeleton in bioengineered systems. Cell Commun Signal. 2021 Mar 10;19(1):32.  Review Article.
+
+Leggett SE, Patel M, Valentin TM, Gamboa L, Khoo AS, Williams EK, Franck C, Wong IY. Mechanophenotyping of 3D multicellular clusters using displacement arrays of rendered tractions. Proc Natl Acad Sci U S A. 2020 Mar 17;117(11):5655-5663. 
+
+So EY, Sun C, Wu KQ, Driesman A, Leggett S, Isaac M, Spangler T, Dubielecka-Szczerba PM, Reginato AM, Liang OD. Lipid phosphatase SHIP-1 regulates chondrocyte hypertrophy and skeletal development. J Cell Physiol. 2020 Feb;235(2):1425-1437. Cover Article.
+
+Leggett SE, Neronha ZJ, Bhaskar D, Sim JY, Perdikari TM, Wong IY. Motility-limited aggregation of mammary epithelial cells into fractal-like clusters. Proc Natl Acad Sci U S A. 2019 Aug 27;116(35):17298-17306.
+
+Khoo AS, Valentin TM, Leggett SE, Bhaskar D, Bye EM, Benmelech S, Ip BC, Wong IY. Breast Cancer Cells Transition from Mesenchymal to Amoeboid Migration in Tunable Three-Dimensional Silk-Collagen Hydrogels. ACS Biomater Sci Eng. 2019 Sep 9;5(9):4341-4354. 
+
+Patel M, Leggett SE, Landauer AK, Wong IY, Franck C. Rapid, topology-based particle tracking for high-resolution measurements of large complex 3D motion fields. Sci Rep. 2018 Apr 3;8(1):5581. 
+Leggett SE, Khoo AS, Wong IY. Multicellular tumor invasion and plasticity in biomimetic materials. Biomater Sci. 2017 Jul 25;5(8):1460-1479. Review Article.
+
+Valentin TM, Leggett SE, Chen PY, Sodhi JK, Stephens LH, McClintock HD, Sim JY, Wong IY. Stereolithographic printing of ionically-crosslinked alginate hydrogels for degradable biomaterials and microfluidics. Lab Chip. 2017 Oct 11;17(20):3474-3488.
+Leggett SE, Sim JY, Rubins JE, Neronha ZJ, Williams EK, Wong IY. Morphological single cell profiling of the epithelial-mesenchymal transition. Integr Biol (Camb). 2016 Nov 7;8(11):1133-1144.
+
+Z Wang,# D Tonderys,# SE Leggett,# Williams EK, Kiani MT, Steinberg RS, Qiu Y, Wong IY, Hurt RH. Wrinkled, wavelength-tunable graphene-based surface topographies for directing cell alignment and morphology. Carbon N Y. 2016 Feb 1;97:14-24. #These authors contributed equally.
+Gamboa Castro M, Leggett SE, Wong IY. Clustering and jamming in epithelial-mesenchymal co-cultures. Soft Matter. 2016 Oct 12;12(40):8327-8337. 
+van der Velden JL, Guala AS, Leggett SE, Sluimer J, Badura EC, Janssen-Heininger YM. Induction of a mesenchymal expression program in lung epithelial cells by wingless protein (Wnt)/β-catenin requires the presence of c-Jun N-terminal kinase-1 (JNK1). Am J Respir Cell Mol Biol. 2012 Sep;47(3):306-14. 
+Click for more
+
+
+Research Honors
+Rising Stars in Engineering in Health; awarded by Columbia University and Johns Hopkins University;  2021
+New Jersey Alliance for Clinical and Translational Science Postdoctoral Fellow; 2020 - 2022
+Sigma XI Honor Society, Full member; 2018 - present
+Frederic Poole Gorham Pre-Doctoral Fellow; Brown University, 2017
+Simper-Ronan Graduate Award in Cancer Research; Brown University; 2016
+Barry M. Goldwater Scholarship; Barry Goldwater Scholarship and Excellence in Education Foundation; 2012
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

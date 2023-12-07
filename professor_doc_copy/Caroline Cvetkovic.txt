@@ -1,0 +1,146 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Caroline Cvetkovic 
+
+
+
+
+
+Teaching Assistant Professor
+
+
+
+ccvetko@illinois.edu
+3138 Everitt Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaCell and tissue engineering - Regenerative tissue engineering
+Research Areas
+Microfabrication
+Regenerative tissue engineering
+
+For More Information
+Prof Cvetkovic's LinkedIn Profile
+Prof Cvetkovic's Google Scholar Profile
+
+Education
+Ph.D., Bioengineering, University of Illinois at Urbana-Champaign, 2017
+M.S., Bioengineering, University of Illinois at Urbana-Champaign, 2013
+B.S., Bioengineering, University of Illinois at Urbana-Champaign, 2011
+
+Academic Positions
+Teaching Assistant Professor, University of Illinois at Urbana-Champaign, Bioengineering, 2021-present
+Postdoctoral Research Fellow, Center for Neuroregeneration and Department of Neurosurgery, Houston Methodist Research Institute, 2017-2021
+
+
+
+Research Interests
+Biomedical Engineering Education
+Neural Engineering
+Regenerative Medicine
+Tissue Engineering
+Biofabrication
+
+Primary Research AreaCell and tissue engineering - Regenerative tissue engineering
+Research Areas
+Microfabrication
+Regenerative tissue engineering
+
+
+
+Chapters in Books
+Cvetkovic C, Ko E, Kaufman C, Grant L, Gillette M, Kong H, Bashir R. (2018). “Rapid prototyping of soft bioactuators,” in 3D Bioprinting in Regenerative Engineering: Principles and Applications, 1st ed., A. Khademhosseini and G. Camci-Unal, Eds. Taylor & Francis.
+
+Selected Articles in Journals
+Cvetkovic C, Patel R, Hogan MK, Shetty A, Anderson M, Basu N, Ramesh S, Sardar D, Ward ME, Deneen B, Horner PJ, Krencik R. (2022). Assessing Gq-GPCR–induced human astrocyte reactivity using bioengineered neural organoids. J Cell Biol, 221 (4): e202107135.
+
+Zinger A*, Cvetkovic C*, Sushnitha M, Naoi T, Baudo G, Anderson M, Shetty A, Basu N, Tasciotti E, Amit M, Xie T, Taraballi F, Krencik R. (2021). Humanized Biomimetic Nanovesicles for Neuron Targeting. Adv Sci, 8(19):e2101437.
+
+Kaufman CD, Liu SC, Cvetkovic C, Lee C, Naseri Kouzehgarani G, Gillette R, Bashir R, Gillette MU. (2020). Emergence of Functional Neuromuscular Junctions in an Engineered, Multicellular Spinal Cord-Muscle Bioactuator. APL Bioeng, 4(2):026104. Cover Image.
+
+Patel R, Muir M, Cvetkovic C, Krencik R. (2019). Concepts towards directing human astroplasticity to promote neuroregeneration. Dev. Dyn, 248(1):21-33. Cover Image.
+
+Grant L, Raman R, Cvetkovic C, Ferrall-Fairbanks MC, Pagan-Diaz GJ, Hadley P, Ko E, Platt MO, Bashir R. (2019). Long-Term Cryopreservation and Revival of Tissue-Engineered Skeletal Muscle. Tissue Eng A, 25(13-14):1023-1036.
+
+Cvetkovic C, Basu N, Krencik R. (2018). Synaptic Microcircuit Modeling with 3D Cocultures of Astrocytes and Neurons from Human Pluripotent Stem Cells. JoVE, 138.
+
+Ganguli A, Pagan-Diaz GJ, Grant L, Cvetkovic C, Bramlet M, Vozenilek J, Kesavadas T, Bashir R. (2018). 3D printing for preoperative planning and surgical training: a review. Biomed Microdevices, 20(3): 65.
+
+Krencik R, Seo K, Van Asperen J, Basu N, Cvetkovic C, Barlas S, Chen R, Ludwig C, Wang C, Ward ME, Gan L, Horner PJ, Rowitch DH, Ullian EM. (2017). Systematic three-dimensional coculture rapidly recapitulates interactions between human neurons and astrocytes. Stem Cell Rep, 9(6):1745-1753.
+
+Cvetkovic C*, Ferrall-Fairbanks MC*, Ko E, Grant L, Kong H, Platt MO, Bashir R. (2017). Investigating the Life Expectancy and Proteolytic Degradation of Engineered Skeletal Muscle Biological Machines. Sci Rep, 7(1):3775.
+
+Cvetkovic C, Rich MH, Raman R, Kong H, Bashir R. (2017). A 3D Printed Platform for Modular Neuromuscular Motor Units. Microsyst Nanoeng, 3(1):17015.
+
+Raman R, Cvetkovic C, Bashir R. (2017). A Modular Approach to Design, Fabrication, and Characterization of Muscle-Powered Biological Machines. Nat Protoc, 12(3), 519-533. Cover Image.
+
+Raman R, Cvetkovic C, Uzel SGM, Platt, RJ, Sengupta P, Kamm RD, Bashir R. (2016). Optogenetic Skeletal Muscle-Powered Adaptive Biological Machines. PNAS, 113(13), 3497-3502.
+
+Cvetkovic C*, Raman R*, Chan V, Williams BJ, Tolish M, Bajaj P, Sakar MS, Asada HH, Saif MTA, Bashir R. (2014). Three-Dimensionally Printed Biological Machines Powered by Skeletal Muscle. PNAS, 111(28), 10125-10130.
+
+Click for more
+Patents
+Zinger A, Cvetkovic C, Krencik R, Tasciotti E, Taraballi F. (2021). “Neurosome/astrosome compositions and methods of use.” WO 2021/091582 A1.
+Bashir R, Raman R, Cvetkovic C. (2021). “Muscle-Powered Biological Machines.” US Patent 10,906,169 B1.
+Bashir R, Chan V, Raman R, Cvetkovic C. (2018). “Locomotive Biological Machines.” US Patent 10,156,560.
+
+
+
+Teaching Honors
+Excellence in Mentoring Award – Houston Methodist Association for Postdoctoral and Trainee Affairs (MAPTA), National Postdoctoral Fellow Appreciation Week (2020)
+
+Research Honors
+3D Imaging Contest Feature – Cell Picture Show, CellPress (2020)
+People’s Choice Winner and Juror's Choice Winner – NeuroArt Image Contest, MBF Bioscience (2020)
+Neural Control of Organ Degeneration and Regeneration (NeuralCODR) Fellowship – Center for Neuroregeneration, Houston Methodist Research Institute (2020-2021)
+
+Other Honors
+Career Development Award – Biomedical Engineering Society (BMES) (2019)
+Trainee Professional Development Award – Society for Neuroscience (SfN) (2018)
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Rapidly scalable, all-inducible neural organoids could facilitate drug screening for neurological diseases
+
+
+Three-time Illinois bioengineering alumna Caroline Cvetkovic joins faculty  
+
+
+
+
+
+
+
+

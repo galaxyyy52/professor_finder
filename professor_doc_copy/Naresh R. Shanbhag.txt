@@ -1,0 +1,117 @@
+
+
+
+
+
+
+
+ 
+
+
+Naresh R Shanbhag 
+
+
+Administrative TitlesJack S. Kilby Professor of Electrical and Computer Engineering
+
+Professor
+(217) 244-0041
+shanbhag@illinois.edu
+414 Coordinated Science Lab
+
+
+
+For More Information
+Naresh Shanbhag's home page
+
+Education
+Ph.D., Electrical Engineering, University of Minnesota, June 1993
+
+Teaching StatementI teach courses in digital and analog integrated circuit design, digital signal processing, probability with engineering applications, VLSI architectures and algorithms for machine learning, communications and signal processing.
+Research StatementMy research investigates the design of energy-efficient machine learning and communication systems in scaled silicon and beyond CMOS technologies. Our work innovates across systems, algorithms, architectures and integrated circuits.
+Undergraduate Research OpportunitiesResearch opportunities exist for the creative, enthusiastic and hardworking undergraduate in the areas of integrated circuit design, VLSI architectures for DSP and communications, and machine learning implementations.
+Research Interests
+deep in-memory architectures and integrated circuits for inference at the Edge
+machine learning algorithms and architectures for resource-constrained compute platforms
+energy and latency-efficient integrated circuits for machine learning, communications, and signal processing
+
+
+Research Areas
+Circuits
+Communications
+Signal Processing
+VLSI architectures and integrated circuits for DSP and communications
+VLSI in communications
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Machine learning
+
+Books Authored or Co-Authored (Original Editions)
+M. Kang, S. Gonugondla, and N. R. Shanbhag, Deep In-memory Architectures for Machine Learning, Springer Nature, 2020.
+N. R. Shanbhag and K. K. Parhi, Pipelined Adaptive Digital Filters, Kluwer Academic Publishers, 1994.
+
+Honors
+2019 IEEE International Symposium on Circuits and Systems Best Paper Award
+2018 SIA-SRC University Researcher Award, Semiconductor Industry Association
+2016 IEEE International Conference on Acoustics, Speech and Signal Processing Best Student Paper Award
+The D. J. Gandhi Distinguished Visiting Professorship from The Indian Institute of Technology, Mumbai, India
+2015 IEEE International Symposium on Circuits and Systems Best Paper Award
+Jack Kilby Professorship, Department of Electrical and Computer Engineering, 2012
+Low-power Design Contest Award, IEEE International Symposium on Low-Power Electronic Design (ISLPED), 2012
+2010 Richard A. Newton GSRC Industrial Impact Award
+IEEE International Solid-State Circuits Conference's 2008 Outstanding Special-Topic Evening Award
+IEEE Journal of Solid-State Circuits Best Paper Award, 2006
+IEEE Fellow, 2006
+2006 International Reliability Physics Symposium paper recognized as one of the "Jewels of IRPS"
+IEEE Circuits and Systems Society Transactions on Very 
+Large Scale Integration (VLSI) Systems Best Paper Award, 2001
+Distinguished Lecturer of the IEEE Circuits and Systems Society, 1999-01.
+Xerox Faculty Research Award, 1999.
+IEEE Leon K. Kirchmayer Prize Paper Award, 1999.
+Distinguished Lecturer of the IEEE Circuits and Systems Society, 1997-99.
+National Science Foundation CAREER Award, 1996.
+IEEE Circuits and Systems Society Darlington Prize Paper Award, 1994.
+Click for more
+
+Recent Courses TaughtECE 310 - Digital Signal Processing
+ECE 311 - Digital Signal Processing Lab
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 342 - Electronic Circuits
+ECE 482 - Digital IC Design
+ECE 498 NSG (ECE 498 NSU) - Rsrc-Constr Mach Lrn Edge App
+ECE 598 NS (ECE 598 NSG, ECE 598 ON1) - Deep Learning in Hardware
+Click for more
+
+
+
+
+
+
+Related News
+
+
+UIUC faculty to help lead four new JUMP 2.0 multi-university centers
+
+
+Making AI robust and bringing it to the edge
+
+
+Banerjee receives 2020 Everitt Award for Teaching Excellence
+
+
+Illinois, Northwestern team up to track COVID-19 symptoms, disease progression
+
+
+Illinois ECE students awarded prestigious IEEE-SSCS Predoctoral Achievement Awards
+
+
+ECE ILLINOIS Professors present at prestigious ERI Summit
+
+
+
+
+
+
+
+

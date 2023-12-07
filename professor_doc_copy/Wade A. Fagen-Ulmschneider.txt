@@ -1,0 +1,103 @@
+
+
+
+
+
+
+
+ 
+
+
+Wade A Fagen-Ulmschneider 
+
+
+
+Teaching Professor
+(217) 300-2812
+waf@illinois.edu
+2215 Siebel Center for Comp Sci
+
+
+
+For More Information
+Data Science DISCOVERY: Open-access and free-to-consumer resources to learn Data Science
+d7: Data Science Research Collaborative
+waf.cs.illinois.edu
+
+BiographyWade Fagen-Ulmschneider is a Teaching Associate Professor of Computer Science at the University of Illinois at Urbana-Champaign (UIUC). With a passion for data, he often teaches thousands of students each year in his courses on Data Structures, Data Visualization, and Data Science. He was selected as one of the National Academy of Engineering’s Frontiers of Engineering Education scholars, awarded the Collins Award for Innovation Teaching, and has been consistently ranked as an excellent instructor by his students for the past ten years. His work on data visualizations has been used by governors of multiple states, featured by websites including Popular Mechanics and The Verge, and has been viewed by millions of readers.
+Academic Positions
+Faculty Fellow, Center for Innovation in Teaching and Learning, University of Illinois at Urbana-Champaign, 2021 - Present
+Teaching Associate Professor, Department of Computer Science, University of Illinois at Urbana-Champaign, 2019 - Present
+
+Resident Instruction
+CS 107 / STAT 107 / IS 107: Data Science Discovery (Spring 2019, Fall 2019, Spring 2020, Fall 2021, Spring 2022, Fall 2022, Spring 2023, Fall 2023)
+CS 340: Introduction to Computer Systems (Fall 2022, Spring 2023)
+CS 240: Introduction to Computer Systems (Fall 2020, Spring 2021, Fall 2021, Spring 2022)
+CS 423: Operating System Design (Spring 2021)
+CS 225: Data Structures (Spring 2017, Fall 2017, Spring 2018, Fall 2018, Spring 2019)
+"Object-Oriented Data Structures in C++" on Coursera (2019 - Ongoing; 81,681 students)
+CS 199.205 / CS 305: Data Driven Discovery (Spring 2016, Fall 2016, Spring 2017)
+CS 105: Introduction to Computer Science for Non-Majors (Spring 2014, Fall 2014, Spring 2015, Fall 2015)
+CS 241: System Programming (Fall 2013)
+Click for more
+
+Research Areas
+Computers and Education
+
+
+Teaching Honors
+Faculty Fellow, Center for Innovation in Teaching and Learning (2021), University of Illinois at Urbana-Champaign (2021)
+Provost's Award for Excellence in Undergraduate Teaching (2020), University of Illinois at Urbana-Champaign (2020)
+Scott H. Fisher Computer Science Teaching Award (2019), Department of Computer Science at The University of Illinois (2019)
+Chi Omega's Outstanding Faculty Award (2018), Chi Omega chapter at The University of Illinois (2018)
+Engineering Council's Award for Excellence in Advising (2018), Engineering Council of the Grainger College of Engineering at The University of Illinois (2018)
+Collins Award for Innovative Teaching (2017), Grainger College of Engineering at The University of Illinois (2017)
+Invited Guest:  National Academy of Engineering's Frontiers of Engineering Education (2016) (2016)
+Click for more
+
+Recent Courses TaughtCS 225 - Data Structures
+CS 296 25 - Honors Course
+CS 340 (CS 240) - Intro to Computer Systems
+CS 423 (CSE 423) - Operating Systems Design
+CS 498 CSF - Accelerated CS Fundamentals
+ENG 199 PUR - PURE Research Program
+STAT 107 (CS 107, IS 107) - Data Science Discovery
+STAT 199 - Undergraduate Open Seminar
+Click for more
+
+
+
+
+
+
+Related News
+
+
+What is a Data Scientist?
+
+
+DISCOVERY platform funded as part of FY24 Investment for Growth project
+
+
+Rose Award for Teaching Excellence Reflects Fagen-Ulmschneider's Unique Success with DISCOVERY
+
+
+Illinois CS Places 28 Faculty on CITL List of Teachers Ranked as Excellent By Their Students
+
+
+How Does GPA Visualization Aid UI Students?
+
+
+Tearing Down the Garden Walls
+
+
+
+News Notes
+
+
+
+
+
+
+
+

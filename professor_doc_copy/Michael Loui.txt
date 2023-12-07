@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+ 
+
+
+Michael Loui he/him/his
+
+
+Administrative TitlesUniversity Distinguished Teacher/Scholar
+
+Professor Emeritus
+(217) 333-2595
+loui@illinois.edu
+426 Coordinated Science Lab
+
+
+
+For More Information
+Michael Loui's home page
+
+Education
+Ph.D., Computer Science, Massachusetts Institute of Technology, 1980
+
+BiographyNow retired, Michael C. Loui held the Dale and Suzi Gallagher Professorship in Engineering Education at Purdue University from 2014 to 2019. He was previously Professor of Electrical and Computer Engineering and University Distinguished Teacher-Scholar at the University of Illinois at Urbana-Champaign. He has conducted research in computational complexity theory, in professional ethics, and in engineering education. He is a Carnegie Scholar, a Fellow of the IEEE, and a Fellow of the American Society for Engineering Education. Professor Loui was the editor of the Journal of Engineering Education from 2012 to 2017 and the executive editor of College Teaching from 2006 to 2012. He was Associate Dean of the Graduate College at Illinois from 1996 to 2000. He directed the theory of computing program at the National Science Foundation from 1990 to 1991. He earned the Ph.D. at the Massachusetts Institute of Technology in 1980 and the B.S. at Yale University in 1975.
+Teaching StatementI regularly taught our introductory course (ECE 110); undergraduate courses on digital logic (ECE 290) and professional ethics (CS 210, ECE 316); and a graduate course on college teaching (EOL 585). I created courses on technology and society (CHP 396), distributed computing (ECE 428), formal methods (ECE 478), and computational complexity (ECE 579). I collaborated with colleagues to develop a course on digital information technologies for students outside engineering (ECE 101) and two half-hour movies that dramatize case studies in engineering ethics. I mentored students for the Leadership Certificate Program and conducted short programs across the campus on engineering ethics, research ethics, and college teaching. I organized and led national workshops on teaching for new faculty in 1995 and 2000.
+Research StatementTogether with undergraduate and graduate students, I have conducted research in computational complexity theory, ethics in engineering and computing, the scholarship of teaching and learning, and engineering education. We have developed optimal on-line simulations between computational models, designed the first distributed election algorithm on complete networks, analyzed fault-tolerant consensus protocols for shared memory systems, introduced informed consent into the theory of privacy, categorized students' misconceptions in digital logic, and assessed the outcomes of ethics instruction and peer-led team learning. Recently we have we have identified special responsibilities of developers and users of computational models in research, we have measured the effect of structured pairing in laboratories on the confidence and attitudes of students, and we have proposed a new model of research mentoring. Currently we are investigating the role of grit in the persistence of engineering students, and we are studying the emotions that students experience in an introductory computer programming course.
+Research Interests
+Engineering education research
+Scholarship of teaching and learning
+Ethics in engineering and computing
+Computational complexity theory
+
+
+Research Areas
+Algorithms and computational complexity
+
+
+Research Topics
+Cybersecurity and privacy
+
+Journal Editorships
+Editor, Journal of Engineering Education, 2012 to 2017
+Guest editor, IEEE Technology and Society Magazine, Summer 2012
+Member, Editorial Board, College Teaching, 2005 to present; Executive Editor, 2006 to 2012
+Member, Editorial Board, Accountability in Research, 1999 to present
+Member, Board of Editors, Information and Computation, 1997 to 2008
+
+Honors
+Fellow, American Society for Engineering Education, 2018
+Campus Award for Excellence in Graduate Student Mentoring, University of Illinois at Urbana-Champaign, 2013
+Distinguished Lecturer, IEEE Society on Social Implications of Technology, 2008
+Fellow, Institute of Electrical and Electronics Engineers, 2006
+Carnegie Scholar, Carnegie Foundation for the Advancement of Teaching, 2003
+University Distinguished Teacher-Scholar, University of Illinois at Urbana-Champaign, 2001
+Luckman Distinguished Undergraduate Teaching Award, University of Illinois at Urbana-Champaign, 1995
+Everitt Award for Teaching Excellence, College of Engineering, University of Illinois at Urbana-Champaign, 1984
+Click for more
+
+
+
+
+
+
+
+Related News
+
+
+ECE ILLINOIS Professor Emeritus Loui elected as ASEE Fellow 
+
+
+Mavis Faculty Fellows seek careers in academia
+
+
+Loui, Revelo recognized by NAE for engineering ethics research
+
+
+Loui, Huang, and Polychronopoulos retire from teaching at ECE ILLINOIS
+
+
+Loui receives distinguished Campus Award for Excellence in Graduate Student Mentoring
+
+
+Conference brings professional ethics experts to Illinois 
+
+
+
+
+
+
+
+

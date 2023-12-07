@@ -1,0 +1,208 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Eun Jeong Cha 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-8343
+ejcha@illinois.edu
+2207 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaStructural Engineering
+Research Areas
+Societal Risk & Hazard Mitigation
+Structural Engineering
+
+For More Information
+Research Group website
+
+Biography
+
+
+Eun  Jeong Cha holds a Ph.D. (2012) and a M.S. (2009) in Civil and  Environmental Engineering from the Georgia Institute of Technology, and a  B.S. (2006) in Architectural Engineering from Seoul National  University, South Korea. Prior to joining the University of Illinois in  2014, Dr. Cha served as a Postdoctoral Fellow at the School of Civil and  Environmental Engineering and a Part-time researcher at the George W.  Woodruff School of Mechanical Engineering at the Georgia Institute of  Technology. 
+Her awards and honors include the  ASCE/EMI Probabilistic Methods Committee Student Paper Award in 2012,  the International Civil Engineering Risk and Reliability Association  (CERRA) Student Recognition Award in 2011, and Korean Government  Scholarship in 2007. She is also a fellow of the Next Generation of Hazards and Disasters Researchers in 2015. 
+
+
+
+Education
+Ph.D., Civil Engineering, Georgia Institute of Technology, 2012 
+M.S., Civil Engineering, Georgia Institute of Technology, 2009
+B.S., Architectural Engineering, Seoul National University, 2006
+
+Academic Positions
+Assistant Professor, University of Illinois at Urbana-Champaign, Civil and Environmental Engineering, 1/2014-8/2022
+Part-time Researcher, Georgia Institute of Technology, Mechanical Engineering, 9/2013-12/2013
+Postdoctoral Researcher, Georgia Institute of Technology, Civil and Environmental Engineering, 8/2012-8/2013
+Part-time Instructor, Georgia Institute of Technology, Civil and Environmental Engineering, 1/2012-12/2013
+
+Journal Editorships
+Editorial Board, Structural Safety
+
+Professional Societies
+Associate Member, American Society of Civil Engineers (ASCE)                              				     
+Member, ASCE 7-22 Load Combination Subcommittee (LCSC)
+Secretary, ASCE Committee on Adaptation to a Changing Climate (CACC) Executive Committee
+
+Service on College Committees
+The Worldwide Youth in Science and Engineering (WYSE) Summer camp (2022)
+
+Service to Federal and State Government
+DOE SERDP Proposal Review Panel
+NSF Proposal Review Panel
+
+Other Outside Service
+Co-Organizer, The 2nd Mini-Symposium on Civil Infrastructure in a Changing Climate: from Nonstationary Risk Assessment to Developing Adaptation Strategies, 14th International Conference On Applications of Statistics and Probability in Civil Engineering (ICASP 14), Dublin, Ireland, July, 2023.
+Co-Organizer, The 1st Mini-Symposium on Civil Infrastructure in a Changing Climate: from Nonstationary Risk Assessment to Developing Adaptation Strategies, Engineering Mechanics Institute Conference (EMI 2022), Baltimore, Maryland, June, 2022.
+Journal Referee, Water Resources Research
+Journal Referee, Applied Geography
+Journal Referee, Journal of Performance of Constructed Facilities
+Journal Referee, Frontiers in Built Environment
+Journal Referee, Journal of Engineering Mechanics
+Journal Referee, Journal of Risk and Uncertainty in Engineering Systems
+Journal Referee, Computer-aided Civil and Infrastructure Engineering
+Journal Referee, Sustainable and Resilient Infrastructure
+Journal Referee,  Journal of Infrastructure Engineering
+Journal Referee, Journal of Structure and Infrastructure Engineering
+Journal Referee, Journal of Structural Engineering
+Journal Referee, Risk Analysis
+Journal Referee, Reliability Engineering and System Safety
+Journal Referee, Natural Hazards Review
+Journal Referee, Structural Safety 
+Scientific Committee, the 12th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP12), Vancouver, Canada.
+Scientific Committee, the 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP13), Seoul, South Korea.
+Scientific Committee, the 14th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP14), Dublin, Ireland.
+Click for more
+
+
+Research Interests
+Stochastic structural load modeling 
+Unequal climate change impact on hurricane risk to communities with different social vulnerabilities 
+Holistic risk assessment of structures and infrastructure systems from natural hazards (hurricanes, earthquakes, and landslides) 
+Optimization of target safety levels for building design
+Risk management paradigms for buildings and infrastructure systems design, retrofit, and maintenance
+
+Primary Research AreaStructural Engineering
+Research Areas
+Societal Risk & Hazard Mitigation
+Structural Engineering
+
+
+
+Chapters in Books
+Cha, E.J. & Wang, Y. (2015) “CH16 - Risk-Informed Decision Framework for Built Environment: The Incorporation of Epistemic Uncertainty,” In Gardoni, P., Murphy, C. & Rowell, A. (Eds.), Risk Analysis of Natural Hazards - Interdisciplinary Challenges and Integrated Solutions (pp.279-296). Switzerland:Springer.
+
+Selected Articles in Journals
+Pant, S. & Cha, E.J. (2022) “Projection of future hurricane risk in changing climate considering population vulnerability.” Shore & Beach; (In press).
+Sun, M. & Cha, E.J. (2022) "Probabilistic building functionality estimation model for low-rise wooden residential buildings subjected to hurricane winds," Journal of Structural Engineering; 148(10):04022147, DOI: 10.1061/(ASCE)ST.1943-541X.0003411.
+Beck, A.L. & Cha, E.J. (2022) “Probabilistic Disaster Social Impact Assessment of Infrastructure System Nodes.” Structure and Infrastructure Engineering; 1-12, DOI:10.1080/15732479.2022.2097268.
+Kim, C., Cha, E.J. & Shin, M. (2022) "Seismic Performance Assessment of NPP Concrete Containments Considering Recent Ground Motions in South Korea," Nuclear Engineering and Technology (In press; DOI:10.1016/j.net.2021.07.035).
+He, X. & Cha, E.J. (2021) "Risk-Informed Decision Making for Pre-Disaster Risk Mitigation Planning of
+Interdependent Infrastructure Systems: A Case Study of Jamaica," Journal of Infrastructure Systems (Accepted; DOI:10.1061/(ASCE)IS.1943-555X.0000634).
+Gudipati, V.K. & Cha, E.J. (2021) "Target reliability index optimization framework for multiple building classes based on community-level objectives," Structural Safety 91:102097, DOI:10.1016/j.strusafe.2021.102097.
+He, X. & Cha, E.J. (2021) "State of the Research on Disaster Risk Management of Interdependent Infrastructure Systems for Community Resilience Planning," Sustainable and Resilient Infrastructure, DOI:10.1080/23789689.2020.1871541.
+Gudipati, V.K. & Cha, E.J. (2021) "Surrogate modeling for structural response prediction of a building class," Structural Safety 89:102041, DOI:10.1016/j.strusafe.2020.102041.
+Lin, C.-Y. & Cha, E.J. (2021) "Hurricane freshwater flood risk assessment model for residential buildings in the Southeastern US coastal states considering climate change," Natural Hazards Review 22(2):04020061, DOI:10.1061/(ASCE)NH.1527-6996.0000442.
+Lin, C.-Y. & Cha, E.J. (2020) "Hurricane risk assessment for residential buildings in the Southeastern US coastal region in changing climate conditions using artificial neural networks," Natural Hazards Review 21(3):04020024, DOI:10.1061/(ASCE)NH.1527-6996.0000390.
+He, X. & Cha, E.J. (2020) "DIN II: Incorporation of multi-level interdependencies and uncertainty for infrastructure systems recovery modeling," Structure and Infrastructure Engineering, DOI:10.1080/15732479.2020.1817104.
+Samara, K., Cha, E.J. & LaFave, J. (2019) "Probabilistic modeling and fragility assessment of limestone wall tie connections subjected to wind loads," Journal of Building Engineering 26:100884, DOI:10.1016/j.jobe.2019.100884.
+Gudipati, V.K. & Cha, E.J. (2019) "A framework for optimization of target reliability index for a building class based on aggregated cost," Structural Safety 81:101873, DOI:10.1016/j.strusafe.2019.101873.
+Pant, S. & Cha, E.J. (2019) "Potential changes in hurricane risk profile across the United States coastal regions under climate change scenarios," Structural Safety 80:56-65, DOI:10.1016/j.strusafe.2019.05.003.
+Pant, S. & Cha, E.J. (2019) "Wind and rainfall loss assessment for residential buildings under climate-dependent hurricane scenarios," Structure and Infrastructure Engineering 15(6):771-782, DOI:10.1080/15732479.2019.1572199.
+Cha, E.J. & Ellingwood, B.R. (2018) "The relation between cost-benefit analysis and risk acceptance in regulatory decision-making," International Journal of Risk Assessment and Management 21(1):44-62, DOI:10.1504/IJRAM.2019.096688.
+He, X. & Cha, E.J. (2018) "Modeling the damage and recovery of interdependent critical infrastructure systems from natural hazards," Reliability Engineering and System Safety 177:162-175, DOI:10.1016/j.ress.2018.04.029.
+He, X. & Cha, E.J. (2018) "Modeling the Damage and Recovery of Interdependent Civil Infrastructure Network Using Dynamic Integrated Network Model," Sustainable and Resilient Infrastructure 5(3):152-167, DOI:10.1080/23789689.2018.1448662.
+Pant, S. & Cha, E.J. (2018) "Effect of climate change on hurricane damage and loss for residential buildings in Miami-Dade County," Journal of Structural Engineering 144(6):04018057, DOI:10.1061/(ASCE)ST.1943-541X.0002038.
+Cha, E.J. (2018) "Discrepancy in the perceived hurricane risks in changing climate," Natural Hazards Review 19(2):04018002, DOI:10.1061/(ASCE)NH.1527-6996.0000284.
+Shafieezadeh, A., Cha, E.J. & Ellingwood, B.R. (2014) "A decision framework for managing risk to infrastructure systems from terrorist attack," Risk Analysis 35(2):292-306, DOI:10.1111/risa.12266.
+Cha, E.J. & Ellingwood, B.R. (2014) "Attitudes toward acceptance of risk to buildings from extreme winds," Structure and Infrastructure Engineering 10(6):697-707, DOI:10.1080/15732479.2012.758642.
+Cha, E.J. & Ellingwood, B.R. (2013) "The role of risk aversion in nuclear plant safety decisions," Structural Safety 44:28-36, DOI:10.1016/j.strusafe.2013.05.002.
+Cha, E.J. & Ellingwood, B.R. (2013) "Seismic risk mitigation of building structures: the role of risk aversion," Structural Safety 40:11-19, DOI:10.1016/j.strusafe.2012.06.004.
+Cha, E.J. & Ellingwood, B.R. (2012) "Risk-averse decision-making for civil infrastructure exposed to low-probability, high-consequence events," Reliability Engineering and System Safety 104:27-35, DOI:10.1016/j.ress.2012.04.002.
+Click for more
+Articles in Conference Proceedings
+Beck, A.L., Talebiyan, H., Duenas-Osorio, L. & Cha, E.J. "Comparative nodal retrofit prioritization schemes for electric power network," The 8th International Symposium on Reliability Engineering and Risk Management, Hannover, Germany, September, 2022.
+Sun, M. & Cha, E.J. "Probabilistic building functionality estimation model for low-rise wooden residential buildings subjected to hurricane winds," The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021), Shanghai, China, September, 2022. 
+Beck, A.L. & Cha, E.J. "Quantifying disaster impact at an interdependent infrastructure system scale," The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021), Shanghai, China, September, 2022. 
+Lin, C.-Y. & Cha, E.J. "Hurricane Wind and Freshwater Flood Risk Assessment Considering Climate Change: Application of Artificial Neural Networks," The 13th International Conference on Structural Safety and Reliability (ICOSSAR 2021), Shanghai, China, September 2022. 
+Lin, C.-Y. & Cha, E.J. "Impact of Climate Change to Hurricane Loss to the Gulf Coast of the US," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+Gudipati, V.K. & Cha, E.J. "A resilience-based framework for design optimization of interdependent buildings," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+Gudipati, V.K. & Cha, E.J. "Optimization of target safety levels based on community-level objectives," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+Pant, S.  & Cha, E.J. "Variation of hurricane losses across US coast under changing climate," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+Pant, S.  & Cha, E.J. "Wind and rainfall loss evaluation for climate-dependent hurricane scenarios," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+He, X. & Cha, E.J. "A Game Theory-Based Decision Framework for Post-disaster Recovery Planning of Interdependent Infrastructure Systems," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+He, X. & Cha, E.J. "A Decision Framework for Pre-disaster Risk Mitigation Planning of Interdependent Infrastructure Systems," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+He, X. & Cha, E.J. "Modeling the Post-disaster Recovery of Interdependent Civil Infrastructure Network," The 13th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Seoul, South Korea, May, 2019.
+He, X. & Cha, E.J. (2016)"Resilience and Dependency Modeling of Critical Civil Infrastructures Using Graph Theory and Dynamic Inoperability Input-Output Model," Probabilistic Mechanics and Reliability 2016 Conference (PMC 2016), Vanderbilt University, May 22-26, 2016.
+Cha, E.J., Shafieezadeh, A. & Ellingwood, B.R. (2013) "A risk informed decision framework for risk management of infrastructure systems against terrorist attacks," Proceedings of the 11th International Conference on Structural Safety & Reliability (ICOSSAR), New York, June, 2013.  
+Cha, E.J. & Ellingwood, B.R. (2013) "Quantification of risk aversion in decisions related to safety of nuclear power plants," Proceedings of the 11th International Conference on Structural Safety & Reliability (ICOSSAR), New York, June, 2013. 
+Cha, E.J. & Ellingwood, B.R. (2013) "Acceptance of risk due to competing wind and earthquake hazards," Proceedings of the 11th International Conference on Structural Safety & Reliability (ICOSSAR), New York, June, 2013.
+Cha, E.J. & Ellingwood, B.R. (2012) "Attitudes toward acceptance of risk to wood frame residential buildings from hurricanes," Proceedings of the 2012 Joint Conference of the Engineering Mechanics Institute and the 11th ASCE Joint Specialty Conference on Probabilistic Mechanics and Structural Reliability Conference (EMI/PMC2012), Notre Dame, June, 2012.
+Cha, E.J. & Ellingwood, B.R. (2012) "Risk-aversion in decisions regarding seismic retrofit of unreinforced masonry buildings," Proceedings of the 2012 Joint Conference of the Engineering Mechanics Institute and the 11th ASCE Joint Specialty Conference on Probabilistic Mechanics and Structural Reliability Conference (EMI/PMC2012), Notre Dame, June, 2012.
+Cha, E.J. & Ellingwood, B.R. (2011) "Decision-making for Civil Infrastructure Exposed to Low-probability, High-consequence Hazards: the Role of Risk-Aversion," Proceedings of the 11th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP), Zurich, Switzerland, August, 2011.
+Click for more
+
+
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students (2018 Fall (CEE 574), 2019 Spring (CEE 360), 2021 Spring (CEE 360))
+Collins Scholar (2015)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+CEE summer camp highlights societal challenges, solutions
+
+
+Cha, Sychterz named ORMIR Faculty Scholars
+
+
+$20 million award will fund resilience research center for five more years
+
+
+Illinois students win ICASP Student Recognition Awards
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

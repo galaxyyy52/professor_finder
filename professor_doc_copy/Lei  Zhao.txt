@@ -1,0 +1,176 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Lei Zhao 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-9546
+leizhao@illinois.edu
+3211 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+Sustainable and Resilient Infrastructure Systems
+
+For More Information
+Google Scholar
+Zhao Research Group
+
+BiographyDr. Lei Zhao is an assistant professor in the Department of Civil and Environmental Engineering and assistant professor affiliated with the National Center of Supercomputing Applications at the University of Illinois Urbana-Champaign (UIUC). His research concerns the physical and engineering processes in the Atmospheric Boundary Layer where most human activities and environmental systems are concentrated, with a particular focus on built surfaces and urban environments. He combines theory, numerical modeling, remote sensing and in situ observations, and cutting-edge AI/ML methods to study environmental fluid mechanics and land-atmosphere interaction that relate to urban environments, climatology and hydrology, climate change, climate impacts and adaptation. He is the recipient of a U.S. NSF CAREER Award. He received his Ph.D. in atmospheric physics from the School of the Environment at Yale University and the B.S. degree in Physics and Atmospheric Physics from Nanjing University in China. Before joining at UIUC, Lei was a postdoctoral research fellow at Princeton University.
+Education
+Postdoctoral Research Associate, Princeton University, November 2015 - May 2018
+Ph.D., Environmental Science, Yale University, 2015
+B.S., Physics & Atmospheric Physics, Nanjing University, 2009
+
+
+Academic Positions
+Assistant Professor, Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, October 2018 - present
+
+Assistant Professor (affiliated), National Center for Supercomputing Applications, November 2018 - present
+
+Assistant Professor (affiliated), Institute for Sustainability, Energy, and Environment (iSEE), March 2023 - present
+
+
+
+Research Interests
+Urban climate and hydrology
+Environmental fluid mechanics and turbulence
+Land-atmosphere interactions
+Multi-scale Earth system modeling
+Machine learning and statistical modeling
+Remote sensing
+Climate change impacts, adaptation and mitigation
+Boundary-layer meteorology
+Click for more
+Graduate Research OpportunitiesI am looking for highly motivated graduate students to join my group. Please contact me for questions about potential projects or about the application process at our department.
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+Sustainable and Resilient Infrastructure Systems
+
+
+
+Selected Articles in Journals
+L. Gray, L. Zhao, A. Stillwell Impacts of climate change on global total and urban runoff. Journal of Hydrology, in press (2023).
+J. Yang, L. Zhao, K. Oleson Climate-driven urban humid heat exposure and cooling challenges. Environmental Research Letters, in press (2023).
+K. Zhang, C. Cao, H. Chu, L. Zhao, J. Zhao, X. Lee Increased heat risk in wet climate induced by urban humid heat. Nature, in press (2023).
+H. Lin, Y. Li, L. Zhao Partitioning of sensible and latent heat fluxes in different vegetation types and their
+spatiotemporal variations based on 203 FLUXNET sites. Journal of Geophysical Research: Atmospheres
+127 (21), e2022JD037142 (2022).  https://doi.org/10.1029/2022JD037142
+D. Wu, W. Liu, B. Fang, L. Chen, Y. Zang, L. Zhao, S. Wang, C. Wang, J. Marcato, J. Li Intracity
+Temperature Estimation by Physics Informed Neural Network Using Modeled Forcing Meteorology and
+Multispectral Satellite Imagery. IEEE Transactions on Geoscience and Remote Sensing 60, 1-15 (2022). https://doi.org/10.1109/TGRS.2022.3201284
+Q. Zhu, F. Li, W.J. Riley, L. Xu, L. Zhao, K. Yuan, H. Wu, J. Gong, J. Randerson Building a machine learning surrogate model for wildfire activities within a global Earth system model. Geoscientific Model Development 15 (5), 1899-1911 (2022). https://doi.org/10.5194/gmd-15-1899-2022
+J. Zhu, X. Li, Y. Fan, H. Shi, L. Zhao Effect of carbon market on air pollution: Firm-level evidence in China. Resources, Conservation and Recycling 182, 106321 (2022). https://doi.org/10.1016/j.resconrec.2022.106321
+K. Zhang, X. Lee, N.M. Schultz, L. Zhao, C. He, Q. Huang, Z. Liu, H. Chu, J. Zhao  A global dataset on subgrid land surface climate (2015–2100) from the Community Earth System Model. Geoscience Data Journal (2022). https://doi.org/10.1002/gdj3.153
+R. Xu, Y. Li, A.J. Teuling, L. Zhao, D.V. Spracklen, L. Garcia-Carreras, R. Meier, L. Chen, Y. Zheng, H. Lin, B. Fu Contrasting impacts of forests on cloud cover based on satellite observations. Nature Communications 13, 670 (2022). https://doi.org/10.1038/s41467-022-28161-7
+Y. Qin, M. Zhou, D. Pan, Z. Klimont, D.B. Gingerich, D.L. Mauzerall, L. Zhao,  G. He, J.M. Bielicki Environmental consequences of potential strategies for China to prepare for natural gas import disruptions. Environmental science & technology 56, 2, 1183–1193 (2022). https://doi.org/10.1021/acs.est.1c03685
+L. Chen, B. Fang, L. Zhao, Y. Zang, W. Liu, Y. Chen, C. Wang, J. Li DeepUrbanDownscale: A physics informed deep learning framework for high-resolution urban surface temperature estimation via 3D point clouds. International Journal of Applied Earth Observation and Geoinformation 106, 102650 (2022). https://doi.org/10.1016/j.jag.2021.102650
+R. Xu, Y. Li, K. Guan, L. Zhao, B. Peng, C. Miao, B. Fu Divergent responses of maize yield to precipitation in the United States. Environmental Research Letters 17 (1), 014016 (2021).  https://doi.org/10.1088/1748-9326/ac3cee
+Z. Zheng, M. West, L. Zhao, P.L. Ma, X. Liu, N. Riemer Quantifying the structural uncertainty of the aerosol mixing state representation in a modal model. Atmospheric Chemistry and Physics 21 (23), 17727-17741 (2021). https://doi.org/10.5194/acp-21-17727-2021
+Z. Zheng, L. Zhao, & K.W. Oleson Large model structural uncertainty in global projections of urban heat waves. Nature Communications 12, 3736 (2021). https://doi.org/10.1038/s41467-021-24113-9
+W. Zhou, K. Guan, B. Peng, Z. Wang, R. Fu, B. Li, E. A. Ainsworth, E. DeLucia, L. Zhao, Z. Chen A generic risk assessment framework to evaluate historical and future climate-induced risk for rainfed corn and soybean yield in the US Midwest. Weather and Climate Extremes 100369 (2021). https://doi.org/10.1016/j.wace.2021.100369
+T. Xu, K. Guan, B. Peng, S. Wei and L. Zhao Machine Learning-Based Modeling of Spatio-Temporally Varying Responses of Rainfed Corn Yield to Climate, Soil, and Management in the U.S. Corn Belt. Front. Artif. Intell. 4:647999 (2021). https://doi.org/10.3389/frai.2021.647999
+E.S. Krayenhoff, A.M. Broadbent, L. Zhao, M. Georgescu, A. Middel, J.A. Voogt, A. Martilli, D.J. Sailor, E. Erell Cooling hot cities: A systematic and critical review of the numerical modelling literature. Environmental Research Letters 16 (5), 053007  (2021). https://doi.org/10.1088/1748-9326/abdcf1
+K. Yuan, Q. Zhu, S. Zheng, L. Zhao, M. Chen, W.J. Riley, X. Cai, H. Ma, F. Li, H. Wu, L. Chen Deforestation Reshapes Land-Surface Energy-Flux Partitioning. Environmental Research Letters 16 (2), 024014 (2021). https://doi.org/10.1088/1748-9326/abd8f9
+L. Zhao, K. Oleson, E. Bou-Zeid, E.S. Krayenhoff, A. Bray, Q. Zhu, Z. Zheng, C. Chen, M. Oppenheimer Global multi-model projections of local urban climates. Nature Climate Change 11 (2), 152-157 (2021) . https://doi.org/10.1038/s41558-020-00958-8
+Z. Zheng, J. Curtis, Y. Yao, J. Gasparik, V. Anantharaj, L. Zhao, M. West, N. Riemer Estimating Submicron Aerosol Mixing State at the Global Scale with Machine Learning and Earth System Modeling. Earth and Space Science 8 (2), e2020EA001500 (2021) . https://doi.org/10.1029/2020EA001500
+W. Zhang, L. Chen, Z. Xiong, Y. Zang, J. Li, L. Zhao Large-scale point cloud contour extraction via 3D guided multi-conditional generative adversarial network. ISPRS Journal of Photogrammetry and Remote Sensing 164, 97-105 (2020). https://doi.org/10.1016/j.isprsjprs.2020.04.003
+Y. Li, K. Guan, A. Yu, B. Peng, L. Zhao, B. Li, J. Peng Toward building a transparent statistical model for improving crop yield prediction: Modeling rainfed corn in the U.S. Field Crops Research 234, 55-65 (2019). https://doi.org/10.1016/j.fcr.2019.02.005
+B.Y. Liu, Q. Zhu, W.J. Riley, L. Zhao, H. Ma, L. Larsen Using Information Theory to Evaluate Directional Precipitation Interactions Over the West Sahel Region In Observations and Models. Journal of Geophysical Research – Atmospheres 124 (3), 1463-1473 (2019). https://doi.org/10.1029/2018JD029160
+L. Zhao Urban growth and climate adaptation, Nature Climate Change 8 (12), 1034 (2018). https://doi.org/10.1038/s41558-018-0348-x 
+W. Wang, X. Lee, W. Xiao, S. Liu, M. Zhang, Y. Wang, N. Schultz, L. Zhao Global lake evaporation accelerated by changes in surface energy allocation in a warmer climate. Nature Geoscience  11 (6), 410-414 (2018). https://doi.org/10.1038/s41561-018-0114-8
+L. Zhao, M. Oppenheimer, Q. Zhu, J. Baldwin, K. Ebi, E. Bou-Zeid, K. Guan, X. Liu Interactions between urban heat islands and heat waves. Environmental Research Letters 13 (3), 034003 (2018). https://doi.org/10.1088/1748-9326/aa9f73.
+L. Zhao, X. Lee, N.M. Schultz A wedge strategy for mitigation of urban warming in future climate scenarios. Atmospheric Chemistry and Physics 17 (14), 9067-9080 (2017). https://doi.org/10.5194/acp-17-9067-2017
+C. Cao, X. Lee, S. Liu, N.M. Schultz, W. Xiao, M. Zhang, L. Zhao Urban heat islands in China enhanced by haze pollution. Nature Communications 7, 12509 (2016). https://doi.org/10.1038/ncomms12509 
+N.M. Schultz, X. Lee, P.J. Lawrence, D.M. Lawrence, L. Zhao Assessing the use of sub-grid land model output to study impacts of land cover change. Journal of Geophysical Research – Atmospheres 121: 6133-6147 (2016).  https://doi.org/10.1002/2016JD025094
+L. Zhao, X. Lee, A.E. Suyker, X. Wen Influence of leaf area index on the radiometric resistance to heat transfer. Boundary-Layer Meteorology 158 (1), 105-123 (2016). https://doi.org/10.1007/s10546-015-0070-4
+L. Zhao, X. Lee, R.B. Smith, K. Oleson Strong contributions of local background climate to urban heat islands. Nature 511: 216-219 (2014). https://doi.org/10.1038/nature13462
+L. Zhao, X. Lee, S. Liu Correcting surface solar radiation of two data assimilation systems against FLUXNET observations in North America. Journal of Geophysical Research – Atmospheres 118: 9552-9564 (2013). https://doi.org/10.1002/jgrd.50697
+X. Lee, M.L. Goulden, D.Y. Hollinger, A. Barr, T.A. Black, G. Bohrer, R. Bracho, B. Drake, A. Goldstein, L. Gu, G. Katul, T. Kolb, B. Law, H. Margolis, T. Meyers, R. Monson, W. Munger, R. Oren, K.T. Paw U, A.D. Richardson, H.P. Schmid, R. Staebler, S. Wofsy, L. Zhao Observed increase in local cooling effect of deforestation at higher latitudes. Nature 479: 384-387 (2011). https://doi.org/10.1038/nature10588
+Click for more
+
+
+Teaching Honors
+Teachers Ranked as Excellent by Their Students (10/2021)
+
+Research Honors
+AGU Global Environmental Change Early Career Award, American Geophysical Union (2023)
+Timothy Oke Award, International Association for Urban Climate (IAUC) (2023)
+NSF CAREER Award (01/2022)
+STEP Research Fellowship, Princeton University (2015-2017)
+
+Other Honors
+Joyce Yang, Cathy Li, & Bowen Fang (all my PhD students), Andrew Slater Award, National Center for Atmospheric Research. (2023)
+Chinese Government Award for Outstanding Students Abroad (2015)
+CEID Award, Center for Engineering Innovation and Design, Yale University (2014)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Zhao receives AGU Global Environmental Change Early Career Award 
+
+
+PhD students win Andrew Slater Award
+
+
+CEE projects selected for VinUni-Illinois Smart Health Center awards 
+
+
+Zhao receives NSF CAREER award
+
+
+New modeling technique shows greater likelihood, frequency of extreme heat events in urban areas
+
+
+New data-driven global climate model provides projections for urban environments
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,203 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Roman Makhnenko 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-4587
+romanmax@illinois.edu
+2221 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaGeotechnical Engineering
+Research Areas
+Energy-Water-Environment Sustainability
+Geotechnical Engineering
+
+For More Information
+Rock_Mechanics.Illinois
+
+BiographyRoman Makhnenko is an assistant professor in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. Roman received his undergraduate degree in mechanics and applied mathematics at Lomonosov Moscow State University in 2007. He then obtained his MS (2009) and PhD (2013) degrees in geological and civil engineering from the University of Minnesota - Twin Cities. From 2013 to 2016, Dr. Makhnenko worked as a postdoctoral researcher and lecturer at the Swiss Federal Institute of Technology in Lausanne (EPFL, Switzerland) on the project related to assessment of geological storage of CO2. Currently, Prof. Makhnenko is developing a rock mechanics program at Illinois that involves modern high-pressure high-temperature rock testing facilities and new graduate courses on the topic. Prof. Makhnenko teaches CEE 380 Geotechnical Engineering, CEE 586 Rock Mechanics and Behavior, and CEE498ges GeoEnergy Systems.
+Education
+Doctor of Philosophy, Civil Engineering, University of Minnesota - Twin Cities, 2013
+Master of Science, Geological Engineering, University of Minnesota - Twin Cities, 2009
+Specialist degree, Mechanics and Applied Mathematics, Lomonosov Moscow State University, 2007
+
+Academic Positions
+Assistant Professor, Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, 12/2016 - present
+Assistant Professor, Institute for Sustainability, Energy, and Environment (iSEE),University of Illinois at Urbana-Champaign, 04/2023-present.
+Postdoctoral Researcher and Lecturer, Laboratory of Soil Mechanics, Swiss Federal Institute of Technology in Lausanne (EPFL), 07/2013 - 11/2016
+
+Journal Editorships
+Co-editor, ASCE Geo-Congress Technical Publications, 2020
+Co-editor, Geofluids, 2019. Special issue on "Geomechanics and fluid flow in geothermal systems".
+
+Professional Societies
+Task leader of ISRM Working Group on Suggested Method for Achieving Full Water-Saturation of Rock, 2022-2024
+Member of "Underground Storage and Utilization Technical Committee" in the American Rock Mechanics Association, since 2021
+Member of "Geo Institute Rock mechanics" committee in the American Society of Civil Engineers (ASCE), since 2018
+Member of commission on "Coupled Thermal-Hydro-Mechanical-Chemical Processes in Fractured Rock" in the International Society of Rock Mechanics (ISRM), 2020-2024
+
+Service on Department Committees
+Energy-Water-Environment Sustainability seminar coordinator, 2019/2020
+Geotechnical Enginnering seminar coordinator, 2017-2019
+CEE Faculty Search Committee, 2018/2019
+Geotechnical Engineering Admission and Fellowship Committee, 2018, 2022-2023
+Energy-Water-Environment Sustainability Admission and Fellowship Committee, 2017-2019
+
+
+
+Research Interests
+Rock-fluid interaction: poroelasticity, thermo-poro-visco-elasticity, plasticity, permeability
+Fracturing of rock: size effect, process zone, hydraulic fracturing, failure criteria, induced seismicity
+Geo-energy applications: deep CO2 and H2 storage, nuclear waste storage, gas shales, geothermal energy
+Novel testing methods for geomaterials: optical, ultrasonic, X-ray CT, acoustic emission
+
+Research StatementProf. Makhnenko's research area is experimental geomechanics and development of novel methods in laboratory characterization of fluid-saturated geomaterials with applications to deep carbon dioxide (CO2), hydrogen (H2), and nuclear waste storage, geothermal energy exploration, gas shales, and hydraulic fracturing.                                                                                            
+Undergraduate Research Opportunities- promoting recycling on campus- video vignettes to promote learning geotechnical engineering principles
+Graduate Research Opportunities- subsurface hydrogen storage- use of machine learning for geophysical data processing and modeling
+Primary Research AreaGeotechnical Engineering
+Research Areas
+Energy-Water-Environment Sustainability
+Geotechnical Engineering
+
+
+
+Chapters in Books
+Vilarrasa, V., R.Y. Makhnenko, and J. Rutqvist. 2019. Field and laboratory studies of geomechanical response to the injection of CO2. In: P. Newell and A. Ilgen (eds.), Science of Carbon Storage in Deep Saline Formations: Process Coupling Across Time and Spatial Scales, chapter 9, pp. 159-178, Elsevier.
+Labuz, J.F.,  R.Y. Makhnenko, S.-T. Dai, and L. Biolzi. 2017. On yielding, failure, and softening response of rock. In: X.-T. Feng (ed), Rock Mechanics and Engineering: Principles, CRC Press, chapter 12, pp. 365-378.
+
+Selected Articles in Journals
+Kim, K., P. Kundzicz, and R.Y. Makhnenko. 2023. Effect of CO2 injection on the multiphase flow properties of reservoir rock. Transport in Porous Media, 147, 429-461.
+Kim, H. and R.Y. Makhnenko. 2023. Evaluation of CO2 sealing potential of heterogeneous Eau Claire shale. Journal of Geological Society, 528(1), SP528-2022-134.
+Rahimzadeh Kivi, I., R.Y. Makhnenko, C.M. Oldenburg, J. Rutqvist, and V. Vilarrasa. 2022. Clay-rich caprocks build confidence in permanent geologic storage of CO2 at the gigatonne scale. Geophysical Research Letters, 49, e2022GL100443.
+Bondarenko, N., Y.Y. Podladchikov, and R. Makhnenko. 2022. Hydromechanical impact of basement rock on injection-induced seismicity in Illinois Basin. Scientific Reports, 12, 15639.
+Sciandra, D., I. Rahimzadeh Kivi, V. Vilarrasa, R.Y. Makhnenko, and D. Rebscher. 2022. Blind prediction of the hydro-mechanical response of Opalinus Clay to the CO2 long-term periodic injection experiment (CO2LPIE) at the Mont Terri rock laboratory. Geomech. Geophys. Geo-energ. Geo-resour., 8(5), 166.
+Kim, K., and R.Y. Makhnenko. 2022. Short- and long-term responses of reservoir rock to CO2 injection. Rock Mech. & Rock Engin., 55 (11), 6605-6625.
+Rahimzadeh Kivi, I., V. Vilarrasa, and R.Y. Makhnenko. 2022. Long-term two-phase flow mechanisms controlling CO2 intrusion into shaly caprock. Transport in Porous Media, 141, 771–798.
+Bondarenko, N., S. Williams-Stroud, J. Freiburg, and R. Makhnenko. 2021. Geomechanical aspects of induced seismicity during CO2 injection in Illinois Basin. The Leading Edge, 40(11), 823-830.
+Yarushina, V., R.Y. Makhnenko, Y. Podladchikov, H. Wang, and L. Räss. 2021. Viscous behavior of clay-rich caprock and its role in focused fluid flow. Geochemistry Geophysics Geosystems, e2021GC009949.
+Kim, K., and R.Y. Makhnenko. 2021. Changes in rock matrix compressibility during deep CO2 storage. Greenhouse Gases – Science & Technology,  11(5), 954-973.
+Zareidarmiyan, A., F. Parisio, R.Y. Makhnenko, H. Salarirad, and V. Vilarrasa. 2021. How equivalent are equivalent porous media? Geophys. Res. Lett., 48, e2020GL089163.
+Vilarrasa, V., R.Y. Makhnenko, and F. Parisio. 2020. Geomechanics and fluid flow in geothermal systems. Geofluids, 6085738.
+Kim, K., and R.Y. Makhnenko. 2020. Coupling between poromechanical behavior and fluid flow in tight rock. Transport in Porous Media, 135, 487–512.
+Makhnenko, R.Y., C. Ge, and J.F. Labuz. 2020. Localization of deformation in fluid-saturated rock. Int. J. Rock Mech. & Mining Sci., 134, 104455.
+Tarokh, A., R.Y. Makhnenko, K. Kim, X. Zhu, J.S. Popovics, B. Segvic, and D.E. Sweet. 2020. Influence of CO2 injection on the poromechanical response of Berea sandstone. Int. J. Greenhouse Gas Control, 95, 102959.
+Tarokh, A., and R.Y. Makhnenko. 2019. Remarks on the solid and bulk responses of fluid-filled porous rock. Geophysics, 84(4), WA83-WA95.
+Parisio, F., A. Tarokh, R.Y. Makhnenko, D. Naumov, X.-Y. Miao, O. Kolditz, and T. Nagel. 2019. Experimental characterization and numerical modeling of fracture processes in granite. Int. J. Solids Struct., 163, 102-116.
+Makhnenko, R.Y., and Y. Podladchikov. 2018. Experimental poroviscoelasticity of common sedimentary rocks. J. Geophys. Res. Solid Earth., 123, 7586-7603.
+Kim, K., V. Vilarrasa, and R.Y. Makhnenko. 2018. CO2 injection effect on geomechanical and flow properties of calcite-rich reservoirs. Fluids, 3(3), 66.
+Labuz, J.F., F. Zeng, R.Y. Makhnenko, and Y. Li. 2018. Brittle failure of rock: A review and general linear criterion. J. Struct. Geol., 112, 7-28.
+Vilarrasa, V., and R.Y. Makhnenko. 2017. Caprock integrity and induced seismicity from laboratory and numerical experiments. Energy Procedia, 125, 494-503. 
+Makhnenko, R.Y., V. Vilarrasa, D. Mylnikov, and L. Laloui. 2017. Hydromechanical aspects of CO2 breakthrough into clay-rich caprock. Energy Procedia, 114, 3219-3228.
+Vilarrasa, V., R.Y. Makhnenko, and L. Laloui. 2017. Potential for fault reactivation due to CO2 injection in a semi-closed saline aquifer. Energy Procedia, 114, 3282-3290.
+Räss, L., R.Y. Makhnenko, Y. Podladchikov, and L. Laloui. 2017. Quantification of viscous creep influence on storage capacity of caprock. Energy Procedia, 114, 3237-3246.
+Tarokh, A., R.Y. Makhnenko, A. Fakhimi, and J.F. Labuz. 2017. Scaling of the fracture process zone in rock. Int. J. Fract., 204, 191-204.
+Vilarrasa, V., R.Y. Makhnenko, and S. Gheibi. 2016. Geomechanical analysis of the influence of CO2 injection location on fault stability. J. Rock Mech. Geotech. Eng., 8, 805-818.
+Makhnenko, R.Y., and J.F. Labuz. 2016. Elastic and inelastic deformation of fluid-saturated rock. Phil. Trans. R. Soc. A, 374, 20150422.
+Makhnenko, R.Y., Harvieux, and J.F. Labuz. 2015. Paul-Mohr-Coulomb failure surface of rock in the brittle regime. Geophys. Res. Lett., 42, 6975-6981.
+Makhnenko, R.Y., and J.F. Labuz. 2015. Dilatant hardening of fluid-saturated sandstone. Geophys. Res. Solid Earth, 120, 909–922.
+Makhnenko, R.Y. , and J. Labuz. 2014. Plane strain testing with passive restraint. Rock Mech. Rock Eng., 47(6), 2021-2029.
+Click for more
+Articles in Conference Proceedings
+Bondarenko, N., and R.Y. Makhnenko. 2022. Creep failure of dry and fluid-saturated rock. In Proceedings of 56th US Rock Mechanics/Geomechanics Symposium, Santa Fe, NM, 26-29 June 2022, paper No. 456.
+Sciandra, D., I. Rahimzadeh Kivi, V. Vilarrasa, R.Y. Makhnenko, D. Jaeggi, and D. Rebscher. 2022. 3D hydro-mechanical modeling of shaly caprock response to CO2 long-term periodic injection experiment (CO2LPIE). In Proceedings of 56th US Rock Mechanics/Geomechanics Symposium, Santa Fe, NM, 26-29 June 2022, paper No. 704.
+Kim, H., J.V. Renjifo Ciocca, and R.Y. Makhnenko. 2022. Coupled thermo-hydro-mechanical effects on transport properties of glacial tills. In Proceedings of GeoCongress 2022, Charlotte, NC, 20-23 March 2022.
+Rahimzadeh Kivi, I., V. Vilarrasa, and R.Y. Makhnenko. 2021. Hydromechanical processes of supercritical CO2 intrusion into shaly caprocks. In Proceedings of 55th US Rock Mechanics/Geomechanics Symposium, Houston, TX, 18-25 June 2021, paper No. 1852 (8 pages).
+Yoshioka, K.,  M. Mollaali, G. Mishaan, R.Y. Makhnenko, F. Parisio. 2021. Grain size impact on the fracture nucleation in rock. In Proceedings of 55th US Rock Mechanics/Geomechanics Symposium, Houston, TX, 18-25 June 2021, paper No. 1920 (8 pages).
+Makhnenko, R.Y., and N. Bondarenko. 2021. Influence of the pore fluid type on the observation of induced seismicity. In Proceedings of 55th US Rock Mechanics/Geomechanics Symposium, Houston, TX, 18-25 June 2021, paper No. 2121 (7 pages).
+
+Rahimzadeh Kivi, I., V. Vilarrasa, and R.Y. Makhnenko. 2021. Effect of caprock relative permeability on CO2 flow through it. In Proceedings of TCCS-11 - Trondheim Conference on CO2 Capture, Transport and Storage, Norway, 22-23 June 2021 (6 pages).
+Renjifo Ciocca, J.V., and R.Y. Makhnenko. 2021. Influence of saturation on hydromechanical properties of glacial tills. In Proceedings of International Foundation Congress and Equipment Expo, Dallas, TX, 10-14 May 2021 (10 pages).
+Kim, H., and R.Y. Makhnenko. 2020. Characterization of unsaturated response of shale-like materials. In Proceedings of the International Conference on Energy Geotechnics, La Jolla, California, USA, paper No. 13007.
+Kim, K., and R.Y. Makhnenko. 2020. Impact of CO2 storage on short- and long-term reservoir behavior. In Proceedings of the International Conference on Energy Geotechnics, La Jolla, California, USA (7 pages).
+Makhnenko, R.Y., N. Bondarenko, K. Kim, and S. Whittaker. 2020. Laboratory simulation of induced seismicity in Illinois Basin. In Proceedings of the 54th U.S. Rock Mechanics/Geomechanics Symposium, Golden, CO, 28 June - 1 July 2020, paper No. 2040 (8 pages).
+Baser, T., K. Kim, E. Tarpey, R. Makhnenko, and A. Stumpf. 2020. Experimental investigation of coupled thermo-hydraulic properties of glacial tills. In Proceedings of Geo-Congress, Minneapolis, MN, 25-28 February 2020 (10 pages).
+Vilarrasa, V., D. Rebscher, R.Y. Makhnenko, and C. Nussbaum. 2019. Modeling a long-term CO2 injection experiment at the underground rock laboratory of Mont Terri. In Proceedings of the 11th Workshop of CODE_BRIGHT Users, Barcelona, Spain 16 May 2019 (6 pages).
+Makhnenko, R.Y., and A. Tarokh. 2018. Anisotropy in the undrained pore pressure response of rock. In Proceedings of the 52nd U.S. Rock Mechanics/ Geomechanics Symposium, Seattle, WA 17-20 June 2018, paper No. 1300 (7 pages).
+Vilarrasa, V., R.Y. Makhnenko, and F. Parisio. 2018. Modeling the reactivation of a ductile fault. In Proceedings of the 10th Workshop of CODE_BRIGHT Users, Barcelona, Spain 3 May 2018 (6 pages).
+Makhnenko, R.Y., A. Tarokh, and Y. Podladchikov. 2017. On the unjacketed moduli of sedimentary rock.  Poromechanics VI – Proceedings of the 6th Biot Conference on Poromechanics, pp. 897 – 904 (8 pages).
+Makhnenko, R.Y., and V. Vilarrasa. 2017. Clay-rich rocks as barriers for geologic CO2 storage. In Proceedings of the 51st U.S. Rock Mechanics/ Geomechanics Symposium, San Francisco, CA 25-28 June 2017, paper No. 199 (7 pages).
+Makhnenko, R.Y., and J.F. Labuz. 2017. Localization in plane strain compression of fluid-saturated rock. In: E. Papamichos et al. (eds.), Bifurcation and Degradation of Geomaterials with Engineering Applications, Springer Series in Geomechanics and Geoengineering, pp 33-38 (6 pages).
+Cassini, E., D. Mylnikov, and Makhnenko. 2017. Chemical influence of pore pressure on brine flow in clay-rich material. In: A. Ferrari and L. Laloui (eds), Advances in Laboratory Testing and Modelling of Soils and Shales (ATMSS), Springer Series in Geomechanics and Geoengineering, pp 273-280 (8 pages).
+Labuz, J.F., R.Y. Makhnenko, and J.T. Harvieux. 2016. Failure criterion with intermediate stress and two friction angles. In Proceedings of the 50th U.S. Rock Mechanics/ Geomechanics Symposium, Houston, TX 26-29 June 2016, paper No. 620 (5 pages).
+Vilarrasa, V., Makhnenko, and L. Laloui. 2015. Influence of poromechanical and thermal properties of the caprock on the safety of CO2 storage. In Proceedings of Second EAGE Workshop on Geomechanics and Energy, Celle, Germany 13-15 October 2015 (5 pages).
+Makhnenko, R.Y., and J. Labuz. 2014. Calcarenite as a possible host rock for geologic CO2. In Proceedings of the 48th U.S. Rock Mechanics/ Geomechanics Symposium, Minneapolis, MN 1-4 June 2014, paper No. 7559 (6 pages).
+Makhnenko, R.Y., and J. Labuz. 2013. Unjacketed bulk compressibility of sandstone in laboratory experiments. Poromechanics V – Proceedings of the 5th Biot Conference on Poromechanics, 481-488 (8 pages).
+Makhnenko, R.Y., and J.F. Labuz. 2013. Saturation of porous rock and measurement of the B-coefficient. In Proceedings of the 47th U.S. Rock Mechanics/ Geomechanics Symposium, San Francisco, CA 23-26 June 2013, paper No. 468, Vol. 1, 679-684 (6 pages).
+Makhnenko, R., and J. Labuz. 2012. Drained and undrained plane strain compression of porous rock. In Proceedings of the XXIII International Congress on Theoretical & Applied Mechanics, Beijing, China, 19-24 August 2012, paper No. FS10-020 (2 pages).
+Makhnenko, R.Y., G. Ge, and J.F. Labuz. 2012. AE from undrained and unjacketed tests on sandstone. In Proceedings of the 46th U.S. Rock Mechanics/ Geomechanics Symposium, Chicago, IL 24-27 June 2012, paper No. 581, Vol. 1, 596-601 (6 pages).
+Makhnenko, R.Y., J.J. Riedel, and J.F. Labuz. 2011. Undrained plane strain compression of shale. In Proceedings of the 45th U.S. Rock Mechanics/ Geomechanics Symposium, San Francisco, CA 26-29 June 2011, paper No. 420, Vol. 3, 2109-2115 (7 pages).
+Makhnenko, R.Y., A.P. Bunger, and E. Detournay. 2010. Deviation from linear elastic fracture in near-surface hydraulic fracturing experiments with rock. In Proceedings of the 44th U.S. Rock Mechanics Symposium, Salt Lake City, UT 27-30 June 2010, paper No. 237, Vol. 1, 22-30 (9 pages).
+Click for more
+Magazine Articles
+Tomac, I., S. Kim, and R.Y. Makhnenko, 2023. Rock Mechanics for GeoEnergy Applications – Energy Extraction and Storage from Below Our Feet. GEOSTRATA, 27(1), 42-49.
+Makhnenko, R. 2015. EPFL, Switzerland Welcomes 13th Conference on Greenhouse Gas Control Technologies in 2016. Greenhouse News, March 2015, Issue 117.
+
+
+
+Teaching Honors
+List of teachers ranked as excellent by their students, Fall 2021, Fall 2022
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Makhnenko wins CAREER award
+
+
+Makhnenko, Alipour named NCSA Faculty Fellows
+
+
+CEE summer camp highlights societal challenges, solutions
+
+
+Summer camp introduces STEM-minded high schoolers to CEE
+
+
+Three CEE faculty named 2021-22 iSEE Levenick Teaching Fellows
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

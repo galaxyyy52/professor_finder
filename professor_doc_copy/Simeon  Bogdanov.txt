@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+ 
+
+
+Simeon Bogdanov 
+
+
+
+Assistant Professor
+
+bogdanov@illinois.edu
+ 
+
+
+
+For More Information
+Website
+
+Education
+Ph.D. Electrical Engineering, Northwestern University, Evanston, IL (2014)
+M.Sc. Microelectronics, Royal Institute of Technology, Stockholm, Sweden (2008)
+B.Sc. Physics, Ecole Polytechnique, Palaiseau, France (2007)
+
+Academic Positions
+Assistant Professor of Electrical Engineering, University of Illinois at Urbana-Champaign (01/2020 - present)
+Postdoctoral Research Associate, Purdue University, West Lafayette, IN (04/2014 - 12/2019)
+
+Professional Registrations
+Member of the American Physical Society
+Member of the SPIE
+Member of the Optical Society of America
+Member of IEEE Electron Devices Society
+Member of the IEEE Photonics Society
+
+Resident Instruction
+ECE 340 "Semiconductor Devices"
+
+Course Development
+ECE 498SB, "Manipulation of Elementary Quantum Systems"
+
+
+Research Interests
+Machine learning and optimal data processing
+Integrated optoelectronics
+Optically active solid-state spins
+Superconducting materials and devices
+Plasmonics and Metamaterials
+Nonlinear optics and quantum transduction
+High-speed quantum photonics
+Click for more
+
+Research Areas
+Nano-photonics
+Quantum nanostructures for electronics and photonics
+
+
+Research Topics
+Photonics: optical engineering and systems
+Quantum optics, cryptography, information, and computing
+
+Selected Articles in Journals
+E.M. Baeva, A.I. Kolbatova, N.A. Titova, S. Saha, A. Boltasseva, S.I. Bogdanov, V.M. Shalaev, A.V. Semenov, A. Levchenko, G.N. Goltsman, and V.S. Khrapai, "T-fluctuations and dynamics of the resistive transition in thin superconducting films
+", arXiv 2202.06309
+E.M. Baeva, A.I. Kolbatova, N.A. Titova, S. Saha, A. Boltasseva, S.I. Bogdanov, V.M. Shalaev, A.V. Semenov, G.N. Goltsman, and V.S. Khrapai, "Resistance fluctuation spectroscopy of the superconducting transition in epitaxial TiN films" arXiv 2202.06310
+X. Xu, Z.O. Martin, M. Titze, Y. Wang, D. Sychev, J. Henshaw, A.S. Lagutchev, H. Htoon, E.S. Bielejec, S.I. Bogdanov, V.M. Shalaev and A. Boltasseva, "Fabrication of single color centers in sub-50 nm nanodiamonds using ion implantation" Nanophot., 13, 1 (2023)
+S. Sahoo, V.A. Davydov, V.N. Agafonov, and S.I. Bogdanov, "Hybrid quantum nanophotonic devices with color centers in nanodiamonds", Opt. Mater. Exp., 13, 191 (2023)
+A. Solanki, S.I. Bogdanov, M.M. Rahman, A. Rustagi, P. Debashis, N. Dilley, T.-T. Shen, Y.-P. Chen, J. Appenzeller, V.M. Shalaev, A. Boltasseva and P. Upadhyaya, “Electric field control of interaction between magnons and quantum spin defects”, Phys. Rev. Research, 4, L012025 (2022)
+Z.A. Kudyshev, D. Sychev, Z.O. Martin, S.I. Bogdanov, X. Xu, A.V. Kildishev, A. Boltasseva and V.M. Shalaev, “Machine learning assisted quantum super-resolution microscopy”, arXiv (2021)
+S. Sahoo, H. Azzouz and S.I. Bogdanov “Rapid absolute sizing of deeply subwavelength dielectric nanoparticles by confocal scanning optical microscopy”, Appl. Phys. Lett. 118, 241105 (2021)
+Z. Kudyshev*, S.I. Bogdanov*, T. Isacsson, A. Boltasseva and V.M. Shalaev, “Rapid single-photon emitter classification with neural networks”, Adv. Quant. Techn., 3, 2000067 (2020)
+M.Y. Shalaginov, S.I. Bogdanov, A.S. Lagutchev, A. Boltasseva and V.M. Shalaev, “On-chip microwave-spin-plasmon interface”, ACS Photonics, 7, 2018 (2020)
+C.-C. Chiang, S.I. Bogdanov, O. Makarova, X.Xu, S. Saha, D. Shah, Z.O. Martin, D. Wang, A.S. Lagutchev, A.V. Kildishev, A. Boltasseva and V.M. Shalaev, “Chip-compatible quantum plasmonic launcher”, Adv. Opt. Mater., 8, 2000889 (2020)
+S.I. Bogdanov, O.A. Makarova, X. Xu, Z.O. Martin, A.S. Lagutchev, M. Olinde, D. Shah, S.N. Chowdhuri, A.R. Gabidullin, I.A. Ryzhikov, I.A. Rodionov, A.V. Kildishev, S.I. Bozhevolnyi, A. Boltasseva, V.M. Shalaev and J.B. Khurgin, "Ultrafast quantum photonics enabled by coupling plasmonic nanocavities to strongly radiative antennas", Optica, 7, 463 (2020)
+
+N. Saveskul, N.Titova, E.M. Baeva, A.V. Semenov, A.V. Lubenchenko, S. Saha, H. Reddy, S.I. Bogdanov, E.E. Marinero, V.M. Shalaev, A. Boltasseva V.S. Khrapai, A.I. Kardakova,
+and G.N. Goltsman, “Superconductivity Behavior in Epitaxial TiN Films Points to Surface Magnetic Disorder”, Phys. Rev. Applied, 12, 054001 (2019)
+S.I. Bogdanov, A. Boltasseva and V.M. Shalaev, “Overcoming quantum decoherence with plasmonics”, Science, 364, 532 (2019)
+
+S.I. Bogdanov, O.A. Makarova, A.S. Lagutchev, D. Shah, C.-C. Chiang, S. Saha, A.S. Baburin, I.A. Ryzhikov, I.A. Rodionov, A.V. Kildishev, A. Boltasseva and V.M. Shalaev, “Deterministic integration of single nitrogen-vacancy centers into nanopatch antennas”, arXiv (2019)
+S.I. Bogdanov, M.Y. Shalaginov, A.S. Lagutchev, C.-C. Chiang, D. Shah, A.S. Baburin, I.A. Ryzhikov, I.A. Rodionov, A. Boltasseva and V.M. Shalaev, “Ultrabright and ultrafast roomtemperature anti-bunched emission from a nitrogen-vacancy center in a diamond nanocrystal”, Nano Letters, 18, 4837 (2018)
+
+S.K.H. Andersen, S.I. Bogdanov, Y. Xuan, O. Makarova, M.Y. Shalaginov, A. Boltasseva, V.M. Shalaev and S. Bozhevolnyi, "Hybrid plasmonic bullseye antennas for efficient photon collection", ACS Photonics, 5, 692 (2018)
+
+O.A. Makarova, M.Y. Shalaginov, S.I. Bogdanov, U. Guler, A. Boltasseva, A.V. Kildishev
+and V.M. Shalaev, “Patterned multilayer metamaterial for fast and efficient photon collection
+from dipolar emitters”, Opt. Lett. 42 , 3968 (2017)
+S.I. Bogdanov, M.Y. Shalaginov, P. Kapitanova, J. Liu, M. Ferrera, A. Lagutchev, P. Belov,
+J. Irudayaraj, A. Boltasseva and V. Shalaev, “Spin contrast in Purcell-enhanced nitrogenvacancy center ensembles in nanodiamonds”, Phys. Rev. B 96, 035146 (2017)
+S.I. Bogdanov, M.Y. Shalaginov, A. Boltasseva and V.M. Shalaev, “Material platforms for
+integrated quantum photonics” Opt. Mat. Exp. 7, 111 (2017)
+M. Razeghi, A. Haddadi, A.M. Hoang, G. Chen, S.I. Bogdanov, S.R. Darvish, F. Callewaert, P.R. Bijjam and R. McClintock,  "Antimonide-based type-II superlattices: a superior candidate for the third generation of infrared imaging systems" J. of Elec. Mat. 43(8), 2802 (2014) 
+G. Chen, A.M. Hoang, S.I. Bogdanov, A. Haddadi, S.R. Darvish and M. Razeghi, “Effect of sidewall surface recombination on the quantum efficiency in a Y2O3 gated type-II InAs/GaSb long-infrared photodetector array” Appl. Phys. Lett. 103, 223501 (2013)
+G. Chen, A.M. Hoang, S.I. Bogdanov, P.R. Bijjam, B.-M. Nguyen and M. Razeghi, “Investigation of impurity in type-II InAs/GaSb superlattices via capacitance-voltage measurement” Appl. Phys. Lett. 103, 033512 (2013)
+G. Chen, E.K. Huang, A.M. Hoang, S.I. Bogdanov, S.R. Darvish and M. Razeghi, “Surface leakage investigation via gated type-II InAs/GaSb long-wavelength infrared photodetectors” Appl. Phys. Lett. 101, 213501 (2012)
+M. Razeghi, A. Haddadi, A.M. Hoang, E.K. Huang, G. Chen, S.I. Bogdanov, S.R. Darvish, F. Callewaert and R. McClintock “Advances in antimonide-based Type-II superlattices for infrared detection and imaging at center for quantum devices” Infrared Physics and Technology, 59, 41 (2012)
+B.M. Nguyen, G. Chen, A.M. Hoang, S. Abdollahi Pour, S.I. Bogdanov, and M. Razeghi, “Effect of contact doping on superlattice-based minority-carrier unipolar detectors” Appl. Phys. Lett. 99, 033501 (2011)
+S.I. Bogdanov, B.M. Nguyen, A.M. Hoang and M. Razeghi, “Surface leakage current reduction in long wavelength infrared type-II InAs/GaSb superlattice photodiodes” Appl. Phys. Lett. 98, 183501 (2011)
+ B.M. Nguyen, S.I. Bogdanov, S. Abdollahi Pour, and M. Razeghi, “Minority electron unipolar photodetectors based on type II InAs/GaSb/AlSb superlattices for very long wavelength infrared detection,” Appl. Phys. Lett. 95, 183502 (2009)
+S. Abdollahi Pour, B.M. Nguyen, S.I. Bogdanov, E.K. Huang, and M. Razeghi, “Demonstration of high performance long wavelength infrared type II InAs/GaSb superlattice photodiode grown on GaAs substrate,” Appl. Phys. Lett. 95, 173505 (2009)
+ B.M. Nguyen, D. Hoffman, E.K. Huang, S.I. Bogdanov, P.Y. Delaunay, M. Razeghi and M.Z. Tidrow, “Demonstration of midinfrared type-II InAs/GaSb superlattice photodiodes grown on GaAs substrate,” Appl. Phys. Lett. 94, 223506 (2009)
+Click for more
+Research Honors
+NSF CAREER Award (04/05/2023)
+
+
+Recent Courses TaughtECE 340 - Semiconductor Electronics
+ECE 498 SB3 (ECE 498 SB4, ECE 498 SO3, ECE 498 SO4) - Manipulating Quantum Systems
+
+
+
+
+
+
+
+Related News
+
+
+Simeon Bogdanov receives NSF CAREER award
+
+
+Introducing new Illinois ECE Assistant Professor Simeon Bogdanov
+
+
+
+
+
+
+
+

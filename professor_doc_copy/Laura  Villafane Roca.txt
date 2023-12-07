@@ -1,0 +1,151 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Laura Villafane Roca 
+
+
+
+Assistant Professor
+
+lvillafa@illinois.edu
+ 
+
+
+
+For More Information
+Research group website
+Center for Hypersonics and Entry Systems Studies (CHESS)
+
+Education
+Ph.D. Aerospace and Mechanical Engineering, von Karman Institute for Fluid Dynamics (VKI) Belgium / Polytechnic University of Valencia, Spain, 2014
+Research Master in Fluid Dynamics, Aeronautics and Aerospace, von Karman Institute for Fluid Dynamics (VKI), Belgium, 2008
+B.S./M.S. Aeronautical and Aerospace Engineering, Polytechnic University of Madrid (UPM), Spain, 2007
+
+Academic Positions
+Affiliate Assistant Professor (0% Appointment), Beckman Institute for Advanced Science and Technology, August 2023 - present
+Assistant Professor, Aerospace Engineering Department, University of Illinois Urbana Champaign, January 2019 - present
+Research Engineer, Center for Turbulence Research (CTR), Department of Mechanical Engineering, Stanford University, January 2018 - December 2018
+Postdoctoral Researcher, Center for Turbulence Research (CTR), Department of Mechanical Engineering, Stanford University, September 2014 - December 2017, Advisor: John K. Eaton
+Postdoctoral Researcher, Aeronautics and Aerospace Department, von Karman Institute for Fluid Dynamics 2014, Advisor: Guillermo Paniagua.
+
+Research Interests
+Particle-laden flows
+Turbulence
+Heat transfer
+High speed flows
+Plume-surface interactions
+Complex and separated flows
+Measurement techniques (instrumentation design and non-intrusive optical diagnostics)
+Image processing and data reduction
+Magnetic Resonance Imaging
+Click for more
+
+Research Areas
+Applied Aerodynamics
+Experimental Fluid Mechanics 
+Flow Control
+Laser and Optical Diagnostics
+
+
+Selected Articles in Journals
+N. Rasmont, H. Al-Rashdan, G. Elliott, J. Rovey and L. Villafañe, "Millimeter-Wave Interferometry for Opaque Particle-Laden Flows," in IEEE Transactions on Microwave Theory and Techniques, (2023)
+
+Benson M., Banko A., Elkins C., An D.G., Song S, Bruschewski M., Grundmann S., Bandopadhyay T., Sutton B., Villafane L., Han K., Hwang W., Eaton J.K., “MRV Challenge 2: Phase locked turbulent measurements in a roughness array”, Experiments In Fluids, 64(28), (2023)
+
+M. Esmaily, L. Villafane, A.J. Banko, G. Iaccarino, J.K. Eaton, A. Mani,
+“A benchmark for particle-laden turbulent duct flow: A joint computational and experimental study,” International Journal of Multiphase Flow, 132, 103410, (2020)
+Banko, A., Villafane, L., Kim, J.H., Eaton, K.J, "Temperature Statistics in a Radiatively Heated Particle-laden Turbulent Square Duct Flow", International Journal of Heat and Fluid Flow, 84, 108618, (2020)
+Hoffman, D., Villafane, L., Elkins, C. J., and Eaton, K. J., "Experimental Study of Flow Inside a Centrifugal Fan Using Magnetic Resonance Velocimetry", ASME. J. Eng. Gas Turbines Power, 142(4), 041019, (2020)
+Di Renzo M. Johnson P.L., Bassenne M., Villafane L, Urzay J., "Mitigation of turbophoresis in particle-laden turbulent channel flows by using incident electric fields", Physical Review Fluids,  4 (12), 124303, (2019)
+Grosshans, H., Villafane, L., Banko, A., Papalexandris, M.V., "Case study on the influence of electrostatic charges on particle concentration in turbulent duct flows". Powder Technology, 357, 46-53, (2019)
+Banko A.J., Villafane L., Kim J.H., Esmaily, M., Eaton, J.K., "Stochastic modeling of direct radiation transmission in particle-laden turbulent flow", Journal of Quantitative Spectroscopy and Radiative Transfer, 226, 1-18, (2019)
+Villafane L., Paniagua G., "Aerodynamic impact of finned heat exchangers on transonic flows", Experimental Thermal and Fluid Science, 97, 223-236, (2018)
+Villafane L., Paniagua G., Bonfanti G., Yasa T., "Local surface shear stress measurements from oil streaks thinning", Sensors and Actuators A: Physical,  223, 31-39, (2015)
+Sousa J., Villafane L., Paniagua G., "Thermal analysis and modeling of surface heat exchangers operating in the transonic regime", Energy, 64, 961-969, (2014)
+Villafane L., Paniagua G., "Aerothermal analysis of shielded fine wire thermocouple probes," International Journal of Thermal Sciences, 65, 214-223, (2013)
+Sousa J., Lavagnoli S., Paniagua G., Villafane L., "Three dimensional inverse heat flux evaluation based on infrared thermography", Quantitative InfraRed Thermography Journal, 9, 2, 177-191, (2012)
+Villafane L., Paniagua G., Kaya M., Bajusz D., Hiernaux S., "Development of a Transonic Wind Tunnel to investigate Engine Bypass Flow Heat Exchanges", Proc. IMechE, Part G: J. Aerospace Engineering, 225, 8, 902-914, (2012)
+Click for more
+Articles in Conference Proceedings
+Phillippe C., Mattei M., Villafane L., Panerai F., “In-Situ Micro-scale Characterization of Parachute Textiles with Micro-Tomography and Machine Learning”, AIAA SciTech Forum, Gaylord National Harbor, Maryland, Jan. 23-27, 2023.
+
+Mattei M., Phillippe C., Panerai F., Villafane L., "Design, Manufacturing, and Testing of Flat and Conical Sub-Scale Parachute Models", AIAA SciTech Forum, Gaylord National Harbor, Maryland, Jan. 23-27, 2023
+
+Rasmont N, Al-Rashdan H., Elliott G., Rovey J., Villafane L., “TSpatially Distributed Measurements of Ejecta Concentrations in Plume-Surface Interactions using Millimeter Wave Interferometry”, AIAA SciTech Forum, Gaylord National Harbor, Maryland, Jan. 23-27, 2023
+
+Villafane L., Al-Rashdan H., Rasmont N., Elliott G., Rovey J., "Underexpanded jet impingement on solid and granular surfaces in subatmospheric conditions", Turbulence and Interactions conference, TI, 2022 Isola d'Elba, Italy.
+
+Rasmont N., Al-Rashdan H., Elliott G., Rovey J., Villafane L., "Millimeter Wave Interferometry for Ejecta Concentration Measurements in Plume-Surface Interactions ", AIAA 2022-2421, AIAA SciTech Forum, San Diego, CA. Jan. 3-7, 2022.
+
+Al-Rashdan H., Rasmont N., Rovey J., Elliott G., Villafane L., "Static Wall Pressure Measurements of Supersonic Under expanded Jet Impingement", AIAA 2021-2859. AIAA Aviation Forum, virtual, Aug. 2-6, 2021.
+
+Banko A., Villafañe L., Kim J.H., Eaton J. K., “Temperature statistics in a radiatively heated particle-laden turbulent square duct flow”, 11th International Symposium on Turbulence and Shear Flow Phenomena (TSFP11), 2019 Southampton, UK
+Hoffman, D.W., Villafañe, L., Elkins, C.J., Eaton, J.K., “Experimental Study of Flow Inside a Centrifugal Fan Using Magnetic Resonance Velocimetry”, ASME Turbo Expo 2019, Phoenix, AR, USA
+Grosshans H., Villafañe L., Banko A., Papalexandris M.V., “Influence of electrostatic charges on the particle concentration in wall-bounded turbulent flows”, 8th World Congress on Particle Technology,  2018 Orlando, FL, USA
+Villafañe L, Banko A., Kim J. H., Elkins C., Eaton J. K. “Radiative Heating of Inertial Particles in a Particle-laden Turbulent Duct Flow,” Tenth International Symposium on Turbulence and Shear Flow Phenomena, TSFP10, 2017 Chicago, IL, USA.
+Banko A., Villafañe L., Esmaily-Moghadam M., Eaton J. K. “Prediction of Preferential Concentration Statistics from Eulerian two-point Correlations,” Tenth International Symposium on Turbulence and Shear Flow Phenomena , TSFP10, 2017 Chicago, IL, USA.
+Raush G., Villafañe L., Paniagua G. “Optical Characterization of a Cross Flow Fan for Distributed Propulsion,” In 52nd AIAA/SAE/ASEE Joint Propulsion Conference, AIAA 2016-4960, Salt Lake City, UT, USA,  2016. 
+Gibbs J., Seyfang G., Peebles P, Villafañe L., Paniagua G. “An analysis of FanWing flight physics and potential business cases,” In 4th EASN Association International Workshop on Flight and Aircraft Design, Aachen, Germany, 2014.
+Villafañe L., Paniagua G. “Aerodynamic Characterization of Three-dimensional Turbofan Bypass-flow Heat Exchanger Effects in an Intermittent Transonic Facility,” In 43rd AIAA Fluid Dynamics Conference, AIAA 2013-2728, San Diego, CA, USA,  2013.
+Villafañe L., Paniagua G. “Aerothermal Analysis and Characterization of Shielded Fine Wire Thermocouple Probes,” In XXI Biannual Symposium on Measuring Techniques in Turbomachinery, Valencia, Spain,  2012.
+Villafañe L., Yasa T., Paniagua G., Bonfanti G.“Development of Experimental Techniques for the Characterization of Helicoidal Fin Arrays in Transonic Flow Conditions,” In 47th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit, AIAA 2011-6093, San Diego, CA, USA, 2011. 
+Villafañe L., Paniagua G., Desset J., Bajusz D., Hiernaux S. "Development of a Transonic Wind Tunnel to investigate Engine Bypass Flow Heat Exchangers,” In 46th AIAA/ASME/SAE/ASEE Joint Propulsion Conference & Exhibit, AIAA 2010-6951, Nashville, TN, USA, 2010. 
+Click for more
+Other Publications
+Di Renzo M. Johnson P.L., Bassenne M., Villafañe L, Urzay J., “Electrically induced suppression of turbophoresis in particle-laden turbulent channel flows”, Summer Program Proceedings, Center For Turbulence Research, Stanford University, 2018.
+Villafañe L., Banko A., Elkins C., Eaton J. K., “Gas heating by radiation absorbing inertial particles in a turbulent duct flow,” Annual Research Briefs, Center for Turbulence Research, Stanford University, 2017.
+Villafañe L., Esmaily-Moghadam M., Banko A., Eaton J. K., “A robust method for quantification of preferential concentration from finite number of particles,” Annual Research Briefs, Center for Turbulence Research, Stanford University, 2016.
+
+Journal Editorships
+Editor of Measurement, EES Journal, April 2023 - present
+Associate Editor of Measurement, EES Journal, February 2018 - April 2023
+Editor of Results in Engineering (RINENG), Elsevier, March 2020 - present
+
+Professional Societies
+American Institute of Aeronautics and Astronautics, AIAA, Senior member, 2010-2014, 2019 -present
+American Society of Mechanical Engineers, ASME,  2013 - present
+Zonta International Amelia Earhart Fellows, 2013 - present
+American Physical Society, APS, Division of Fluid Dynamics,  2015 - present
+
+Research Honors
+Ph.D Thesis Award, Summa cum laude, Polythechnic University of Valencia (02/2014)
+Amelia Earhart Fellowship, Zonta International Foundation (04/2013)
+Outstanding Graduate Thesis Award, Polythechnical University of Madrid (06/2007)
+
+Public Service Honors
+AIAA Outstanding Section Award, as AIAA IL Section Chair (08/2022)
+
+Other Honors
+NATO fellowship - von Karman Institute for Fluid Dynamics (Research Master) (09/2007 - 06/2008)
+
+
+Recent Courses TaughtAE 311 - Incompressible Flow
+AE 514 - Boundary Layer Theory
+
+
+
+
+
+
+
+
+

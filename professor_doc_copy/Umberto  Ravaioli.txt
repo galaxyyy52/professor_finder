@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+ 
+
+
+Umberto Ravaioli 
+
+
+
+Professor
+(217) 265-5536
+ravaioli@illinois.edu
+2062 Electrical & Computer Eng Bldg
+
+
+
+Education
+Ph.D. - Electrical Engineering, Arizona State University  1986
+
+Research StatementMy research has focused on large scale simulation of charge transport phenomena in solid-state and soft-matter systems.  My group investigates the properties of ultra-scaled MOS devices, including size-quantization in nanoscale channels and thermal phenomena, particularly generation and transport of phonons.  Transport is studied with particle Monte Carlo models with corrections to account for size quantization. This work has led to the development of the Monte Carlo simulator MOCA 2D and MOCA 3D.  In the soft-matter area, we investigate transport of ions in nanoscale biological and biomimetic membranes, using similar engineering approaches based on Monte Carlo simulation where the water background is included implicitly.  Simulations work has focused on the study of biological ionic channels, with the development of the transport Monte Carlo code bioMOCA, a full 3-D self-consistent simulator.  More recently, I have become interested in scientific cyber-infrastructure and I have led the development of the nanoBIO node for the nanHUB portal of the NSF Network for Computational Nanotechnology.  Subsequently I have been involved with the Big Data to Knowledge (BD2K) NIH Center of Excellence "A Knowledge Engine for Genomics (KnowEnG)" at Illinois, leading the effort for cyber-infrastructure implementation on Amazon AWS cloud and for the development of automated online computational pipelines. 
+Undergraduate Research OpportunitiesSemiconductor device simulation based on Monte Carlo particle models, in particular nanoscale MOSFETs and non-volatile memories. Charge transport in biological ion channels. Cyberinfrastructure activities for research and education.  
+Research Interests
+Cloud computing applications
+Cyberinfrastructure and containerization for scientific research
+Machine learning for applications in materials, imaging and bioengineering
+Novel materials and devices for thermoelectric applications
+Coupled electro-thermal simulation of semiconductor devices
+Properties of Carbon Nanotubes
+Charge Transport in Biological Systems (Ionic Channels)
+Reliability of MOS Devices
+Supercomputation and Visualization
+Quantum devices
+Numerical methods for semiconductor device simulation
+Monte Carlo simulation of high speed electronic devices
+Click for more
+
+Research Areas
+Cloud computing
+Computational electromagnetics
+Electromagnetics and Optics
+Lasers and optical physics
+Microelectronic and photonic device modeling
+Microelectronics and Photonics
+Microwave devices and circuits
+Nanotechnology
+Semiconductor electronic devices
+Click for more
+
+Research Topics
+Beyond CMOS
+Computational science and engineering
+Data science and analytics
+Genomics
+Machine learning
+Nanomedicine and bio-nanotechnology
+RF and microwave engineering
+Click for more
+Honors
+Fellow, IEEE, 2003.
+Fellow, Institute of Physics, 1999.
+Research Fellowship, Fondazione Ugo Bordoni, Rome, Italy, 1982.
+
+Teaching Honors
+Campus Award for Excellence in Undergraduate Advising, UIUC, 2011 (March 4, 2011)
+Accenture Award for Excellence in Advising, 2006, 2007
+Advisors List, College of Engineering, UIUC, 1990, 1994, 1996, 1998, 2004, 2006, 2007
+Andersen Consulting Award for Excellence in Advising, 1990, 1994
+Incomplete List of Excellent Teachers, UIUC, Spring 1990, Fall 1990, Fall 2003, Spring 2005, Fall 2006, Spring 2009
+
+Research Honors
+bioMOCA simulation selected for Image of the Week on "International Science Grid This Week" (July 11, 2007), originally published on Biophysical Journal, vol. 90, p. 3496, 2006. (July 11, 2007)
+First Place Outstanding Paper Award: Z. Aksamija and U. Ravaioli, "Joule Heating and Phonon Transport in Nanoscale Silicon MOSFETs," 2007 IEEE International Conference on Electron Information Technology, Chicago, IL, May 17-20, 2007. (May 20, 2007)
+
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 205 - Electrical & Electronic Ckts
+ECE 298 RR - Semiconductor Chips Revolution
+ECE 329 - Fields and Waves I
+ECE 340 - Semiconductor Electronics
+ECE 536 - Integ Optics & Optoelectronics
+ECE 539 - Adv Theory Semicond & Devices
+ENG 198 JS1 (ENG 198 JS2) - Introduction to Research
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Umberto Ravaioli receives the Campus Award for Excellence in Undergraduate Advising
+
+
+Ravaioli studies wasted energy, but is too busy to waste any of his own
+
+
+Ravaioli working to introduce nanotechnology to younger students
+
+
+Hot research topic leads to best paper award
+
+
+New tool helps scientists understand biological systems
+
+
+
+
+
+
+
+
