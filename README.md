@@ -34,7 +34,8 @@ pip install rank-bm25 nltk
 
 **Bring up fastapi(uvicorn):**
 
-from command line: enter into root directory of application where the main.py located, for example:
+from command line: enter into root directory of application where the main.py located
+for example:
 cd C:\Users\xxxxx\Documents\GitHub\professor_finder\app
 
 uvicorn main:app --reload
