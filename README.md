@@ -2,11 +2,11 @@
 
 **Back end:**
 
-Python, beautiful soap to retreive professor's information for a given University
+Python, beautiful soap to retreive professor's information for a given University and generate professor docs, each professor's information will be put into one dedicate doc.
 
 build an index file for professors
 
-Installation step:
+Installation/run step:
 
 .....
 
@@ -18,7 +18,7 @@ Laguange：python，javascripts, html, css
 
 **Feature:**
 
-Implemented BM25 to score the given corpus and return top 40(default) doc
+Implemented BM25 to rank the given corpus(professor doc) and return top 40(default) doc
 
 Implemented NLTK for keyword synonyms search
 
@@ -40,7 +40,7 @@ cd C:\Users\xxxxx\Documents\GitHub\professor_finder\app
 
 uvicorn main:app --reload
 
-**Access:**
+**Access to professor finder:**
 
 http://127.0.0.1:8000
 
