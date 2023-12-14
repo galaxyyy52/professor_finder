@@ -12,12 +12,9 @@ build an index file for professors
 
 **Front end**
 
-**Frame work: ** 
+Frame work: fastapi,unicorn
 
-fastapi,unicorn
-
-**Laguange：** 
-python，javascripts, html, css
+Laguange：python，javascripts, html, css
 
 **Feature:**
 
