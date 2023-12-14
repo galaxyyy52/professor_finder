@@ -30,7 +30,7 @@ pip install fastapi[all] uvicorn
 
 pip install jinja2 aiofiles
 
-pip install rank-bm25
+pip install rank-bm25 nltk
 
 **Bring up fastapi(uvicorn):**
 
