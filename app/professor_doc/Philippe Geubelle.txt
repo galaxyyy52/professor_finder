@@ -1,0 +1,608 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Philippe Geubelle he/him/his
+
+
+
+Bliss Professor
+(217) 244-7648
+geubelle@illinois.edu
+306F Talbot Laboratory
+
+
+
+(217) 244-7648
+geubelle@illinois.edu
+306F Talbot Laboratory
+
+
+
+For More Information
+Geubelle Research Group
+
+Education
+Ph.D. Aeronautics, Minor in Materials Science, California Institute of Technology, Pasadena, CA 1993
+
+M.S. Aeronautics, California Institute of Technology, Pasadena, CA 1989
+
+B.S. Mechanical Engineering, Catholic University of Louvain (Louvain-la-Neuve, Belgium) 1988
+
+
+Academic Positions
+Executive Associate Dean, Grainger College of Engineering, UIUC, 2019-present
+Bliss Professor (100%), AE, UIUC, 2011-present
+NCSA Faculty Associate (0%), UIUC 2008-present
+Visiting Professor, Ecole Polytechnique Fédérale de Lausanne, Switzerland 2011
+MechSE Faculty Associate (0%)	2007-present
+CEE Faculty Associate (0%), AE, UIUC	2006-present
+Full Professor (100%), AE, UIUC	2006-2011
+Part-time Faculty Associate (0%), Advanced Chemical Systems Group, Beckman Institute	2004-present
+
+Visiting Professor, Catholic University of Louvain, Belgium	2002
+MIE Faculty Associate (0%), UIUC	2001-2007
+Associate Professor (100%), AE, UIUC	2000-2006
+TAM Faculty Fellow (0%), UIUC	1998-2007
+Assistant Professor (100%), AE, UIUC	1995-2000
+N.A.T.O. Postdoctoral Research Associate, Harvard University	1993-1994
+Click for more
+Research Interests
+Computational design of self-healing and microvascular biomimetic materials
+Modeling of damage and failure of thin films and MEMS
+High performance computing
+Computational aeroelasticity
+Development of novel numerical methods
+Faster, energy-efficient manufacturing process for thermoset composites
+(Dynamic) fracture mechanics
+Multi-scale and multi-physics modeling and design of advanced materials
+Theoretical and computational solid mechanics
+Click for more
+
+Research Areas
+Aeroelasticity
+Aerospace Materials
+Combustion and Propulsion
+
+
+Books Edited or Co-Edited (Original Editions)
+Bobaru, F., Foster, J. T., Geubelle, P. H., and Silling, S. "Handbook of Peridynamic Modeling, CRC Series: Modern Mechanics and Mathematics", CRC Press. 2016.
+
+Chapters in Books
+Agrawal, A., Zacek, S., Nixon, K., Montgomery, C., Geubelle, P. H., Sottos, N., Przybyla, C., and Jefferson, G. “Geometric modeling of transverse cracking of composites.” In Advancing Computational and Experimental Methods for Integrated Computational Materials Engineering (ICME) S. Ghosh, C. Przybyla and C. Woodward (co-editors), Springer NY (2020), pp. 349-366.
+
+Zacek, S., Brandyberry, D., Montgomery, C., Shakiba, M., Rossol, M., Najafi, A., Zhang, X., Sottos, N., Geubelle, P. H., Przybyla, C., and Jefferson, G. “Transverse failure of unidirectional composites: sensitivity to interfacial properties.” In Advancing Computational and Experimental Methods for Integrated Computational Materials Engineering (ICME) S. Ghosh, C. Przybyla and C. Woodward (co-editors), Springer NY (2020), pp. 329-347.
+
+Breitenfeld, S. M., Geubelle, P. H., Weckner, O., and Silling, S. A. (2016) “Relations Between Peridynamics and Classical Cohesive Models.” In Handbook of Peridynamic Modeling. Edited by Florin Bobaru, John Foster, Philippe Geubelle and Stewart Silling. Chapter 11, pp. 321-340.
+
+Lawlor, O. S., Breitenfeld, M. S., Geubelle, P. H., and Zheng, G. (2013) “Crack Propagation Analysis with Automatic Load Balancing”. In Parallel Science and Engineering Applications: The Charm++ Approach. Edited by Laxmikant V. Kale and Abhinav Bhatele. Chapter 9, pp. 187-210.
+
+Kardomateas, G. A. and Geubelle, P. H. (2010) “Fatigue and Fracture Mechanics in Aerospace Structures”. Encyclopedia of Aerospace Engineering. John Wiley & Sons, Ltd.
+
+
+Selected Articles in Journals
+Zakoworotny, M., Balta Bonner, F. J., Kumar, A., En Aw, J., Tawfick, S. H., Ewoldt, R. H., Sottos, N. R., and Geubelle, P. H. (2023) “Rheological modeling of frontal-polymerization-based direct ink writing of thermoset polymers.” Computational Methods for Applied Mechanics and Engineering, 418, 116565.
+
+Suslick, B. A., Hemmer, J., Groce, B. R., Stawiasz, K. J., Geubelle, P. H., Malucelli, G., Mariani, A., Moore, J. S., Pojman, J. A., and Sottos, N. R. (2023) “Frontal polymerizations: From chemical perspectives to macroscopic properties and applications.” Chemical Reviews, 123:6, 3237-3298
+
+Centellas, P., Garg, M., Chen, Z., Zhang, X., Parikh, N., Geubelle, P. H., Sottos, N. R. (2022) “Energy-efficient manufacturing of multifunctional vascularized composites.” Journal of Composite Materials, 57:4, 581-592.
+
+Gao, Y., Paul, J. E., Chen, M., Hong, L., Chamorro, L. P., Sottos, N. R., and Geubelle, P. H. (2023) “Buoyancy-induced convection driven by frontal polymerization.” Physical Review Letters, 130, 028101,
+
+Kumar, A., Dean, L. M., Yourdkhani, M., Guo, A., BenVau, C., Sottos, N. R., and Geubelle, P. H. (2022) “Stress-induced surface pattern formation in frontally polymerized gels.” Journal of the Mechanics and Physics of Solids, 168, 105055.
+
+Topkaya, T., Gao, Y., and Geubelle, P. H. (2022) “Frontal polymerization in short-fiber-reinforced thermoset composites.”  ACS Applied Polymer Materials, 4:10, 6880-6886.
+
+Brandyberry, D., Zhang, X., and Geubelle, P. H. (2022) “Multiscale design of nonlinear materials using reduced-order modeling.” Computer Methods in Applied Mechanics & Engineering, 399, 115388.
+
+Gao, Y., Rodriguez Koett, L. E., Hemmer, J., Gai, T., Parikh, N., Sottos, N. R., and Geubelle, P. H. (2022) “Frontal polymerization of thin layers on a thermally insulating substrate.” ACS Applied Polymer Materials, 4(7), 4919-4927.
+
+Alidoost, K., Fernandez, F., Geubelle, P. H., and Tortorelli, D. A. (2022) “Fracture-based shape optimization built upon the topological derivative.” Computer Methods in Applied Mechanics and Engineering, 395, 114994.
+
+Jia En Aw, Xiang Zhang, Arif Z. Nelson, Leon M. Dean, Mostafa Yourdkhani, Randy H. Ewoldt, Philippe H. Geubelle, and Nancy R. Sottos (2022) “Self-regulative, Free-form Printing Enabled by Frontal Polymerization.” Advanced Materials Technologies, 2200230.
+
+Centellas, P. J., Yourdkhani, M., Vyas, S., Koohbor, B., Geubelle, P. H., and Sottos, N. R. (2022) “Rapid multiple-front polymerization of fiber-reinforced polymer composites.” Composites Part A: Applied Science and Manufacturing, 158, 106931.
+
+Roch, T., Barras, F., Geubelle, P. H., and Molinari, J.-F. (2022) “cRacklet: a spectral boundary integral library for interfacial rupture simulation.” Journal of Open Source Software, 1 7(69), 3724.
+
+Fonseka, R.D.J.I., Geubelle, P.H., and Lambros, J. (2022) “Effect of confinement on the impact response of a granular array.” Experimental Mechanics, 62, 849–862.
+
+Fonseka, R.D.J.I., Awasthi, A., Lambros, J., and Geubelle, P.H. (2021) “Shockwaves in jammed ductile granular media.” Journal of Applied Mechanics Paper JAM-21-1520, 89(5): 051003
+
+Gao, Y., Li, S., Kim, J.-Y., Hoffman, I., Vyas, S., Pojman, J., and Geubelle, P.H. (2021) “Anisotropic frontal polymerization in a model resin/copper composite.” Chaos, 32, 013109.
+
+Gao, Y., Dearborn, M. A., Hemmer, J., Wang, Z., Esser-Kahn, A. P., and Geubelle, P. H. (2021) “Controllable frontal polymerization and spontaneous patterning enabled by phase-changing particles.” Small. 20210217:1-9
+
+Gao, Y., Dearborn, M., Vyas, S., Kumar, A., Hemmer, J., Wang, Z., Wu, Q., Alshangiti, O., Moore, J., Esser-Kahn, A., and Geubelle, P.H. (2021) “Manipulating frontal polymerization and instabilities with phase-changing microparticles.” The Journal of Physical Chemistry B, 125, 7537-7545.
+
+Gao, Y., Shaon, F., Kumar, A., Bynum, S., Gary, D., Sharp, D., Pojman, J. A., and Geubelle, P. H. (2021) “Rapid frontal polymerization achieved with thermally conductive metal strips.” Chaos, 31, 073113
+
+Kumar, A., Gao, Y., and Geubelle, P. H. (2021) “Analytical estimates of front velocity in the frontal polymerization of thermoset polymers and composites.” Journal of Polymer Science, 59,1109–1118.
+
+Lloyd, E., Feinberg, A. M., Gao, Y., Peterson, S. R., Soman, B., Hemmer, J., Dean, L. M., Wu, Q., Geubelle, P. H., Sottos, N. R., and Moore, J. S. (2021) “Spontaneous patterning during frontal polymerization.” ACS Central Science, 7:4, 603-612
+
+Garg, M., Aw, J. E., Zhang, X., Centellas, P. J., Dean, L. M., Lloyd, E. M., Robertson, I. D., Liu, Y., Yourkhani, M., Moore, J. S., Geubelle, P. H., and Sottos, N. R. (2021) “Rapid synchronized fabrication of vascularized thermosets and composites.” Nature Communications, 12, 2836.
+
+Najafi, A. R., Safdari, M., Tortorelli, D. A., and Geubelle, P. H. (2021) “Multiscale design of nonlinear materials using a Eulerian shape optimization scheme.” International Journal for Numerical Methods in Engineering, 122, 2981-3014.
+
+Brandyberry, D., Zhang, X., and Geubelle, P. H. (2021) “A GFEM-based reduced-order homogenization model for heterogeneous materials under volumetric and interfacial damage”. Computer Methods in Applied Mechanics and Engineering, 377, 113690
+
+Goli, E., Vyas, S., Koric, S., Sobh, N., and Geubelle, P. H. (2020) “ChemNet: A deep neural network for advanced composites manufacturing”. Virtual Special Issue “Machine Learning in Physical Chemistry” of the Journal of Physical Chemistry B
+
+Goli, E., Peterson, S. R., and Geubelle, P. H. (2020) “Instabilities driven by frontal polymerization in thermosetting polymers and composites.” Journal of Composites Part B: Engineering, 199:15, 108306.
+
+Goli, E., Gai, T., and Geubelle, P. H. (2020) “Impact of boundary heat losses on frontal polymerization”. Journal Physical Chemistry B, 124:29, 6404-6411.
+
+Vyas, S., Zhang, X., Goli, E., and Geubelle, P. H. (2020) “Frontal vs. bulk polymerization of fiber-reinforced polymer-matrix composites” Composites Science and Technology, 198, 108303.
+
+Bhaduri, A., Brandyberry, D., Shields, M. D., Geubelle, P. H., and Graham-Brady, L. (2020) “On the usefulness of gradient information in surrogate modeling: Application to uncertainty propagation in composite material models.” Probabilistic Engineering Mechanics, 60, 103024.
+
+Brandyberry, D., Najafi, A., and Geubelle, P. H. (2020) “Multiscale design of 3D nonlinear composites using an interface-enriched generalized finite element method.” International Journal for Numerical Methods in Engineering. 121:12, 2806-2825.
+
+Alidoost, K., Feng, M., Geubelle, P. H., and Tortorelli, D. A. (2020) “Energy release rate approximation for small surface cracks in three-dimensional domains using the topological derivative.” Journal of Applied Mechanics, 87(4), 041004-1-12.
+
+Fekak, F., Barras, F., Dubois, A., Spielmann, D., Bonamy, D., Geubelle, P. H., and Molinari J.-F. (2020) “Crack front waves: a 3D dynamic response to a local perturbation of tensile and shear cracks.” Journal of the Mechanics and Physics of Solids, 135, 103806.
+
+Goli, E., Parikh, N. A., Yourdkhani, M., Hibbard, N. G., Moore, J. S., Sottos, N. R., and Geubelle, P. H. (2020) “Frontal polymerization of unidirectional carbon-fiber-reinforced composites.” Composites Part A, 130, 105689
+
+Vyas, S., Goli, E., Zhang, X., and Geubelle, P. H. (2019) “Manufacturing of unidirectional glass-fiber-reinforced composites via frontal polymerization: a numerical study”. Composites Science and Technology, 184, 107832, 1-6.
+
+Zhang, X., Brandyberry D. R., and Geubelle, P. H. (2019) “IGFEM-based shape sensitivity analysis of the transverse failure of a composite laminate.” Computational Mechanics, 64:5, 1455-1472.
+
+Shakiba, M., Brandyberry, D., Zacek, S., and Geubelle, P. H. (2019) “Transverse failure of carbon fiber composites: analytical sensitivity to the distribution of fiber/matrix interface properties.” International Journal for Numerical Methods in Engineering, 120, 650-665
+
+Goli, E., Robertson, I. D., Agrawal, H., Pruitt, E. L., Grolman, J. M., Geubelle, P. H., and Moore, J. S. (2019) “Frontal polymerization accelerated by continuous conductive elements.” Journal of Applied Polymer Science, 136, 47418.
+
+Barras, F., Carpaij, R., Geubelle, P. H., and Molinari, J.-F. (2018) “Supershear bursts in the propagation of tensile crack in linear elastic material.” Physics Review E, 98:6, 063002-1-8.
+
+Goli, E., Robertson, I., Geubelle, P. H., and Moore, J. (2018) “Frontal polymerization of dicyclopentadiene: A numerical study.” J. Physical Chemistry, 122:16, 4583-4591.
+
+Tan, M. H. Y., Najafi, A. R., Pety, S. J., White, S. R., and Geubelle, P. H. (2018) “Multi-objective design of microvascular panels for battery cooling applications.” Applied Thermal Engineering, 135, 145-157.
+
+Robertson, I. D., Yourdkhani, M., Centellas, P. J., Aw, J. E., Ivanoff, D. G., Goli, E., Lloyd, E. M., Dean, L. M., Sottos, N. R., Geubelle, P. H., Moore, J. S., and White, S. R. (2018) “Rapid energy-efficient manufacturing of polymers and composites via frontal polymerization.” Nature, 557, 223-227.
+
+Alidoost, K., Geubelle, P. H., and Tortorelli, D. A. (2018) “Energy release rate approximation for edge cracks using higher-order topological derivatives.” International Journal of Fracture, 210:1-2, 187-205.
+
+Tan, M. H. Y., Bunce, D., Ghosh, A., and Geubelle, P. H. (2018) “Computational design of microvascular radiative cooling panels for nanosatellites. AIAA Journal of Thermophysics.
+
+Waymel, R. F., Wang, E., Awasthi, A., Geubelle, P. H., and Lambros, J. (2017) “Propagation and dissipation of elasto-plastic stress waves in two-dimensional ordered granular media.” Journal of the Mechanics and Physics of Solids.
+
+Barras, F., Geubelle, P. H., and Molinari, J.-F. (2017) “Interplay between process zone and material heterogeneities for dynamic cracks.” Physical Review Letters, 119, 144101
+
+Pety, S. J., Tan, M. H., Najafi, A. R., Gendusa, A. C., Barnett, P. R., Geubelle, P. H., and White, S. R. (2017) “Design of redundant microvascular cooling networks for blockage tolerance.” Applied Thermal Engineering, 131, 965-976.
+
+Pety, S. J., Tan, M. H. Y., Najafi, A. R., Barnett, P. R., Geubelle, P. H., White, S. R. (2017) “Carbon fiber composites with 2D microvascular networks for battery cooling. International Journal of Heat and Mass Transfer, 115, 513-522.
+
+Tan, M., and Geubelle, P. H. (2017) “3D dimensionally reduced modeling and gradient-based optimization of microchannel cooling networks.” Computational Methods in Applied Mechanics and Engineering, 323, 230–249.
+
+Zhang, C., Awasthi, A. P., Geubelle, P. H., Sung, J., and Sottos, N. R. (2017) “Multi-scale model of effects of roughness on the cohesive strength of self-assembled monolayers”. International Journal of Fracture, 208, 131-143.
+
+Najafi, A. R., Safdari, M., Tortorelli, D., and Geubelle, P. H. (2016) “Shape optimization using a NURBS-based interface-enriched generalized finite element method”. International Journal of Numerical Methods in Engineering, 111:10, 927-954.
+
+Pal, R. K., Waymel, R. F., Geubelle, P. H., and Lambros J. (2017) “Tunable wave propagation in granular crystals by altering lattice network topology.” Journal of Engineering Materials and Technology, 139, 011005-1-7.
+
+Zhang, C., Awasthi, A. P., Geubelle, P. H., Grady, M. E., and Sottos, N. R. (2016) “Effects of interface roughness on the cohesive strength of self-assembled monolayers.” Applied Surface Science,  397, 192-198.
+
+Tan, M. H. Y., Najafi, A. R., Pety, S. J., White, S. R., and Geubelle, P. H. (2016) “Gradient-based design of actively-cooled microvascular composite panels.” International Journal of Heat and Mass Transfer, 103, 594-606.
+
+Safdari, M., Sottos, N. R., and Geubelle, P. H. (2016) “An NURBS-based generalized finite element scheme for 3D simulation of heterogeneous materials.” Journal of Computational Physics, 318, 373-390.
+
+Awasthi, A. P., Grady, M. E., Kim, I. H., Sottos, N. R., and Geubelle, P. H. (2016) "Nanoscale mechanical tailoring of interfaces using self-assembled monolayers." Mechanics of Materials, 98, 71-80.
+
+Zhang, K., Jin, J.-M., and Geubelle, P. H. (2015) “A 3D interface-enriched generalized FEM for electromagnetic problems with non-conformal discretizations.” IEEE Transactions on Antennas and Propagation, 63:12, 5637-5649.
+
+Najafi, A. R., Safdari, M., Tortorelli, D. and Geubelle, P. H. (2015) “A gradient-based shape optimization scheme using an interface-enriched generalized FEM.” Computational Methods in Applied Mechanics and Engineering, 296, 1-17.
+
+Zhang, K., Najafi, A. R., Jin, J.-M., and Geubelle, P. H. (2015) “An interface-enriched generalized finite element analysis for electromagnetic problems with non-conformal discretizations”. International Journal of Numerical Modelling: Electronic Networks, Devices and Fields, 29:2, 265-279
+
+Cuba-Ramos, A., Aragón, A. M., Soghrati, S., Geubelle, P. H., and Molinari, J.-F. (2015) “A new formulation for imposing Dirichlet boundary conditions on non-matching meshes.” International Journal for Numerical Methods in Engineering, 103, 430-444.
+
+Awasthi, A. P., Wang, Z., Broadhurst, N. R., and Geubelle, P. H. (2015) “Impact response of granular layers.” Granular Matter, 17, 21-31.
+
+Soghrati, S., Duarte, C. A. and Geubelle, P. H. (2015) “An adaptive interface-enriched generalized finite element method for the treatment of problems with curved interfaces.” International Journal of Numerical Methods in Engineering, 102, 1352-1370.
+
+Safdari, M., Najafi, A., Sottos, N. R., and Geubelle, P. H. (2015) “An NURBS-based interface-enriched generalized finite element method for problems with complex discontinuous gradient field.” International Journal of Numerical Methods in Engineering, 101, 950-964.
+
+Pal, R. K., Morton, J., Wang, E., Lambros, J., and Geubelle, P. H. (2014) “Impact response of elasto-plastic granular chains containing an intruder particle.” Journal of Applied Mechanics, 82:1, 011002.
+
+Pal, R. K., and Geubelle, P. H. (2014) “Wave tailoring by precompression in confined granular systems.” Physical Review E, 90, 032209.
+
+Manjunath, M., Awasthi, A. P., and Geubelle, P. H. (2014) “A family of plane solitary waves in dimer granular crystals.” Physical Review E, 90, 032209.
+
+Tan, M., Safdari, M., Najafi, A. R., and Geubelle, P. H. (2015) “A NURBS-based interface-enriched generalized finite element scheme for the thermal analysis and design of microvascular composites.” Computational Methods for Applied Mechanics and Engineering: 283, 1382-1400.
+
+Grady, M. E., Geubelle, P. H., Braun, P. V., and Sottos, N. R. (2014) “Molecular tailoring of interfacial failure.” Langmuir, 30:37, 11096-11102.
+
+Wang, E., Manjunath, M., Awasthi, A. P., Pal, R. K., Geubelle, P. H. and Lambros, J. (2014) “High-amplitude elastic solitary wave propagation in 1-D granular chains with preconditioned beads: experiments and theoretical analysis.” Journal of the Mechanics and Physics of Solids, 72, 161-173.
+
+Barras, F., Krammer, D. S., Geubelle, P. H., and Molinari J.-F. (2014) “A study of frictional contact in dynamic fracture along bimaterial interfaces.” International Journal of Fracture, 189:2, 149-162.
+
+Pal, R. K. and Geubelle, P. H. (2014) "Impact response of elasto-plastic granular and continuum systems: A comparative study." Mechanics of Materials, 73, 38-50.
+
+Baniassadi, M., Safdari, M., Garmestani, H., Ahzi, S., Geubelle, P. H. and Remond, Y. (2014) “An optimum approximation to n-point correlation functions of random heterogeneous material systems.” Journal of Chemical Physics, 140, 074905-1-6.
+
+Breitenfeld, M. S., Geubelle, P. H., Weckner, O., and Silling, S. A. (2013) “Non-ordinary state-based peridynamic analysis of stationary crack problems.” Computer Methods in Applied Mechanics and Engineering, 272, 233-250.
+
+Pal, R. K., Awasthi, A, P. and Geubelle, P. H. (2014) “Characterization of wave propagation in elastic and elasto-plastic granular chains.” Physical Review E, 89, 012204-1 to 10.
+
+Manjunath, M., Awasthi, A. P., and Geubelle, P. H. (2014) “Plane wave propagation in 2D and 3D mono-disperse periodic granular media.” Granular Matter, 16, 141-150.
+
+Grady, M. E., Geubelle, P. H., and Sottos, N. R. (2014) “Interfacial adhesion of photodefinable polyimide films on passivated silicon.” Thin Solid Films, 552, 116-123.
+
+Manjunath, M., Awasthi, A. P., and Geubelle, P. H. (2013) “Wave propagation in 2D random granular media.” Physica D: Nonlinear Phenomena, 266, 42-48.
+
+Ostoich, C., Bodony, D. J., and Geubelle, P. H. (2013) “Interaction of a Mach 2.25 turbulent boundary layer with a fluttering panel using direct numerical simulation.” Physics of Fluids, 25, 110806.
+
+Pal, R. K., Awasthi, A. P., and Geubelle, P. H. (2013) “Wave propagation in elasto-plastic granular systems.” Granular Materials, 15, 747-758.
+
+Sucheendran, M., Bodony, D. and Geubelle, P. H. (2014) “Coupled structural-acoustic response of a duct-mounted elastic plate with grazing flow.” AIAA Journal, 52:1, 178-194.
+
+Soghrati, S., Najafi, A. R., Hughes, K. M., Lin, J. H., White, S. R., Sottos, N. R. and Geubelle, P. H. (2013) “Computational analysis of actively-cooled 3D woven microvascular composites using a stabilized interface-enriched generalized finite element method.” International Journal of Heat and Mass Transfer, 65, 153-164.
+
+Makeev, M., Geubelle, P. H., Sottos, N. R. and Kieffer, J. (2013) “Interfacial adhesive properties between a rigid-rod pyromellitimide molecular layer and a covalent semiconductor via atomistic simulations.” ACS Applied Materials & Interfaces, 5:11, 4702-4711.
+Aragón, A. M., Soghrati, S., and Geubelle, P. H. (2013) “Effect of in-plane deformation on the cohesive failure of heterogeneous adhesives.” Journal of the Mechanics and Physics of Solids, 61:7, 1600-1611.
+
+Wang, E., Geubelle, P. H. and Lambros, J. (2013) “An experimental study of the dynamic elasto-plastic contact behavior of metallic granules.” Journal of Applied Mechanics, 80, 021009-1-10.
+
+Karanjgaokar, N., Stump, F., Geubelle, P. H. and Chasiotis, I. (2013) “A thermally activated model for room temperature creep in nanocrystalline Au films at intermediate stresses.” Scripta Materialia, 68:8, 551-554.
+
+Soghrati, S., Aragón, A. M. and Geubelle, P. H. (2013) “Design of actively-cooled microvascular materials: A genetic algorithm inspired network optimization.” Structural and Multidisciplinary Optimization. 1-13.
+
+Aragón, A. M., Saksena, R., Kozola, B. D., Geubelle, P. H., Christensen, K. T., and White, S. R. (2013) “Multi-physics optimization of three-dimensional microvascular polymeric components.” Journal of Computational Physics, 233, 132-147.
+
+Leonard, A., Daraio, C., Awasthi, A. and Geubelle, P. H. (2012) Effect of weak disorder on stress-wave anisotropy in centered square nonlinear granular crystals. Physical Review E, 86, 031305-1-10.
+
+Soghrati, S., Thakre, P. R., White, S. R., Sottos, N. R. and Geubelle, P. H. (2012) "Computational modeling and design of actively cooled microvascular materials." International Journal of Heat and Mass Transfer, 55, 5309-5321.
+
+Awasthi, A., Smith, K., Geubelle, P. H. and Lambros, J. (2012) "Propagation of solitary waves in 2D granular media: a numerical study." Mechanics of Materials, 54, 100-112.
+
+Manjunath, M., Awasthi, A. P. and Geubelle, P. H. (2012) “Wave propagation in random granular chains.” Physical Review E, 86, 031308. DOI: 10.1103/PhysRevE.85.031308.
+
+Ostoich, C. M., Bodony, D. J. and Geubelle, P. H. (2011) “Coupled fluid-thermal response of a spherical dome due to a Mach 6.59 laminar boundary layer.” AIAA Journal, 50:12, 2791-2808.
+
+Soghrati, S. and Geubelle, P. H. (2011) “A 3D interface-enriched generalized finite element method for weakly discontinuous problems with complex internal geometries.” Computational Methods for Applied Mechanics and Engineering, 217-220, 46-57.
+
+Lepage, S., Stump, F., Kim, I., and Geubelle, P. H. (2011) “Perturbation stochastic finite element based homogenization of polycrystalline materials.” Journal of Mechanics and Materials Science, 6 (7-8), 1153-1169.
+
+Soghrati, S., Aragón, A. M., Duarte, C. A. and Geubelle, P. H. (2012) “An interface-enriched generalized finite element method for problems with discontinuous gradient fields.” International Journal for Numerical Methods in Engineering, 89(8), 991-1008.
+
+Jaiman, R., Geubelle, P. H., Loth, E. and Jiao, X. (2011) “Transient fluid-structure interaction with non-matching spatial and temporal discretizations.” Computers and Fluids, 50:1, 120-135.
+
+Aragón, A. M., Smith, K. J., Geubelle, P. H. and White, S. R. (2011) “Multi-physics design of microvascular materials for active cooling applications.” Journal of Computational Physics, 230, 5178-5198.
+
+Silva, M., Geubelle, P. H. and Tortorelli, D. A. (2011) “Energy release rate approximation using the topological derivative.” Journal of the Mechanics and Physics of Solids. 59:5, 925-939.
+
+Tran, P., Kandula, S. S., Geubelle, P. H. and Sottos, N. R. (2011) “Comparison of dynamic and quasi-static measurements of thin film adhesion.” Journal of Physics D: Applied Physics, 44, 034006.
+
+Stump, F. V., Karanjgaokar, N., Geubelle, P. H., and Chasiotis, I. (2012) “A multiscale model of rate dependence of nanocrystalline thin films.” International Journal of Multiscale Computational Engineering, 10:5, 441-459.
+
+Kitey, R., Sottos, N.R. and Geubelle, P.H. (2010) “A hybrid experimental/ numerical approach to characterize interfacial adhesion in multilayer low-k thin film specimens.” Thin Solid Films, 519, 337-344.
+Srinivasan, K. R., Matous, K., Geubelle, P. H. and Jackson, T. L. (2009) “Thermomechanical modeling of regressing heterogeneous solid propellants.” Journal of Computational Physics, 228:21, 7883-7901.
+
+White, S. R. and Geubelle, P. H. (2010) “Self-healing materials: Get ready for repair-and-go.” Nature Nanotechnology, 5, 247-248.
+Kulkarni, M. G., Matous, K. and Geubelle, P. H. (2010) “Coupled multi-scale cohesive modeling in heterogeneous adhesives.” International Journal for Numerical Methods in Engineering, 84, 916-946.
+
+Jaiman, R., Geubelle, P. H., Loth, E. and Xiao, X. (2009) “Combined interface boundary condition method for unsteady fluid-structure interaction.” Computational Methods in Applied Mechanics and Engineering, 200:1-4, 27-39.
+
+Olugebefola, S. C., Aragón, A. M., Hansen, C. J., Hamilton, A. R., Kozola, B. D., Geubelle, P. H., Lewis, J. A., Sottos, N. R., and White, S. R. (2010) “Polymer-microvascular network composites.” Journal of Composite Materials, 44:22, 2587-2603.
+
+Tran, P., Kandula, S. S. V., Geubelle, P. H. and Sottos, N. R. (2010) “Dynamic delamination of patterned thin films: A numerical study.” International Journal of Fracture, 162: 77-90.
+
+Wu, W., Hansen, C.L., Aragón, A.M., Geubelle, P.H., White, S.R. and Lewis, J.A. (2009) “Direct-write assembly of biomimetic microvascular networks for efficient fluid transport.” Soft Matter Communication, 6:4, 739-742.
+
+Aragón, A. M., Duarte, C. A. and Geubelle, P. H. (2009) “Generalized finite element enrichment functions for discontinuous gradient fields.” International Journal for Numerical Methods in Engineering, 82:2, 242-268.
+
+Kandula, S. S. V., Tran, P., Geubelle, P. H. and Sottos, N. R. (2008) "Dynamic delamination of patterned thin films." Appl. Physics Letters, 93, 261902-1-3.
+
+Dooley, I., Mangala, S., Kale, L. and Geubelle, P. H. (2008) “Parallel simulations of dynamic fracture using extrinsic cohesive elements.” J. Scientific Computing, in press. DOI: 10.1007/s10915-008-9254-0.
+
+Kitey, R., Geubelle, P. H. and Sottos, N. R. (2009) “Mixed-mode interfacial adhesive strength of a thin film on an anisotropic substrate.” J. Mech. Phys. Solids, 57:1, 51-66.
+
+Wei, Y. and Geubelle, P. H. (2008) “A comparative study of GLS finite elements for solving incompressible fluid flows.” International Journal for Numerical Methods in Fluids, 41:5, 573-583. 
+Kulkarni, M., Geubelle, P. H. and Matous, K. (2008) “Multi-scale modeling of heterogeneous adhesives: Effect of particle decohesion.” Mechanics of Materials, 41:5, 573-583.
+
+Srinivasan, K., Matous, K. and Geubelle, P. H. (2008) “Generalized finite element method for modeling nearly incompressible bimaterial hyperelastic solids.” Comp. Meth. Applied Mechanics Engg., 197, 4882-4893.
+
+Subhash, G., Maiti, S., Geubelle, P. H. and Ghosh, D. (2008) “Recent advances in dynamic indentation fracture, impact damage and fragmentation of ceramics.” J. Amer. Ceramic Society, 91 (9), 2777-2791.
+
+Aragón, A. M., Wayer, J. K., Geubelle, P. H., Goldberg, D. E. and White, S. R. (2008) “Design of microvascular flow networks using multi-objective genetic algorithms.” Comp. Methods Applied Mech. Eng., 197, 4399-4410.
+
+Inglis, H., Geubelle, P.H. and Matous, K. (2008) “Boundary condition effects on multiscale analysis of damage localization.” Philosophical Magazine, 88:16, 2373-2397.
+
+Brassart, L., Inglis, H. M., Delannay, L., Doghri, I. and Geubelle, P. H. (2008) “An extended Mori-Tanaka homogenization scheme for finite strain modeling of debonding in particle-reinforced elastomers.” Computational Materials Science, 45, 611-616.
+
+Kandula, S. S. V., Hartfield, C. D., Geubelle, P. H. and Sottos, N. R. (2008) “Adhesion strength measurement of polymer dielectric interfaces using laser spallation technique.” Thin Solid Films, 516:21, 7627-7635.
+
+Tran, P., Kandula, S., Geubelle, P. H. and Sottos, N. R. (2008) “Hybrid spectral/finite element analysis of dynamic delamination of patterned thin films.” Eng. Fracture Mech., 75:14, 4217-4233.
+
+Roe, B., Jaiman, A., Haselbacher, A. and Geubelle, P. H. (2008) “Combined interface boundary condition method for coupled thermal simulations.” Int. J. Numer. Methods in Fluids, 57, 329-354.
+
+Kumar, N. C., Matous, K. and Geubelle, P. H. (2008) “Reconstruction of periodic unit cells of multimodal random particulate composites using genetic algorithms.” Computational Materials Science, 42:2, 352-367.
+
+Matous, K., Kulkarni, M. G. and Geubelle, P. H. (2008) “Multiscale cohesive failure modeling of heterogeneous adhesives.” J. Mech. Phys. Solids, 56:4, 1511-1533.
+
+Mangala, S., Wilmarth, T., Chakravorty, S., Choudhury, N., Kale, L. V. and Geubelle, P. H. (2008) “Parallel adaptive simulations of dynamic fracture events.” Engineering with Computers, 24:4, 341-358.
+
+Nittur, P., Maiti, S. and Geubelle, P. H. (2008) “Grain-level analysis of dynamic fragmentation of ceramics under multi-axial compression.” J. Mech. Phys. Solids, 56:3, 993-1017.
+
+Roe, B., Haselbacher, A. and Geubelle, P. H. (2007) “Stability of explicit coupled thermal simulations on a moving grid.” Int. J. Numer. Methods in Fluids, 54, 1097-1117.
+
+Tan, H., Huang, Y., Liu, C., Ravichandran, G., Inglis, H. M. and Geubelle, P. H. (2007) “The uniaxial tension of particulate composite materials with nonlinear interface debonding.” International Journal of Solids and Structures, 44:6, 1809-1822.
+
+Inglis, H., Matous, K., Tan, H., Geubelle, P. H. and Huang, Y. (2007) “Cohesive modeling of dewetting in particulate composites: micromechanics vs. multiscale finite element analysis.” Mech. Materials, 39:6, 580-595.
+
+Matous, K. and Geubelle, P. H (2006) “Finite element formulation for modeling particle debonding in reinforced elastomers subjected to finite deformations.” Computer Methods in Applied Mechanics and Engineering, 196, 620-633.
+Dantuluri, V., Maiti, S., Geubelle, P. H., Patel, R. and Kilic, H. (2007) “Cohesive modeling of delamination in Z-pin reinforced composite laminates.” Composites Science & Technology, 67:3-4, 616-631.
+
+Matous, K., Inglis, H. M., Gu, X., Rypl, D., Jackson, T. L. and Geubelle, P. H. (2007) “Multiscale modeling of solid propellants: From particle packing to grain failure.” Composites Science & Technology, 67:7-8, 1694-1708.
+
+Jaiman, R. K., Jiao, X., Geubelle, P. H. and Loth, E. (2006) “Conservative load transfer along curved fluid-solid interface with non-matching meshes.” J. Computational Physics, 218:1, 372-397.
+
+Maiti, S., Shankar, C., Geubelle, P. H. and Kieffer, J. (2006) “Continuum- and molecular-level modeling of fatigue crack propagation in self-healing composite.” J. Eng. Mater. Technology, 128:4, 595-602.
+
+Kandula, S., Abanto-Bueno, J., Geubelle, P. H. and Lambros, J. (2006) “Cohesive modeling of quasi-static fracture in functionally graded materials.” J. Applied Mechanics, 73, 783-791.
+
+Matous, K. and Geubelle, P. H (2006) “Multiscale analysis of particle debonding in reinforced elastomers subjected to finite deformation.” Int. J. Numer. Meth. Eng., 65, 190-223.
+
+Jaiman, R. K., Jiao, X., Geubelle, P. H. and Loth, E. (2005) “Assessment of conservative load transfer schemes for nonmatching interface in fluid-solid interaction.” Int. J. Numer. Meth. Eng., 64, 2014-2038.
+
+Tan, H., Liu, C., Huang, Y. and Geubelle, P. H. (2005) “The cohesive law for the particle/matrix interfaces in high explosives.” J. Mech. Physics Solids, 53, 1892-1917.
+Tan, H., Huang, Y., Liu, C. and Geubelle, P. H. (2005) “The Mori-Tanaka method for composite materials with nonlinear interface debonding.” Int. J. Plasticity, 21, 1890-1918.
+Tan, H., Liu, C., Huang, Y., and Geubelle, P.H. (2006) “Effect of nonlinear interface debonding on the constitutive model of composite materials.” International Journal for Multiscale Computational Engineering 4, 147-167.
+Maiti, S. and Geubelle, P. H. (2006) “Cohesive modeling of fatigue crack retardation in polymers: Crack closure effect.” Eng. Fracture Mech., 73:1, 22-41.
+
+Hendrickx, J., Geubelle, P. H. and Sottos, N. R. (2005) “A spectral scheme to simulate the mode III dynamic delamination of thin films.” Eng. Fracture Mech., 72, 1866-1891
+
+Kandula, S., Abanto-Bueno, J., Geubelle, P. H. and Lambros, J. (2004) “Cohesive modeling of dynamic fracture of functionally graded materials.” Int. J. Fracture, 132, 275-296.
+
+Maiti, S. and Geubelle, P. H. (2005) “A cohesive model for fatigue failure of polymers.” Eng. Fracture Mechanics, 72:5, 691-708.
+
+Zhang, P., Jiang, H., Huang Y., Geubelle, P. H. and Hwang, K. C. (2004) “An atomistic-based continuum theory for carbon nanotubes: analysis of fracture nucleation.” J. Mech. Physics Solids, 52:5, 977-998.
+Maiti, S., Rangaswamy, K. and Geubelle, P. H. (2005) “Mesoscale analysis of dynamic fragmentation of ceramics under tension.” Acta Materialia, 53:3, 823-834.
+
+Kubair, D., Geubelle, P. H. and Lambros, J. (2005) “Asymptotic analysis of a mode III stationary crack in a ductile functionally graded material.” J. Applied Mechanics, 72:4, 461-467.
+
+Jiang, H., Zhang, P., Liu, B., Huang, Y., Geubelle, P. H., Gao, H. and Hwang, K. C. (2002) “The effect of nanotube radius on the constitutive model for carbon nanotubes.” Computational Material Science, 28, 429-442.
+Maiti, S. and Geubelle, P. H. (2002) “Mesoscale modeling of dynamic fracture of ceramic materials.” Computer Modeling in Eng. & Science, 5:2, 91-101.
+
+Kubair, D. and Geubelle, P. H. (2003) “Comparative analysis of extrinsic and intrinsic cohesive models of dynamic fracture.” Int. J. Solids Structures, 40:15
+
+Zhang P., Huang Y., Geubelle P. H., and Hwang K. C. (2002) “On the continuum modeling of carbon nanotubes.” Acta Mechanica Sinica, 18:5, 528-536.
+Zhang, P., Huang, Y., Geubelle, P. H., Klein, P. A. and Hwang, K. C. (2002) “The elastic modulus of single-wall carbon nanotubes: a continuum analysis incorporating interatomic potentials.” Int. J. Solids Structures, 39, 3893-3906.
+Zhu, Q., Shrotriya, P., Sottos, N. R. and Geubelle, P. H. (2003) “Three-dimensional simulation of viscoelastic response of a woven composite substrate for multilayer PCB.” Composite Science and Technology, 63, 1971-1983.
+
+Bi, X., Li, Z., Geubelle, P. H. and Lambros, J. (2002) Dynamic fiber debonding and frictional push-out in model composite systems: numerical simulations.” Mechanics of Materials, 34, 433-446.
+
+Kubair, D., Geubelle, P. H. and Huang, Y. (2003) “Analysis of a rate-dependent cohesive model for dynamic crack propagation.” Eng. Fracture Mech., 50:5, 685-704.
+
+Kubair, D., Geubelle, P. H. and Huang, Y. (2002) “Intersonic crack propagation in homogeneous media under shear-dominated loading: Theoretical analysis.” J. Mech. Phys. Solids, 50:8, 1547-1564.
+
+Li Z., Bi X., Lambros J. and Geubelle P. H. (2002) “Dynamic fiber debonding and frictional push-out in model composite systems: experimental observations.” Experimental Mechanics, 42:4, 417-425.
+
+Hwang, C. and Geubelle, P. (2000) “A spectral scheme to simulate dynamic fracture problems in composites.” Computer Modeling in Eng. & Science, 1:4, 45-56.
+
+White, S. R., Sottos, N. R., Geubelle, P. H., Moore, J. S., Kessler, M. R., Sriram, S. R., Brown, E. N. and Viswanathan, S. (2001) “Autonomic healing of polymer composites.” Nature, 409, 794-797.
+
+Wood, B., Loth, E. and Geubelle, P. H. (2002) “A numerical methodology for an aeroelastic supersonic viscous flow.” J. Fluid and Structures, 16:8, 1127-1144.
+
+Zhu Q. and Geubelle, P.H. (2002) “Dimensional accuracy of thermoset composites: shape optimization.” J. Composite Materials, 36:6, 647-672.
+
+Li, M., Zhu, Q., Geubelle, P. H. and Tucker, C. L. (2001) “Optimal curing for thermoset matrix composites: thermomechanical considerations.” Polymer Composites, 22,118-131.
+
+Zhu Q., Li M., Geubelle, P.H. and Tucker, C. L. (2001) “Dimensional accuracy of thermoset composites: simulation of process-induced residual stresses.” J. Composite Materials, 35:24, 2171-2205.
+
+Geubelle, P. H. and Kubair, D. (2001) “Intersonic crack propagation in homogeneous media under shear-dominated loading: Numerical analysis.” J. Mech. Physics Solids, 49:3, 571-587.
+
+Lin, G., Geubelle, P. H. and Sottos, N. R.  (2001) “Simulation of fiber debonding with friction in a model composite pushout test.” Int. J. Solids Structures, 38:46-47, 8547-8562.
+Breitenfeld, M. S. and Geubelle, P. H. (2000) “Parallel implementation of a spectral scheme for the simulation of 3D dynamic fracture events.” Int. J. High Performance Computing Appl., 14:1, 26-38.
+
+Geubelle, P. H. and Baylor, J. (1998) “Impact-induced delamination of composites: a 2D simulation.” Composites B, 29B, 589-602.
+
+Breitenfeld, M. S. and Geubelle, P. H. (1998) “Numerical analysis of dynamic debonding under 2D in-plane and 3D loading.” Int. J. Fracture, 93, 13-38.
+
+Geubelle, P. H.  (1997) “A numerical method for elastic and viscoelastic dynamic fracture problems in homogeneous and bimaterial systems.” Computational Mechanics, 20:1-2, 20-25.
+Danyluk, M. J., Geubelle, P. H. and Hilton, H. H. (1998) “2D and 3D dynamic fracture in viscoelastic media.” Int. J. Solids Structures, 35:28-29, 3831-3853.
+
+Geubelle, P. H. and Breitenfeld, M. S. (1997) “Numerical analysis of dynamic debonding under anti-plane shear loading.” Int. J. Fracture, 85, 265-282.
+
+Geubelle, P. H., Danyluk, M. J. and Hilton, H. H. (1997) “Dynamic mode III fracture in viscoelastic media.” Int. J. Solids Structures, 35, 761-782.
+
+Morrissey, J. W. and Geubelle, P. H.  (1997) “A numerical scheme for mode III dynamic fracture problems.” Int. J. Numer. Meth. Eng., 40, 1181-1196.
+Geubelle, P. H. and Rice, J. R.  (1995) “A spectral method for 3D elastodynamic fracture problems.” J. Mech. Phys. Solids, 43:11, 1791-1824.
+Geubelle, P. H.  (1995) “Finite deformation effects in homogeneous and interfacial fracture.” Int. J. Solids Structures, 36:6/7, 1003-1016.
+Geubelle, P. H. and Knauss, W. G.  (1995) “A note related to energy-release rate computations for kinking interface cracks.” ASME J. Appl. Mech., 62:1, 266-267.
+Geubelle, P. H. and Knauss, W. G.  (1994) “Finite strains at the tip of a crack in a sheet of hyperelastic material: 3. General bimaterial case.” J. Elasticity, 35, 139-174.
+Geubelle, P. H. and Knauss, W. G.  (1994) “Finite strains at the tip of a crack in a sheet of hyperelastic material: 2. Special bimaterial cases.” J. Elasticity, 35, 99-137.
+Geubelle, P. H. and Knauss, W. G.  (1994) “Finite strains at the tip of a crack in a sheet of hyperelastic material: 1. Homogeneous case.” J. Elasticity, 35, 31-98.
+Geubelle, P. H. and Knauss, W. G.  (1995) “Crack propagation at and near bimaterial interfaces under general loading : nonlinear analysis.” ASME J. Appl. Mech., 62:3, 601-606.
+Geubelle, P. H. and Knauss, W. G.  (1994) “Crack propagation at and near bimaterial interfaces : linear analysis.” ASME J. Appl. Mech., 61, 560-566.
+Click for more
+Articles in Conference Proceedings
+Philippe Geubelle, Sagar Vyas, Aditya Kumar, Yuan Gao, Nil Parikh, and Nancy Sottos "Modeling and optimization of frontal-polymerization-based manufacturing of fiber-reinforced composites." Proceedings of the 20th European Conference on Composite Materials, ECCM20. 26-30 June, 2022, Lausanne, Switzerland.
+
+Nil Parikh, Sagar Vyas, Douglas Ivanoff, Philippe Geubelle, and Nancy Sottos “Rapid-cure of fiber-reinforced composites by frontal polymerization." Proceedings of the 20th European Conference on Composite Materials, ECCM20. 26-30 June, 2022, Lausanne, Switzerland.
+
+Zhan, K., Jin, J.-M., and Geubelle, P. H. “An interface-enriched generalized FEM for EM analysis of composites with nonconformal meshes.” 2016 IEEE/ACES International Conference on Wireless Information Technology and Systems (ICWITS) and Applied Computational Electromagnetics (ACES). Honolulu, HI.
+
+Najafi, A. R., Safdari, M., and Geubelle, P. H. “Material design using a NURBS-based shape optimization scheme.” AIAA Paper 2016-1170, SciTech 2016, San Diego, CA, January 2016
+
+Zhang, K., Najafi, A. R., Geubelle, P. H. and Jin, J.-M. “A 2D interface-enriched generalized FEM for EM analysis of composite materials.” 2015 IEEE International Symposium on Antennas and Propagation and North-American Radio Science Meeting. Vancouver, BC, Canada. July 19-25, 2015.
+
+Zhang, K., Geubelle, P. H. and Jin, J.-M. “A 3D interface-enriched generalized FEM for EM analysis of composite materials.” 2015 IEEE International Symposium on Antennas and Propagation and North-American Radio Science Meeting. Vancouver, BC, Canada. July 19-25, 2015.
+
+Zhang, K., Jin, J.-M., and Geubelle, P. H. “Multiscale modeling of the radar signature of a composite aircraft.” AIAA SciTech 2015 Meeting, Kissimmee, Florida, January 2015.
+
+Najafi, A., Coppola, A., Soghrati, S., Sottos, N. R., White, S. R., and Geubelle, P. H. “Microvascular composite skin panels for hypersonic aircraft.” Paper AIAA-2014-0630, AIAA SciTech 2014 Meeting, National Harbor, MD, January 2014.
+
+Grady, M. E., Geubelle, P.H., Sottos, N. R., “Molecular Tailoring of Interfacial Adhesion Using Self-Assembled Monolayers.” Proceedings of the 13th Annual SEM Conference & Exposition on Experimental & Applied Mechanics, Lombard, IL. June 2013.
+
+Soghrati, S., Najafi, A., Sottos, N. R., White, S. R., and Geubelle, P. H. "Computational design of actively-cooled microvascular composite skin panels for hypersonic aircraft." AIAA SDM Meeting, April 2013, Boston, MA.
+
+Ostoich C., Bodony, D. J., Geubelle, P. H.,"Aerothermal analysis of the coupled response of a panel under a supersonic turbulent flow using direct numerical simulation." AIAA ASM Meeting, January 2013, Dallas, TX.
+
+Sucheendran, M., Bodony, D., and Geubelle, P. H. "Coupled structural-acoustic response of a duct-mounted elastic plate with grazing flow." AIAA Paper 2012-2169. 18th AIAA/CEAS Aeroacoustics Conference (33rd AIAA Aeroacoustics Conference). June 4-6, 2012, Colorado Springs, CO.
+
+Soghrati, S., Najafi, A., Hughes, K., Thakre, P., Duarte, C. A., Sottos, N. R., White, S. R. and Geubelle, P. H. "Computational design of actively-cooled microvascular composites for high temperature application." Proceedings of AIAA SDM meeting, Hawaii, April 2012.
+
+Ostoich, C., Bodony, D. J., and Geubelle, P. H. "Prediction of heat transfer into a thermally compliant surface in a Mach 5.73 boundary layer using direct numerical simulation." AIAA Paper 2011-3706. 41st AIAA Fluid Dynamics Conference and Exhibit, June 27-30, 2011, Honolulu, Hawaii.
+Sucheendran, M., Bodony, D., and Geubelle, P. H. " Structural-acoustic response of an elastic plate in a duct : Comparison of theory with numerical simulation." AIAA Paper 2011-2850, 17th AIAA/CEAS Aeroacoustics Conference (32nd AIAA Aeroacoustics Conference). June 5-8, 2011. Portland, OR.
+Sucheendran, M., Bodony, D., and Geubelle, P. H. "Structural-acoustic response of a cavity-backed plate in a duct." AIAA Paper 2011-2015, 52nd AIAA/ASME/ASCE/AHS/ASC Structures, Structural Dynamics and Materials Conference. April 4-7, 2011, Denver, CO.
+Ostoich, C., Bodony, D. and Geubelle, P. H. “Development and validation of a first principles fluid-thermal multi-physics solver for hypersonic boundary layer heat transfer problems.” AIAA SDM Conference, Denver, CO, 2011.
+Sucheendran M., Bodony, D. J., Geubelle, P. H., "Structural-acoustic interaction of a cavity-backed, clamped, elastic plate with sound in a duct.'' Bull. Amer. Phys. Soc., Vol 54(19), 2009.
+Ostoich C., Bodony, D. J., Geubelle, P. H., "Coupled computational fluid-thermal investigation of hypersonic flow over a quilted dome surface.'' Bull. Amer. Phys. Soc., Vol 54(19), 2009.
+Tran, P., Kandula, S., Geubelle, P. H. and Sottos, N. R. “Dynamic delamination testing of patterned thin films: a combined experimental and numerical study.” Proceedings of the 12th International Conference on Fracture, Ottawa, July 12-17, 2009.
+Kandula, S. S. V., Geubelle, P. H. and Sottos, N. R. “Dynamic adhesion test to measure thin film interface fracture toughness.” Society of Experimental Mechanics XI, Orlando, FL, June 2-5, 2008.
+Geubelle, P. H., Maiti, S., Kulkarni, M. and Matous, K. “Multiscale cohesive modeling of fatigue response of a self-healing composite.” First International Conference on Self-Healing Materials, Noordwijk, Netherlands, April 2007.
+Geubelle, P. H., Inglis, H. M., Kramer, J. D., Patel, J. J., Kumar, N. C. and Tan, H. “Multiscale modeling of dewetting damage in highly filled particulate composites.” Proceedings of the 2006 Multiscale and Functionally Graded Materials Conference, October 15-18, 2006, Hawaii.
+Aragón, A. M., Hansen, C. J., Wu, W., Geubelle, P. H., Lewis, J. and White, S. R. “Computational design and optimization of a biomimetic self healing/cooling  material.” In Behavior and Mechanics of Multifunctional and Composite Materials 2007, Edited by M. J. Dapino. Proceedings of SPIE, 6526. San Diego, CA, March 2007.
+Jaiman, R., Geubelle, P. H., Loth, E.  and Jiao, X. M. “Stable and accurate loosely-coupled scheme for unstead fluid/structure interaction.” Paper AIAA-2007-334. AIAA Conference, Reno, January 2007.
+Tan, H., Huang, Y., Geubelle, P. H., Liu, C. and Breitenfeld, M. S. “An Energy Approach to a Micromechanics Model Accounting for Nonlinear Interface Debonding.” 41st AIAA/ASME/SAE/ASEE JPC Conference and Exhibit, July 10-13, 2005. Tucson, AZ. Paper AIAA-2005-3995.
+Matous, K., Inglis, H. M., Gu, X., Jackson, T., Rypl, D. and Geubelle, P. H. "Multiscale Damage Modeling of Solid Propellants: Theory and Computational Framework." 41st AIAA/ASME/SAE/ASEE JPC Conference and Exhibit, July 10-13, 2005. Tucson, AZ. Paper AIAA 2005-4347.
+White, S.R., Maiti, S., Jones, A., Brown, E.N., Sottos, N.R. and Geubelle, P.H. "Fatigue of self-healing polymers: multiscale analysis and experiments.” Proceedings of ICF11, Turin, Italy, March 2005.
+Geubelle, P.H., Dantuluri, V., Koppaka, S.B. and Phinney, L. "Cohesive modeling of adhesion reduction of mems cantilevers through laser heating.” Proceedings of ICF11, Turin, Italy, March 2005.
+Geubelle, P. H., Hendrickx, J. and Sottos, N.R. "Spectral scheme for analysis of dynamic delamination of a thin film.” Proceedings of ICF11, Turin, Italy, March 2005.
+Geubelle, P. H., Maiti, S. and Rangaswamy, K. “Mesoscale modeling of fragmentation of ceramics under dynamic compressive loading." Proceedings of ICF11, Turin, Italy, March 2005.
+Maiti, S., Rangaswamy, K. and Geubelle, P. H. “Fragmentation of ceramics in rapid expansion mode.” Proceedings of the 8th Conference of the Fracture Mechanics of Ceramics. Houston, TX. February 25-28, 2003.
+Fiedler, R. A., Breitenfeld, M. S., Jiao, X., Haselbacher, A. Geubelle, P. H., Guoy, D. and Brandyberry, M. “Simulaitons of slumping propellant and flexing inhibitors in solid propellant rocket motors.” 38th AIAA/ASME/SAE/ASEE JPC Conference and Exhibit, July 7-10, 2002.  Paper AIAA 2002-4341.
+Hwang, C., Massa, L., Fiedler, R. and Geubelle, P. H. “Simulation of convective burning and dynamic fracture in solid propellants.” 38th AIAA/ASME/SAE/ASEE JPC Conference and Exhibit, July 7-10, 2002.  Paper AIAA 2002-4342.
+Geubelle, P. H. and Maiti, S. “Simulation of damage mechanisms in high-speed grinding of structural ceramics.” Proceedings of ICF 10.  Honolulu, December 2-7, 2001.
+Lambros, J., Bi, X. and Geubelle, P. H. “High-speed debonding and frictional sliding in composite systems: experimental observations and numerical simulations.” Proceedings of ICF 10.  Honolulu, December 2-7, 2001.
+Lambros, J., Bi X. and Geubelle, P. H., “The mechanics of dynamic fiber push-out: experimental and numerical study.” IMECE 2001, New York, NY, November 2001.
+Geubelle, P. H., Huang, C., Fiedler, R., Breitenfeld, M. S. and Haselbacher, A. (2001) “Simulation of dynamic fracture events in solid propellant rockets.” 37th AIAA/ASME/SAE/ASEE JPC Conference and Exhibit, July 8-11, 2001.  Paper AIAA 2001-3953.
+Gefroh, D. L., Hafenrichter, E. S., McIlwain, S. T., Loth, E., Dutton, C. J. and Geubelle, P. H.  (2000)  “Simulation and Experimental Analysis of a Novel SBLI Flow Control System.”  AIAA Fluid 2000 Conference, 19-22 June 2000, Denver, CO.  Paper AIAA 2000-2237.
+Wood, B., Loth, E., Geubelle, P. H. and McIlwain, S.  (2000)  “A numerical methodology for an aeroelastic SBLI Flow.”  38th Aerospace Sciences Meeting, Reno, NV, 10-13 January 2000.  Paper AIAA 2000-0552.
+Hwang, C. and Geubelle, P. H.  (2000)  “Subsonic and intersonic crack propagation in unidirectional and cross-ply composites.” Proceedings of ASME IMECE 2000 in Orlando, November 2000.
+Zhu, Q. and Geubelle, P. H.  (2000)  “Effects of the manufacturing process on the dimensional accuracy of thermoset composites.” Proceedings of ASME IMECE 2000 in Orlando, November 2000.
+Geubelle, P. H., Breitenfeld, M. S., Kubair, D. and Hwang, C.  (2000)  “Simulation of fundamental dynamic fracture problems using a spectral scheme.”  In Advances in Computational Engineering & Sciences.  Edited by S. N. Atluri and F. W. Brust.  Tech. Science Press.  Proceedings of ICES2K held in Annaheim, CA, in August 2000.
+Geubelle, P. H., Lin, G. and Sottos, N. R.  (1999)  “Simulation of a fiber pushout test in model polyester/epoxy composite.”  Proceedings of ICCM-12, Paris, July 5-9, 1999.
+Wood, B., Loth, E., and Geubelle, P. H.  (1999) “Shock/boundary-layer interaction control with aeroelastic transpiration.” 3rd ASME/JSME Joint Fluids Engineering Conference, San Francisco CA, July 17-21, 1999; FEDSM99-6924.
+Wood, B., Loth, E., and Geubelle, P. H.  (1999) “Mesoflaps for aeroelastic transpiration for SBLI control.” 37th Aerospace Sciences Meeting, Reno NV, January 1999; AIAA 99-0614.
+Jung, D.,  Hegeman, A., Sottos, N. R., Geubelle, P. H. and White, S. R. (1997) “Self-healing composites using embedded micro-spheres.” Composite and Functionally Graded Materials. Jacob, K., Katsube, N., and Jones, W., Eds., Vol. MD-80, in Proceedings of the ASME International Mechanical Engineering Conference and Exposition, pp. 265-275.
+Geubelle, P. H. and Knauss, W. G.  (1993) “Crack propagation in homogeneous and bimaterial sheets under general in-plane loading : Nonlinear analysis,” in “Ultrasonic Characterization and Mechanics of Interfaces.” I. Rokhlin, S. K. Datta and Y. D. S. Rajapakse, eds; Proceeding of the 1993 ASME Winter Annual Meeting in New Orleans, LA; Nov.28-Dec.3, 1993.
+Click for more
+Patents
+“Method and apparatus for control of shock/boundary-layer interactions.” Loth, E., Dutton, C., Geubelle, P. H., White, S., Tortorelli, D. and Alleyne, A. U.S. Patent # 6,651,935. November 25, 2003.
+“Multifunctional autonomically healing composite material.” White, S. R., Sottos, N. R., Geubelle, P. H., Moore, J. S., Sriram, S. R., Kessler, M. R., Brown E. N. U.S. Patent # 6,518,330. February 11, 2003.
+
+Professional Societies
+ASME Member of the Executive Committee of the Materials Division (2017-present)
+ASME Technical Committee on Dynamic Behavior of Materials (Secretary: 2005-2007, Chair: 2007-2009)
+ASME Technical Committee on Computations in Applied Mechanics (Vice-Chair: 2009-2011, Chair: 2011-2014)
+ASME Technical Committee on Fracture and Failure Mechanics
+
+Service on University Committees
+University Budget Reform Implementation Committee (2017-present)
+University Budget Oversight Committee (2016-present) - Chair
+University Search Committee for Director of Beckman Institute (2016-2017) - Chair
+University Council of Unit Executive Officers (2014-2015)
+University Committee on Performance Review for Director of Beckman Institute (2015)
+University Committee on Doctoral Candidacy (2014)
+University Committee on Graduate Tuition Allocation and Expenditure Pilot Program (2013-2014)
+ASCI/CSAR Science Steering Committee (1997-2008)
+Click for more
+Service on Department Committees
+Department Head (2012-2018)
+Interim Head (2011-2012)
+Associate Head of Graduate Program (2008-2011)
+Associate Head for Undergraduate Program and Chief Undergraduate Advisor (2007-2008)
+Graduate Policy Committee (2006-2007)
+Planning Committee (2003-2007)
+Ad Hoc Committee on Qualifying Exam (2004)
+Faculty Search Committee (2003 (Chair) and 2005)
+Computer Committee (2004-present)
+T.A. Committee (2002-2005)
+Ad Hoc Teaching Assistantship Committee (Chair, 2001-2002)
+Qualifying Exam Committee (Chair, 2000-2001, 2006-present)
+Computer Resource Committee (1999-2000)
+Undergraduate Curriculum Committee (1995-2000, 2002-present)
+Admission Committee (Chair 1998-2003)
+Click for more
+Service on College Committees
+Executive Associate Dean of the Grainger College of Engineering (2019 - present)
+College Search Committee for the Associate Dean for Advancement (2022 – Chair)
+College Search Committee for the GCOE Director in Chicago (2022 – Chair)
+College Search Committee for HCESC Director (2022 – Chair)
+College Search Committee for Assistant Dean for Marketing and Communication (2020 – Chair)
+College Committee on New Budget Model (2019-2020 – Co-chair)
+College Administrative Committee (2011-present)
+College Governance Board for Shared Business, HR and IT Services (2015 – 2018)
+College Search Committee for MatSE Head (2018) – Chair
+College Committee on Performance Review for NPRE Head (2016) - Chair
+College GEBI Professorship Committee (2015-present)
+College Working Group on IT Strategy Alignment (2015-present)
+College Committee on Scholarship Campaign (2013-2014)
+College Committee on ICR Allocation Policy (2013-2014)
+College Committee on Space Allocation (Chair) (2013)
+Committee on Faculty Teaching Development (Chair) (2011-2012)
+Steering Committee on IT at Engineering (2010-2011)
+Committee on Advancement of the Recruitment and Retention Environment (2009-2011)
+Engineering Council on Global Initiatives (2008-present)
+Steering Committee on Information Services (Chair) (2008-present)
+Teaching Evaluation and Improvement Committee (2005-present)
+Search Committee for AE Department Head (1998 and 2007)
+Search Committee for CEE Department Head (2004)
+Search Committee in Nano-Technology (2004-2005)
+Strategic Planning Committee (2002-2003)
+Engineering Workstation Steering Committee (1997 to 2002, Chair 9/2001 to 5/2002)
+Click for more
+Service to Federal and State Government
+National Space Grant Foundation Board: Chair of the Committee charged to recruit the new Executive Director (2015-2016)
+President of the Board of the National Space Grant Foundation (2015-present)
+Board member of the National Space Grant Foundation (2009-present)
+Chair of Great Midwest Association of Space Grant Consortium (2008-2011)
+Illinois Space Grant Consortium Director (2003-present)
+
+Teaching Honors
+Provost Award for Guiding Undergraduate Research, University of Illinois (2014)
+Outstanding advisors list, College of Engineering, University of Illinois (2009, 2010, 2011)
+Stanley H. Pierce Award, College of Engineering, University of Illinois (2007)
+Accenture Excellence in Advising Award, University of Illinois College of Engineering Everitt (2005)
+College of Engineering Everitt Teaching Award, University of Illinois (2000)
+AIAA Teacher of the Year Award, University of Illinois (1998, 2008)
+“List of Teachers Rated as Excellent by Their Students,” (1995, 1996, 1997, 1999, 2000, 2001, 2002, 2005, 2007, 2009, 2012, 2015, 2016, 2017)
+Click for more
+Research Honors
+Best Paper of the Year Award, Fluid Dynamics, AIAA (2014)
+Bliss Professorship, College of Engineering, University of Illinois (2011
+)
+ASME Fellow (2009)
+Best Paper of the Year Award, Materials Division,  ASME (2007)
+Bliss Faculty Scholar, College of Engineering, University of Illinois (2005-2008)
+American Society for Composites Best Paper Award, 16th Technical Conference, Polymer Matrix Composite Division (2001)
+University of Illinois College of Engineering Xerox Research Award (1999, 2005)
+NSF CAREER Award (1998)
+N.A.T.O. Postdoctoral Fellowship (1994)
+Click for more
+
+Recent Courses TaughtAE 199 IRS (AE 199 SAB, AE 199 SSS) - Student Space Systems
+AE 323 - Applied Aerospace Structures
+AE 498 ASD - Aircraft Structure Design
+AE 590 A (AE 590 ONL) - Seminar
+MSE 456 (AE 428, TAM 428) - Mechanics of Composites
+
+
+
+
+
+
+
+
+

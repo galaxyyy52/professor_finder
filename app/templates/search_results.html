@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<script>
+    function navigatePage(pageNum) {
+        const query = '{{ query }}';
+        const flat_query = '{{ flat_query }}';
+        const url = `/search/?query=${query}&current_page=${pageNum}`;
+        fetch(url, {
+            headers: {
+                'X-Requested-With': 'XMLHttpRequest'
+            }
+        })
+            .then(response => response.text())
+            .then(html => {
+                // Replace the main content with the new HTML
+                //document.querySelector('main').innerHTML = html;
+                document.getElementById('results-content').innerHTML = html;
+            })
+            .catch(error => console.error('Error:', error));
+    }
+</script>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professor Finder</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+
+<body bgcolor="#F1F8E9">
+    <header>
+        <div class="logo-container">
+            <img src="/static/riverdye-1.jpeg" alt="Professor Finder Logo" class="logo">            
+        </div>
+    </header>
+    
+    <main>
+
+    <div class="centered-table">
+
+         <form id="searchForm" action="/search/" method="post">
+             <input type="text" name="query" placeholder="Input your keyword" size=35 fontsize=20>
+             <input type="submit" value="Search" fontsize=20>
+         </form>
+                 <table width=100%> <tr><td align="center"></td></tr></table>
+     </div>
+
+    <div id="results-content">
+    {% if search_performed %}
+        
+        {% if results %}
+            <table>
+                <thead>
+                    <tr>
+                        <th>Professor</th>
+                        <th>University</th>
+                        <th>Department</th>
+                        <th>Brief</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for result in results %}
+                        <tr>
+                            <td><a href="{{ result.professor.home_page_url }}" target="_blank"><img src="{{ result.professor.photo_url }}" alt="{{ result.professor.name }}" style="max-width: 100px; max-height: 100px;"></a><br>
+                            <a href="{{ result.professor.home_page_url }}" target="_blank">{{ result.professor.name }}</a></td>
+                            <td nowrap>{{ result.professor.university }}</td>
+                            <td>{{ result.professor.department }}</td>
+                            <td>
+                                <b>Title</b>: {{ result.professor.brief.title if result.professor.brief else "UNK" }}<br>
+                                <b>Research Area</b>:<br>
+                                {% for area in result.professor.brief.research_area %}
+                                    &nbsp;&nbsp;· {{ area }}<br>
+                                {% endfor %}
+                                <b>Courses Taught</b>:<br> 
+                                {% for courses_taught in result.professor.brief.courses_taught %}
+                                    &nbsp;&nbsp;· {{ courses_taught }}<br>
+                                {% endfor %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+                    <!-- Pagination Controls -->
+            <center>
+              <div class="pagination">
+                {% if current_page > 1 %}
+                    <a href="javascript:navigatePage({{ current_page - 1 }})">Previous</a>
+                {% endif %}
+                <span>Page {{ current_page }} of {{ total_pages }}</span>
+                {% if current_page < total_pages %}
+                    <a href="javascript:navigatePage({{ current_page + 1 }})">Next</a>
+                {% endif %}
+              </div>
+            </center>
+        {% else %}
+            <p>No results found</p>
+        {% endif %}
+    {% endif %}        
+         
+    </div>
+    </main> 
+       
+    <footer>
+        <center><p>&copy; 2023 Professor Finder, Chicago River Team of UIUC, All rights reserved.</p></center>
+    </footer>
+</body>
+</html>

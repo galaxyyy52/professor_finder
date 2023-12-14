@@ -1,0 +1,153 @@
+
+
+
+
+
+
+
+ 
+
+
+Ke Tang 
+
+
+
+Teaching Assistant Professor
+(217) 244-8525
+ketang@illinois.edu
+2144 Mechanical Engineering Lab
+
+
+
+Education
+Ph.D., Engineering Thermophysics, Zhejiang University, 2005
+B.S., Refrigeration and Cryogenics, Zhejiang University, 2000
+
+Academic Positions
+Teaching Assistant Professor, Department of Mechanical Science and Engineering, UIUC, 2023 - Date
+Lecturer, Department of Mechanical Science and Engineering, UIUC, 2022 - 2023
+
+Adjunct Research Associate Professor, Department of Mechanical Science and Engineering, UIUC, 2018 - 2022
+Adjunct Lecturer, Department of Mechanical Science and Engineering, UIUC, 2019 - 2022
+Senior Technology Manager, Creative Thermal Solutions Inc., 2019 - 2022
+Research Engineer, Creative Thermal Solutions Inc., 2015 - 2019
+Associate Director, Institute of Refrigeration and Cryogenics, Zhejiang University, 2011 - 2015
+Associate Professor, Department of Energy Engineering, Zhejiang University, 2007 - 2015
+Postdoctoral Faculty, Department of Energy Engineering, Zhejiang University, 2005 - 2007
+Click for more
+Research Interests
+Engineering Education
+Heat Transfer
+Fluid Mechanics
+Energy Conversion Systems
+Thermoacoustics
+
+
+
+Selected Articles in Journals
+Li, H., Tang, K., A comprehensive study of drop-in alternative mixtures for R134a in a mobile air-conditioning system. Applied Thermal Engineering, 2022, 203: 117914.  
+Gao, Y., Feng, Y., Tang, K., Hrnjak, P., Comparison of flow boiling pressure drop and heat transfer of R134a with low GWP alternative R1234ze(E) in a dimpled flat duct. International Journal of Refrigeration, 2020, 119: 165-174.
+
+Gao, Y., Feng, Y., Tang, K., Hrnjak, P., Experimental study on forced convection hydraulic and thermal characteristics in a dimpled flat duct. Applied Thermal Engineering, 2020, 181: 115921.
+Tang, K., Gao, Y., Feng, Y., Hrnjak, P., Pressure drop and heat transfer of flow boiling R134a in a dimpled flat duct. International Journal of Heat and Mass Transfer, 2020, 151: 119398.
+Feng, Y., Gao, Y., Tang, K., Jin, T., Numerical investigation on turbulent oscillatory flow through a jet pump. Journal of the Acoustical Society of America, 2019, 145(3): 1417-1425.  
+Yang, R., Wang, Y., Feng, Y., Jin, T., Tang, K., Performance of a looped thermoacoustic engine with multiple loads capable of utilizing heat source below 200 °C. Applied Thermal Engineering, 2019, 148: 516-523.
+Feng, Y., Tang, K., Jin, T., Zhang K.H., Yang, R., Performance comparison of jet pumps with round and sharp edge of small opening in oscillatory flow. Applied Thermal Engineering, 2018, 139: 562-568.
+Yang, R., Wang, Y., Jin, T., Feng, Y., Tang, K., Development of a three-stage looped thermoacoustic electric generator capable of utilizing heat source below 120 °C. Energy Conversion and Management, 2018, 155: 161-168.
+Feng, Y., Tang, K., Jin, T., Zhang, K.H., Yang, R., Time-averaged pressure drop induced by a jet pump in oscillatory flow. Journal of the Acoustical Society of America, 2017, 142(4): 1730-1738.    
+Feng, Y., Tang, K., Jin, T., Zhang, K.H., Impact of cross-sectional area ratio on time-averaged pressure drop induced by jet pump for thermoacoustic engine. Energy Procedia, 2017, 142: 337-342. 
+Tang, K., Feng, Y., Jin, T., Jin, S.H., Li, M., Yang, R., Effect of Gedeon streaming on thermal efficiency of a travelling-wave thermoacoustic engine. Applied Thermal Engineering, 2017, 115: 1089-1100.    
+Jin, T., Yang, R., Wang, Y., Feng, Y., Tang K., Low temperature difference thermoacoustic prime mover with asymmetric multi-stage loop configuration. Scientific Reports, 2017, 7: 7665.   
+Tang, K., Feng, Y., Jin, T., Jin, S.H., Yang, R., Impact of Gedeon streaming on the efficiency of a double-inlet pulse tube refrigerator. Applied Thermal Engineering, 2017, 111: 445-454.
+Wang, X., Tang, K., Hrnjak, P.S., Evaporator performance enhancement by pulsation width modulation (PWM). Applied Thermal Engineering, 2016, 99: 825-833. 
+Tang, K., Huang, J.L., Tang, W.T., Yu, J., Jin, T., Observation of heat transfer in oscillating flow within circular channel. Heat Transfer Research, 2016, 47(9): 855-863.
+Jin T., Yang, R., Wang, Y., Feng, Y., Tang, K., Acoustic field characteristics and performance analysis of a looped travelling-wave thermoacoustic refrigerator. Energy Conversion and Management, 2016, 123: 243-251.
+Jin, T, Wu, M.X., Huang, J.L., Tang, K., Chen, L.X., Hydrogenation reaction characteristics and properties of its hydrides for magnetic regenerative material HoCu2. Journal of Central South University, 2016, 23(7): 1564-1568.
+Jin, T., Yang, R., Liu, Y.L., Tang, K., Thermodynamic characteristics during the onset and damping processes in a looped thermoacoustic prime mover. Applied Thermal Engineering, 2016, 100: 1169-1172.
+Liu, H.F., Tian, H., Chen, H., Jin, T., Tang K., Numerical study on performance of perforated plate applied to cryogenic fluid flowmeter. Journal of Zhejiang University-SCIENCE A (Applied Physics & Engineering), 2016, 17(3): 230-239. 
+Jin, T., Huang, J.L., Feng, Y., Yang, R., Tang, K., Radebaugh R., Thermoacoustic prime movers and refrigerators: Thermally powered engines without moving components. Energy, 2015, 90(1): 828-853. 
+Tang, K., Feng, Y., Jin, S.H., Jin, T., Li, M., Performance comparison of jet pumps with rectangular and circular tapered channels for a loop-structured traveling-wave thermoacoustic engine. Applied Energy, 2015, 148: 305-313.    
+Tang, K., Huang, J.L., Jin, T., Wu, M.X., An experiment-based comparative investigation of correlations for microtube gas flow. Sadhana - Academy Proceedings in Engineering Science, 2015, 40(2): 537-547.
+Zhang, X.B., Xiong, W., Chen, J.Y., Wang, Y.C., Tang, K., CFD simulations and experimental verification on nucleate pool boiling of liquid nitrogen. Physics Procedia, 2015, 67: 569-575. 
+Jin, T., Wang, M., Tang, K., Simulation and performance analysis of a heat transfer tube in SuperORV. Cryogenics, 2014, 61: 127-132.
+Tang, K., Sha, L., Li, Y.J., Jin, T., Liu, S.J., Measurement of thermal expansion at low temperatures using the strain gage method. Journal of Zhejiang University (Science A), 2014, 15(5): 323-330.    
+Tang, K., Yu, J., Jin, T., Wang, Y.P., Tang, W.T., Gan, Z.H., Heat transfer of laminar oscillating flow in finned heat exchanger of pulse tube refrigerator. International Journal of Heat and Mass Transfer, 2014, 70: 811-818.
+Tang, K., Yu, J., Jin, T., Gan, Z.H., Influence of compression-expansion effect on oscillating-flow heat transfer in a finned heat exchanger. Journal of Zhejiang University (Science A), 2013, 14(6): 427-434.
+Jin, T., Huang, J.L., Tang, K., Wu, M.X., Performance analysis of a micro-scale pulse tube cryocooler based on optical fiber regenerator. Cryogenics, 2013, 55-56: 30-34.
+Jin, T., Li, C.H., Huang, J.L., Tang, K., Chen, L.X., Hydrogenation induced change in structures, magnetic properties and specific heats of magnetic regenerative material ErNi and ErNi2. Materials Transactions, 2013, 54(3): 363-366. 
+Jin, T., Li, C.H., Tang, K., Xu, B., Chen, L.X., Hydrogen absorption characteristics and structural transformation during the hydrogenation process of Er3Ni. Intermetallics, 2013, 32: 162-166.
+Tang, K., Lei, T., Jin, T., Influence of working liquid on the onset characteristics of a thermoacoustic engine with gas and liquid, Journal of Applied Physics, 2012, 112(9): 094909.
+Tang, K., Lin, X.G., Lei, T., Jin, T., Study on self-excited oscillation in a thermoacoustic engine with Glansdorff–Prigogine stability criterion, Journal of Non-Equilibrium Thermodynamics, 2011, 36(4): 393-404.
+Jin, T., Zhang, S.Y., Tang, K., Huang, Y.Z., Observation and analysis of the detachment frequency of coalesced bubbles in pool boiling liquid nitrogen. Cryogenics, 2011, 51(9): 516-520.
+Jin, T., Li, C.H., Tang, K., Chen, L.X., Xu, B., Chen, G.B., Hydrogenation-induced variation in crystal structure and heat capacity of magnetic regenerative material Er3Ni. Cryogenics, 2011, 51(5): 214-217.
+Tang, K., Lei, T., de Waele, A.T.A.M., Jin T., Basic analysis on a thermoacoustic engine with gas and liquid. Journal of Applied Physics, 2011, 109(7): 074907. 
+Tang, K., Lei, T., Lin, X.G., Jin, T., Zhang, Y., Lumped parameter model for resonant frequency estimation of a thermoacoustic engine with gas-liquid coupling oscillation. Journal of Zhejiang University (Science A), 2011, 12(3): 232-237.
+Tang, K., Zhang, Y., Lin, X.G., Jin, S.H., Jin, T., Hydrodynamic and thermal development of compressible oscillatory flow inside circular channel. Cryogenics, 2011, 51(3): 139-145.
+Xu, B., Jin, T., Li, C.H., Tang, K., Chen, L.X., Chen, G.B., Study on reaction characteristics of Er3Ni hydrogenation. Rare Metal Materials and Engineering, 2011, 40(1): 14-17.
+Jin, T., Hong, J.P., Zheng, H., Tang, K., Gan, Z.H., Measurement of boiling heat transfer coefficient in liquid nitrogen bath by inverse heat conduction method. Journal of Zhejiang University (Science A), 2009, 10(5): 691-696. 
+Tang, K., Huang, Z.J., Jin, T., Chen, G.B., Influence of acoustic pressure amplifier dimensions on the performance of a standing-wave thermoacoustic system. Applied Thermal Engineering, 2009, 29(5-6): 950-956.
+Jin, T., Mao, C.S., Tang, K., Zheng, H. and Chen, G.B., Characteristics study on the oscillation onset and damping of a traveling-wave thermoacoustic prime mover. Journal of Zhejiang University (Science A), 2008, 9(7): 944-949. 
+Tang, K., Huang, Z.J., Jin, T., Chen, G.B., Impact of load impedance on the performance of a thermoacoustic system employing acoustic pressure amplifier. Journal of Zhejiang University (Science A), 2008, 9(1): 79-87.
+Jin, T., Xu, B., Tang, K., Hong, J.P., Bubble counter based on photoelectric technique for leakage detection of cryogenic valves. Journal of Zhejiang University (Science A), 2008, 9(1): 88-92.
+Tang, K., Bao, R., Chen, G.B., Qiu, Y., Shou, L., Huang, Z.J., Jin, T., Thermoacoustically driven pulse tube cooler below 60 K. Cryogenics, 2007, 47(9-10): 526-529.
+Tang, K., Huang, Z.J., Jin, T., Bao, R., Chen, G.B., Influence of input acoustic power on regenerator’s performance. Journal of Zhejiang University (Science A), 2007, 8(9): 1452-1456.
+Jin, T., Zhang, B.S., Tang, K., Bao, R., Chen, G.B., Experimental observation on a small-scale thermoacoustic prime mover. Journal of Zhejiang University (Science A), 2007, 8(2): 205-209.
+Bao, R., Chen, G.B., Tang, K., Jia, Z.Z., Cao, W.H. Influence of resonance tube geometry shape on performance of thermoacoustic engine. Ultrasonics, 2006, 44(Suppl.): e1519-e1521.
+Bao, R., Chen, G.B., Tang, K., Cao, W.H., Jin, T., Thermoacoustically driven pulse tube refrigeration below 80 K by introducing an acoustic pressure amplifier. Applied Physics Letters, 2006, 89(21): 211915.   
+Tang, K., Chen, G.B., Jin, T., Bao, R., Li, X.M., Performance comparison of thermoacoustic engines with constant-diameter resonant tube and tapered resonant tube. Cryogenics, 2006, 46(10): 699-704.
+Bao, R., Chen, G.B., Tang, K., Jia, Z.Z., Cao, W.H., Effect of RC load on performance of thermoacoustic engine. Cryogenics, 2006, 46 (9): 666-671.
+Tang, K., Chen, G.B., Thummes, G., 13 K thermally coupled two-stage Stirling-type pulse tube refrigerator. Chinese Science Bulletin, 2005, 50 (16): 1814-1816.
+Tang, K., Chen, G.B., Jin, T., Bao, R., Kong, B., Qiu, L.M., Influence of resonance tube length on performance of thermoacoustically driven pulse tube refrigerator. Cryogenics, 2005, 45 (3): 185-191.
+Chen, G.B., Tang, K., Huang, Y.H., Gan, Z.H., Bao, R., Refrigeration performance enhancement of pulse tube refrigerators with He-H2 mixtures and Er3NiHx regenerative material. Cryogenics, 2004, 44 (11): 833-837.
+Tang, K., Chen, G.B., Jin, T., Kong, B., Bao, R., Qiu, L.M., Gan, Z.H., 92 K thermoacoustically driven pulse tube refrigerator. Chinese Science Bulletin, 2004, 49 (14): 1541-1542.
+Chen, G.B., Tang, K., Jin, T., Advances in thermoacoustic engine and its application to pulse tube refrigeration. Chinese Science Bulletin, 2004, 49 (13): 1319-1328.
+Tang, K., Chen, G.B., Kong, B., A 115 K thermoacoustically driven pulse tube refrigerator with low onset temperature. Cryogenics, 2004, 44 (5): 287-291.
+Chen, G.B., Tang, K., Huang, Y.H., Gan, Z.H., Bao, R., He-H2 mixture and Er3NiHx packing for the refrigeration enhancement of pulse tube refrigerator. Chinese Science Bulletin, 2004, 49 (5): 527-530.
+Chen, G.B., Jiang, J.P., Shi, J.L., Jin, T., Tang, K., Jiang, Y.L, Jiang, N., Huang, Y.H., Influence of buffer on resonance frequency of thermoacoustic engine. Cryogenics, 2002, 42 (3-4): 223-227.
+Click for more
+Professional Societies
+Junior Member of A1 Committee, International Institute of Refrigeration, 2012 to 2015
+Chairman of Cryogenic Engineering Session 3, The 5th International Conference on Cryogenics and Refrigeration, Hangzhou, 2013
+Chairman of Simulation in Cryogenics Session, The 23rd International Congress on Refrigeration, Prague, 2011
+
+Service on Department Committees
+Teaching Innovations Seminar Committee, 2023-2024
+Specialized Faculty Recruiting Committee, 2023-2024
+
+Service on College Committees
+Course and Curricula Committee, 2023-2024
+
+Teaching Honors
+Listed in the List of Teachers Ranked as Excellent by Their Students, UIUC, Fall 2019, Spring 2022, Summer 2022, Fall 2022, Spring 2023, and Summer 2023
+
+Scholarship for Teaching Excellence, Zhejiang University, 2010
+Listed in the List of Teachers Ranked as Excellent by Their Students, Zhejiang University, Summer 2006, Fall 2012, and Fall 2013
+
+Research Honors
+Carl von Linde Award, International Institute of Refrigeration, 2011
+Science and Technology Awards of Zhejiang Province, First Place, China, 2006
+DAAD Scholarship, Germany, 2004
+
+
+Recent Courses TaughtME 320 AE1 (ME 320 AL1, ME 320 AL2) - Heat Transfer
+ME 400 - Energy Conversion Systems
+ME 402 - Design of Thermal Systems
+ME 420 - Intermediate Heat Transfer
+ME 502 - Thermal Systems
+TAM 335 AE1 (TAM 335 AE2, TAM 335 AL1, TAM 335 AL2, TAM 335 ZJ1, TAM 335 ZJ2) - Introductory Fluid Mechanics
+Click for more
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

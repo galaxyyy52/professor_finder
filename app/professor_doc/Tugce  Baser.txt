@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Tugce Baser 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 300-9623
+tbaser@illinois.edu
+2230c Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaGeotechnical Engineering
+Research Areas
+Energy-Water-Environment Sustainability
+Geotechnical Engineering
+
+For More Information
+Research website
+
+BiographyDr. Tugce Baser is an Assistant Professor in the Department of Civil Engineering at the University of Illinois Urbana-Champaign, specializing in Geotechnical Engineering. Her research interests include unsaturated soil mechanics, energy geotechnics, climate change related geotechnics, and sustainable geo-energy applications. Over the past five years, Dr. Baser has been awarded honors by international institutions and invited as a keynote speaker. She received her PhD degree in Geotechnical Engineering from University of California San Diego in 2017.
+Education
+Ph.D. Geotechnical Engineering University of California San Diego 2017
+B.S. Geological Engineering Cukurva University 2009
+
+
+
+Academic Positions
+Postdoctoral Researcher, Geotechnical Engineering, University of Alberta, 7/2017-6/2018
+Assistant Professor, Department of Civil and Environmental Engineering, University of Illinois at Urbana Champaign, 10/2018-Present
+
+Journal Editorships
+Environmental Geotechnics 
+
+Professional Societies
+American Society of Civil Engineers (ASCE), A. Member
+International Society of Soil Mechanics and Geotechnical Engineering (ISSMGE), Member
+Canadian Geotechnical Society, Member
+International Geosynthetics Society (IGS), Member
+
+Service on Campus Committees
+Faculty Member of "Energy Sustainability Working Advisory Team (SWATeam)"
+
+
+
+Research Interests
+Multiphysics processes to characterize thermo-hydro-mechanical properties of frozen and unfrozen variably saturated soils in changing subsurface conditions; prediction, mitigation, and adaption to climate change, characterization of flood failures in embankments induced by snow melt and extreme weather events
+
+Primary Research AreaGeotechnical Engineering
+Research Areas
+Energy-Water-Environment Sustainability
+Geotechnical Engineering
+
+
+
+Books Authored or Co-Authored (Original Editions)
+El Mohtar, C., Kulesza, S., Baser, T., and Venezia, M.D. IFCEE 2021: Earth Retention, Ground Improvement, and Seepage Control
+El Mohtar, C., Kulesza, S., Baser, T., and Venezia, M.D. IFCEE 2021: From Traditional to Emerging Geotechnics
+El Mohtar, C., Kulesza, S., Baser, T., and Venezia, M.D. IFCEE 2021: Installation, Testing, and Analysis of Deep Foundations
+
+Chapters in Books
+Başer, T., Traore, T. and McCartney, J.S. (2016). “Physical modeling of coupled heat transfer
+and water flow in soil-borehole thermal energy storage systems in the vadose zone.” In:
+Geothermal Energy: An Emerging Resource. C.B. Dowling, L.J. Florea, and K. Neumann,
+eds. GSA Books. Boulder, CO. Geological Society of America Special Paper 519. 1-13.
+
+Selected Articles in Journals
+Fernandez Santoyo, F and Baser, T. (2021). A Review of the Existing Data on Soil Freezing Experiments and Assessment of Soil Freezing Curves derived from Soil Water Retention Curves. ASCE Journal of Cold Regions Engineering Vol. 36, Issue 1 (March 2022) 10.1061/(ASCE)CR.1943-5495.0000271 (Editor's choice collection) 
+
+Tang C, Paleologos E.K, Vitone C., Du Y., Li J, Jiang N, Deng Y, Chu J, Shen Z, Koda E, Dominijanni A, Fei X, Vaverková M D, Osiński P, Chen X, Asadi A, Takeuchi M R H, Bo M W, Abuel-Naga H, Leong E, Farid A, Baser T, O’Kelly B C, Jha B, Goli V S N S, and Singh D N. Environmental geotechnics: challenges and opportunities in the post-COVID-19 world. Environmental Geotechnics. 
+8(3), May 2021, pp. 172-192
+Alejandro Martinez, Jason Dejong, Idil Akin, Ali Aleali, Chloe Arson, Jared Atkinson, Paola Bandini, Tugce Baser, Rodrigo Borela, Ross Boulanger, Matthew Burrall, Yuyan Chen, Clint Collins, Douglas Cortes, Sheng Dai, Theodore DeJong, Emanuela Del Dottore, Kelly Dorgan, Richard Fragaszy, J. David Frost, Robert Full, Majid Ghayoomi, Daniel I. Goldman, Nicholas Gravish, Ivan L. Guzman, James Hambleton, Elliot Hawkes, Michael Helms, David Hu, Lin Huang, Sichuan Huang, Christopher Hunt, Duncan Irschick, Hai Thomas Lin, Bret Lingwall, Alen Marr, Barbara Mazzolai, Benjamin McInroe, Tejas Murthy, Kyle O'Hara, Marianne Porter, Salah Sadek, Marcelo Sanchez, Carlos Santamarina, Lisheng Shao, James Sharp, Hannah Stuart, Hans Henning Stutz, Adam Summers, Julian Tao, Michael Tolley, Laura Treers, Kurtis Turnbull, Rogelio Valdes, Leon van Paassen, Gioacchino Viggiani, Daniel Wilson, Wei Wu, Xiong Yu, and Junxing Zheng. Bio-inspired geotechnical engineering: principles, current work, opportunities and challenges. Géotechnique 2022 72:8, 687-705B
+Goli, V,  Singh, DN, and Baser, T. A Critical Review on Thermal Treatment Technologies of Combustible Fractions from Mechanical Biological Treatment Plants, Journal of Environmental Chemical Engineering. Vol 9(4).
+Baser,T and McCartney, J.S. (2020). Transient Evaluation of a Soil-Borehole Thermal Energy Storage System. Renewable Energy. 147, pp 2582-2598 https://doi.org/10.1016/j.renene.2018.11.012
+Başer, T., Tartakovsky, D., Dong, Y., Lu, N., Moradi, A., Smits, K., and McCartney, J.S
+(2017). Role of non-equilibrium water vapor diffusion in thermal energy storage systems.
+ASCE Journal of Geotechnical and Geoenvironmental Engineering. 144(7), DOI: 10.1061/(ASCE)GT.1943-5606.0001910  
+Başer, T., Lu, N., and McCartney, J.S. (2016). Operational response of a soil-borehole
+thermal energy storage system. ASCE Journal of Geotechnical and Geoenvironmental
+Engineering. 04015097-1-12. 10.1061/(ASCE)GT.1943-5606.0001432.
+Kolay, E., Başer, T., 2014. Estimation of the Dry Unit Weight of Compacted Soils Using
+General Linear Model and Multilayer Perceptron Neural Networks, Applied Soft
+Computing, Vol 18, pp. 223-231, http://dx.doi.org/10.1016/j.asoc.2014.01.033.
+Click for more
+Articles in Conference Proceedings
+Roberge, X.J., Abhinav, A., Beauregard, M., and Baser, T. (2021). An Experimental Investigation of Coupled Thermo-Electrical Properties of Icy Porous Media. RCOP and ICCRE Virtual Conference 2021
+
+Fernandez Santoyo, S.*, Tom, J.G., and Baser, T. (2021). Impact of Subsurface Warming on the Capacity of Helical Piles Installed in Permafrost Layers. International Foundations Congress and Equipment Expo 2021, Dallas, TX. Accepted
+
+Reiter, M.B and Başer, T., 2020. Thermal response of a helical-loop energy foundation installed in unsaturated residual soil profiles, International Conference on Energy Geotechnics, University of California San Diego, USA.
+
+Reiter, M.B.*, Attalla, M., Kurtz, L.*, and Başer, T., (2020). Changes in shaft resistance and pore water pressure during heating of a geothermal energy foundation, International Conference on Energy Geotechnics, University of California San Diego, USA.
+
+Baser, T., McCartney, J.S., and Ozdogan-Dolcek, A. (2019). Thermal Energy Storage in Borehole Arrays installed in Unsaturated Soils. ISSMGE PanAmerican Conference, Cancun, Mexico.
+Balcay, A. and Baser, T. (2019). Impact of Shear Modulus on Maximum Allowable Pressures in HDD. ISSMGE PanAmerican Conference, Cancun, Mexico.
+
+Hayes, M., Baser, T., Ozdogan-Dolcek, A. (2019). Effect of heat transfer mechanisms on thermal response of horizontal heat exchangers. Engineering Mechanics Institute Conference 2019, Pasadena, CA.
+
+Baser, T., Hannah, C., McCartney, J.S. (2019). “Performance of a field-scale horizontal geothermal heat storage system” Geocongress 2019, Philadelphia, PA
+
+Baser, T., (2017). “Transient heat transfer in vertical ground heat exchangers”. ISSMGE
+6IYGEC 2017, September 16-17, Seoul, South Korea.
+Baser, T., Dong, Y., Lu, N., McCartney, J.S., 2017. “Evaluation of coupled thermal and
+hydraulic relationships used in simulation of thermally-induced water flow in unsaturated
+soils”. PanAm Unsat-2017, Dallas, TX
+McCartney, J.S. and Başer, T., (2017). “Role of coupled process in thermal energy storage in
+the vadose zone”. ISSMGE CPEG2 2017, September 6-7, Leeds, UK.
+McCartney, J.S., Başer, T., Zhan, N., Lu, N., Ge, S., and Smits, K., (2017). “Storage of Solar
+Thermal Energy in Borehole Thermal Energy Storage Systems”. IGSHPA
+Technical/Research Conference and Expo Denver March 14-16, 2017.
+Başer, T., Dong, Y., and McCartney, J.S. (2016). “Heat content in soil-borehole thermal
+energy systems in the vadose zone.” ICEGT 2016: 1st International Conference on Energy
+Geotechnics. Kiel. Aug. 29-31. 1-8.
+Başer, T., Dong, Y., Lu, N., and McCartney, J.S. (2016). “Role of considering non-constant
+soil thermal parameters in the simulation of geothermal heat storage systems in the vadose
+zone.” Proc. 8AYGEC 2016. Astana, Kazakhstan, Aug. 6-8. 6 pg.
+Başer, T., McCartney, J.S., Moradi, A., Smits, K., and Lu, N. (2016). “Impact of a thermo-
+hydraulic insulating layer on the long-term response of soil-borehole thermal energy storage
+systems.” GeoChicago 2016: Sustainability, Energy and the Geoenvironment. Chicago. Aug.
+14-18. pp. 125-134.
+Başer, T. and McCartney, J.S. (2015). “Development of a full-scale soil-borehole thermal
+energy storage system.” Proc. IFCEE 2015. San Antonio, TX. Mar. 17-21. ASCE. pp. 1608-
+1617.
+Başer, T and McCartney, J.S. (2015). Thermal Energy Storage in Borehole Heat Exchanger
+Arrays. International Symposium on Energy Geotechnics. SEG2015. Barcelona, Spain, June
+2-4. 4.
+Başer, T., Linkowski, D., and McCartney, J.S. (2014). “Heat storage in soil -borehole
+thermal energy storage systems in the vadose zone.” Proc. 7th ICEG. Nov. 10-14.
+Melbourne. pp. 1-8. 5.
+McCartney, J.S., Alsherif, N., Coccia, C.J.R., Stewart, M.A., Başer, T., Traore, T., and
+Goode, J.C. III (2014). “Unsaturated Soil Mechanics in Geothermal Energy Applications.”
+Unsaturated Soils: Research & Applications (UNSAT 2014). Sydney, Australia. Jul. 2-4. N.
+Khalili, A. Russell, A. Khoshghalb, eds. 835-842. 6
+Kayabalı, K., Balcı, M. C. and Başer, T., Preliminary results from a small geotechnical
+centrifuge for consolidation tests: Proc. Of Third Int’l Conf. on New Developments in Soil
+Mechanics and Geotechnical Engineering, June 28-30 2012, Near East University, Nicosia,
+TRNC, 820-827.
+Kolay, E. and Başer, T., 2010. Estimation of dry unit weight of soils by ANN. 7th
+International Symposium on the Eastern Mediterranean Geology, 18-22 October, Cukurova
+University, Turkey.
+Başer, T., Kolay, E., and Akçe, M.A., 2011. The effect of basalt textures on some empirical
+relationships. Proceedingds of the X. Regional Rock Mechanics Symposium, pp 231-237,
+METU, Ankara.
+Click for more
+Other Publications
+Editorial,(2019).Environmental Geotechnics, 6(1), 1-2. 
+Campbel, C. 2017. Interview with Tugce Baser: Improved Methods Save Money in Future
+Borehole Thermal Energy Storage Design.
+http://www.environmentalbiophysics.org/borehole-thermal-energy-storage-improved-
+design/
+Başer, T., Zheng, Y., and Zayed, M., (2017). “Lessons Learned from Geo-Legends.”
+GeoStrata: The Magazine of the GeoInstitute of ASCE.
+http://geostrata.geoinstitute.org/departments/2015-05-06p20-29/
+Başer, T., Dong, Y., Lu, N., and McCartney, J.S. (2016). “Research on soil-borehole
+thermal energy storage systems in the U.S.A.” TC308 on Energy Geotechnics Newsletter.
+International Society for Soil Mechanics and Geotechnical Engineering. 1(1), 22-26.
+
+
+
+Honors
+Outstanding Instructor Award, ASCE (2/2020)
+Young Investigator Award at Air Force Office of Scientific Research  (11/2020)
+Bright Spark Lecturer, XVI PanAmerican Conference on Soil Mechanics and Geotechnical Engineering, Cancun, Mexico (11/2019)
+Professional development Grant, Deep Foundations Institute (DFI) Educational Trust and   Women in DFI (10/2019)
+Outstanding Reviewer, Renewable Energy (11/2018)
+Delegate of 6th International Young Geotechnical Engineers’ Conference (ISSMGE), Seoul, Korea (09/2017)
+Scholar of “Top Global University Project”, GSGES Spring School
+Program, Kyoto University  (2/16-3/16)
+Best theme paper, 7th International Conference on Environmental Geotechnics (10/2014)
+Visiting Graduate Researcher of Council of Higher Education of Turkish Republic at University of Colorado Boulder (8/2011-12/2011 )
+Click for more
+
+
+
+
+
+
+
+
+Related News
+
+
+Earthquake workshop explores technologies to enhance disaster resilience
+
+
+Webinar: Turkey earthquake recon
+
+
+Geothermal 'battery' repurposes abandoned oil and gas well in Illinois, researchers report
+
+
+CEE summer camp highlights societal challenges, solutions
+
+
+Campus connection: new bridge is more than a pedestrian convenience
+
+
+Learn about the Kavita and Lalit Bahl Smart Bridge
+
+
+
+Watch
+
+
+Faculty Research Webinar March 31, 2023: Kahramanmaras earthquake sequence
+
+
+
+
+
+
+
+
+
+

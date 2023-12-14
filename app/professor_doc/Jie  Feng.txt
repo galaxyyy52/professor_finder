@@ -1,0 +1,241 @@
+
+
+
+
+
+
+
+ 
+
+
+Jie Feng 
+
+
+
+Assistant Professor
+(217) 300-1952
+jiefeng@illinois.edu
+4421 Mechanical Engineering Lab
+
+
+
+For More Information
+Fluids, Interfaces and Transport (FIT) Laboratory
+
+
+Education
+BSc Thermal Engineering, Tsinghua University, 2009
+MSc Thermal Engineering, Tsinghua University, 2011
+PhD Mechanical and Aerospace Engineering, Princeton University, 2016
+
+Academic Positions
+Postdoctoral Research Associate, Department of Chemical and Biological Engineering, Princeton University, Sep. 2016 - Dec. 2019
+
+Adjunct Assistant Professor, University of Illinois at Urbana-Champaign, Mechanical Science and Engineering, Jul. 2018 - Jan. 2019
+
+Assistant Professor, University of Illinois at Urbana-Champaign, Mechanical Science and Engineering, Jan. 2019 - present
+Research Faculty, Materials Research Laboratory (0%), University of Illinois at Urbana-Champaign, Sep. 16, 2021 - present
+
+
+Resident Instruction
+ME 310 - Fundamental Fluid Mechanics, Spring 2023
+
+TAM 335 (ZJUI, co-lecturer) - Introductory Fluid Mechanics, Spring 2023
+
+ME 470 - Senior Design, Fall 2022, supervising Design Teams "Portable Glove Dryer" and "Mechanical Fixture"
+
+TAM 435 - Intermediate Fluid Mechanics, Fall 2022
+
+TAM 335 - Introductory Fluid Mechanics, Spring 2022
+
+TAM 435 - Intermediate Fluid Mechanics, Fall 2021, on list of "teachers ranked as excellent"
+
+TAM 335 (ZJUI, co-lecturer) - Introductory Fluid Mechanics, Spring 2021
+
+ME 470 - Senior Design, Spring 2021, supervising Design Team "Gear Cleaning"
+
+ME 310 - Fundamental Fluid Mechanics, Spring 2021
+
+TAM 335 - Introductory Fluid Mechanics, Fall 2020
+
+TAM 335 - Introductory Fluid Mechanics, Spring 2020
+
+ME 470 - Senior Design, Fall 2019, Supervising Design Team "Post-Surgical Wound Drain Holder"
+
+TAM 335 - Introductory Fluid Mechanics, Spring 2019
+
+Click for more
+Research Interests
+We study micro-scale transport phenomena of structurally complex fluids and interfaces, to derive new insights in physico-chemical mechanisms and continuum-scale mechanics of multi-phase soft matter systems, as well as for their applications to solving some most challenging problems in environment remediation and human health, such as pollutant and disease control, oil recovery, drug delivery and nanomedicines. We actively tackle problems and explore new research directions by using microscopy, microfluidics, high-speed imaging and image analysis, materials processing and characterization. We also complement our experiments with theoretical modeling and numerical simulations, using ideas from fluid dynamics, polymer physics, colloidal science and biophysics. Our work is thus highly multi-disciplinary, combining expertise from engineering, physics, chemistry, materials science and biology. Our ultimate goal is to bridge fundamental research with meaningful and positive societal impacts. Currently, we focus on three key areas in our work: (1) Bubble dynamics with a structurally compound interface (2) Vesicle responses in non-equilibrium environment (3) Polymer self-assembly for drug delivery and disease diagnostic.
+
+
+
+Research Areas
+Applied Physics
+Chemistry
+Energy
+Environment
+Fluid Mechanics
+Health and Bio
+Manufacturing
+Click for more
+
+Selected Articles in Journals
+[44] Yang, Z., Ji, B., Feng, J*. Daughter oil droplets produced by oil-coated bubble bursting, Journal of Fluid Mechanics, accepted.
+
+[43] Son, C., Yang, Z., Kim, S., Ferreira, P., Feng, J., Kim, S. Bi-directional droplet manipulation on a magnetically actuated superhydrophobic ratchet surfaces, ACS Nano, accepted.
+
+[42] Ji, B., Yang, Z., Feng, J.* Secondary bubble entrainment via primary bubble bursting at a viscoelastic surface, Physical Review Letters, 131, 104002, 2023.
+
+[41] Qian, H., Yang, Z., Zhang, X., Feng, J.*, Li, C.* Dilute oil-in-water emulsion initiates multiple holes formation during bubble bursting, International Journal of Multiphase Flow, 104525, 2023.
+
+[40] Yang, Z., Ji, B., Ault. J., Feng, J.* Enhanced singular jets in oil-coated bubble bursting. Nature Physics, 19, 884–890, 2023.
+
+[39] Chun, S., Ji, B., Yang, Z., Malik, V.K., Feng, J.* Experimental observation of a confined bubble moving in shear-thinning fluids. Journal of Fluid Mechanics, 953, 12, 2022.
+
+[38] Yan, X., Chen F., Zhao, C., Qin, Y., Wang, X.,Rabbi, K. F., Hoque, M. J., Zhao, H., Li, J., Gebrael, T., Chen, F., Feng, J., Miljkovic, N. Microscale Confinement and Wetting Contrast Enable Enhanced and Tunable Condensation. ACS Nano, 16, 9510-9522, 2022
+
+[37] Ji, B., Singh A., Feng, J.* Water-to-air transfer of nano/micro-sized particulates: enrichment effect in bubble bursting jet drops. Nano Letters, 13, 5626–5634, 2022 (Selected as an ACS Editor's Choice and journal cover article)
+
+[36] Ji, B., Liu, H., Kim, J., Chamorro, L. P., Feng, J.* Dynamics of an oil-coated bubble rising in a quiescent water medium. Physical Review Fluids, 7, 033603, 2022
+
+[35] An H., Smith J.W., Ji B., Cotty S., Zhou S., Yao L., Kalutantirige F.C., Chen W., Ou Z., Su X., Feng J., Chen Q. Mechanism and Performance Relevance of Nanomorphogenesis in Polyamide Films Revealed by Quantitative 3D Imaging and Machine Learning. Science Advanced, 8, eabk1888, 2022
+
+[34] Malik, V. K., Pak, O., Feng, J.* Pore dynamics of lipid vesicles under light-induced osmotic stress. Physical Review Applied, 17, 024032, 2022
+
+[33] Ji, B., Yang, Z., Feng, J.* Compound jetting from bubble bursting at an air-oil-water interface. Nature Communications, 12, 1-10, 2021
+
+[32] Ji, B., Singh, A., Feng, J.* Oil column pinch-off controls the oil fraction of the oil-coated bubble. Physics of Fluids, 33, 103316, 2021
+
+[31] Son, C., Ji, B., Park, J., Feng, J., Kim, S. A Magnetically Actuated Superhydrophobic Ratchet Surface for Droplet Manipulation. Micromachines, 12, 325, 2021
+
+[30] Ji, B., Yang, Z., and Feng, J.* Oil-coated bubble formation from submerged co-axial orifices. Physical Review Fluids, 6, 033602, 2021 (Selected as an Editor's suggestion)
+
+[29] Doan, V., Chun, S., Feng, J., Shin, S.. Confinement-dependent diffusiophoresis of nanoparticles in collagen hydrogels. Nano Letters, 21, 7625-7630, 2021
+
+[28] Chun, S., Feng, J.* Preparation of abamectin nanopesticides by Flash NanoPrecipitation for extended photostability and sustained release, ACS Applied Nano Materials, 4, 1228-1234, 2021.
+
+[27] Malik, V. K., Shin, S., Feng, J.* Light-triggered explosion of lipid vesicles, Soft Matter, 16, 8904-8911, 2020.
+
+[26] Yan, X., Qin, Y., Chen, F., Zhao, G., Sett, S., Hoque, M. J., Rabbi, K. F., Zhang, X., Wang, Z., Li, L., Chen, F., Feng, J, Miljkovic, N. Laplace pressure driven single-droplet jumping on structured surfaces, ACS Nano, 14, 12796-12809, 2020.
+
+[25] Chao, Y., Tak Hung, L., Feng, J., Yuan, H., Pan, Y., Guo, W., Zhang, Y., Shum, H. C. Flower-like droplets by self-emulsification of a phase-separating (SEPS) aqueous film, Soft Matter, 16, 6050-6055, 2020.
+
+[24] Tian, C., Feng, J., Prud'homme, R.K. Adsorption dynamics of polymeric nanoparticles at an air-water interface with addition of surfactants, Journal of Colloid and Interface Science, 575, 416-424, 2020.
+
+[23] Shin, S., Down, V.S., Feng, J. Osmotic delivery and release of lipid-encapsulated molecules via sequential solution exchange. Physical Review Applied, 12, 024014, 2019.
+
+[22] Feng, J., Markwalter, C.E., Tian, C., Armstrong, M. and Prud'homme, R.K. Translational formulation of nanoparticle therapeutics from laboratory discovery to clinical scale. Journal of Translational Medicine, 17, 200, 2019
+
+[21] Ristroph, K.D., Feng, J., McManus, S.A., Zhang, Y., Gong, K., Ramachandruni, H., White, C.E. and Prud'homme, R.K. Spray drying OZ439 nanoparticles to form stable, water-dispersible powders for oral Malaria therapy. Journal of Translational Medicine, 17, 97, 2019.
+
+[20] Feng, J., Zhang, Y., McManus, S., Qian, R., Ristroph, K., Ramachandruni, H., Gong, K., White, C.E., Rawal, A. and Prud'homme, R. Amorphous nanoparticles by self-assembly: processing for controlled release of hydrophobic molecules. Soft Matter, 15, 2400-2410, 2019.
+
+[19] Lu, H.D., Ristroph, K.D., Dobrijevic, E.L., Feng, J., McManus, S.A., Zhang, Y., Mulhearn, W.D., Ramachandruni, H., Patel, A. and Prud’homme, R.K. Encapsulation of OZ439 into nanoparticles for supersaturated drug release in oral Malaria therapy. ACS Infectious Diseases, 4, 970-979, 2018.
+
+[18] Feng, J., Zhang, Y., McManus, S.A., Ristroph, K.D., Lu, H.D., Gong, K., White, C.E. and Prud’homme, R.K. Rapid recovery of clofazimine-loaded nanoparticles with long-term storage stability as anti-Cryptosporidium therapy. ACS Applied Nano Materials, 1, 2184-2194, 2018.  
+
+[17] Tian, C.*,Feng, J.*, Cho H.J., Data S. and Prud’homme, R.K. Adsorption and denaturation of structured polymeric nanoparticles at an interface. Nano Letters, 18, 4854-4860, 2018 (*equal contribution) 
+
+[16] Yan, J., Moreau, A., Khodaparast, S., Perazzo, A., Feng, J., Fei C., Mao, S., Mukherjee, S., Kosmrlj, A., Wingreen, N.S., Bassler, B.L., and Stone, H.A. Bacterial biofilm material properties enable removal and transfer by capillary peeling. Advanced Materials, 1804153, 2018
+
+[15] Zhang, Y., Feng, J., McManus, S.A., Lu, H.D., Ristroph, K.D., Cho, E.J., Dobrijevic, E.L., Chan, H.K. and Prud’homme, R.K., 2017. Design and solidification of fast-releasing clofazimine nanoparticles for treatment of Cryptosporidiosis. Molecular Pharmaceutics, 14, 3480-3488, 2017.
+
+[14] Shin, S., Ault, J.T., Feng, J., Warren, P.B. and Stone, H.A. Low‐cost zeta potentiometry using solute gradients. Advanced Materials, 29, 1701516, 2017
+
+[13] Feng, J., Nunes, J.K., Shin, S., Yan, J., Kong, Y.L., Prud'homme, R.K., Arnaudov, L.N., Stoyanov, S.D. and Stone, H.A. A scalable platform for functional nanomaterials via bubble‐bursting. Advanced Materials, 28(21), 4047-4052, 2016
+
+[12] Feng, J., Muradoglu, M., Kim, H., Ault, J.T. and Stone, H.A. Dynamics of a bubble bouncing at a liquid/liquid/gas interface. Journal of Fluid Mechanics, 807, 324-352, 2016
+
+[11] Feng, J., Jacobi, I. and Stone, H.A. Experimental investigation of the Faraday instability on a patterned Surface. Experiments in Fluids, 57, 86, 2016
+
+[10] Kong, Y.L., Boulogne, F., Kim, H., Nunes, J., Feng, J. and Stone, H.A. Deposition of quantum dots in a capillary tube. Langmuir, 31, 12560-12566, 2015.
+
+[9] Stewart, P.S., Feng, J., Kimpton, L.S., Griffiths, I.M. and Stone, H.A. Stability of a Bi-layer Free Film: simultaneous or individual rupture events? Journal of Fluid Mechanics, 777, 27-49, 2015.
+
+[8] Pak, O.S.*, Feng, J.* and Stone, H.A. Viscous Marangoni migration of a drop in a Poiseuille flow at low surface Péclet numbers. Journal of Fluid Mechanics, 753, 535-552, 2014 (*equal contribution)
+
+[7] Feng, J., Roché, M., Vigolo, D., Arnaudov, L.N., Stoyanov, S.D., Gurkov, T.D., Tsutsumanova, G.G. and Stone, H.A. Nanoemulsions obtained via bubble-bursting at a compound interface. Nature Physics, 10(8), 606-612, 2014.
+
+[6] Quinn, D.B., Feng, J. and Stone, H.A. Analytical model for the deformation of a fluid–fluid interface beneath an AFM probe. Langmuir, 29(5), 1427-1434, 2013
+
+Click for more
+Patents
+R. K. Prud'homme, B. Powell, V. Pansare, N. Caggiano, J. Feng, Dihydromyricetin Spray-dried Dispersion Formulations and Methods for Forming them. U.S. Provisional Patent Ser. NO. 62/767,197 filed November 14, 2018.
+S. Shin, J. T. Ault, J. Feng, H. A. Stone. Zeta Potentiometer Using Diffusiophoresis and Diffusioosmosis. U.S. Provisional Patent Ser. NO. 62/594,871, filed on Dec 5, 2017.
+J. T. Ault,  S. Shin, H. A. Stone, J. Feng, P. Warren. Methods of Particle Manipulation and Analysis. U.S. Provisional Patent Ser. NO. 16/210,760, filed on Dec 5, 2017.
+R. K. Prud'homme, J. Feng, K. D. Ristroph, H. Lu, Y. Zhang, S. A. McManus, Cellulosic Polymer Nanoparticles and Methods for Forming them. U.S. Provisional Patent Ser. NO. 62/557,744, filed on Sep 12, 2017.
+
+Professional Societies
+Member, American Physical Society (APS), 2012-present
+
+Member, American Chemical Society (ACS), 2018-present
+
+Member, American Society of Mechanical Engineers (ASME), 2018-present
+
+Member, American Institute of Chemical Engineers (AIChE), 2015-present
+
+Member, Controlled Release Society (CRS), 2017-present
+
+
+Teaching Honors
+List of Teachers Ranked as Excellent - ME 310 Spring 2023
+
+List of Teachers Ranked as Excellent - TAM 435 Fall 2021
+
+
+Research Honors
+Princeton's nominee for Blavatnik Regional Postdoctoral Award (2018)
+Research Support Award, Univ. of Illinois
+ (2019
+)
+ACS PRF Doctoral New Investigator Award
+ (2019
+)
+Soft Matter Emerging Investigator, Royal Society of Chemistry
+ (2022
+)
+
+Public Service Honors
+Engineering Council Outstanding Advisor Award, The Grainger College of Engineering
+ (2022
+)
+
+
+Recent Courses TaughtME 310 AE1 (ME 310 AE2, ME 310 ZJ1, ME 310 OE2) - Fundamentals of Fluid Dynamics
+TAM 335 ZJU (TAM 335 AE1, TAM 335 AE2, TAM 335 AL1, TAM 335 ZJ1) - Introductory Fluid Mechanics
+TAM 435 - Intermediate Fluid Mechanics
+
+
+
+
+
+
+
+Related News
+
+	October 4, 2023
+	Researchers discover impact of surface viscoelasticity on bubble bursting dynamics
+
+	March 29, 2023
+	Tiny yet hazardous
+
+	July 19, 2022
+	New study models the impacts of bursting bubble aerosols on climate and public health
+
+	November 27, 2021
+	Bubbling up: Previously hidden environmental impact of bursting bubbles exposed in new study
+
+	October 6, 2020
+	Feng research outlines strategy to improve drug delivery to tissues
+
+	June 23, 2020
+	Feng’s rheological investigation on oil-laden foams could improve oil recovery
+
+
+
+
+
+
+
+

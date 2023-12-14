@@ -1,0 +1,164 @@
+
+
+In This SectionPeopleAll Faculty
+Department Faculty
+Adjuncts and Affiliates
+Emeritus Faculty
+
+
+Staff
+Staff Listing
+Service Areas and Offices
+
+
+
+
+
+
+ 
+
+
+Marie Agathe Charpagne 
+
+
+
+Assistant Professor
+(217) 333-0531
+mcharp@illinois.edu
+408A Materials Science & Eng Bld
+
+
+
+For More Information
+Google scholar
+
+Group website
+
+Education
+M.Eng., Materials and Mechanics - Ecole Nationale Superieure des Mines de Saint Etienne (2013)
+
+M.Sc., Energy, Materials and Processing - Ecole Nationale Superieure des Mines de Saint Etienne (2013)
+
+PhD, Materials Science - Mines ParisTech (2017)
+
+
+BiographyDr. Marie Agathe Charpagne was born and studied in France, where she was a first generation college student. She holds a Master of Science in Energy, Materials and Processing (2013), a Master of Engineering in Materials and Mechanics (2013) from Mines Saint Etienne and a PhD in Materials Science and Computational Mechanics from Mines ParisTech (2017). She joined UIUC in Fall of 2021 after spending 5 years as a postdoctoral researcher at the University of California Santa Barbara in Tresa Pollock's group. She received her NSF-CAREER award in 2023. 
+Academic Positions
+Postdoctoral researcher - University of California Santa Barbara (Feb 2017-Aug 2021)
+
+
+Research Interests
+3D materials science
+Additive Manufacturing
+
+Alloy Design
+Correlative microscopy
+In-situ testing
+
+Mechanical properties
+Click for more
+
+Research Areas
+Metals
+
+
+Research Topics
+Data Science & Accelerated Materials Discovery
+Energy & Environment 
+Infrastructure
+Manufacturing
+Mechanical Properties and Materials for Extreme Conditions
+
+Selected Articles in Journals
+DJ Shadle, KE Nygren, JC Stinville, MA Charpagne, TJH Long, MP Echlin, CJ Budrow, AT Polonsky, TM Pollock, IJ Beyerlein, MP Miller ,Integrating in-situ multi-modal characterizations with signatures to investigate localized deformation, Materials Characterization, 113332 (2023)
+Y.Nie, Y.T. Chang, M.A. Charpagne,  Functionally graded stainless steels with tailored grain boundary serration. Scripta Materialia vol.237 115714 (2023)
+J.C. Stinville, M.A. Charpagne, R. Maass, H. Proudhon, W. Ludwig, P.G. Callahan, F.Wang, I.J. Beyerlein, M.P. Echlin, T.M.Pollock, Insights into Plastic Localization by Crystallographic Slip from Emerging Experimental and Numerical Approaches, Annual Reviews of Materials Research (2023)
+J.M. Hestroffer, JC Stinville, MA Charpagne, MP Miller, TM Pollock, IJ Beyerlein, Slip localization behavior at triple junctions in nickel-base superalloys, Acta Materialia (2023) 118801
+F. Wang, J.C. Stinville, M.A. Charpagne, M.P. Echlin, S.R. Agnew, T.M. Pollock, M.DeGraef, D.S. Gianola, Dislocation cells in additively manufactured metallic alloys characterized by electron backscatter diffraction pattern sharpness, Materials Characterization 112673, (2023)
+Jonathan M Hestroffer, Marie-Agathe Charpagne, Marat I Latypov, Irene J Beyerlein, Graph neural networks for efficient learning of mechanical properties of polycrystals, Computational Materials Science, vol.217, p.111894 (2023)
+Wyatt A Witzen, McLean P Echlin, Marie-Agathe Charpagne, Tresa M Pollock, Irene J Beyerlein, Subgrain geometrically necessary dislocation density mapping in spalled Ta in three dimensions, Acta Materialia, vol.244, p.118366 (2023)
+Dominic DR Peachey, Christopher P Carter, Andres Garcia-Jimenez, Anugrahaprada Mukundan, Donovan N Leonard, Marie-Agathe Charpagne, Zachary C Cordero, Directional recrystallization of an additively manufactured Ni-base superalloy, Additive Manufacturing, vol. 60, p.103198 (2022)
+C Bean, F Wang, MA Charpagne, P Villechaise, V Valle, SR Agnew, DS Gianola, TM Pollock, JC Stinville, Heterogeneous slip localization in an additively manufactured 316L stainless steel, International Journal of Plasticity, vol.159, p.103436 (2022)
+JC Stinville, MA Charpagne, A Cervellon, S Hemery, F Wang, PG Callahan, V Valle, TM Pollock, On the origins of fatigue strength in crystalline metallic materials, Science vol. 377, issue 6610, p.1065-1071 (2022)
+JC Stinville, JM Hestroffer, MA Charpagne, AT Polonsky, MP Echlin, CJ Torbet, V Valle, KE Nygren, MP Miller, O Klaas, A Loghin, IJ Beyerlein, TM Pollock, Multi-modal dataset of a polycrystalline metallic material: 3d microstructure and deformation fields, Scientific Data, vol 9, issue 1, p.1-16 (2022)
+M.A.Charpagne, J.C.Stinville, F.Wang, N.Philips, T.M.Pollock, Orientation dependent plastic localization in the refractory high entropy alloy HfNbTaTiZr at room temperature, MSEA, (2022).
+MA Charpagne, JC Stinville, AT Polonsky, MP Echlin, TM Pollock, A Multi-modal Data Merging Framework for Correlative Investigation of Strain Localization in Three Dimensions, JOM 73, 11, pp. 3263-3271.
+J.M. Hestroffer, M.I. Latypov, J.C. Stinville, M.A. Charpagne, V. Valle, M.P. Miller, T.M. Pollock, I.J. Beyerlein, Development of grain-scale slip activity and lattice rotation fields in Inconel 718, Acta Materialia, 117627 (2022)
+S.Hemery, J.C. Stinville, F.Wang, M.A.Charpagne, M.Emigh, V.Valle, T.M.Pollock, Strain Localization and Fatigue Crack Formation at Twist Boundaries in Titanium Alloys, Acta Materialia (2021)
+K.V. Vamsi, M.A. Charpagne, T.M. Pollock, High-throughput approach for estimation of intrinsic barriers in FCC structures for alloy design, Scripta Materialia 204, 114126 (2021)
+
+M.A. Charpagne, J. Hestroffer, J.C. Stinville, A.T. Polonsky, M.P. Echlin, D. Texier, V. Valle, I.J. Beyerlein, T.M. Pollock, Slip localization in Inconel 718: a three-dimensional and statistical perspective, Acta Materialia (2021)
+
+P.R. Dawson, M.P. Miller, T.M. Pollock, J. Wendorf, L.H. Mills, J.C. Stinville, M.A. Charpagne, M.P. Echlin, Mechanical Metrics of Virtual Polycrystals (MechMet), Integrating Materials and Manufacturing Innovation pp.1-21 (2021) 
+
+T. Francis, P. Rottmann, A.T. Polonsky, M.A. Charpagne, M.P.Echlin, V. Livescu, D. Jones, G. Gray III, M. De Graef, T.M. Pollock, Multimodal 3D Characterization of Voids in Shock-Loaded Tantalum: Implications for Ductile Spallation Mechanisms, Acta Materialia, in press (2021)
+
+S. Katnagallu, S. Vernier, M.A. Charpagne, B. Gault, N.Bozzolo, P. Kontis, Nucleation mechanism of hetero-epitaxial recrystallization in wrought nickel-based superalloys, Scripta Materialia 191 pp.7-11 (2021) 
+
+M.A. Charpagne, J.C. Stinville, A.T. Polonsky, M.P. Echlin, S.P. Murray, Z. Chen, N. Bozzolo, J. Cormier, V. Valle, T.M. Pollock, Tuning Strain Localization in Polycrystalline Nickel-based Superalloys by Thermomechanical Processing, Superalloys 2021 pp. 471-481 (2020) 
+
+D. Texier, J.C. Stinville, M.A. Charpagne, Z. Chen, V. Valle, P. Villechaise, T. M. Pollock, J. Cormier, Role of Non-metallic Inclusions and Twins on the Variability in Fatigue Life in Alloy 718 Nickel Base Superalloy, Superalloys 2021 pp. 629-639 (2021)
+
+M.A. Charpagne, A. Polonsky., M.P. Echlin, S. Jacomet, J. de Jaeger, M. de Graef, N. Bozzolo, T.M. Pollock Growth accidents induced by primary gamma ' precipitates in a polycrystalline Nickel-based superalloy, Scripta Materialia 138, p.109-113 (2020)
+
+M.A. Charpagne, K.V. Vamsi, Y. Eggeler, S. Murray, C. Frey, J. Saal, S. Kolli, A. Van Der Ven, T.M. Pollock, Design of Nickel-Cobalt-Ruthenium Multi-Principal Element Alloys, Acta Materialia (2020)
+
+M.A. Charpagne, J.C. Stinville, P.G. Callahan, P. Villechaise, D. Texier, V. Valle, T.M. Pollock, Automated and quantitative analysis of plastic strain localization via multi-modal data recombination, Materials Characterization 163 (2020)
+
+J.C. Stinville, P.G. Callahan, M.A. Charpagne, M.P. Echlin, V. Valle, T.M. Pollock, Direct Measurements of Slip Irreversibility in a Nickel Base Superalloy Using High Resolution Digital Image Correlation, Acta Materialia  186 p.172-189 (2020)
+
+J.C. Stinville, M.A. Charpagne, F. Bourdin, P.G. Callahan, T.M. Pollock, Measurement of Elastic and Rotation Fields during Irreversible Deformation using Heaviside-Digital Image Correlation, Materials Characterization 169,  110600 (2020) 
+
+J.C. Stinville, T. Francis, A.T. Polonsky, C.J. Torbet, M.A. Charpagne, Z. Chen, G.H. Balbus, F.Bourdin; V. Valle, P.G. Callahan, M.P. Echlin, T.M. Pollock, Time-Resolved Digital Image Correlation in the SEM for Analysis of Time Dependent Mechanisms, Experimental Mechanics, pp.1-18 (2020)  
+
+J. Cappola, J.C. Stinville, M.A Charpagne, P.G. Callahan, M.P. Echlin, T.M. Pollock, A. Pilchak, M. Kasemer, On the Localization of Plastic Strain in Microtextured Regions of Ti-6Al-4V, Acta Materialia (2020)
+
+M.A. Charpagne, F. Strub, T.M. Pollock, Accurate reconstruction of EBSD datasets by a multimodal data approach using an evolutionary algorithm, Materials Characterization, 150, p.184-198 (2019) 
+
+M.I. Latypov, M.A. Charpagne, M. Souther, B.R. Goodlet, M.P. Echlin, I.J. Beyerlein., T.M. Pollock, Computational homogenization for multiscale forward modeling of resonant ultrasound spectroscopy of heterogeneous materials, Materials Characterization, 158 p. 109945 (2019) 
+
+B.R. Goodlet, L. Mills, B. Bales, M.A. Charpagne, S.P. Murray, W.C. Lenthe, L. Petzold, T.M. Pollock Elastic Properties of Novel Co and CoNi-Based Superalloys Determined through Bayesian Inference and Resonant Ultrasound Spectroscopy, Metallurgical and Materials Transaction A 49-6, p.2324-2339 (2018) 
+
+M.A. Charpagne, J.M. Franchet., N. Bozzolo, Overgrown grains appearing during sub-solvus heat treatment in a polycrystalline gamma-gamma’ Nickel-based superalloy, Materials and Design 144, p.353-360 (2017) 
+
+M.A. Charpagne, T. Billot, J.M. Franchet, N. Bozzolo, Heteroepitaxial recrystallization observed in RENE 65TM and UDIMET 720TM : A new recrystallization mechanism possibly occurring in all low lattice mismatch γ /γ’ Nickel based superalloys , Superalloys 2016 : 13th International Symposium on Superalloys, p. 417-426. (2016) 
+
+M.A. Charpagne, T. Billot, J.M. Franchet, N. Bozzolo, Heteroepitaxial recrystallization: A new mechanism discovered in a polycrystalline γ-γ′ nickel based superalloy", Journal of Alloys and Compounds 688, p.685-694 (2016) 
+
+M.A. Charpagne, P. Vennéguès, T. Billot, J.M. Franchet, N.Bozzolo, Evidence of multimicrometric coherent γ’ precipitates in a hot-forged γ /γ’ nickel-based superalloy, Journal of Microscopy 263-1, p.106-112 (2016) 
+
+Click for more
+Honors
+NSF CAREER award
+ (2023
+)
+American Chemical Society PRF DNI award (2023)
+
+Teaching Honors
+Teachers Ranked as Excellent (Fall 2022)
+
+Research Honors
+2021 JOM editor's choice for A Multi-modal Data Merging Framework for Correlative Investigation of Strain Localization in Three Dimensions
+ (December 2021
+)
+Best PhD thesis award - Society for Metals and Materials (SF2M) (2017)
+
+Public Service Honors
+"Rising Talent" of the Women's Forum for the economy and society (2017)
+Key Reader Award, Metallurgical and Materials Transactions A (2022)
+
+
+Recent Courses TaughtMSE 404 AD1 (MSE 404 AD2, MSE 404 MP1, MSE 404 MP2) - Metals Processing
+MSE 406 - Thermal-Mech Behavior of Matls
+MSE 441 - Metals Processing
+MSE 595 - Materials Colloquium
+
+
+
+
+
+
+
+
+
+

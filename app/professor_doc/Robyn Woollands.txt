@@ -1,0 +1,91 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Robyn Woollands 
+
+
+
+Assistant Professor
+
+rmw@illinois.edu
+ 
+
+
+
+For More Information
+woollands research group
+
+
+Education
+BS Physics, University of Canterbury, New Zealand, 2006
+MS Astronomy, University of Canterbury, New Zealand, 2008
+Graduate Certificate Antarctic Studies, University of Canterbury, New Zealand, 2008
+MS Aerospace Engineering, University of Minnesota, 2010
+PhD Aerospace Engineering, Texas A&M University, 2016
+
+Academic Positions
+Postdoctoral Researcher, Department of Aerospace Engineering, Texas A&M, 2017
+Adjunct Assistant Professor, Department of Aerospace Engineering, Texas A&M University, 2017-2020
+Assistant Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, 2021-present (100%)
+
+Other Professional Employment
+Mission Design Engineer, Jet Propulsion Laboratory, California Institute of Technology, 2017-2020; JPL Affiliate (2021-present)
+Junior Scientist, Department of Physics & Astronomy, Nova Neutrino Detector, University of Minnesota, 2011-2012
+
+Research Interests
+Optimization
+Astrodynamics
+Space Mission Design
+Picard-Chebyshev Methods
+High-fidelity Propagation
+Space Domain Awareness
+Click for more
+
+Research Areas
+Astrodynamics
+
+
+Selected Articles in Journals
+“Nonlinear Differential Equations Solvers via Adaptive Picard-Chebyshev Iteration: Applications in Astrodynamics”, R.M. Woollands and J.L. Junkins, Journal of Guidance, Control and Dynamics, May, 2019.
+“Efficient Computation of Optimal Low Thrust Perturbed Orbit Transfers”, R.M. Woollands, E. Taheri and J.L. Junkins, Journal of Astronautical Sciences, May, 2019.
+"Maximizing Dust Devil Follow-up Observations on Mars using Cubesats and On-board Scheduling", R.M. Woollands, F. Rossi, T. Stegun Vaquero, M. Sanchez Net, S. Bae, V. Bickel, J. Vander Hook, Journal of Astronautical Sciences, May 2022.
+Analytical Radial Adaptive Method for Spherical Harmonic Gravity Models", A.M. Atallah, A. Bani Younes, R.M. Woollands, J.L. Junkins, Journal of Astronautical Sciences, May 2022.
+
+Honors
+Distinguished Graduate Student Doctoral Award, Texas A&M University (2017)
+John V. Breakwell Student Paper Award, AAS/AIAA Astrodynamics Specialist Conference (2015)
+Outstanding Achievement in Guidance, Navigation and Control, Student Paper Award, AAS Guidance, Navigation & Control Conference (2014)
+
+
+Recent Courses TaughtAE 402 - Orbital Mechanics
+AE 403 - Spacecraft Attitude Control
+AE 502 - Advanced Orbital Mechanics
+AE 508 - Optimal Space Trajectories
+
+
+
+
+
+
+
+
+

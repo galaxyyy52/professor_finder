@@ -1,0 +1,89 @@
+
+
+
+
+
+
+
+ 
+
+
+Andrey Mironov 
+
+
+
+Research Assistant Professor
+
+amirono2@illinois.edu
+2064 Electrical & Computer Eng Bldg
+
+
+
+Education
+PhD, Electrical Engineering, University of Illinois, 2016
+
+BiographyAndrey Mironov received both the B.S. and M.S. degrees from the National Research University of Electronic Technology (Moscow, Russia) in 2010 and the Ph.D. degree in Electrical and Computer Engineering (ECE) from the University of Illinois (Urbana-Champaign) in 2016. Currently, Dr. Mironov is a Research Assistant Professor in the Laboratory for Optical Physics and Engineering at the University of Illinois at Urbana-Champaign. He has conducted research in the areas of laser physics, nano-optics and materials, optical physics, and photochemical materials fabrication for more than 10 years. Dr. Mironov has demonstrated several new lasers and lamps, including rubidium (Rb)-rare gas lasers having a quantum efficiency above 100%, and narrow-band 194 nm lamps that have made possible a new generation of compact optically-driven atomic clocks. Recently, he co-invented a photolithographic technique employing flat vacuum-ultraviolet (VUV) lamps to inexpensively fabricate nanostructures and optical components in polymers. Dr. Mironov is a co-inventor of 11 issued or pending patents, and a co-author of 15 scientific publications and more than 30 conference talks in the fields of low temperature plasma devices, nano- and microfabrication of optics and semiconductors, and laser spectroscopy.
+Resident Instruction
+ECE 210: Analog Signal Processing
+
+
+Undergraduate Research OpportunitiesMotivated undergraduates are invited to join our research group. Development of novel VUV-assisted nano- and microfabrication techniques and microplasma devices (bio, microfab, plasma photonic crystals, and other applications) are the prime research areas. 
+Research Interests
+Photochemistry
+Laser physics
+
+UV and VUV light sources
+Alkali lasers
+Atomic and molecular spectroscopy
+
+
+Research Areas
+Lasers and optical physics
+Plasma devices and plasma science
+
+
+Selected Articles in Journals
+A. E. Mironov, W. Goldshlag, and J. G. Eden. "Two color pumping of the Rb D2 line laser (780 nm) through the photoassociation of Rb-Ar or Rb-Xe thermal pairs: Realization of a quantum efficiency above one" Applied Physics Letters, 107(4), 2015.
+
+A. E. Mironov, J. D. Hewitt, and J. G. Eden. "Spin Polarization of Rb and Cs np 2P32 (n=5,6) Atoms by Circularly-Polarized Photoexcitation of a Transient Diatomic Molecule" Physical Review Letters, 118(11), 2017.
+H. Cheng, Y. Zhou, A. E. Mironov, W. Wang, T. Qiao, W. Lin, Q. Qian, S. Xu, Z. Yang, and J. G. Eden. "Mode suppression of 53 dB and pulse repetition rates of 2.87 and 36.4 GHz in a compact, mode-locked fiber laser comprising coupled Fabry-Perot cavities of low finesse (F = 2)" Optics Express, 25(20), 2017.
+S.-J. Park, C. Herring, A. E. Mironov, J. H. Cho, and J. G. Eden. "25 W of Average Power at 172 nm in the Vacuum Ultraviolet From Flat, Efficient Lamps Driven by Interlaced Arrays of Microcavity Plasmasmas" APL Photonics, 2(4), 2017.
+A. E. Mironov and J. G. Eden. "Manipulating Excited State Hyperfine Level Populations in An Atomic Laser Through Electronic Spin Polarization: Generating Anisotropic Coherent Radiation From An Isotropic Medium" Optics Express, 25(24), 2017.
+A. E. Mironov, D. L. Carroll, J. W. Zimmerman, and J. G. Eden. "Cs D2 line laser (852.1 nm) pumped by the photoassociation of Cs-Ar, Cs-Kr, and Cs-Xe collision pairs: Impact of rare gas partner on threshold and efficiency" Applied Physics Letters, 113(5), 2018.
+S. Park, A. E. Mironov, and J. G. Eden. "Cs-Ar Optical Amplifier With a Saturation Intensity of 10 kW-cm2 and Single-Pass Extraction Efficiency of 28% at 852.2 nm" Optics Express, 28(9), 2020.
+J. H. Kim, A. E. Mironov, S.-J. Park, and J. G. Eden. "Atomic Layer Deposition and Patterning of 15-185 nm Thick Al2O3 Films with Microplasma Arrays for Low-Temperature Growth and Sub-300 nm Lateral Feature Resolution" ACS Applied Nano Materials, 3(5), 2020.
+A. E. Mironov, N. Yu, S. Park, M. Tuggle, J. Gragg, C. Kucera, T. Hawkins, J. Ballato, J. G. Eden, and P. Dragic. "All optical fiber thermal vacuum gauge" J. Phys. Photonics, 2(1), 2020.
+A. E. Mironov, J. H. Kim, Y. Huang, A. W. Steinforth, D. J. Sievers, and J. G. Eden. "Photolithography in the vacuum ultraviolet (172 nm) with sub-400 nm resolution: photoablative patterning of nanostructures and optical components in bulk polymers and thin films on semiconductors" Nanoscale, 12(32), 2020
+N. Yu, K. V. Desai, A. E. Mironov, M. Xiong, M. Cavillon, T. Hawkins, J. Ballato, J. G. Eden, P. D. Dragic. "Reduced quantum defect in a Yb-doped fiber laser by balanced dual-wavelength excitation" Applied Physics Letters, 119(14), 2021
+
+A. E. Mironov, S. Park, J. Kim, D. J. Sievers, S.-J. Park, S. Spirk, J. G. Eden. "Photoablative lithography of cellulose acetate at 172 nm: Subtractive 3D printing of biodegradable optical microstructures and molds for polydimethylsiloxane patterning" APL Materials, 9(11), 2021.
+
+S. Park, A. E. Mironov, J. Kim, S.-J. Park, J. G. Eden. "194nm microplasma lamps driven by excitation transfer: Optical sources for the 199Hg Ion atomic clock and photochemistry" Plasma Sources Science and Technology, 31, 045007, 2022.
+
+J. Kim, A. E. Mironov, J. H. Cho, D. S. Sievers, C. M. Herring, S. Park, P. P. Sun, Z. Liang, W. Chen, S-J. Park, J. G. Eden. "Commercialization of microcavity plasma devices and arrays: Systems for VUV photolithography and nanopatterning, disinfection of drinking water and air, and biofilm deactivation for medical therapeutics" Plasma Processes and Polymers, 19, 2200075, 2022.
+Click for more
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+
+
+
+
+
+
+
+Related News
+
+
+ECE congratulates five faculty on recent promotions and welcomes three others
+
+
+Illinois ECE researchers develop novel low cost photolithographic technique offering potential to significantly advance microfabrication field
+
+
+
+
+
+
+
+

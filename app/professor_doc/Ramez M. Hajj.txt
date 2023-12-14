@@ -1,0 +1,239 @@
+
+
+
+
+
+
+
+ 
+
+
+
+ Ramez M. Hajj 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 244-6107
+rhajj@illinois.edu
+1210 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaTransportation Engineering
+Research Areas
+Transportation Engineering
+
+For More Information
+Website
+
+BiographyRamez Hajj is an Assistant Professor in the department of Civil and Environmental Engineering.  Prior to joining UIUC, he completed his Ph.D. and Master's in Civil Engineering at the University of Texas at Austin.  He obtained his Bachelor's Degree in Civil Engineering with a minor in Engineering Science and Mechanics from Virginia Tech.  Dr. Hajj's research spans everything related to asphalt materials and flexible pavements, from as small as investigating asphalt binder behavior at the molecular, nano-, and micro-scale, to developing novel materials for roadway pavement and railroad trackbed applications, to solving network-level transportation infrastructure problems. Primarily, his research focuses on asphalt binders, mixtures, and pavements, but more broadly, these research areas are situated in wider research areas of viscoelasticity, composites, machine learning and computational modeling. So far, his work includes fundamental scientific discoveries into the origins of cracking in asphalt binder microstructure, as well as practical contributions to the asphalt industry, state Departments of Transportation, and local transportation agencies. To date, he has published in a wide range of peer-reviewed journals in these areas, and presented his work at many international conferences. Currently, Dr. Hajj's research is funded by the Illinois Department of Transportation (IDOT), the Smart Transportation Infrastructure Initiative (STII), the Illinois-Indiana Sea Grant, and numerous industry partners.
+Education
+Doctor of Philosophy, Civil Engineering, The University of Texas at Austin, 2019
+Master of Science, Civil Engineering, The University of Texas at Austin, 2016
+Bachelor of Science, Civil Engineering, Virginia Tech, 2014
+
+Academic Positions
+Assistant Professor, Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, Jan. 2020 - Present
+
+Journal Editorships
+Junior Editorial Board Member, Journal of Infrastructure Preservation and Resilience (Springer Open)
+Editorial Board Member, Road Materials and Pavement Design (Taylor & Francis)
+
+Professional Societies
+AKM 20 - Committee on Asphalt Binders, Member and Research Coordinator, Transportation Research Board, National Academies of Science, Engineering, and Medicine, 2020 - Present
+AKM 40 - Standing Committee on Asphalt Mixture Evaluation and Performance, Member, Transportation Research Board, National Academies of Science, Engineering, and Medicine, 2022 - Present
+Mechanics of Pavements Committee, ASCE EMI, 2021 - Present
+Academy of Pavement Science and Engineering, Academic Member
+American Society of Civil Engineers, Associate Member
+Engineering Mechanics Institute, ASCE, Member
+Association of Asphalt Paving Technologiests (AAPT), Member
+Click for more
+Service on Department Committees
+CEE THRIVES Committee, 2022 - Present
+Search Committee, Research Scientist, Department of Civil and Environmental Engineering (2021)
+Search Committee, Research Engineer, Illinois Center for Transportation (2021)
+Search Committee, Senior Research Scientist, Illinois Center for Transportation (2020)
+
+Service on College Committees
+Diversity Committee, Grainger College of Engineering, 2020 - 2021
+Member, IDEA Institute, 2020 - Present
+Grainger College of Engineering Ombudsperson Position Development Committee, 2020
+
+Service on Campus Committees
+Facilitator, Mentoring Matters Series, Office of the Associate Provost for Academic Affairs, Spring 2022
+
+Other Outside Service
+External Grant Reviewer, Swiss National Science Foundation, 2021 - Present
+External Grant Reviewer, Research Grants Council (RGC) of Hong Kong, 2020 - Present
+Technical Reviewer for Journals: 
+
+Construction and Building Materials (Elsevier), 
+Fuel (Elsevier), 
+Mechanics of Materials (Elsevier), 
+Transportation Geotechnics (Elsevier), 
+International Journal of Pavement Engineering (Taylor and Francis), 
+Road Materials and Pavement Design (Taylor and Francis), 
+Materials and Structures (Springer), 
+Energy & Fuels (ACS Publications), 
+Journal of Cold Regions Engineering (ASCE), 
+Journal of Engineering Mechanics (ASCE), 
+Journal of Materials in Civil Engineering (ASCE), 
+Journal of Transportation Engineering Part B: Pavements (ASCE), 
+Journal of Testing and Evaluation (ASTM), 
+Transportation Research Record: Journal of the Transportation Research Board (SAGE Publishing), 
+Science Progress (SAGE Publishing), 
+International Journal of Pavement Research and Technology (Springer Nature), 
+Transportation in Developing Economies (Springer Nature), 
+Advances in Civil Engineering (Hindawi), 
+Applied Sciences (MDPI), 
+Materials (MDPI), 
+Sustainability (MDPI)
+
+
+
+Research Interests
+Asphalt binder rheology and chemistry
+Mechanics of viscoelastic materials
+Computational modeling of infrastructure materials
+Flexible pavement design, construction, and maintenance
+Pavement surface characteristics and treatments
+Asphalt applications in railroad trackbeds
+Artificial intelligence for infrastructure material engineering
+Click for more
+Research StatementMy research occurs at the intersection of Transportation, Materials, and Mechanics.  My lab focuses on developing a better understanding of the mechanical fundamentals that drive behavior of infrastructure materials.  In the long term, I hope that the work we do will lead to the development of a new generation of materials for pavements and other applications that can contribute to a more durable, more sustainable, and longer lasting infrastructure.
+Undergraduate Research OpportunitiesI am currently looking for motivated undergraduate students who want to learn more about the world of asphalt materials and pavements.  Interested students should contact me with a copy of their resume.
+Graduate Research OpportunitiesI am currently looking for Graduate Research Assistants and the Masters and PhD level for Fall 2020 and beyond.  Interested students should contact me with a CV.
+Post-Doctoral Research OpportunitiesI am not currently looking to hire Post-Doctoral scholars.  However, externally funded post docs are welcome to apply to join my research group.
+Primary Research AreaTransportation Engineering
+Research Areas
+Transportation Engineering
+
+
+
+Selected Articles in Journals
+Lu, Y., Maia, R.S., & Hajj, R. “Multiscale evaluation of asphalt binder rejuvenation dosing and efficacy.” (2023). Construction and Building Materials, 133813.
+Asadi, B., Hajj, R., & Al Qadi, I. “Asphalt concrete dynamic modulus prediction: Bayesian Neural Network approach.” (2023). International Journal of Pavement Engineering. In Press
+Vyas, A., Wang, Y., Hajj, R., & Jahns, E. "Investigation of factors affecting modified binder design and performance using the poker chip test." (2023). Construction and Building Materials, 403, 133037
+Husain, S., Qamhia, I., Vyas, A., Maia, R., Tutumluer, E., & Hajj, R. (2023). “Emulsion Mixtures of Fractionated Reclaimed Asphalt Pavement and Quarry By-Products: a Laboratory Evaluation.” Sustainability, 15(13), 10735.
+Lu, Y., Asadi, B., & Hajj, R. (2023). Rheological, Mechanical, Microscopic, and Chemical Characterization of Asphalt Binders at Extended Aging Levels. Journal of Materials in Civil Engineering, 35(8), 04023256.
+Adwani, D., Sreeram, A., Pipintakos, G., Mirwald, J., Wang, Y., Hajj, R., Jing, R., & Bhasin, A. “Interpreting the Effectiveness of Antioxidants to Increase the Resilience of Asphalt Binders: First of its Kind Global Interlaboratory Study.” Construction and Building Materials, 366.
+Filonzi, A., Komaragiri, S., Hajj, R., Trevino, M., Hazlett, D., Mahmoud, E., & Bhasin, A. (2022). A method to evaluate the tensile strength and ductility of asphalt binders using a thin confined film. International Journal of Pavement Engineering, 1-12.
+Lu, Y., & Hajj, R. (2021). Investigation of flexible pavement maintenance patching factors using a finite element model. Journal of Infrastructure Preservation and Resilience, 2(1), 1-16.
+Asadi, B., Tabatabaee, N. and Hajj, R. (2021) "Use of linear amplitude sweep test as a damage resistance or fracture test to determine the optimum content of asphalt rejuvenator." Construction and Building Materials, 300.
+
+Asadi, B., Tabatabaee, N., and Hajj, R. (2021) “Crack-based healing master curves derived from linear amplitude sweep tests: A cohesive healing indicator for asphalt binders.” Accepted for publication in Materials and Structures.
+
+Ahmed, R. B., Hossain, K., Aurilio, M., & Hajj, R. (2021). Effect of rejuvenator type and dosage on rheological properties of short-term aged binders. Materials and Structures, 54(3), 1-18.
+Gul, M. A., Khan, K., Islam, M. K., Shalabi, F. I., Ozer, H., Hajj, R., & Bhasin, A. (2021).  “Developing a performance based mix design and evaluating the influence of various factors on sulfur-extended asphalt.”  Construction and Building Materials. 290, 123199.
+Hajj, R., & Young, S. (2021). An analysis of theoretical and empirical relationships between two asphalt binder cracking parameters. Road Materials and Pavement Design, 1-17.
+Ahmed, R. B., Hossain, K., & Hajj, R. M. (2021). Chemical, Morphological, and Fundamental Properties of Rejuvenated Asphalt Binders. Journal of Materials in Civil Engineering, 33(2), 04020461.
+Sreeram, A., Leng, Z., Hajj, R., Ferreira, W. L., Tan, Z., & Bhasin, A. (2020). Fundamental investigation of the interaction mechanism between new and aged binders in binder blends. International Journal of Pavement Engineering, 1-11. (Completed 2019 before joining UIUC)
+Filonzi, A., Hajj, R., Smit, A. D. F., & Bhasin, A. (2020). Validation of inverse stereology generation of two dimensional area gradations for computational modelling of asphalt mixtures. Road Materials and Pavement Design, 1-15.  (Submitted 2019 before joining UIUC)
+Filonzi, A., Lee, S. K., Ferreira, W., Hajj, R., & Bhasin, A. (2020). A micro-extraction method for use with 4 mm plate geometry in the Dynamic Shear Rheometer to evaluate asphalt binder rheology. Construction and Building Materials, 252, 119024. (Submitted 2019 before joining UIUC)
+Sakib, N., Hajj, R., Hure, R., Alomari, A., & Bhasin, A. (2020). Examining the Relationship between Bitumen Polar Fractions, Rheological Performance Benchmarks, and Tensile Strength. Journal of Materials in Civil Engineering, 32(6), 04020143. (Submitted 2019 before joining UIUC)
+Hajj, R., Ramm, A., Bhasin, A., & Downer, M. (2019). Real-time microscopic and rheometric observations of strain-driven cavitation instability underlying micro-crack formation in asphalt binders. International Journal of Pavement Engineering, 21(8), 977-989.
+Hajj, R., Filonzi, A., Rahman, S., & Bhasin, A. (2019). Considerations for using the 4 mm plate geometry in the dynamic shear rheometer for low temperature evaluation of asphalt binders. Transportation Research Record, 2673(11), 649-659.
+Sreeram, A., Leng, Z., Hajj, R., & Bhasin, A. (2019). Characterization of compatibility between aged and unaged binders in bituminous mixtures through an extended HSP model of solubility. Fuel, 254, 115578.
+Hajj, R., Filonzi, A., Smit, A., & Bhasin, A. (2019). Design and Performance of Mixes for Use as Ultrathin Overlay. Journal of Transportation Engineering, Part B: Pavements, 145(3), 04019026.
+Sabaraya, I. V., Filonzi, A., Hajj, R., Das, D., Saleh, N. B., & Bhasin, A. (2018). Ability of nanomaterials to effectively disperse in asphalt binders for use as a modifier. Journal of Materials in Civil Engineering, 30(8), 04018166.
+Hajj, R., & Bhasin, A. (2018). The search for a measure of fatigue cracking in asphalt binders–a review of different approaches. International Journal of Pavement Engineering, 19(3), 205-219.
+Hajj, R., Hure, R., & Bhasin, A. (2017). Evaluation of stiffness, strength, and ductility of asphalt binders at an intermediate temperature. Transportation Research Record, 2632(1), 44-51.
+Click for more
+Articles in Conference Proceedings
+Lu, Y., & Hajj, R. M. (2021, November). Viscoelastic finite element modeling of flexible pavement patching. In Green and Intelligent Technologies for Sustainable and Smart Asphalt Pavements: Proceedings of the 5th International Symposium on Frontiers of Road and Airport Engineering, 12-14 July, 2021, Delft, Netherlands (IFRAE) (p. 289). CRC Press.
+Hajj, R., Ramm, A., Mohanraj, K., Bhasin, A., and Downer, M. “Micro-scale observations of fatigue damage mechanism in asphalt binder.” AM3P 2020: Advances in Materials, Pavement Performance, and Prediction. San Antonio, TX. 2020.
+
+Hajj, R. & Bhasin, A. “Importance of triaxial stress state on asphalt binder tensile failure.” AM3P2020: Advances in Materials, Pavement Performance, and Prediction. San Antonio, TX. 2020.
+
+Hajj, R., Sakib, N., Bhasin, A.,Ramm, A., and Downer, S. "Relation of modified bitumen microstructure to cracking indicators." In Advances in Materials and Pavement Prediction, pp. 189-192. CRC Press, 2018.
+
+Sakib, N., Hajj, R., Bhasin, A., Ramm, A., and Downer, M. "Bulk microstructures in bitumen and its influence on rheology." In Advances in Materials and Pavement Prediction, pp. 411-414. CRC Press, 2018.
+
+Komaragiri, S., Filonzi, A., Hajj, R., Bhasin, A., and Motamed, A. "Three-dimensional profiler for performance evaluation of chip seals." In Advances in Materials and Pavement Prediction, pp. 579-582. CRC Press, 2018.
+
+Tehrani, M., Boroujeni, A., Hajj, R., and Al-Haik, M. "Mechanical Characterization of a Hybrid Carbon Nanotube/Carbon Fiber Reinforced Composite." In ASME 2013 International Mechanical Engineering Congress and Exposition. American Society of Mechanical Engineers Digital Collection, 2013.
+
+Click for more
+Magazine Articles
+Hajj, Ramez. "Finding thinner strength: ultra thin overlays can have more muscle.'' Roads \& Bridges March 2018: 42-46.
+
+Reports
+Hajj, Ramez, Angelo Filonzi, Aliasghar Dormohammadi, Cheng Zhu, Vivek Tandon, and Amit Bhasin. ``Design and construction of ultra thin overlays as an alternative to seal coats.'' Technical Report No. FHWA/TX-18/0-6857-1. March 2018.
+Filonzi, Angelo, Indu Venu Sabaraya, Ramez Hajj, Dipesh Das, Navid B. Saleh, Amit Bhasin, and Enad Mahmoud. ``Evaluating the use of nanomaterials to enhance properties of asphalt binders and mixtures.'' No. FHWA/TX-17/0-6854-1. September 2018.
+Hajj, Ramez, Angelo Filonzi, and Amit Bhasin. ``Improving the Performance Graded asphalt binder specification.'' Technical Report No. FHWA/TX-18/0-6925-1. May 2019.
+Filonzi, Angelo, Sang Ki Lee, Ramez Hajj, Darren Hazlett, and Amit Bhasin. "Implementing Revisions to the Allowable Maximum Recycled Binder Ratio (RBR) Specification." No. FHWA/TX-20/0-6947-1. September 2020.
+Hajj, Ramez and Yujia Lu. "Current and Future Best Practices for Pothole Repair in Illinois." FHWA-ICT-21-003. February 2021.
+Thompson, M. and Hajj, R. "Flexible Pavement Recycling Techniques: A Summary of Activities." FHWA-ICT-21-017. July 2021.
+Hajj, R., Garg, N., Doehring, J., Vyas, A., Asadi, B., & Lu, Y. "Using Microcapsules and Bacteria for Self-Healing in Rigid and Flexible Pavements." I-ACT-21-03. January 2023.
+Click for more
+
+
+Honors
+Outstanding Reviewer, Journal of Materials in Civil Engineering
+ (2021
+)
+Outstanding Reviewer, Journal of Transportation Engineering Part B: Pavements (2022)
+
+Teaching Honors
+Levenick Teaching Sustainability Fellowship, Institute for Sustainability, Energy, and Environment (2021 - 2022)
+List of Teachers Ranked as Excellent, CEE 405, Center for Innovation in Teaching and Learning
+ (Fall 2020
+)
+List of Teachers Ranked as Excellent, CEE 310, Center for Innovation in Teaching and Learning (Spring 2021)
+List of Teachers Ranked as Excellent, CEE 506, Center for Innovation in Teaching and Learning (The instructor ratings were outstanding) (Spring 2021)
+List of Teachers Ranked as Excellent, CEE 405, Center for Innovation in Teaching and Learning (The instructor ratings were outstanding)
+ (Fall 2021
+)
+
+Research Honors
+Faculty Fellow, Illinois-Indiana Sea Grant (2021)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+ICT announces Fall 2021 Kent Seminar Series lineup
+
+
+Pothole patching creating better roadways
+
+
+Three CEE faculty named 2021-22 iSEE Levenick Teaching Fellows
+
+
+The Future Starts Now, Part 2
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

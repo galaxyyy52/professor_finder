@@ -1,0 +1,86 @@
+
+
+
+
+
+
+
+ 
+
+
+ Victoria Shao 
+
+
+
+Teaching Assistant Professor
+
+yangshao@illinois.edu
+5048 Electrical & Computer Eng Bldg
+
+
+
+Research Interests
+Electromagnetic compatibility/interference (EMC/EMI), Signal and power integrity analysis (SI/PI), Computational electromagnetics (CEM), High-power microwave, and Multi-physics analysis.
+
+
+Research Areas
+Electromagnetic compatibility
+
+
+Selected Articles in Journals
+S. Lin, S. Luo, S. Ma, J. Fu, Y. Shao etc., “Predicting Statistical Wave Physics in Complex Enclosures: A Stochastic Dyadic Green's Function Approach”, IEEE Transactions on Electromagnetic Compatibility, Jan. 2023. DOI: 10.1109/TEMC.2023.3234912.
+Z. Yang, M. D. Kraman, Z. Zheng, H. Zhao, J. Zhang, S. Gong, Y. V. Shao, W. Huang, P. Wang, and X. Li, "Monolithic Heterogeneous Integration of 3D Radio Frequency L-C Elements by Self-Rolled-up Membrane Nanotechnology," Adv. Func. Mater. 2004034, 2020. 
+
+S. Wang, Y. Shao and Z. Peng, "A Parallel-in-Space-and-Time Method for Transient Electromagnetic Problems," IEEE Transactions on Antennas and Propagation, vol. 67, no. 6, pp. 3961-3973, June 2019.
+B. MacKie-Mason, Y. Shao, A. Greenwood and Z. Peng, "Supercomputing-Enabled First-Principles Analysis of Radio Wave Propagation in Urban Environments," IEEE Transactions on Antennas and Propagation, vol. 66, no. 12, pp. 6606-6617, Dec. 2018.
+Z. Peng, Y. Shao, H. Gao, S. Wang and S. Lin, "High-Fidelity, High-Performance Computational Algorithms for Intrasystem Electromagnetic Interference Analysis of IC and Electronics," IEEE Transactions on Components, Packaging and Manufacturing Technology, vol. 7, no. 5, pp. 653-668, May 2017.
+
+Articles in Conference Proceedings
+Shen Lin, Yang Shao, Bisrat Addissie, Zachary Drikas, Zhen Peng, "Statistical Characterization of Cavity Quality Factor via the Stochastic Green’s Function Approach, " IEEE International Symposium on Electromagnetic Compatibility and Signal/Power Integrity (EMCSI), August 2023. Best EMC paper finalist.
+Yang V. Shao, “Lessons Learned from Developing and Teaching an Electromagnetic Compatibility Course - From Concepts to Delivery,” ASEE Annual Conference and Exposition, Baltimore, MD, June 2023.
+S. Lin; Y. Shao; Z. Peng, "On the Vectorial Property of Stochastic Dyadic Green's Function in Complex Electronic Enclosures," IEEE International Symposium on Electromagnetic Compatibility and Signal/Power Integrity, EMCSI 2022. Best EMC paper finalist.
+Yang Shao, "WIP: Development of Cross-Listed Electromagnetic Compatibility Course for Future Electronic Design Experts", ASEE Annual Conference, July 2022.
+Yang Shao, Zuofu Zhou, and Erhan Kudeki, “Work-In-Progress: Synergy of Visualization and Experiment in Under- graduate Engineering Electromagnetics Course,” ASEE Annual Conference, virtual conference, July 2021.
+Yang Shao, “Work-in-Progress: Building an Accessible Engineering Course through Asynchronous Online Teaching,” ASEE Illinois-Indiana Section Conference Proceedings, virtual conference, April 2021.
+S. Lin, Y. Shao and Z. Peng, "Predicting the Aperture Coupling to Complex Cavities: A Stochastic Green's Function Approach," 2020 IEEE/ACES International Conference on Wireless Information Technology and Systems (ICWITS) and Applied Computational Electromagnetics (ACES), Monterey, CA, 2020, pp. 1-2.
+
+Yang Shao and Zhen Peng, "Supercomputing-Enabled First-Principles Analysis of Wireless Channels in Urban Environments," 2020 International Applied Computational Electromagnetics Society (ACES) Symposium, Monterey, California, USA, 2020.
+
+Click for more
+Teaching Honors
+Teachers Ranked As Excellent (Spring 2020)
+
+Research Honors
+Best EMC paper finalist (2023)
+Best EMC paper finalist (2022)
+Entered into the best IMS Advanced Practice Paper (2017)
+Best Paper Award of IEEE Transactions on Components, Packaging and Manufacturing Technology (2017)
+
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 329 - Fields and Waves I
+ECE 350 X - Fields and Waves II
+ECE 445 - Senior Design Project Lab
+ECE 498 YS3 (ECE 498 YS4, ECE 498 YVS) - Engineering EM Compatibility
+ECE 531 - Theory of Guided Waves
+Click for more
+
+
+
+
+
+
+Related News
+
+
+ECE ILLINOIS welcomes 11 new faculty members
+
+
+
+
+
+
+
+

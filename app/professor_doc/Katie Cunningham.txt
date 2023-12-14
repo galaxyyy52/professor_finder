@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+ 
+
+
+Katie Cunningham 
+
+
+
+Assistant Professor
+
+katcun@illinois.edu
+3215 Siebel Center for Comp Sci
+
+
+
+For More Information
+Personal website
+
+
+Education
+Ph.D. Information, University of Michigan School of Information, 2020
+
+M.S. Human-Centered Computing, Georgia Institute of Technology School of Interactive Computing, 2018
+
+B.S. Computer Science, Molecular and Cellular Biology, University of Arizona, 2013
+
+
+Academic Positions
+Assistant Professor, University of Illinois Urbana-Champaign, Urbana, IL, July 2022 – Present
+
+Postdoctoral Scholar, Northwestern University, Evanston, IL, January 2021 – July 2022
+
+Other Professional Employment
+Computer Science Education Coordinator, California State Univ. Monterey Bay, July 2013-June 2016
+
+Research Interests
+Using methods from human-computer interaction in the context of computer science education, my research aligns computing learning opportunities with students’ goals and identity, with a long-term aim of broadening pathways to computing education at the college level. 
+
+
+Research Areas
+Computers and Education
+
+
+Articles in Conference Proceedings
+S. Narayanan, K. Cunningham, S. Arteaga, W. J. Welch, L. Maxwell, Z. Chawinga, B. Su. Upward Mobility for Underrepresented Students: A Model for a Cohort-Based Bachelor's Degree in Computer Science. In Proceedings of the 49th ACM Technical Symposium on Computer Science Education (SIGCSE 2018).   Best Paper, New Curricula, Programs, Degrees, and Position Paper track SIGCSE Top Ten Symposium Papers of All Time Award - Nominated Paper
+K. Cunningham, B. Ericson, R. Agrawal Bejarano, and M. Guzdial. Avoiding the Turing Tarpit: Learning Conversational Programming by Starting from Code’s Purpose. In CHI Conference on Human Factors in Computing Systems (CHI 2021). 
+K. Cunningham, A. Feng, Y. Qiao, E. O’Rourke. 2022. Bringing "High-level" Down to Earth: Gaining Clarity in Conversational Programmer Learning Goals. In the Proceedings of the 53rd ACM Technical Symposium on Computer Science Education (SIGCSE 2022). Best Paper, Position and Curricula Initiative track
+
+Other Scholarly Activities
+Conference reviewing: ICER 2021-2023
+
+Conference reviewing: CHI 2021-2023
+
+Conference reviewing: SIGCSE 2017-2022, APC 2023
+
+
+Research Honors
+Computing Innovation Fellow (2021-2022)
+National Science Foundation Graduate Research Fellow (2017-2020)
+
+
+Recent Courses TaughtCS 105 - Intro Computing: Non-Tech
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CED - Computers and Education
+CS 598 KMC (CS 598 KPH) - Foundations for Comp. Ed Res.
+
+
+
+
+
+
+
+Related News
+
+
+Illinois CS Places 28 Faculty on CITL List of Teachers Ranked as Excellent By Their Students
+
+
+12 New Faculty Add to Expertise in Research and Education at Illinois Computer Science
+
+
+
+News Notes
+
+
+
+
+
+
+
+

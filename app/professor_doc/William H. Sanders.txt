@@ -1,0 +1,157 @@
+
+
+
+
+
+
+
+ 
+
+
+William H Sanders 
+
+
+Administrative TitlesHerman M. Dieckamp Endowed Chair in EngineeringInterim Director, Discovery Partners Institute
+
+Herman M. Dieckamp Endowed Chair Emeritus in Engineering
+
+whs@illinois.edu
+ 
+
+
+
+For More Information
+Discovery Partners Institute
+William H. Sanders's home page
+
+Education
+Ph.D., Computer Science and Engineering, University of Michigan, 1988
+
+BiographyWilliam H. Sanders is Interim Director of the Discovery Partners Institute (dpi.uillinois.edu) in the University of Illinois System (uillinois.edu), and the Herman M. Dieckamp Endowed Chair in Engineering at the University of Illinois at Urbana-Champaign (illinois.edu). He is a professor in the Department of Electrical and Computer Engineering and in the Department of Computer Science at UIUC. He is a Fellow of the IEEE, the ACM, and the AAAS; a past Chair of the IEEE Technical Committee on Fault-Tolerant Computing; and past Vice-Chair of the IFIP Working Group 10.4 on Dependable Computing. He was the founding Director of the Information Trust Institute (www.iti.illinois.edu) at Illinois (2004-2011), and served as Director of the Coordinated Science Laboratory (www.csl.illinois.edu) at Illinois from 2010 to 2014. He has been Head of Electrical and Computer Engineering since 2014 (www.ece.illinois.edu) but is currently on leave from that position.
+Teaching StatementI teach graduate and undergraduate courses in computer engineering.  Most recently, I taught ECE/CS 541, Computer System Analysis.  ECE 541/CS 541 is a comprehensive introduction to methods for computer system and network analysis. It focuses on methods that are applicable to a wide range of systems and practical uses and implementations of these methods. Broadly speaking, the course is divided into three parts: analytic/numerical modeling, simulation, and measurement. Each of these three approaches to computer system and network analysis has important uses, and will be covered in detail. Using each of these methods, the course will address models for performance, dependability (reliability and availability), security (availability, integrity, confidentiality), survivability, and performability (combined performance/dependability/security) analysis. 
+Research StatementDr. Sanders's research interests include secure and dependable computing and security and dependability metrics and evaluation, with a focus on critical infrastructures. He has published more than 270 technical papers in those areas. He served as the Director and PI of the DOE/DHS Trustworthy Cyber Infrastructure for the Power Grid (TCIPG) Center, which did research at the forefront of national efforts to make the U.S. power grid smart and resilient. He was the 2016 recipient of the IEEE Technical Field Award, Innovation in Societal Infrastructure, for "assessment-driven design of trustworthy cyber infrastructures for societal-scale systems." He is also co-developer of three tools for assessing computer-based systems: METASAN, UltraSAN, and Möbius. Möbius and UltraSAN have been distributed widely to industry and academia; more than 2,700 licenses for the tools have been issued to universities, companies, and NASA for evaluating the performance, dependability, and security of a variety of systems. He is also a co-developer of a tool for assessing the security of networked systems that is available commercially under the name NP-View from the startup company Network Perception, which he co-founded.
+Undergraduate Research OpportunitiesAs Director of the Information Trust Institute, I coordinated (with other faculty and staff) the development of a significant summer intern program. The program paired promising undergraduate students from around the world with ITI faculty members who are doing research on information trust topics (including security, reliability, safety, privacy, survivability, and correctness) that are relevant to the students' interests. Many of the summer interns had previously been limited to classroom work, and were excited by their experiences attacking real-world research problems and interacting with professors on an informal, individual basis. Several students reported that their internships had encouraged them to pursue graduate studies, particularly at Illinois, even if they had not previously considered postgraduate work.Faculty members also appreciated the program, since it not only provided direct support for their research efforts through the students' work, but also allowed them to build relationships with outstanding undergraduates, possibly leading to graduate work or other collaborations. The internships, which were supported by state and federal funds, included stipends and, in some cases, an allocation for travel expenses. 
+Research Interests
+Computer Systems Modeling and Analysis
+Architecting Reliable and Secure Systems
+Dependability/Security Evaluation
+
+
+Research Areas
+Computer networking
+Computer security, privacy, and information trust
+Distributed and peer-to-peer systems
+Dynamic reconfiguration of systems for fault tolerance and mitigation
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Energy system economics and public policy
+Fault tolerance and reliability
+Impact of intermittent renewable resources on dynamic operation and economics
+Intelligent devices and controls for electricity grids
+Interactions between computer networks and power networks, including cyber security, analysis, and design
+Networking and distributed computing
+Operation and control of power systems
+Power and Energy Systems
+Reliable and secure systems
+Software systems
+System design for reliability
+System modeling and measurement
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Cognitive computing
+Cyberinfrastructures
+Cyberphysical systems and internet of things
+Cybersecurity and privacy
+Data science and analytics
+Data/Information Science and Systems
+Distributed computing and storage systems
+Energy
+Game theory
+Human computer interactions
+Machine learning
+Network science and engineering
+Sensing systems
+Smart grid and energy delivery
+Smart infrastructures
+Socio-technical systems and networking
+Click for more
+Teaching Honors
+Named on the University of Illinois’s Fall 2015 List of Teachers Ranked as Excellent by Their Students. 
+Named on the University of Illinois’s Fall 2014 List of Teachers Ranked as Excellent by Their Students.
+Named on the University of Illinois’s Fall 2003 Incomplete List of Teachers Ranked as Excellent by Their Students.
+Recipient of one of the 2002 Engineering Council Awards for Excellence in Advising, awarded to the top 10% of engineering advisors.  (Selection is based on nominations from engineering students.)
+Named on the University of Illinois’s Fall 2002 Incomplete List of Teachers Ranked as Excellent by Their Students.
+Recipient of one of the 2000 Engineering Council Awards for Excellence in Advising, awarded to the top 10% of engineering advisors.  (Selection is based on nominations from engineering students.)
+Recipient of one of the 1998 Engineering Council Awards for Excellence in Advising, awarded to the top 10% of engineering advisors.  (Selection is based on nominations from engineering students.)
+Click for more
+Research Honors
+IEEE Technical Field Award, Innovation in Societal Infrastructure, for "assessment-driven design of trustworthy cyber infrastructures for societal-scale systems," 2016.
+Paper "A Quantitative Methodology for Security Monitor Deployment" won the Best Paper Award at the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, Toulouse, France, June 28-July 1, 2016.
+Paper "ARIMA-Based Modeling and Validation of Consumption Readings in Power Grids" won the CIPRNet Young CRITIS Award (CYCA) at the 10th International Conference on Critical Information Infrastructures Security (CRITIS 2015), Berlin, Germany, Oct. 5-7, 2015.
+Paper "PCA-Based Method for Detecting Integrity Attacks on Advanced Metering Infrastructure" won the Best Paper Award at the 12th International Conference on Quantitative Evaluation of Systems (QEST), Madrid, Spain, Sept. 1-3, 2015.
+Paper "Enterprise Security Metrics with the ADVISE Meta Model Formalism" won a Best Paper award at SECURWARE 2015: The Ninth International Conference on Emerging Security Information, Systems and Technologies, Venice, Italy, Aug. 23-28, 2015.
+Named Fellow of the American Association of the Advancement of Science (AAAS), 2014, for the development of fundamental theory and practical techniques to ensure that societal-scale distributed computing systems are trustworthy.
+Paper "Modeling the Fault Tolerance Consequences of Deduplication" won the Best Paper award at the 30th IEEE Symposium on Reliable Distributed Systems (SRDS 2011), Madrid, Spain, Oct. 5-7, 2011.
+Paper "Blackbox Prediction of the Impact of DVFS on End-to-End Performance of Multitier Systems" won the award as Best Student Paper at the GreenMetrics 2009 Workshop, Seattle, Washington, June 15, 2009.
+Paper “Detecting and Exploiting Symmetry in Discrete-State Markov Models” selected as one of the best papers at the 12th Pacific Rim International Symposium on Dependable Computing (PRDC’06); expanded version published in IEEE Transactions on Reliability.
+Paper “Designing Dependable Storage Solutions for Shared Application Environments” selected as one of the best papers at the International Conference on Dependable Systems and Networks (DSN-2006); expanded version accepted for publication in IEEE Transactions on Dependable and Secure Computing.
+Paper “Barbarians in the Gate: An Experimental Validation of NIC-based Distributed Firewall Performance and Flood Tolerance” selected as one of the best papers at the International Conference on Dependable Systems and Networks (DSN-2006).
+NASA Tech Brief Award for NTR no 42352: “A Performability-Oriented Software Rejuvenation Framework for Distributed Applications,” 2006.
+Named Fellow of the Association for Computing Machinery for “Outstanding contributions to the evaluation and design of dependable systems and networks,” January 2004.
+Paper “Formal Specification and Verification of a Group Membership Protocol for an Intrusion-Tolerant Group Communication System” won the award as the Best Paper presented at the 2002 Pacific Rim International Symposium on Dependable Computing (PRDC 2002) Tsukuba, Japan, December 16-18, 2002.
+Papers “The Möbius Modeling Tool” and “Möbius: Framework and Atomic Models” named as being among the best papers at the 9th International Workshop on Petri Nets and Performance Models, and then selected for publication (as a single paper) in an upcoming special issue of IEEE Transactions on Software Engineering.
+Named Fellow of the IEEE, for "Contributions to tools and techniques for performance and dependability evaluation of computer systems and networks" (Jan. 2000).
+Paper "On the Effectiveness of a Message-Driven Confidence-Driven Protocol for Guarded Software Upgrading" selected as one of the best papers at IEEE IPDS' 2000 (expanded version published in Performance Evaluation), 1999.
+Paper "Measure-Adaptive State-Space Construction," selected as one of the best papers at IEEE IPDS '2000 (expanded version published in Performance Evaluation), 1999.
+Paper "State-Space Support for Path-based Reward Variables," selected as one of the best papers at IEEE IPDS '98 (expanded version published in Performance Evaluation), 1998.
+Paper "An Efficient Disk-based Tool for Solving Very Large Markov Models," selected as one of the best papers at the 9th International Conference on Modelling Techniques and Tools (expanded version published in Performance Evaluation), 1997.
+Paper "'On-the-Fly' Solution Techniques for Stochastic Petri Nets and Extensions" selected as one of the best papers at IEEE PNPM-7 (expanded version published in IEEE Transactions on Software Engineering), 1997.
+Paper "Algorithms for the Generation of State-Level Representations of Stochastic Activity Networks with General Reward Structures" selected as one of the best papers at IEEE PNPM-6 (expanded version published in IEEE Transactions on Software Engineering), 1995.
+Recipient of Faculty Award, Digital Equipment Corporation, Incentives for Excellence, 1989, 1990, 1991.  Twelve faculty members are selected nationally each year to receive this award.  An individual can receive this award for a maximum of three years. ($75,000 cash prize, $105,000 in equipment)
+Click for more
+Public Service Honors
+Elected member of the Board of Directors of Sigmetrics, served 2005-2006.
+Elected member of the Board of Directors, ACM Sigmetrics, served 2001-2003.
+Elected Vice Chair and later Chair of IEEE Technical Committee on Fault-Tolerant Computing.  Served as Vice-Chair 2000, and as Chair 2001-2003.
+Made Director of University of Illinois Motorola Center for High-Availability System Validation, established by Motorola Inc. in December 1999 with funding of $1.1 million dollars for a 3-year period.
+Named Vice-Chairperson of IFIP Working Group on Dependable Computing, 1997.
+Elected member of IFIP Working Group 10.4 on Dependable Computing, July 1992 (youngest member ever elected).
+Click for more
+Other Honors
+Executive Officer Distinguished Leadership Award, University of Illinois at Urbana-Champaign, 2018.
+
+
+
+
+
+
+
+
+Related News
+
+
+ECE emeritus faculty member Bill Sanders elected to National Academy of Engineering
+
+
+Sanders and his student receives Best Paper Award
+
+
+Mitra and Fan work to guarantee system reliability
+
+
+Illinois Engineering Names Dieckamp Endowed Chair in Engineering
+
+
+Bose, Mitra, Sanders, and Liu win Siebel Energy Institute grants
+
+
+Sanders named interim director of Discovery Partners Institute
+
+
+
+
+
+
+
+

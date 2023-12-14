@@ -20,10 +20,12 @@
         {% if query %}
             <p>Results for: {{ query }}</p>
         {% endif %}    
-          <form action="/search/" method="post">
-              &nbsp;&nbsp;<input type="text" name="query" placeholder="Search">
-              <input type="submit" value="Search">
+        <center>
+          <form id="searchForm" action="/search/" method="post">
+              <input type="text" name="query" placeholder="Input your keyword" size=35 fontsize=20>
+              <input type="submit" value="Search" fontsize=20>
           </form>
+         </center> 
     </main>
     
     <footer>

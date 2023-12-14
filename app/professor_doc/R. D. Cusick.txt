@@ -1,0 +1,226 @@
+
+
+
+
+
+
+
+ 
+
+
+
+ R. D. Cusick 
+
+
+
+
+
+Associate Professor
+
+
+(217) 244-6727
+rcusick@illinois.edu
+3217 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+
+
+
+
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+
+For More Information
+Cusick Lab
+
+BiographyRoland Cusick earned his B.S. in Environmental Engineering from the University of California, Riverside (2005), and holds an M.S. (2010) and Ph.D. (2013) in Environmental Engineering, both from the Pennsylvania State University. Their honors include receiving the W. Wesley Eckenfelder Graduate Research Award from the American Association of Environmental Engineers and Scientists (2013), the Penn State Alumni Association Dissertation Award (2013), and the Dow Sustainability Student Challenge Award (2012). 
+
+Dr. Cusick teaches CEE 443 Environmental Engineering Principles, Chemical and CEE 437, Water Quality Engineering, and CEE 449, Environmental Engineering Lab
+Education
+Ph.D. Environmental Engineering, Pennsylvania State University, 2013
+M.S. Environmental Engineering, Pennsylvania State University, 2010
+B.S. Environmental Engineering, University of California, Riverside, 2005
+
+Academic Positions
+Assistant Professor, Department of Civil & Environmental Engineering, University of Illinois at Urbana-Champaign, 2013-present
+
+Major Consulting Activities
+Island Water Technology, Prince Edward Island, Canada, 2014 - present: Consult on R&D of a bioactivity sensor for autonomous wastewater treatment systems
+Aquapod, Calgary, Ontario, Canada, 2013 - present: Serve on scientific advisory board for advanced treatment septic system development
+Cambrian Innovation, Cambridge, MA, 2011: State of the art survey of high rate anaerobic digestion systems.
+Envinity, State College, PA, 2010: Energy and economic assessment of MSW co-digestion and CHP at Williamsport wastewater treatment plant.
+
+Professional Registrations
+Engineer in Training, California, 2005
+
+Professional Societies
+Member, American Chemical Society
+Member, Electrochemical Society
+Member, Water Environment Federation
+Member of the International Working Group for Capacitive Deionization & Electrosorption, Fall 2017 - present. 
+Association of Environmental Engineering and Science Professors: AEESP is the primary professional society for environmental engineering and I am currently serving on the Demographics Committee Member (2020-present) and MS Thesis Award Committee (2021-present). 
+
+Service on Department Committees
+Energy-Water-Environment Sustainability Program Chair (2021 - 2023)
+Environmental Engineering and Science Admissions and Fellowship Committee (2014 - 2017)
+Energy-Water-Environment Sustainability Admission and Fellowship Committee (2015 - 2018)
+Environmental Engineering and Science Governance Committee (2015, 2017, 2021 EES Coordinator election cycles)
+
+
+
+Research Interests
+Process modeling
+Biological wastewater treatment
+Microbial electrochemical technologies
+Resource recovery from wastewater
+Capacitive deionization
+Electrochemical pollutant removal
+Chemical Phosphorus Recovery
+Click for more
+Research StatementResearch Statement – Roland D. CusickMotivation and VisionCurrently, water and wastewater treatment infrastructure systems operate only as resource sinks but could provide society with three of the most critical resources of the 21st century: energy, nutrients, and water. Each day roughly 125 billion liters of wastewater are treated in the United States. Contained within this out-flow are roughly 240 mega-watt hours of energy in the form of organic matter, 5 million metric tons (MMt) of nitrogen, and 1 MMt of phosphorus. The existing power demand of water and wastewater treatment infrastructure currently represents 3% of national demand and is expected to increase with desalination capacity due to climate changes related water scarcity. If operated with greater flexibility, and fully electrified, the power demand of water infrastructure could be leveraged to absorb excess renewable energy and facilitate grid stabilization with increased renewable penetration. The primary vision of my research is to increase the resilience of energy and food systems by developing technologies to integrate renewable energy resources with and recover nutrients from water infrastructure. Research in my group focuses on process development and modelling in two major themes: 1) electrochemical water treatment with energy storage materials and 2) nutrient recovery from wastewater and grain processing infrastructure. Within these themes, my research group uniquely integrates experimentation and modeling of water and wastewater treatment technologies across multiple scales to establish mechanistic links between micro-scale physical and chemical processes at solid-liquid interfaces and system performance. We have also developed system-scale models to extend these linkages to national scale resource inventories and long-term economic outcomes.Research Goals, Accomplishments, and PlansThrust 1: Electrochemical water treatment. Decarbonizing the power grid is one of the greatest challenges facing society in the 21st century. A central goal of my work is to develop robust electrochemical technologies that enable the integration of renewable energy within distributed and centralized water treatment infrastructure. While my work in environmental electrochemistry began as a graduate student developing novel biotechnologies for resource recovery from wastewater, I have focused my research as a principal investigator on the integration of experimentation, process modeling, and systems analysis to advance the development of electrochemical ion separation with energy storage materials. My goals in this thrust are (1) to understand how energy storage material properties impact ion adsorption rate and thereby performance for pollutant removal and (2) to elucidate the impact of design and operating decisions on energy dynamics and costs of electrochemical treatment systems across deployment contexts and under realistic treatment constraints. Accomplishments: With funding from two unsolicited NSF grants, I have been able to establish myself at the forefront of electrode design for advanced ion-adsorption and process modeling of electrochemical separation systems. First, I co-led the development of a calibrated and validated 2-D equivalent circuit model for capacitor electrode deionization systems and we were the first to simulate the critical limitations of carbon electrode surface chemistry and parasitic water splitting reactions on energy dissipation and salt adsorption (J. Art. 21). My PhD student (S. Hand) and I then used the ECM model to conduct a global sensitivity analysis of capacitive deionization (CDI) to define the limits of salt adsorption and energy efficiency for prominent architectures, revealing the critical importance of electronic conductivity and ion-selective diffusion interfaces in promoting energy efficient deionization of brackish groundwater (J. Art. 26). Leveraging the insights we gained from our global sensitivity analysis, my student and I then developed a technoeconomic analysis (TEA) built on our rigorous, parameterized process model to quantify the lifecycle water production costs of brackish groundwater desalination and selective removal of nitrate and perchlorate (J. Arts. 29, 31). These studies demonstrated, for the first time, that CDI brackish desalination costs could match those of established pressure drive membrane separations technologies if electrode lifetimes can surpass two years. Further, we showed the inclusion of ion-exchange membranes will likely be cost prohibitive, indicating that selective removal of oxyanions in the millimolar range (e.g., nitrate and phosphate) presents a more realistic pathway toward full-scale implementation to help guide funding agency priorities and research directions with this growing international community. To address the electrode material limitations elucidated in our modeling studies, my group developed novel approaches to enhancing ion adsorption without the inclusion of cost prohibitive ion-exchange membranes. We demonstrated, for the first time, that coating capacitive substrates with manganese oxide layers through permanganate oxidation of activated carbon dramatically improves critical performance metrics. By modifying the operating electrode potential away from water reduction and promoting rapid kinetics of cation-insertion charge transfer reactions, electrode storage capacity and specific energy consumption were significantly improved (J. Art. 20). My group also showed how changing the morphology and composition of activated carbon composite electrodes could achieve the CDI performance targets identified in our brackish groundwater desalination TEA. To achieve targets for ion-selectivity and improve ionic flux, we developed electrodes with bitortuous morphologies coated with polyelectrolytes (J. Art. 25). We also characterized and developed a mechanistic model for activated carbon composite electrodes with charged polysaccharide binders (J. Art. 23). Based on the advances made in our early work, we have moved beyond CDI for brackish groundwater deionization, and toward the development of electrodes and process models for selective removal of nutrients and trace contaminants from drinking water and wastewater. With funding from the NSF, we have collaborated on the development of redox active polymer electrode coatings (J. Art. 36) for selective separation of oxyanion contaminants (e.g., arsenate, phosphate, nitrate, and PFAS). Recent work from my group has shown that ferrocene polymer coated electrodes not only selectively bind anionic pollutants such as arsenate and phosphate, but also exhibit electrode lifetimes that are orders of magnitude greater than electric double layer capacitors due to the inclusion of highly reversible metallocene redox groups and prevention of carbon corrosion (Pending Art. 1). In addition to electrochemical separations, my research group has developed thrusts related to biosensing and electrochemical disinfection. With funding from the Water Research Foundation, we have established productive collaborations technology providers and public utilities to develop best practices for carbon monitoring at wastewater treatment plants using bio-electrochemical sensors (BESs). These sensors leverage electroactive biofilms to generate an amperometric response to changes in wastewater composition and are designed to track soluble carbon concentrations through changes in bioelectric current. Through advanced statistical analysis of field data, we have shown that while BES signals exhibit nonlinear dynamics in response to changes in wastewater composition, there is sufficient structure to extract cyclical information related to carbon loading that could be leveraged for data driven modeling of biological treatment systems (J. Art. 43). My expertise in electrochemistry in complex waste streams has also created opportunities to guide the development of novel non-sewered sanitation systems. Through a grant from the Bill & Melinda Gates Foundation, my group developed a process model for electro-chlorination as a core component of a larger TEA-LCA framework that we are using to inform the prioritization of research, development, and deployment of sanitation technologies across the foundation’s portfolio (J. Art.38).Plans: My long-term objective for this thrust is to develop robust electrochemical technologies and modeling frameworks that enable full-scale deployment and integration with renewable energy. In electrochemical separations, we will continue to lead this growing field toward sustainable development pathways through novel electrode design and process modeling.  With funding from the DOE, we are currently developing a process model-based TEA framework to estimate life cycle treatment costs of nitrate and phosphate removal and recovery with faradaic polymer coated electrodes, to identify and navigate tradeoffs between material costs and ion-selectivity through electrode design. I also plan to move the design of faradaic ion-selective electro-adsorption systems beyond plate-and-frame paradigms to enhance storage capacity and regeneration rates with fixed and moving bed designs. In bio-electrochemical sensing, we will leverage machine learning to develop non-linear models for carbon dynamics that will enable optimization of energy consumption in aerobic wastewater treatment systems, energy recovery from anaerobic digesters, and upset detection of biological nutrient removal and water recovery systems. Finally, I aim to leverage our computational frameworks to model the chemical and virtual energy storage benefits of water treatment technologies under the transient conditions typical of renewable energy sources. This major research trust will include virtual battery modeling of both pressure driven and electrochemical technologies in both centralized (ancillary services to the grid) and decentralized (direct integration with renewables) contexts and reshape how we think about energy demand and consumption in the water sector. Thrust 2: Nutrient recovery from wastewater. My research group has also focused on developing technologies that leverage chemical precipitation to generate renewable fertilizers from nutrient rich wastewater and grain biorefinery process streams. We investigate how solution composition and operating conditions influence precipitation kinetics and crystal formation pathways for sparingly soluble nitrogen and phosphorus solids. My goals in this thrust are (1) to connect molecular scale surface interactions and crystallization pathways to systems scale process impacts through plant-wide particle population balance modeling, (2) to leverage process models to elucidate national scale opportunities for phosphorus recovery from centralized wastewater treatment and biorefinery infrastructure, and (3) to understand the benefits and trade-offs of P recovery on non-point source pollution from crop production and animal feeding operations.  Accomplishments: With funding from the NSF INFEWS program, we have gained fundamental insights into the mechanisms governing precipitation and dissolution of phosphate minerals in diverse waste streams (wastewater, manure, and bio-ethanol byproducts) to enable modeling of P removal and fertilizer production (specifically, struvite and calcium phytate) and quantification of plant-wide impacts of washout from precipitation reactors. My work was the first to elucidate the impact of operating conditions and struvite seed crystal loading on the kinetics of phosphate removal and struvite crystal formation (J. Art. 22). This work established the importance of surface area dependent precipitation models in predicting fertilizer yield and particle washout from crystallization reactors. To simulate plantwide impacts of struvite recovery and loss, my PhD student (S. Aguiar) characterized the size dependent dissolution kinetics of struvite and built a particle population balance modeling tool for a plant-wide simulator (J. Art. 44). In this study, we were the first to illustrate how struvite precipitation reactors treating liquids from solids-handling unit operations can beneficially capture most of the waste phosphate coming into a treatment plant as renewable fertilizers. Our modeling also showed how disruptive struvite loss can be for biological phosphorus removal processes.My group also focuses on elucidating P recovery opportunities at the national scale. First, we constructed a national phosphorus mass balance that illuminated the role of centralized wastewater and biorefinery infrastructure as critical conduits for both point and non-point source pollution (J. Art. 28). Then my PhD student (K. Ruffatto) linked publicly available data with our plantwide wastewater and corn ethanol models to develop a spatial inventory of P recovery potential from centralized wastewater treatment and corn biorefinery infrastructure across the US (J. Art. 45, in press). This work is the first of its kind to show that more than twice as much P could be recovered from corn ethanol plants than all wastewater treatment plants in the US. We also elucidated the immense potential for circular P flows between centralized infrastructure and crop production in the midwestern states that make up the Corn Belt. This research opens immense possibilities to leverage grain processing infrastructure systems renewable phosphorus mines to enhance the resilience of domestic phosphorus reserves.  Plans: My long-term objective for this thrust is to enable circular phosphorus flows through the development of robust chemical precipitation systems for a diverse range of organic rich industrial and waste streams. We have on-going work (i) to understand mechanisms of phosphate nucleation and biomineralization in organic scaffolds that will enhance precipitation kinetics and crystal retention within reactors, (ii) to develop phosphate precipitation particle population models for fluidized bed reactors that integrate with commercial treatment plant simulators to define best practices for crystallizer operation and enhance plant-wide synergies of P recovery, and (iii) to elucidate opportunities for nutrient credit trading between wastewater treatment plants, corn biorefineries, and animal feeding operations collocated within Corn Belt watersheds through network analyses of P flows and recovery pathways within the US. I also aim to quantify the embodied nutrient flows and environmental footprint of established (corn starch and ethanol) and emerging (non-animal proteins) grain biorefinery products. My students and I will continue to work with industrial partners to further improve our process models and ensure user uptake of our modeling tools for full-scale phosphorus recovery systems at wastewater processing plants, corn ethanol facilities, animal feeding operations, and emerging protein isolation plants for meat replacement products. I will also leverage our work in this arena to inform the agricultural reuse and advance the frontier of non-sewered sanitation technologies through existing collaborations (J. Arts.19, 27, 33-35, 37, 41).Future Directions and Integration with Teaching and ServiceMoving forward, I will continue to conduct research that integrates experimentation and modeling to establish connections between the first principles of environmental chemistry and technological challenges of full-scale implementation to advance the sustainability of water and wastewater treatment. Beyond the direct research outcomes, I will leverage this work to develop modeling tools for engineering professionals and integrate research findings in the courses I teach to expose the next generation of environmental to sustainable chemical treatment processes. 
+Primary Research AreaEnvironmental Engineering and Science
+Research Areas
+Energy-Water-Environment Sustainability
+Environmental Engineering and Science
+
+
+
+Selected Articles in Journals
+Cusick, R. D.; Bryan, B.; Parker, D.S.; Merrill, M.D.; Mehanna, M.; Kiely, P.D.; Liu, G.; Logan, B.E. (2011). Performance of a pilot-scale continuous flow microbial electrolysis cell fed winery wastewater. Applied Microbiology and Biotechnology 89 (6), 2053-2063.
+
+Cusick, R. D.; Kim, Y.; Logan, B. E. (2012). Energy capture from thermolytic solutions in microbial reverse-electrodialysis cells. Science 335 (6075): 1474-1477.
+
+Yates, M. D.; Cusick, R.D.; Logan, B.E. (2013). Extracellular palladium nanoparticle production using Geobacter sulfurreducens. ACS Sustainable Chemistry & Engineering. 1 (9), 1165-1171.
+
+Cusick, R.D.;, Hatzell, M.C.; Zhang, F.; Logan, B.E. (2013). Minimal RED cell pairs markedly improve electrode kinetics and power production in microbial reverse electrodialysis cells. Environmental Science & Technology, 47 (24), 14518-14524.
+
+Hatzell, M.C.; Cusick, R.D.; Logan, B.E. (2014). Capacitive mixing power production form salinity gradient energy enhanced through exoelectrogen-generated ionic currents. Energy & Environmental Science, 7, 1159-1165.
+
+Hatzell, M.C.; Ivanov, I.; Cusick, R.D.; Zhu, X.; Logan, B.E. (2014). Comparison of hydrogen production and electrical power generation for energy capture in closed-Loop ammonium bicarbonate reverse electrodialysis systems. Physical Chemistry Chemical Physics 16 (4), 1632–38.
+
+Cusick, R. D.; Ullery, M. L.; Dempsey, B. A.; Logan, B.E. (2014). Electrochemical struvite precipitation from digestate with a fluidized bed cathode microbial electrolysis cell. Water Research, 54, 297-306.
+
+Shoener, B.D.; Bradley, I.M.; Cusick, R.D.; Guest, J.S. Energy positive domestic wastewater treatment: The roles of anaerobic and phototrophic technologies. Environmental Science: Processes & Impacts, 2014, 16 (6), 1204-1222.
+
+Yates, M.D.; Cusick, R.D.; Ivanov, I.; Logan, B.E. (2014). Exoelectrogenic biofilm as a template for sustainable formation of a catalytic mesoporous structure. Biotechnology and Bioengineering, 111 (11), 2349-2354.
+
+Trimmer, J.T.; Cusick, R.D.; Guest, J.S. Amplifying progress toward multiple development goals through resource recovery from sanitation. Environmental Science & Technology, 2017, 51 (18): 10765-10776.
+
+Hand, S.; Cusick, R.D. (2017). Characterizing the Impacts of Deposition Techniques on the Performance of MnO2 Cathodes for Sodium Electrosorption in Hybrid Capacitive Deionization. Environmental Science & Technology, 51 (20), 12027-12034.
+
+Shang, X.; Cusick, R.D.; Smith, K. C. (2017). A combined modeling and experimental study assessing the impact of fluid pulsation on charge and energy efficiency in capacitive deionization. Journal of the Electrochemical Society, 161 (14), E536-E547.
+
+Agrawal, S.; Guest, J.S.; Cusick, R. D. (2018). Elucidating the impacts of initial supersaturation and seed crystal loading on struvite precipitation kinetics, fines production, and crystal growth. Water Research, 132, 252-259.
+
+Kim, M., del Cerro, M., Hand, S.; Cusick, R.D. (2019). Enhancing capacitive deionization performance with charged structural polysaccharide electrode binders. Water Research, 148, 388-397.
+
+Junjea, A.; Sharma, N.; Cusick, R. D.; Singh, V. (2019). Techno-economic Feasibility of Phosphorus Recovery as a Coproduct from Corn Wet Milling Plants. Cereal Chemistry, 96 (2), 380-390.
+
+Bhat, A. P..; Reale, E. R.; del Cerro, M.; Smith, K.C.; Cusick, R.D. (2019). Reducing Impedance to Ionic Flux in Capacitive Deionization with Bi-tortuous Activated Carbon Electrodes Coated with Asymmetrically Charged Polyelectrolytes. Water Research X, 100027.
+
+Hand, S.; Shang, X.; Guest, J.S.; Smith, K.C.; Cusick, R.D. (2019) Global sensitivity analysis to characterize operational limits and prioritize performance goals of capacitive deionization technologies. Environmental Science & Technology, 53 (7): 3748-3756.
+
+Trimmer, J.T.; Margenot, A.J.; Cusick, R.D.; Guest, J.S. (2019) Aligning product chemistry and soil context for agronomic reuse of human-derived resources. Environmental Science & Technology, 53 (11), 6501-6510.
+
+Margenot, A. J., Kitt, D.; Gramig, B. M.; Berkshire, T. B.; Chatterjee, N.; Hertzberger, A. J.; Aguiar, S.; Furneaux, A.; Sharma, N.; Cusick, R.D. (2019) Toward a regional phosphorus (re)cycle in the U.S. Midwest, Journal of Environmental Quality (invited paper), 48 (5), 1397-1413.
+
+Hand, S.; Guest, J. S.; Cusick, R.D. (2019) Technoeconomic Analysis of Brackish Water Capacitive Deionization: Navigating Tradeoffs Between Performance, Lifetime, and Material Costs. Environmental Science & Technology, 53 (22), 13353-13363.
+
+Aguiar, S.; Sharma, N.; Yang, L.; Zhang, M.; Singh, V.; Cusick, R.D. (2020) Phosphorus fractionation and protein content control chemical phosphorus removal from corn biorefinery streams. Journal of Environmental Quality, 49 (1), 220-227.
+
+Hand, S.; Cusick, R.D. (2020) Emerging Investigator Series: Capacitive Deionization for Selective Removal of Nitrate and Perchlorate: Impacts of Ion Selectivity and Operating Constraints on Treatment Costs. Environmental Science: Water Research & Technology (Cover Article) 6 (4), 925-934.
+
+Junjea, A.; Cusick, R. D.; Singh, V. (2020) Recovering Phosphorus as a Coproduct from Corn Dry Grind Plants: A Techno-economic Evaluation. Cereal Chemistry, 97 (2), 449-458.
+
+Hertzberger, A. J.; Cusick, R. D.; Margenot, A. J. (2020) Agricultural potential of struvite as a phosphorus fertilizer: a review. Soil Science Society of America Journal (invited paper), 84 (3), 653–671.
+
+Lohman, H.A.C.; Trimmer, J.T.; Katende, D.; Mubasira, M.; Nagirinya, M.; Nsereko, F.; Banadda, N.; Cusick, R.D.; Guest, J.S. (2020) Advancing sustainable sanitation and agriculture through investments in human-derived nutrient systems. Environmental Science & Technology, 54 (15), 9217-9227.
+
+Trimmer, J.T., Miller, D.C., Byrne, D.M., Lohman, H.A.C., Banadda, N., Baylis, K., Cook, S.M., Cusick, R.D., Jjuuko, F., Margenot, A.J., Zerai, A., & Guest, J.S. (2020) Re-envisioning sanitation as a human-derived resource system. Environmental Science & Technology, 54 (17) 10446–10459.
+
+Kim, K.; Baldaguez Medina, P; Elbert, J; Kayiwa, E.; Cusick, R.D.; Men, Y.; Su, X. (2020) Molecular control of redox-copolymers for the selective electrochemical separation of per- and polyfluoroalkyl substances (PFAS). Advanced Functional Materials, 52 (30), 2070346.
+
+Hertzberger, A. J.; Cusick, R. D.; Margenot, A.J. (2021) Maize and Soybean Response to Phosphorus Fertilization with Blends of Struvite and Monoammonium Phosphate. Plant and Soil, 461 (1), 547–563.
+
+Hand, S.; Cusick, R.D. (2021) Electrochemical disinfection in water and wastewater treatment: Identifying impacts of water quality and operating conditions on performance, Environmental Science & Technology 55 (6), 3470–3482.
+
+Gu, C., Zhou, Q., Cusick, R.D., Margenot, A.J. (2021) Evaluating agronomic soil tests for struvite as an emerging renewable and slow-release phosphorus fertilizer, Geoderma (399) 1, 115093.
+
+Li, S., Cai, X.; Emaminejad, S. A.; Juneja, A.; Niroula, S.; Oh, S.; Wallington, K.; Cusick, R. D.; Gramig, B. M.; John, S.; McIsaac, G. F.; Singh, V. (2021) Developing an integrated technology-environment-economics model to simulate food-energy-water systems in Corn Belt watersheds, Environmental Modeling & Software (143) 105083.
+
+Echevarria, D.; Trimmer, J.; Cusick, R. D.; Guest, J.S. (2021) Defining nutrient co-location typologies for human-derived supply and crop demand to advance resource recovery, Environmental Science & Technology 55 (15) 10704–10713.
+
+Li, S.; Emaminejad, S. A. ; Aguiar, S.; Furneaux, A.; Cai, X.; Cusick, R. D. (2021) Evaluating long-term treatment performance and cost of nutrient removal at water resource recovery facilities under stochastic influent characteristics using artificial neural networks as surrogates for plant-wide modeling, ACS ES&T Engineering 1 (11), 1517–1529.
+
+Emaminejad, S. A.; Morgan, V. L.; Kumar, K.; Kavathekar, A.; Ragush, C.; Shuai, W.; Jia, Z.; Huffaker, R.; Wells, G.; Cusick, R. D. (2022) Statistical and microbial analysis of bio-electrochemical sensors used for carbon monitoring at water resource recovery facilities, Environmental Science: Water Research & Technology 8 (10), 2052-2064.
+
+Aguiar, S.; Zhang, M.; Romero-Flores, A.; Johnson, T.; Cusick, R. D. (2022) Modeling the plantwide implications of struvite loss from sidestream precipitation reactors, ACS ES&T Engineering 2 (5), 874–885.
+
+Ruffatto, K.; Emaminejad, S. A.; Juneja, A.; Kurambhatti, C.; Margenot, A.; Singh, V.; Cusick, R. D. (2022) Mapping the national phosphorus recovery potential from centralized wastewater and corn ethanol infrastructure, Environmental Science & Technology 56 (12), 8691–8701.
+
+Rowles, L.S.; Morgan, V.L.; Li, Y.; Zhang, X.; Watabe, S.; Stephen, T.; Lohman, H.A.C.; DeSouza, D.; Hallowell, J.; Cusick, R.D.; Guest, J.S. (2022) Financial viability and environmental sustainability of fecal sludge management with Omni Processors, ACS Environmental Au  2 (5) 455–46.
+
+Li, Y.;  Zhang, X.;  Morgan, V.L.;  Lohman, H.;   Rowles, L. S.; Mittal, S.;  Kogler, A.;  Cusick, R. D.; Tarpeh, W. A.; Guest, J. S. (2022) QSDsan: an integrated platform for quantitative sustainable design of sanitation and resource recovery systems, Environmental Science: Water Research & Technology 8 (10), 2289-2303.
+
+Watabe, S.; Lohman, H.; Li, Y.; Morgan, V.L.; Rowles, L.S.; Stephen, T.; Shyu, H.; Bair, R.A.; Castro, C.J.; Cusick, R.D.; Yeh, D. H.; Guest, J.S. (2023) Advancing the Economic and Environmental Sustainability of the NEWgenerator Nonsewered Sanitation System, ACS Environmental Au  3 (4) 209–222
+
+Li, S.; Cai, X.; Niroula, S.; Wallington, K.; Gramig, B.M.; Cusick, R.D.; Singh, V.; McIsaac, G.; Oh, S.; Kurambhatti, C.; Emaminejad, S. A. ; John, S. (2023) Integrated Agricultural Practices and Engineering Technologies Enhance Synergies of Food-Energy-Water-Systems in Corn Belt Watersheds, Environmental Science & Technology 57 (25) 9194–9203
+Emaminejad, S. A.; Sparks, J.;  Cusick, R.D. (2023) Integrating Bio-Electrochemical Sensors and Machine Learning to Predict the Efficacy of Biological Nutrient Removal Processes at Water Resource Recovery Facilities, Environmental Science & Technology (published online June 29, 2023)
+Ruffatto, K.; Shurson, G.C.; Muenich, R.L.; Cusick, R. D. (2023) Modeling National Embodied Phosphorus Flows of Corn Ethanol Distillers Grains to Elucidate Nutrient Reduction Opportunities, Environmental Science & Technology 2023, 57(38) 14429–14441
+
+Click for more
+Magazine Articles
+Recovering phosphorus from corn ethanol waste, Chemical & Engineering News, March 26, 2018
+Giving wastewater the power to clean itself, Nature News, March 1 2012
+Hybrid energy technology could treat wastewater for free, IEEE Spectrun, March 1, 2012
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Team places second at national Intelligent Water Systems Challenge
+
+
+Cusick wins NSF CAREER award
+
+
+New grant to fund research into non-sewered sanitation
+
+
+Copolymer helps remove pervasive PFAS toxins from environment
+
+
+University of Illinois at Urbana-Champaign, Carle Health team up to design and produce face shield for health care workers
+
+
+Sanitation Technology Project Awarded $1M
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

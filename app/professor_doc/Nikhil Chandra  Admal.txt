@@ -1,0 +1,158 @@
+
+
+
+
+
+
+
+ 
+
+
+Nikhil Chandra Admal 
+
+
+
+Assistant Professor
+(217) 300-9773
+admal@illinois.edu
+2027 Sidney Lu Mech Engr Bldg
+
+
+
+For More Information
+Google Scholar
+ResearchGate
+Research webpage
+
+Education
+Ph.D. Aerospace Engineering and Mechanics, University of Minnesota 2014
+M.S. Mathematics, University of Minnesota 2011
+M.S. Aerospace Engineering and Mechanics, University of Minnesota 2010
+B. Tech., M. Tech. (Dual degree) Mechanical Engineering, Indian Institute of Technology Madras 2006
+
+Academic Positions
+Assistant Professor, Department of Mechanical Science and Engineering, Jan 2019 - Present
+Adjunct Assistant Professor, Department of Mechanical Science and Engineering, Aug 2018 - Jan 2019
+Postdoctoral Research Scholar, Materials Science and Engineering, University of California Los Angeles, Sep 2014 - Jan 2019
+
+Major Consulting Activities
+FermiLab, Batavia, Illinois - Design of composite superconducting cable windings of solenoids used to generate magnetic fields in the Mu2e project.
+
+Professional Registrations
+Society for Engineering and Science (SES)
+American Society for Mechanical Engineers (ASME)
+United States Association for Computational Mechanics (USACM)
+
+Resident Instruction
+ME 470: Fall 2019, Spring 2021, Fall 2022
+TAM 210/211 Statics: Fall 2020, Fall 2021, Fall 2022
+TAM 445 Continuum Mechanics: Spring 2020, Spring 2022
+TAM 574 Advanced Finite Element Method: Spring 2019, Spring 2021, Spring 2023
+
+Research Interests
+Atomistic origins of continuum theories
+Interfacial mechanics: grain boundaries, 2D materials and biofilms
+Nanomechanics
+Crystal plasticity
+Grain Boundary Mechanics
+Solid Mechanics and Materials
+Click for more
+
+Research Areas
+Computation and Applied Math
+Energy
+Manufacturing
+Solid Mechanics and Materials
+
+
+Chapters in Books
+N. C. Admal, E. B. Tadmor. Statistical mechanics, molecular modeling, and the notion of stress, Chapter A unified interpretation of stress in molecular systems. Springer, New York, 2010
+
+Selected Articles in Journals
+Kim, J., Admal, N.C. “Statistics of grain microstructure evolution under anisotropic grain boundary energies and mobilities using threshold-dynamics.” 
+Ahmed, T., Wang, C., Banerjee, A. S., Admal, N.C. “Bicrystallography-informed Frenkel–Kontorova model for interlayer dislocations in strained 2D heterostructures.”
+
+Surana, M., Ananthakrishnan, G., Poss, M., Yaacoub, J., Zhang, K., Ahmed, T., Admal, N. C., Pochet, P., Johnson, H. T., Tawfick, S. "Strain-driven faceting of graphene-catalyst interface". ACS Nano Letters. Nano letters, 23(5):1659– 1665, 2023
+Kim, J., Admal, N.C. “A stochastic framework for evolving grain statistics using a neural network model for grain topology transformations.” Computational Materials Science, 216:111812, 2023
+
+Admal. N.C., Ahmed, T., Martinez, E., Po, G. “Interface dislocations and grain boundary disconnections using Smith normal bicrystallography.” Acta Materialia, p. 118340, 2022
+
+Surana, M., Ahmed, T., Admal, N.C. “Interface mechanics of 2D materials on metal substrates.” Journal of the Mechanics and Physics of Solids, p. 104831, 2022
+
+Joshi, H., He, J., Admal N.C. “A finite deformation theory for grain boundary plasticity based on geometrically necessary disconnections.” Journal of the Mechanics and Physics of Solids, p. 104949, 2022
+
+Ananthakrishnan, G., Surana, M., Poss, M., Yaacoub, J. J., Zhang, K., Admal, N. C., Pochet P., Tawfick S., Johnson, H. T.  "Graphene-mediated stabilization of surface facets on metal substrates." Journal of Applied Physics 130(16), 165302, 2021
+He, J., Admal, N.C. "Polycrystal plasticity with grain boundary evolution: A numerically efficient dislocation-based diffuse-interface model." Modelling and Simulation in Materials Science and Engineering. 2021 December 23; 30:025006
+
+Kim, J., Jacobs, M., Osher, S., Admal, N.C. "A crystal symmetry-invariant Kobayashi–Warren–Carter grain boundary model and its implementation using a thresholding algorithm." Computational Materials Science, Volume 199, 110575, ISSN 0927-0256, 2021
+
+Shi, M., Admal, N. C., Tadmor, E. B. "Noise filtering in atomistic stress calculations for crystalline materials." Journal of the Mechanics and Physics of Solids, 144, 104083, 2020
+Po, G., Admal, N.C., Svendsen, B. "Non-local Thermoelasticity Based on Equilibrium Statistical Thermodynamics." J Elast 139, 37–59, 2020
+Admal, N. C., Segurado, J., Marian, J. "A three-dimensional misorientation axis- and inclination-dependent Kobayashi--Warren--Carter grain boundary model." Journal of the Mechanics and Physics of Solids, 128, 32-53, 2019
+Po, G., Admal, N. C.,  Lazar, M. "The Green tensor of Mindlin's anisotropic first strain gradient elasticity." Materials Theory, 3(1), 3, 2019
+ Admal, N. C., Po, G., Marian, J. "A unified framework for polycrystal plasticity with grain boundary evolution." International Journal of Plasticity, 106:1-30, 2018
+Po, G., Lazar, M., Admal, N. C., Ghoniem, N. "A non-singular theory of dislocations in anisotropic crystals." International Journal of Plasticity, 103:1-22, 2018
+Admal, N. C., Po, G., Marian, J. "Diffuse-interface polycrystal plasticity: Expressing grain boundaries as geometrically necessary dislocations." Materials Theory, 1(1):6, 2017
+Admal, N. C., Marian, J., Po, G. "The atomistic representation of first strain-gradient elastic tensors." Journal of the Mechanics and Physics of Solids, 99:93-115, 2017
+Admal, N. C., Tadmor, E. B. "Material fields in atomistics as pull-backs of spatial distributions." Journal of the Mechanics and Physics of Solids, 89:59-76, 2016
+Admal, N. C., Tadmor, E. B. "The non-uniqueness of the atomistic stress tensor and its relationship to the generalized Beltrami representation." Journal of the Mechanics and Physics of Solids, 93:72-92, 2016. Special Issue in honor of Michael Ortiz
+Admal, N.C., Tadmor, E. B. "Stress and heat flux for arbitrary multibody potentials: A unified framework." The Journal of Chemical Physics, 134:184106, 2011
+Admal, N. C., Tadmor, E. B. "A unified interpretation of stress in molecular systems." Journal of Elasticity, 100:63-143, 2010
+Click for more
+Refereed Conference Papers and Presentations
+A crystal plasticity framework to model continuum disconnections in polycrystals, The Minerals, Metals and Materials Society, 2022, Anaheim, CA
+Interface mechanics of 2d materials on metal substrates, 19th U.S. National Congress of Theoretical and Applied Mechanics, 2022, Austin, TX
+Interface dislocations and grain boundary disconnections using
+Smith normal bicrystallography, Multiscale Materials Modeling, 2022, Hopkins, MD
+A thresholding method for the Kobayashi--Warren--Carter grain boundary model with general mobilities, 16th United States National Conference on Computational Mechanics, 2021, Virtual
+Mesoscale modeling of facet formation in graphene-metal interfaces, 16th United States National Conference on Computational Mechanics, 2021, Virtual
+A disconnection-based diffuse-interface approach to model grain boundary motion, 16th United States National Conference on Computational Mechanics, 2021, Virtual
+A fast thresholding algorithm for the Kobayashi-Warren-Carter grain boundary model, Society for Engineering and Science, 2020, Virtual
+Click for more
+Patents
+Nikhil C. Admal, Parag Thakre, Atanu Phukan, Sriharsha Aradhya. MEMS flow sensor. Number US 7337678 B2. Issued March 2008
+
+Reports
+Junyan He, N. C. Admal. "A study of the beveling instability in solenoid conductors.", A report submitted to FermiLab, 2020
+
+Conferences Organized or Chaired
+USACM 2023, Workshop organizer, Machine learning and computational materials modeling across scales
+USACM 2021, Virtual Workshop co-organizer, New Trends and Open Challenges in Computational Mechanics: from Nano to Macroscale
+MMS 2021, UIUC Coordinator for the Midwest Mechanics Seminar series
+USNCCM 2021, Symposium co-organizer, Computational methods for modelling stationary and non-stationary interfaces at multiple scales
+SES 2020, Symposium co-organizer, Grain boundary and Interfacial mechanics
+SES 2020, Scientific track co-chair, Advances in Nanomechanics
+MMM 2018 Symposium co-organizer, Crystal plasticity and discrete defect mechanics
+USNCCM 2015 Symposium co-organizer, Atomistic computation of continuum quantities
+Click for more
+Honors
+Institute for Digital Research and Education (IDRE) Postdoctoral Fellowship, University of California Los Angeles
+ (2016)
+
+Teaching Honors
+Listed in "Teachers ranked as excellent" by the Center for Innovation in Teaching & Learning (CITL) for Spring 2019 
+
+
+Recent Courses TaughtTAM 210 - Introduction to Statics
+TAM 211 - Statics
+TAM 445 - Continuum Mechanics
+TAM 574 (CSE 517) - Adv Finite Element Methods
+
+
+
+
+
+
+
+Related News
+
+	March 22, 2019
+	Admal aims to predict material behavior
+
+
+
+
+
+
+
+

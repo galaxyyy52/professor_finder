@@ -1,0 +1,218 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Dimitrios Fytanidis 
+
+
+
+
+
+Adjunct Research Assistant Professor
+
+
+
+fytanid2@illinois.edu
+2018 Civil Eng Hydrosystems Lab
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaWater Resources Engineering and Science
+Research Areas
+Water Resources Engineering and Science
+
+For More Information
+Personal website
+
+
+Education
+PhD in Civil Engineering, University of Illinois at Urbana-Champaign, USA, 2020
+
+MSc in Environmental Engineering and Science, Democritus University of Thrace, Greece, 2011 
+
+MSc in Civil Engineering - Hydraulic Engineering, Democritus University of Thrace, Greece, 2009
+
+Bsc in Civil Engineering, Democritus University of Thrace, Greece, 2008
+
+
+Academic Positions
+Adjunct Research Assistant Professor, University of Illinois, USA, 2021-
+
+Postdoctoral Fellow, Argonne National Laboratory, USA, 2020-
+
+Graduate Research Assistant, University of Illinois, USA, 2013-2020
+
+
+Professional Registrations
+American Physical Society, 2019-
+
+American Geophysical Union, 2017-
+
+International Association for Hydro-Environment Engineering and Research, 2013-
+
+American Society of Civil Engineering, 2013-
+
+
+
+
+Research Interests
+Environmental Fluid Mechanics (computational, analytical, and experimental)
+
+Computational Fluid Dynamics and applications in Fluid Mechanics and Hydraulics
+
+Turbulence modeling
+
+Hydraulic engineering
+
+Boundary layer flows
+
+Sediment transport, and mass/heat transfer flows
+
+Numerical modeling using physics-based and data-driven techniques
+
+Click for more
+Primary Research AreaWater Resources Engineering and Science
+Research Areas
+Water Resources Engineering and Science
+
+
+
+Chapters in Books
+García M.H., Fytanidis D.K., (2017), Flows in vegetated channels In: Experimental Hydraulics: Methods, Instrumentation, Data Processing and Management Volume I: Fundamentals and Methods, Chapter 2. Hydraulic flows: Overview, edited by M. Muste, D.A. Lyn, D. Admiraal, R. Ettema, V. Nikora, M.H. García, IAHR Monographs, ISBN 9780367573355, CRC Press, Taylor & Francis Group, New York, NY.
+
+
+Selected Articles in Journals
+Maulik R.,	Fytanidis D.K.,  Lusch B., Vishwanath V., Patel S., (2022) PythonFOAM: In-situ data analyses with OpenFOAM and PythonJournal of Computational Science Volume 62, July 2022, 101750. https://doi.org/10.1016/j.jocs.2022.101750.
+Fytanidis D.K., Garcí­a M.H., and Fischer P., (2021) Mean flow structure and velocity–bed shear stress maxima phase difference in smooth wall, transitionally turbulent oscillatory boundary layers: direct numerical simulations Journal of Fluid Mechanics, 928, A33. doi.org/10.1017/jfm.2021.827.
+Mier J.M., Fytanidis, D.K., and García M.H., (2021) Mean flow structure and velocity-bed shear stress maxima phase difference in smooth wall, transitionally turbulent oscillatory boundary layers: experimental observations. Journal of Fluid Mechanics, 922, A29. doi.org/10.1017/jfm.2021.510. 
+
+Chen C.-Y., Fytanidis D.K., and García M.H., (2021) Entrainment, transport and fate of Sediments during storm events in urban canals and rivers: the case of Bubbly Creek, Chicago, Illinois. Journal of Hydraulic Engineering- ASCE, 147(8), 05021005, doi.org/10.1061/(ASCE)HY.1943-7900.0001890. 
+
+Luo H., Fytanidis D.K., Schmidt A.R., García M.H., (2018), Comparative 1D and 3D numerical investigation of open-channel junction flows and energy losses, Advances in Water Resources, 117:120-139.
+
+Tsouknidas A., Giannopoulos D., Savvakis S., Michailidis N., Lympoudi E., Fytanidis D., Pissiotis A., Michalakis K., (2016), The influence of bone quality on the biomechanical behavior of a tooth-implant fixed partial denture: a three-dimensional finite element analysis, International Journal of Oral & Maxillofacial Implants, 2016 Nov/Dec; 31(6):e143-e154.
+
+Michalakis K., Tsouknidas A., Lympoudi E., Giannopoulos D., Michailidis N., Pissiotis A., Fytanidis D., Kugiumtzis D., (2015), Influence of alveolar bone loss and different alloys on the biomechanical behavior of internal and external connection implants: a 3-D finite element analysis, International Journal of Oral & Maxillofacial Implants, 2015 May-Jun;30(3):e30-42. 
+
+Fytanidis D.K., Soulis J.V., Giannoglou G.D., (2014), Patient-specific arterial system flow oscillation, Hippokratia, 18(2):162-5.
+
+Fytanidis D.K., Voudrias E.A., (2014), Numerical simulation of landfill aeration using computational fluid dynamics, Waste Management, 34(4):804-816.
+
+Tzanakis I., Eskin D.G., Georgoulas A., Fytanidis D.K., (2014), Incubation pit analysis and calculation of the hydrodynamic impact pressure from the implosion of an acoustic cavitation bubble, Ultrasonic Sonochemistry, 21(2):866–878.
+
+Soulis J.V., Fytanidis D.K., Papaioannou V.C., Giannoglou G.D., (2010), Wall shear stress on LDL accumulation in human RCAs, Journal of Medical Engineering and Physics, 32(8):867-877 
+
+Click for more
+Articles in Conference Proceedings
+Fytanidis D.K., Tombloulides A.G., Balakrishnan R., Kotamarthi R., Fischer P., (2021), Reynolds Average Navier-Stokes simulations of atmospheric boundary layer flows around building-like obstacles using nek5000. 13th International ERCOFTAC symposium on engineering, turbulence, modelling and measurements, ETMM13, 15-17 September, 2021, Rhodes, Greece, online.
+
+Fytanidis D.K., García M.H., and Fischer P., (2020), Near equilibrium in intermittently turbulent oscillatory boundary layer flows. Bulletin of the American Physical Society, APS Fluids Division Meeting 2020, November 22-24, 2020, Chicago, IL, online.
+
+Fytanidis D.K., Fischer, P., and García M.H., (2020), A model for the prediction of bed shear stress fluctuations in Oscillatory Boundary Layer flows. American Geophysical Union Fall meeting 2020, December 1-17, 2020, San Francisco, CA, online.
+
+Chen C.-Y., Fytanidis D.K., and García M.H., (2020), The fate of legacy sediments and its impact on dissolved oxygen in urban stream during storms, American Geophysical Union Fall meeting 2020, December 1-17, 2020, San Francisco, CA, online.
+
+Fytanidis D.K., Mier J.M., García M.H., and Fischer P., (2019), Direct Numerical Simulation of oscillatory boundary layers in the intermittently turbulent regime: coherent structures, laminarization and scaling. Bulletin of the American Physical Society, APS Fluids Division Meeting 2019, November 22-24, 2019, Seattle, WA.
+
+ 
+
+Fytanidis, D.K., Mier J.M., Garcia M.H., & Fischer P. (2019), Oscillatory boundary layer flows: experimental, numerical and theoretical considerations. American Geophysical Union Fall meeting 2019, December 9-13, 2020, San Francisco, CA.
+
+Rojas A., Fytanidis D.K., and García M.H., (2019), Dynamic operation of Chicago’s waterways system using hydraulic performance graphs (HPGs). American Geophysical Union Fall meeting 2019, December 9-13, 2019, San Francisco, CA.
+
+Rojas A., Santacruz S., Fytanidis D.K., Waratuke A., Luo H., and García M.H., (2019), Analysis of hydraulic measures to reduce the impact caused by structural methods to control aquatic nuisance species (ANS) migration in Chicago area waterway system (CAWS), International Association for Hydro-Environment Engineering and Research (IAHR) World Congress, September 1-6, 2019, Panama City, Panama.   
+
+Fytanidis D.K., Mier J.M., Fischer P. and García M.H., (2018), Direct Numerical Simulation of oscillatory boundary layers in the intermittent-turbulent/transitional regime: coherent structures and turbulent statistics. American Geophysical Union Fall meeting 2018, December 10-14, 2018, Washington DC.
+
+Fytanidis D.K., Zhu Z., Waratuke A.R., and García, M.H., (2018), Simulating control-structure ratings using computational fluid dynamics: the case of Lockport powerhouse, Illinois. 8th International Symposium on Environmental Hydraulics, IAHR-AIRH, June 4-7, 2018, Notre Dame, IN.
+
+Fytanidis D.K., Wu H., Landry B.J., and García M.H., (2017), Computational fluid dynamics modeling of submerged objects under unidirectional and oscillatory flows, American Geophysical Union Fall meeting 2017, December 11-15, 2017, New Orleans, LA.
+
+Landry B.J., Wu H., Wenzel S.P., Gates S.J., Fytanidis D.K., and García M.H., (2017), Large-scale laboratory experiments of initiation of motion and burial of objects under currents and waves, American Geophysical Union Fall meeting, December 11-15, 2017, New Orleans, LA
+
+ 
+
+Fytanidis D.K. (2017), Direct numerical simulation of turbulence in oscillatory boundary layer flows, Annual CSE Fellow Symposium 2017, University of Illinois, Urbana-Champaign,  National Center for Supercomputing Applications (NCSA), Urbana, IL (invited oral presentation).   
+
+Tzanakis I., Georgoulas A., Fytanidis D., Hadfield M., and Kotsovinos N., (2013), Identifying the impact mechanism of a single cavitation water bubble on a solid boundary wall, using experimental, analytical and numerical methods, World Tribology Congress 2013, September 8-13, 2013, Torino, Italy.
+
+Fytanidis D.K., Voudrias E.A., (2013), Simulating landfill aeration systems using computational fluid dynamics techniques, SEECCM III, 3rd South-East European Conference on Computational Mechanics an ECCOMAS and IACM Special Interest Conference, June 12-14, 2013, Kos Island, Greece.
+
+Soulis J.V., Lampri O.P., Fytanidis D.K., Giannoglou G.D., (2011), Relative residence time and oscillatory shear index of non-Newtonian flow models in aorta, 10th International Workshop on Biomedical Engineering, IEEE, October 5-7, 2011 Kos, Greece.
+
+Click for more
+Other Publications
+Multimedia submission to Milton van Dyke Gallery of Fluid Motion (American Physical Society, APS):
+Fytanidis, D.K., van Moer M., García M.H., and Fischer P., (2019), Coherent structures in intermittently turbulent oscillatory boundary layer flows. Gallery of Fluid Motion, Presented by the American Physical Society Division of Fluid Dynamics, November 22-24, 2019, Seattle, WA.
+
+Strategic Environmental Research and Development Program (SERDP) report:
+
+García M.H., Landry B., Zuniga Zamalloa C., Wu H., Fytanidis D.K., Wenzel S., Gates S., Waratuke A., Vitale A., Oberg N., Null W.D., Morch H., and Moller N., (2018), Large-scale laboratory experiments of incipient motion, transport, and fate of underwater munitions under waves, currents, and combined flows. SERDP Project MR-2410
+
+United States Environmental Protection Agency (EPA) report:
+
+Waterman D., Fytanidis D. and García M.H., (2015), Kalamazoo river in-situ flume bed erosion study. Civil Engineering studies. Hydraulic Engineering Series No 105, ISSN: 0442-1744, UIUC, US EPA archive Document,     
+
+
+
+
+Honors
+Impact Argonne Award, Argonne National Laboratory, Department of Energy, USA
+ (2021
+)
+Computational Science in Engineering Fellow, UIUC, USA       
+ (2016
+)
+Fulbright Scholarship to pursue a PhD, Greece
+ (2013
+)
+
+Teaching Honors
+List of teachers ranked excellent by their students  Environmental Hydrodynamics (Fall 2017)
+ (2017)
+List of teachers ranked excellent by their students  Sediment Transport (Fall 2018) 
+ (2018
+)
+List of teachers ranked excellent by their students Open Channel Hydraulics (Fall 2019) 
+ (2019
+)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

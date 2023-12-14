@@ -1,5 +1,25 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<script>
+    function navigatePage(pageNum) {
+        const query = '{{ query }}';
+        const url = `/search/?query=${query}&current_page=${pageNum}`;
+        fetch(url, {
+            headers: {
+                'X-Requested-With': 'XMLHttpRequest'
+            }
+        })
+            .then(response => response.text())
+            .then(html => {
+                // Replace the main content with the new HTML
+                //document.querySelector('main').innerHTML = html;
+                document.getElementById('results-content').innerHTML = html;
+            })
+            .catch(error => console.error('Error:', error));
+    }
+</script>
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,19 +27,21 @@
     <title>Professor Finder</title>
     <link rel="stylesheet" href="/static/styles.css">
 </head>
+
 <body>
     <header>
         <div class="logo-container">
             <img src="/static/riverdye-1.jpeg" alt="Professor Finder Logo" class="logo">
-            <h1>Results for your query {{ query }}</h1>
+            <h1>Results for your query: {{query}}</h1>
         </div>
         <nav>
             <!-- Navigation links can go here -->
         </nav>
     </header>
     <!-- Rest of the page content goes here -->
+    
     <main>
-
+    <div id="results-content">
     {% if results %}
         <table>
             <thead>
@@ -31,20 +53,20 @@
                 </tr>
             </thead>
             <tbody>
-                {% for professor in results %}
+                {% for result in results %}
                     <tr>
-                        <td><a href="{{ professor.personal_site }}" target="_blank"><img src="{{ professor.photo_url }}" alt="{{ professor.name }}" style="max-width: 100px; max-height: 100px;"></a><br>
-                        <a href="{{ professor.personal_site }}" target="_blank">{{ professor.name }}</a></td>
-                        <td>{{ professor.university }}</td>
-                        <td>{{ professor.department }}</td>
+                        <td><a href="{{ result.professor.home_page_url }}" target="_blank"><img src="{{ result.professor.photo_url }}" alt="{{ result.professor.name }}" style="max-width: 100px; max-height: 100px;"></a><br>
+                        <a href="{{ result.professor.home_page_url }}" target="_blank">{{ result.professor.name }}</a></td>
+                        <td>{{ result.professor.university }}</td>
+                        <td>{{ result.professor.department }}</td>
                         <td>
-                            <b>Title</b>: {{ professor.brief.title if professor.brief.title else "UNK" }}<br>
+                            <b>Title</b>: {{ result.professor.brief.title if result.professor.brief else "UNK" }}<br>
                             <b>Research Area</b>:<br>
-                            {% for area in professor.brief.research_area %}
+                            {% for area in result.professor.brief.research_area %}
                                 &nbsp;&nbsp;· {{ area }}<br>
                             {% endfor %}
                             <b>Courses Taught</b>:<br> 
-                            {% for courses_taught in professor.brief.courses_taught %}
+                            {% for courses_taught in result.professor.brief.courses_taught %}
                                 &nbsp;&nbsp;· {{ courses_taught }}<br>
                             {% endfor %}
                         </td>
@@ -52,11 +74,24 @@
                 {% endfor %}
             </tbody>
         </table>
+                <!-- Pagination Controls -->
+        <center>
+          <div class="pagination">
+            {% if current_page > 1 %}
+                <a href="javascript:navigatePage({{ current_page - 1 }})">Previous</a>
+            {% endif %}
+            <span>Page {{ current_page }} of {{ total_pages }}</span>
+            {% if current_page < total_pages %}
+                <a href="javascript:navigatePage({{ current_page + 1 }})">Next</a>
+            {% endif %}
+          </div>
+        </center>
     {% else %}
         <p>No results found</p>
     {% endif %}
         
          &nbsp;&nbsp;<a href="/">Back to Search</a>
+    </div>
     </main> 
        
     <footer>

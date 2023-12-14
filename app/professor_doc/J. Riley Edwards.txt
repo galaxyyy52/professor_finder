@@ -1,0 +1,414 @@
+
+
+
+
+
+
+
+ 
+
+
+
+ J. Riley Edwards 
+
+
+
+
+
+Assistant Professor
+
+
+(217) 244-7417
+jedward2@illinois.edu
+1243 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaTransportation Engineering
+Research Areas
+Transportation Engineering
+
+For More Information
+RailTEC profile page
+
+BiographyJ. Riley Edwards, Ph.D., P.E., is a Senior Lecturer and Research Scientist in the Rail Transportation and Engineering Center (RailTEC) at the University of Illinois at Urbana-Champaign (Illinois).  He obtained his Bachelors degree in Civil Engineering from Vanderbilt University, and his MS and PhD in Civil Engineering from the University of Illinois at Urbana-Champaign.  After obtaining his Bachelors degree, he worked for the Canadian National Railway as a Construction Inspector on their Intermodal Gateway Memphis project.  Dr. Edwards also worked for Hanson Professional Services, Inc. as a Construction Engineer on BNSF Railway’s Memphis Intermodal Expansion project in Tennessee.  Since 2007, Dr. Edwards has held various positions in RailTEC at Illinois where he oversees rail infrastructure research and advises graduate and undergraduate students concentrating in rail engineering.  His research interests are railway infrastructure track system and component design and performance and failure modes associated with infrastructure components.
+Education
+Ph.D. Civil and Environmental Engineering University of Illinois at Urbana-Champaign (2019)
+M.S.	Civil Engineering	University of Illinois at Urbana-Champaign (2006)
+B.E.	Civil Engineering	Vanderbilt University (2004)
+
+Academic Positions
+Research Associate Professor (2022-Present)
+Senior Research Scientist and Senior Lecturer (2019-2022)
+Research Scientist and Senior Lecturer (2013-2019)
+Senior Lecturer in Railway Engineering (2012-2013)
+Lecturer in Railway Engineering (2007-2012)
+
+Other Professional Employment
+Railroad Construction Engineer, Hanson Professional Services, Inc., Memphis, TN (2006-2007)
+Construction Inspector, Canadian National Railway, Memphis, TN (2004)
+
+Professional Registrations
+P.E., State of Illinois #062.067052, January 2015-present
+
+Professional Societies
+Steering Committee for University of South Carolina Concrete Tie Research Project (FRA Funded) (2014-2016)
+Student Chapter Coordinator for the American Railway Engineering and Maintenance of Way Association (AREMA).  As a part of my duties on Committee 24, I oversaw student chapter relations and development throughout the U.S.  During my time, we started 6 new student chapters, with additional ones in the planning stages. (2009-2012)
+American Society of Mechanical Engineers (ASME) (2007-Present)
+Institute of Transportation Engineers (ITE) (2002-2006)
+American Society of Civil Engineers
+Member 2002-Present
+Member of Rail Transportation Committee (2007-Present)
+
+American Railway Engineering and Maintenance of Way Association (AREMA) (2004-Present)
+Member of Ties Committee (C-30), Concrete Tie Technology Subcommittee (Sub-4)
+Member of Education and Training Committee (C-24), University Relations Subcommittee, Student Chapter Coordinator (2011-2013)
+Member of Track Committee (C-5) (2013 - Present)
+Member of Tie Committee (C-30), Member of Concrete Tie Subcommittee (S-4)
+Transportation Research Board Member (2008-Present)
+Member of Railway Design Committee (AR050) (2008-2020)
+Member of Railway Maintenance Committee (AR060)
+Chair of Railway Track Structure Design Committee (AR050) (2015-2020)
+Co-Chair of Railway Track Structure Design and Maintenance Committee (AR050) (2020-Present)
+Member of Rail Executive Board (2015-Present)
+Click for more
+Service on Campus Committees
+Principal organizer for the 2021 International Crosstie and Fastening System Symposium. This event will be held in May 2021.
+Principal organizer for the 2018 International Crosstie and Fastening System Symposium.  This event was attended by over 150 industry experts from around the world who came together for technical discussions on design and performance issues relating to crossties and fastening systems. The event was held on May 15 - 17, 2018 at the University of Illinois at Urbana-Champaign.
+Principal organizer for the 2016 International Crosstie and Fastening System Symposium.  This event was attended by approximately 150 industry experts from around the world who came together for technical discussions on design and performance issues relating to crossties and fastening systems. The event was held on June 14 - 16, 2016 at the University of Illinois at Urbana-Champaign.
+Principal organizer for the 2014 International Crosstie and Fastening System Symposium.  This event was attended by approximately 150 industry experts from around the world to come together for technical discussions on design and performance issues relating to  crossties and fastening systems.  The event was held at UIUC June 3-5th, 2014.
+Principal organizer for the 2012 International Concrete Crosstie and Fastening System Symposium.  This event was attended by approximately 90 industry experts from around the world to come together for technical discussions on design and performance issues relating to concrete crossties and fastening systems.  The event was held at UIUC June 6-8th, 2012.
+Additional leadership and planning experience was gained through work as the ASCE Conference Co-Chair for the 2010 ASCE/ASME/IEEE/TRB/AREMA Joint Rail Conference, held on the campus of the University of Illinois at Urbana-Champaign April 27-29, 2010
+Acted in the principle organizational role for the Railway Engineering Education Symposium, held from June 8-11, 2008 in which over 30 professors from other Civil Engineering schools were invited to the University of Illinois to gain a greater understanding of railroad engineering fundamentals and will be provided with railroad engineering material to take back to their respective universities.  REES was extremely successful, and stimulated interest in Railroad Engineering education at many schools throughout North America.  I also worked as the academic coordinator for the REES 2010 event in Overland Park, KS, which was made up of another 25 interested faculty to teach them the basics of railroad engineering for inclusion into their courses.
+Click for more
+
+
+Research Interests
+My primary research area is relates to the design and performance of railway infrastructure and its components.  Specific emphasis on railway sleeper and fastening system design for passenger, transit, and freight applications, with focus on materials and structural design.  Additional research areas include the application of AI, DNNs, and machine vision technology to railroad inspection tasks.
+
+Undergraduate Research OpportunitiesRailroad infrastructure engineering research topics.
+Primary Research AreaTransportation Engineering
+Research Areas
+Transportation Engineering
+
+
+
+Books Authored or Co-Authored (Original Editions)
+Edwards, J.R. (2019). Quantification of Prestressed Concrete Railway Crosstie Flexural Response: Implications for Mechanistic Design.  Doctoral Thesis.  University of Illinois at Urbana-Champaign, Urbana, IL. May 2019.
+
+
+Selected Articles in Journals
+Lima, A.O., J.R. Edwards, H. Chen, and M.S. Dersch. 2022. Laboratory Investigation of Load Factors and Response Quantification of Direct Fixation Fastening Systems for Heavy Rail Transit Infrastructure. ACI Structural Journal. DOI:10.14359/51737232.
+
+Khachaturian, C.J., Dersch, M.S., Liu, S. and J.R. Edwards. 2022. Evaluating glass fiber reinforced composite sleepers to mitigate elastic fastening system spike fatigue failure: A finite element study  Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/09544097221136915.
+
+Khachaturian, C.J., Dersch, M.S., J.R. Edwards, and M. Trizotto. 2022. Quantification of Longitudinal Fastener Stiffness and the Effect on Fastening System Loading Demand. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/09544097221112576.
+
+Lee, J., A.O. Lima, J.R. Edwards, and M.S. Dersch. 2022. Probabilistic review of wheel profiles based on hollow tread in the U.S. heavy haul rail network. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/095440972211220.
+
+Harrington, R. M., A.O. Lima, J.R. Edwards, M.S. Dersch, Richard Fox-Ivey, J. Laurent, and T. Nguyen. 2022. Use of 3D Laser Scanning, Deep Convolutional Neural Networks (DCNNs), and Change Detection Technology for Railway Safety Inspections. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/09544097221093486.
+
+Bastos, J.C., J.R. Edwards, and M.S. Dersch. 2022. An Analytical Method to Determine Concrete Flexural Stresses in Cracked Pretensioned Beams Under Cyclic Loading. Engineering Structures. DOI: https://doi.org/10.1016/j.engstruct.2022.114188.
+
+Dersch, M.S., M. Trizotto, J.R. Edwards, and A.O. Lima. 2021. Analytical Non-Linear Modeling of Rail and Fastener Longitudinal Response. Transportation Research Record: Journal of the Transportation Research Board. DOI: https://doi.org/10.1177/03611981211069350.
+
+Bastos, J.C., J.R. Edwards, and M.S. Dersch. 2021. Degradation Mechanisms of Concrete Due to Water Flow in Cracks of Prestressed Beams Under Cyclic Loading. Journal of Materials in Civil Engineering (ASCE). DOI: 10.1061/(ASCE)MT.1943-5533.0004144.
+
+Quiros Orozco, R.J., J.R. Edwards, Y. Qian and M.S. Dersch. 2021. Variability of Support Conditions and Effects on the Non-Linear Flexural Response of Concrete Crossties. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/09544097211049887.
+
+Dersch, M.S., M. Trizotto, C.J. Khachaturian, J.R. Edwards. 2021. Quantification of Vertical, Lateral, and Longitudinal Fastener Demand in Broken Spike Track: Inputs to Mechanistic Empirical-Design. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/09544097211030736.
+
+Edwards, J.R., K.A. Mechitov, I.G. Barbosa, A.O. Lima, B.F. Spencer, Jr., E. Tutumluer, and M.S. Dersch. 2021. A Roadmap for Sustainable Smart Track–Wireless Continuous Monitoring of Railway Track Condition. MDPI Sustainabilty. DOI: https://doi.org/10.3390/su13137456.
+
+Edwards, J.R., J.C. Bastos, R.J. Quiros, M.S. Dersch, and E. Tutumluer. 2021. Vision for Mechanistic-Empirical Railway Track System and Component Analysis and Design. Transportation Research Record: Journal of the Transportation Research Board. DOI: https://doi.org/10.1177/03611981211009881.
+
+Lima, A.O. , M.S. Dersch, J. Lee, and Edwards, J.R. 2021. Track Modulus Assessment of Engineered Interspersed Concrete Sleepers in Ballasted Track. MDPI Journal of Applied Sciences. DOI: https://doi.org/10.3390/app11010261.
+
+Lima, A.O., Edwards, J.R, L.W. Chavez, Y. Qian, and M.S. Dersch. 2021. Load and Response Quantification of Direct Fixation Fastening Systems for Heavy Rail Transit Infrastructure. Journal of Rail and Rapid Transit. DOI: https://doi.org/10.1177/0954409720987036.
+
+Trizotto, M., M.S. Dersch, J.R. Edwards, A.de O., Lima. 2021. Analytical Elastic Modelling of Railroad Track Longitudinal Response. Transportation Research Record: Journal of the Transportation Research Board. DOI: https://doi.org/10.1177/0361198120985848.
+
+Dersch, M.S., C.J. Khachaturian, J.R. Edwards. 2020. Methods to Mitigate Railway Premium Fastening System Spike Fatigue Failures using Finite Element Analysis. Accepted: Journal or Rail and Rapid Transit.
+
+Ling, G., Saihkouhi, M., J.R. Edwards, M.S. Dersch, and N.A. Hoult. 2020. Smart railway sleepers - a review of recent developments, challenges, and future prospects. Construction and Building Materials. DOI: 10.1016/j.conbuildmat.2020.121533.
+
+Pereira, C., Edwards, J.R., and M.S. Dersch. 2020. Non-Intrusive Monitoring of Ballast Pressure Distribution Under Concrete Crossties Using Ballast Support Condition Back-Calculator. Accepted: Frontiers in Built Environment.
+
+Qian, Y., M.S. Dersch, Edwards, J.R, and R. Quiros. 2020. The Effect of Easement Geometry on Rail End Bolt Hole and Fillet Stress at Bolted Rail Joints for Transit Track. In Press: Journal of Rail and Rapid Transit.
+
+Edwards, J.R., A.E.C Ruiz, J.C. Bastos, Y. Liang, and M.S. Dersch. 2020. Use of Field Flexural Demand Data for Reliability-Based Analysis and Design of Concrete Railroad Sleepers. Frontiers in Built Environment. DOI: 10.3389/fbuil.2020.582948
+
+Dersch, M.S., M. Trizotto, J.R Edwards, A.O. Lima, and T. Roadcap. 2020. Analytical Method to Estimate Railroad Spike Fastener Stress. Accepted: Transportation Research Record. DOI: 10.1177/0361198120949259.
+
+Edwards, J.R., A.E. Canga Ruiz, A.A. Cook, M.S. Dersch and Y. Qian. 2018. Quantifying Bending Moments in Rail Transit Concrete Sleepers. Journal of Transportation Engineering, Part A: Systems, 144(3): 04018003.
+
+Bastos, J.C., M.S. Dersch, and J.R. Edwards. 2020. Statistical prediction of center negative bending capacity of pretensioned concrete crossties. Journal of Transportation Engineering, Part A: Systems. DOI: 10.1177/0954409719854569.
+
+Edwards, J.R., Y. Liang, J.C. Bastos, and M.S. Dersch. 2019. Development of a Parametric Model for Prediction of Concrete Railway Crosstie Service Bending Moments. Journal of Rail and Rapid Transit. DOI: 10.1177/0954409719888068.
+
+Branson, J., M.S. Dersch, A.O. Lima, J.R. Edwards, and J.C. Bastos. 2019. Identification of Under Tie Pad (UTP) Material Characteristics for Stress State Reduction. Journal of Rail and Rapid Transit. DOI: 10.1177/0954409719890156.
+
+Dersch, M.S., T. Roadcap, J.R. Edwards, Y. Qian, J-Y Kim, and M. Trizotto. 2019. Investigation into the effect of lateral and longitudinal loads on railroad spike stress magnitude and location using finite element analysis. Engineering Failure Analysis, 104: 388–398.
+
+Canga Ruiz, A.E., Y. Qian, J.R. Edwards, and M.S. Dersch. 2019. Probabilistic Framework for the Assessment of Concrete Sleeper Flexural Design. Journal of Rail and Rapid Transit. DOI: 10.1177/0954409719854569.
+
+Qian Y., G. Zhengbouyang, M.S. Dersch, and J.R. Edwards. 2019. Railroad infrastructure 4.0: Development and application of an automatic ballast support condition assessment system. Transportation Geotechnics, 19:19-34.
+
+Branson, J., M.S. Dersch, A.O. Lima, J.R. Edwards, and J. Kim. 2019. Analysis of Geometric Ballast Plate for Laboratory Testing of Resilient Track Components. Transportation Geotechnics, 20:100240.
+
+Canga Ruiz, A.E., Y. Qian, Edwards, J.R, and M.S. Dersch. 2018. Analysis of the Temperature Effect on Concrete Crosstie Flexural Behavior. Construction and Building Materials, 196:362-374.
+
+Bastos, J.C., J.R. Edwards, M.S. Dersch, and B. Andrawes. 2018. Laboratory analysis of track gauge restraining capacity of center cracked railway concrete sleepers with various support conditions. Engineering Failure Analysis, 94:354-363.
+
+Lima, A.O., M.S. Dersch, Y. Qian, E. Tutumluer, and J.R. Edwards. 2018. Laboratory comparison of mechanical fatigue performance of under-ballast mats under varying loading and support condition. In Press: Journal of Rail and Rapid Transit.
+
+Edwards, J.R., A.A. Cook, M.S. Dersch, and Y. Qian. 2018. Quantification of Rail Transit Wheel Loads and Development of Improved Dynamic and Impact Loading Factors for Design. In Press: Journal of Rail and Rapid Transit, Part F.
+
+Bastos, J.C., A. Alvarez Reyes, M.S. Dersch, J.R. Edwards, and C.P.L. Barkan. 2018. Laboratory Characterization of Structural Capacity of North American Heavy Haul Concrete Crossties. Accepted: Transportation Research Record: Journal of the Transportation Research Board, In Press.
+
+Lima, A.O., M.S. Dersch, E. Tutumluer, J.R. Edwards and Y. Qian. 2018. Support Condition and Traffic Loading Patterns Influencing Laboratory Determination of Under Ballast Mat Bedding Modulus and Insertion Loss. In Press: Transportation Research Record: Journal of the Transportation Research Board.
+
+Yin, H., Y. Qian, J.R. Edwards and K. Zhu. 2018. Investigation of Relationship between Train Speed and Bolted Rail Joint Fatigue Life Using Finite Element Analysis. Transportation Research Record: Journal of the Transportation Research Board. 2672: 85–95. DOI: 10.1177/0361198118784382.  
+
+Edwards, J.R., G. Zhengboyang, H.E. Wolf, M.S. Dersch and Y. Qian. 2017. Quantification of concrete railway sleeper bending moments using surface strain gauges. Measurement - Journal of the International Measurement Confederation, 111: 197–207.
+
+Quiros Orozco, R.J., J.R. Edwards, Y. Qian and M.S. Dersch. 2018. Quantification of Loading Environment and Flexural Demand of Prestressed Concrete Crossties under Shared Corridor Operating Conditions. In Press: Transportation Research Record: Journal of the Transportation Research Board.
+
+Zhu, K., J.R. Edwards, Y. Qian and B. Andrawes. 2017. Finite Element Analysis of Rail-End Bolt Hole and Fillet Stress on Bolted Rail Joints. Transportation Research Record: Journal of the Transportation Research Board. 2607: 33–42. DOI: 10.3141/2607-06.
+
+Shurpali, A.A., J.R. Edwards, R.G. Kernes, D.A. Lange and C.P.L. Barkan. 2017. Improving the Abrasion Resistance of Concrete to Mitigate Concrete Crosstie Rail Seat Deterioration (RSD). Materials Performance and Characterization, 6(1): 20170051.
+
+J.C. Bastos, M.S. Dersch, J.R. Edwards, B. Andrawes. 2017. Flexural Behavior of Concrete Crossties under Different Support Conditions. Journal of Transportation Engineering, Part A: Systems, 143(12): 04017064.
+
+Zhengboyang, G., Y. Qian, M.S. Dersch, and Edwards, J.R. 2017. Compressive Stress Distribution in Precast Concrete and its Effect on Concrete Crosstie Design. Construction and Building Materials, 151 (2017) 147-157.
+
+Greve, M.J., M.S. Dersch, J.R. Edwards, C.P.L. Barkan, J. Mediavilla and B. Wilson. 2016. Effect of particle intrusion on rail seat load distributions on heavy haul freight railroads. International Journal of Rail Transportation. DOI: 10.1080/23248378.2016.1157048.
+
+Lin, X., J.R. Edwards, M.S. Dersch, T.A. Roadcap and C.J. Ruppert, Jr. 2017. Load quantification of the wheel-rail interface of rail vehicles for the infrastructure of light rail, heavy rail, and commuter rail transit. Journal of Rail and Rapid Transit. DOI: 10.1177/0954409716684266.
+
+Wolf, H.E., Y. Qian, J.R. Edwards, M.S. Dersch and D.A. Lange. 2016. Temperature-induced curl behavior of prestressed concrete and its effect on railroad crossties. Construction and Building Materials. 115:319–326.
+
+Van Dyk, B.J., J.R. Edwards, M.S. Dersch, C.J. Ruppert and C.P.L. Barkan. 2016. Evaluation of dynamic and impact wheel load factors and their application in design processes. Online, Journal of Rail and Rapid Transit. DOI: 10.1177/0954409715619454.
+
+Zhang, A., S. Wei, B. Andrawes, D.A. Kuchma, and J.R. Edwards. 2016. Numerical and experimental study on dynamic behaviour of concrete sleeper track caused by wheel flat. International Journal of Rail Transportation. Vol 4, Issue 1, 1-19.
+
+Holder, D.E., M.V. Csenge, Y. Qian, M.S. Dersch and J.R. Edwards. 2017. Laboratory investigation of the Skl-style fastening system's lateral load performance under heavy haul freight railroad loads. Engineering Structures.139 (2017) 71-80.
+
+Zhu, K., J.R. Edwards, Y. Qian and B. Andrawes. 2016. Finite element analysis of the effects of bolt condition on bolted rail joint stresses. Transportation Research Record: Journal of the Transportation Research Board. 2545: 36–45. DOI: 10.3141/2545-05.
+
+Zhang, A., B. Andrawes, and J.R. Edwards. 2015. Parametric Study on the Distribution of Longitudinal Load in Railway Track under Dynamic Wheel Loading Using Finite Element Analysis. SSRG International Journal of Civil Engineering. Vol 2, Issue 5.
+
+Chen, Z., B. Andrawes, and J.R. Edwards. 2014. Finite Element Modeling and Field Validation of Prestressed Concrete Sleepers and Fastening Systems. Structure and Infrastructure Engineering. Vol. 12, n 5, p. 631-646.
+
+Van Dyk, B.J., A.J. Scheppe, J.R. Edwards, M.S. Dersch and C.P.L. Barkan. 2015. Methods for quantifying rail seat loads and a review of previous experimentation. Journal of Rail and Rapid Transit. DOI: 0954409715569862.
+
+Grasse, J., S. Wei, J.R. Edwards, D. Kuchma, D. Lange. 2015. Field Study of Load Path in Rail and Concrete Crosstie System. Electronic Journal of Structural Engineering (EJSE), Vol 14, Issue 5, 2015.
+
+Williams, B.A., D. Holder, J.R. Edwards, M.S. Dersch and C.P.L. Barkan. 2015. Quantification of the lateral forces in concrete sleeper fastening systems. Journal of Rail and Rapid Transit. DOI: 10.1177/0954409715616997.
+
+Greve, M.J., M.S. Dersch, J.R. Edwards, C.P.L. Barkan, H. Thompson, T.R. Sussmann, Jr. and M.T. McHenry. 2015.Examination of the effect of concrete crosstie rail seat deterioration on rail seat load distribution. Transportation Research Record: Journal of the Transportation Research Board. 2476: 1-7. DOI: 10.3141/2476-01.
+
+Chen, Z., M. Shin, B.O. Andrawes and J.R. Edwards. 2014. Parametric study on damage and load demand of prestressed concrete crosstie and fastening systems. Engineering Failure Analysis. 46 (2014) 49-61.
+
+Van Dyk, B.J., M.S. Dersch, J.R. Edwards, C.J. Ruppert, Jr. and C.P.L. Barkan. 2014. Load characterization techniques and overview of loading environment in North America. Transportation Research Record: Journal of the Transportation Research Board. 2448: 80-86.
+
+Kernes, R.G., A.A. Shurpali, J.R. Edwards, M.S. Dersch, D.A. Lange and C.P.L. Barkan. 2014. Investigation of the mechanics of rail seat deterioration and methods to improve the abrasion resistance of concrete sleeper rail seats. Journal of Rail and Rapid Transit. 228 (6): 581-589.
+
+Shurpali, A., J.R. Edwards, R. Kernes, D. Lange and C.P.L. Barkan. 2014. Investigation of material improvements to mitigate the effects of abrasion mechanisms of concrete crosstie rail seat deterioration. ASCE Journal of Transportation Engineering.140 (2) 04013009.
+
+Rapp, C.T., M.S. Dersch, J.R. Edwards, C.P.L. Barkan, B. Wilson and J. Mediavilla. 2013. Measuring rail seat pressure distribution in concrete crossties; experiments with matrix-based tactile surface sensors. Transportation Research Record: Journal of the Transportation Research Board. 2374: 190-200.
+
+Zeman, J.C., J.R. Edwards, D.A. Lange and C.P.L. Barkan. 2012. Hydraulic pressure cracking in rail seats of concrete crossties. ACI Materials Journal. 109 (6): 639-646.
+
+Schlake, B.W., S. Todorovic, J.R. Edwards, J.M. Hart, N. Ahuja and C.P.L Barkan. 2010. Machine vision condition monitoring of heavy-axle load railcar structural underframe components. Journal of Rail and Rapid Transit. 224 (5): 499-511.
+
+Schlake, B.W., C.P.L. Barkan and J.R. Edwards. 2011. Train delay and economic impact of in-service failures of railroad rolling stock. Transportation Research Record: Journal of the Transportation Research Board. 2261: 124-133.
+
+Click for more
+Articles in Conference Proceedings
+Rapp, C., M.S. Dersch, J.R. Edwards, C.P.L. Barkan, J. Mediavilla, and B. Wilson. 2012. Measuring Concrete Crosstie Rail Seat Pressure Distribution with Matrix Based Tactile Surface Sensors. Proceedings of the American Railway Engineering and Maintenance of Way Association Annual Conference. Chicago, IL (September 2012).
+
+Shurpali, A.A., J.R. Edwards, R.G. Kernes, X. Liu, D.A. Lange, and C.P.L. Barkan. 2013. Investigation of Material Improvements to Mitigate the Effects of Abrasion Mechanism of Concrete Crosstie Rail Seat Deterioration (RSD). Proceedings of Transportation Research Board (TRB) 92nd Annual Meeting. Washington D.C. (January 2013).
+
+Rapp, C., M.S. Dersch, J.R. Edwards, C.P.L. Barkan, J. Mediavilla, and B. Wilson. 2013. Measuring Concrete Crosstie Railseat Pressure Distribution with Matrix Based Tactile Surface Sensors. Proceedings of Transportation Research Board (TRB) 92nd Annual Meeting. Washington D.C. (January 2013).
+
+Williams, B., Edwards, J.R., Kernes, R.G. and Barkan, C.P.L. 2014. Analysis of the Lateral Load Path in Concrete Crosstie Fastening Systems. In: Proceedings of the 2014 Joint Rail Conference, Colorado Springs, USA, April 2014.
+
+Greve, M., Dersch, M.S., Edwards, J.R., Barkan, C.P.L., Mediavilla, J. and Wilson, B.M. 2014. Analysis of the Relationship Between Rail Seat Load Distribution and Rail Seat Deterioration in Concrete Crossties. In: Proceedings of the 2014 Joint Rail Conference, Colorado Springs, USA, April 2014.
+
+do Carmo, T.B., Edwards, J.R., Kernes, R.G., Andrawes, B.O. and Barkan, C.P.L. 2014. Laboratory and Field Investigation of the Rail Pad Assembly Mechanistic Behavior. In: Proceedings of the 2014 Joint Rail Conference, Colorado Springs, USA, April 2014.
+
+Williams, B.A., J.R. Edwards, M.S. Dersch, C.P.L. Barkan, R.G. Kernes. 2014. Experimental Field Investigation of the Effects of Lateral Load Distribution on Concrete Crosstie Track. AREMA 2014 Annual Conference, September 28 – October 1, 2014, Chicago, IL, USA.
+
+Williams, B.A., M.S. Dersch, J.R. Edwards, and C.P.L Barkan. 2015. Quantification of Lateral Forces in Concrete Crosstie Fastening Systems. Proceedings of Transportation Research Board (TRB) 94th Annual Meeting. Washington D.C. (January 2015).
+
+Scheppe, A.J., J.R. Edwards, M.S. Dersch, and C.P.L Barkan. 2015. Quantifying Lateral Wheel Loading Variation Using Truck Performance Detectors. Proceedings of Transportation Research Board (TRB) 94th Annual Meeting. Washington D.C. (January 2015).
+
+Wolf, H.E., S. Mattson, J.R. Edwards, M.S. Dersch, and C.P.L Barkan. 2015. Flexural Analysis of Prestressed Concrete Monoblock Crossties: Comparison of Current Methodologies and Sensitivity to Support Conditions. Proceedings of Transportation Research Board (TRB) 94th Annual Meeting. Washington D.C. (January 2015).
+
+Greve, M.J., M.S. Dersch, J.R. Edwards, C.P.L Barkan, H. Thompson, T. Sussmann, and M. McHenry. 2015. Examination of the Effect of Concrete Crosstie Rail Seat Deterioration on Rail Seat Load Distribution. Proceedings of Transportation Research Board (TRB) 94th Annual Meeting. Washington D.C. (January 2015).
+
+Csenge, M.V., H.E. Wolf, M.S. Dersch, J.R. Edwards, R.G. Kernes and M.G. Romero. 2015. Exploration of Alternatives for Prestressed Concrete Monoblock Crosstie Design Based on Flexural Capacity. In: Proceedings of the 2015 Joint Rail Conference, San Jose, CA, March 2015.
+
+Greve, M.J., M.S. Dersch, J.R. Edwards, C.P.L Barkan, H. Thompson, T. Sussmann, and M. McHenry. 2015. Evaluation of Laboratory and Field Experimentation Characterizing Concrete Crosstie Rail Seat Load Distributions. In: Proceedings of the 2015 Joint Rail Conference, San Jose, CA, USA, March 2015.
+
+Wolf, H., M.V. Csenge, M.S. Dersch, J.R. Edwards, C.P.L Barkan. 2015. Exploration of alternatives for prestressed concrete monoblock crosstie design based on flexural capacity. In: Proceedings of the 2015 Joint Rail Conference, San Jose, CA, USA, March 2015.
+
+Wolf, H.E., J.R. Edwards, M.S. Dersch, and C.P.L Barkan. 2015. Flexural Analysis of Prestressed Concrete Monoblock Crossties for Heavy-Haul Applications: Comparison of Current Methodologies and Sensitivity to Support Conditions. In: Proceedings of the 2015 International Heavy Haul Association Conference, Perth, Austrailia. June 2015).
+
+Holder, D., M.S. Dersch, J.R. Edwards, C.P.L Barkan. 2015. Quantification of Lateral Forces in Concrete Sleeper Fastening Systems Under Heavy Haul Freight Loads. In: Proceedings of the 2015 International Heavy Haul Association Conference, Perth, Austrailia. June 2015.
+
+Scheppe, A.J., J.R. Edwards, M.S. Dersch, and C.P.L Barkan. 2015. Quantifying Lateral Wheel Loading Variation Using Truck Performance Detectors. In: Proceedings of the 2015 International Heavy Haul Association Conference, Perth, Austrailia. June 2015).
+
+Greve, M.J., M.S. Dersch, J.R. Edwards, C.P.L Barkan. 2015. The effect of particle intrusion on rail seat load distribution on heavy haul freight railroads. In: Proceedings of the 2015 International Heavy Haul Association Conference, Perth, Austrailia. June 2015).
+
+Wei, S., D. Kuchma, M.S. Dersch, J.R. Edwards, D.A. Lange. 2015. Laboratory and field investigation of concrete sleeper load path and support conditions. In: Proceedings of the 2015 International Heavy Haul Association Conference, Perth, Austrailia. June 2015).
+
+Csenge, M.V., X. Lin, H.E. Wolf, M.S. Dersch and J.R. Edwards. 2015. Mechanistic Design of Concrete Monoblock Crossties for Rail Transit Loading Conditions. Accepted, American Public Transportation Association 2015 Rail Conference, Salt Lake City, UT, June 2015.
+
+Zhu, Z., J.R. Edwards, Y. Qian and B.O. Andrawes. 2016. Fatigue Analysis of Rail-Head-to-Web Fillet at Bolted Rail Joint under Various Impact Wheel Load Factors and Support Configurations. In: Proceedings of the 2016 Joint Rail Conference, Columbia, SC, April 2016.
+
+Ghosh, A., J.R. Edwards and M.S. Dersch. 2016. Effect of Design Rail Cant on Concrete Crosstie Rail Seat Pressure Distribution. In: Proceedings of the 2016 Joint Rail Conference, Columbia, SC, April 2016.
+
+Wolf, H.E., J.R. Edwards, M.S. Dersch, Y. Qian and D.A. Lange. 2016. Field Measurement of Bending Moments in Prestressed Concrete Monoblock Sleepers. In: Proceedings of the 11th World Congress on Railway Research, Milan, Italy, June 2016.
+
+Lin, X., J.R. Edwards, M.S. Dersch and C.J. Ruppert Jr. 2016. Load Quantification for Light Rail, Heavy Rail, and Commuter Rail Transit Infrastructure. In: Proceedings of the 11th World Congress on Railway Research, Milan, Italy, June 2016.
+
+Ghosh, A., M.J. Greve, M.S. Dersch, J.R. Edwards and C.P.L. Barkan. 2016. Analyzing Rail Seat Load Distributions on Concrete Sleepers using Matrix Based Tactile Surface Sensors. In: Proceedings of the 11th World Congress on Railway Research, Milan, Italy, June 2016.
+
+Csenge, M.V., Y. Qian, M.S. Dersch and J.R. Edwards. 2016. Resilient Concrete Crosstie and Fastening System Designs for Light Rail, Heavy Rail, and Commuter Rail Transit Infrastructure. In: Proceedings of the 11th World Congress on Railway Research, Milan, Italy, June 2016.
+
+Bastos, J.C., M.S. Dersch, J.R. Edwards and B.O. Andrawes. 2016. Determination of the Influences of Deteriorated Track Conditions on Gauge Widening in Concrete Sleeper Track. In: Proceedings of the 11th World Congress on Railway Research, Milan, Italy, June 2016.
+
+Holder, D.E., Y. Qian, M.V. Csenge, J.R. Edwards, M.S. Dersch and B.J. Van Dyk. 2016. Comparison of Lateral Load Performance of Concrete Crosstie Heavy Haul Fastening Systems. In: Proceedings of the American Railway Engineering and Maintenance-of-Way Association Annual Conference, Orlando, FL, August 2016.
+
+Gao, Z., H.E. Wolf, M.S. Dersch, Y. Qian and J.R. Edwards. 2016. Field Measurements and Proposed Analysis of Concrete Crosstie Bending Moments. In: Proceedings of the American Railway Engineering and Maintenance-of-Way Association Annual Conference, Orlando, FL, August 2016.
+
+Canga Ruiz, A.E., M.V. Csenge, J.R. Edwards, Y. Qian and M.S. Dersch. 2017. Quantification of Rail Displacements Under Light Rail Transit Field Loading Conditions. In: Proceedings of the 2017 Joint Rail Conference, Philadelphia, PA, April 2017.
+
+Lima, A. de O., M.S. Dersch, Y. Qian, E. Tutumluer and J.R. Edwards. 2017. Laboratory Evaluation of Under-ballast Mat Effectiveness to Mitigate Differential Movement Problem in Railway Transition Zones. In: 10th International Conference on the Bearing Capacity of Roads, Railways and Airfields, Athens, Greece, June 2017.
+
+Z. Gao, M.S. Dersch, Y. Qian, M.V. Csenge and J.R. Edwards. 2017. Use of Ballast Support Condition Back-Calculator for Quantification of Ballast Pressure Distribution Under Concrete Sleepers. In: 10th International Conference on the Bearing Capacity of Roads, Railways and Airfields, June 2017.
+
+Gao, Z., M.S. Dersch, Y. Qian and J.R. Edwards. 2017. Effect of Track Conditions on the Flexural Performance of Concrete Sleepers on Heavy-haul Freight Railroads. In: Proceedings of the 11th International Heavy Haul Association Conference, Cape Town, South Africa, September 2017.
+
+Holder, B.G.J., Y. Qian, M.S. Dersch and J.R. Edwards. 2017. Lateral Load Performance of Concrete Sleeper Fastening Systems Under Non-ideal Conditions. In: Proceedings of the 11th International Heavy Haul Association Conference, Cape Town, South Africa, September 2017.
+
+Lima, A. de O., M.S. Dersch, Y. Qian, E. Tutumluer and J.R. Edwards. 2017. Laboratory Mechanical Fatigue Performance of Under-ballast Mats Subjected to North American loading Conditions. In: Proceedings of the 11th International Heavy Haul Association Conference, Cape Town, South Africa, September 2017.
+
+Bastos, J.C., A. Alvarez-Reyes, M.S. Dersch and J.R. Edwards. 2017. Development of a New Load-deflection Method for Characterization of North American Heavy Haul Concrete Sleepers. In: Proceedings of the 11th International Heavy Haul Association Conference, Cape Town, South Africa, September 2017.
+
+Lima, A. de O., M.S. Dersch, E. Tutumluer, J.R. Edwards and Y. Qian. 2018. Support Condition and Traffic Loading Patterns Influencing Laboratory Determination of Under Ballast Mat Bedding Modulus and Insertion Loss. In: Proceedings of Transportation Research Board 97th Annual Conference, Washington, D.C, January 2018.
+
+Quiros Orozco, R.J., J.R. Edwards, Y. Qian and M.S. Dersch. 2018. Quantification of Loading Environment and Flexural Demand of Prestressed Concrete Crossties under Shared Corridor Operating Conditions. In: Proceedings of Transportation Research Board 97th Annual Conference, Washington, D.C, 2018.
+
+Yin, H., Y. Qian, J.R. Edwards and K. Zhu. 2018. Investigation of Relationship between Train Speed and Bolted Rail Joint Fatigue Life Using Finite Element Analysis. In: Proceedings of Transportation Research Board 97th Annual Conference, Washington, D.C, January 2018.
+
+Bastos, J.C., A. Alvarez Reyes, M.S. Dersch, J.R. Edwards and C.P.L. Barkan. 2018. Laboratory Characterization of Structural Capacity of North American Heavy Haul Concrete Crossties. In: Proceedings of Transportation Research Board 97th Annual Conference, Washington, D.C, 2018.
+
+Qian, Y., K. Zhu, A.de O. Lima, M.S. Dersch, and J.R. Edwards. 2018. Comparison Of Under Ballast Mat Performance With Different Support Conditions Through Laboratory Experiment And Numerical Simulation. In: Proceedings of the 2018 Joint Rail Conference, Pittsburgh, PA, April 2018.
+
+Bastos, J.C., J.R. Edwards, M.S. Dersch, and C.P.L. Barkan. 2019. Prediction of Center Flexural Performance of Pretensioned Concrete Railroad Crossties. In: Proceedings of Transportation Research Board 98th Annual Conference, Washington, D.C, 2019.
+
+Liang, Y., J.R. Edwards, and M.S. Dersch. 2018. Causes of Concrete Crosstie Rail Seat Negative Bending Moment. In: Proceedings of Transportation Research Board 98th Annual Conference, Washington, D.C, 2019.
+
+Dersch, M.S., T. Roadcap, J.R. Edwards, and Y. Qian. 2019. Investigation into the Effect of Lateral and Longitudinal Loads on Railroad Spike Stress Magnitude and Location using Finite Element Analysis. In: Proceedings of Transportation Research Board 98th Annual Conference, Washington, D.C, 2019.
+
+Branson, J., M.S. Dersch, J.R. Edwards, A.de O. Lima, and J-Y. Kim. 2019. Analysis of Geometric Ballast Plate for Laboratory Testing of Resilient Track Components. In: Proceedings of Transportation Research Board 98th Annual Conference, Washington, D.C, 2019.
+
+Bastos, J.C., J.R. Edwards, M.S. Dersch, and C.P.L. Barkan. 2019. Water damage in cracked prestressed concrete sleepers. Accepted: Proceedings of the International Heavy Haul Association Conference (IHHA), Narvik, Norway.
+
+Tutumluer, E., B. Feng, W. Hou, J.R. Edwards, and M.S. Dersch. 2019. Field Loading and Tie Support Conditions Influencing Track Substructure â€“ Modeling Ballast Behavior and Statistical Perspective. Accepted: Proceedings of the American Railway Engineering and Maintenance-of-Way Association Annual Conference, Minneapolis, MN, September 2019.
+
+Roadcap, T., B. Kerchof, M.S. Dersch, M. Trizotto, and J.R. Edwards. 2019. Field Experience and Academic Inquiry to Understand Mechanisms of Spike and Screw Failures in Railroad Fastening Systems. Accepted: Proceedings of the American Railway Engineering and Maintenance-of-Way Association Annual Conference, Minneapolis, MN, September 2019.
+
+Bastos, J.C., J.R. Edwards, and M.S. Dersch. 2019. Water Damage in Cracked Pretensioned Concrete Sleepers. Accepted: Proceedings of the 12th World Congress on Railway Research, Tokyo, Japan, November 2019.
+
+Lima, A. de O., M.S. Dersch, J. Branson, R.J. Quiros Orozco, and J.R. Edwards. 2019. Field Investigation of Under Ballast Mat Effectiveness to Mitigate Differential Movement Problems in Railway Bridge Transition Zones. Accepted: Proceedings of the 12th World Congress on Railway Research, Tokyo, Japan, November 2019.
+
+Roadcap, T., M.S. Dersch, and J.R. Edwards. 2019. Load environment and force transfer in railway fastening systems: A case study of the broken spike mystery. Accepted: Proceedings of the 12th World Congress on Railway Research, Tokyo, Japan, November 2019.
+
+Gao, Z., Silva, C.P., M.S. Dersch, Y. Qian, and J.R. Edwards. 2020. Field Investigation of Under Ballast Mat Effectiveness to Mitigate Differential Movement Problems in Railway Bridge Transition Zones. In: Proceedings of the 2019.AREMA Railway Roadway and Ballast Symposium (RBBS), Kansas City, KS, February 2020.
+
+Khachaturian, C., M.S. Dersch, J.R. Edwards, and M. Trizotto. 2021. Effect of Longitudinal Fastener Stiffness and Fastening System Loading. Proceedings of the 2021.Joint Rail Conference (JRC), Virtual Event, April 2021.
+
+Potvin, M., M. Trizotto, M.S. Dersch, J.R. Edwards, and A.O. Lima. 2021. A Review of Parameters Effecting Rail Break Gap Size Using Analytical Methods. Accepted: Proceedings of the 2021.Joint Rail Conference (JRC), Virtual Event, April 2021.
+
+Lima, A.O., M.S. Dersch, J. Lee, and J.R. Edwards. 2022. Engineered Interspersed Concrete Sleeper Track Modulus Assessment in Ballasted Track. Proceedings of the World Congress on Railway Research (WCRR), Birmingham, UK, June 2022.
+
+Harrington, R. M., A.O. Lima, J.R. Edwards, M.S. Dersch, Richard Fox-Ivey, T. Nguyen, and J. Laurent. 2022. Use of 3D Laser Scanning, Deep Convolutional Neural Networks (DCNNs), & Change Detection Technology for Railway Safety Inspections. Proceedings of the World Congress on Railway Research (WCRR), Birmingham, UK, June 2022.
+
+Harrington, R. M., A.O. Lima, J.R. Edwards, M.S. Dersch, Richard Fox-Ivey, T. Nguyen, and J. Laurent. 2022. Use of 3D Laser Scanning, Deep Convolutional Neural Networks (DCNNs), and Change Detection Technology for Railway Safety Inspections. In Review: Proceedings of the 12th International Heavy Haul Association (IHHA) Conference, Virtual Event, 2022.
+
+Lima, A.O., M.S. Dersch, J.I. Lee, and J.R. Edwards, 2022. Track Modulus Assessment of Engineering Interspersed Concrete Sleepers in Ballasted Track. In Review: Proceedings of the 12th International Heavy Haul Association (IHHA) Conference, Virtual Event, 2022.
+
+I.G. Barbosa, J.R. Edwards, Mechitov, A.O. Lima, B.F. Spencer, Jr., E. Tutumluer, and M.S. Dersch. 2022. Smart Track – Wireless Continuous Monitoring of Railway Track Structural and Component Condition. In Review: Proceedings of the 12th International Heavy Haul Association (IHHA) Conference, Virtual Event, 2022.
+
+Click for more
+Magazine Articles
+Dersch, M.S., T. Roadcap, J.R. Edwards. 2019. Railway Track & Structures, July 2019 "SPIKED!"
+Edwards, J.R., M.S. Dersch, and A.O. Lima. 2019. Railway Track & Structures, February 2019 "Concrete Crossties: A New Paradigm for Design".
+J.R. Edwards 2013. Trains Magazine, November 2013, Page 20.  "Hard truths about concrete ties".
+J.R. Edwards, Dersch, M.S., Kernes, R.G., and Ruppert, C.J. 2012. Railway Track and Structures (RT&S), October 2012.  "University of Illinois concrete crosstie group fastens up research challenges".
+
+
+
+Honors
+Progressive Railroading Rising Star Award (23 March 2015)
+
+Teaching Honors
+List of Professors Named as Excellent (CEE 409 - Railroad Track Engineering) (Fall 2018, Fall 2019, Fall 2020, Fall 2021)
+List of Professors Named as Excellent (CEE 411 - Railroad Project Design and Construction) (Spring 2011, Spring 2012, Spring 2013, Spring 2014, Spring 2015, Spring 2016, Spring 2019)
+List of Professors Named as Excellent (CEE 498RD - Railroad Project Design and Construction) (Spring 2009 and Spring 2010)
+Engineering Council Award for Excellence in Advising (Spring 2011 and Spring 2013)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Watch: WCIA TV interviews CEE researchers on new project to develop, assess rail lines
+
+
+CEE team helps DOD develop better analysis and design procedures for rail and roads
+
+
+RailTEC to deploy instrumentation for real time monitoring of rail transit infrastructure
+
+
+New Research & Innovation Lab to play central role in North American rail safety
+
+
+Illinois Researchers to Develop Track Components for Rail Transit Systems
+
+
+RailTEC's new research center is unique in North America
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,130 @@
+
+
+
+
+
+
+
+ 
+
+
+Jonathon Kenneth Schuh 
+
+
+
+Teaching Assistant Professor
+(217) 300-7091
+schuh4@illinois.edu
+4066 Electrical & Computer Eng Bldg
+
+
+
+Education
+Bachelor of Science with Highest Honors Mechanical Engineering, University of Illinois at Urbana-Champaign, 2013
+Master of Science Mechanical Engineering, University of Illinois at Urbana-Champaign, 2015
+Ph.D. Theoretical and Applied Mechanics, University of Illinois at Urbana-Champaign, 2018
+Master of Business Administration, University of Illinois at Urbana-Champaign, 2021
+
+BiographyJonathon K. Schuh obtained in BS with Highest Honors in Mechanical Engineering from the University of Illinois at Urbana-Champaign in 2013. He obtained his MS in Mechanical Engineering in 2015 and his Ph.D. in Theoretical and Applied Mechanics in 2018, both from the University of Illinois at Urbana-Champaign. After graduating with his Ph.D., Jonathon worked as a postdoctoral research associate with Professor Pete Sauer, the Grainger Chair Emeritus Professor of Electrical Engineering at the University of Illinois, on control of magnetic actuators. He also taught sections of ECE 330: Power Circuits and Electromechanics. In January of 2020, Jonathon joined the ECE Department as a Teaching Assistant Professor. He also obtained a Master of Business Administration, also from the University of Illinois, in 2021. 
+Academic Positions
+Postdoctoral Research Associate, Electrical and Computer Engineering, May 17, 2018-December 31, 2019
+Teaching Assistant Professor, Electrical and Computer Engineering, January 1, 2020-Present
+
+Major Consulting Activities
+Hinetics, LLC, Champaign, Illinois
+
+Professional Registrations
+Engineering Intern, State of Illinois, May 2018-Present
+
+Research Interests
+Power and Energy Storage
+Computational Physics
+Electromechanics
+Tribology
+
+
+Research Areas
+Electrical machines and drive systems
+Energy storage conversion, management, and control
+Operation and control of power systems
+
+
+Selected Articles in Journals
+J. K. Schuh and R. H. Ewoldt. “Asymmetric surface textures decrease friction with Newtonian fluids in full film lubricated sliding contact.” Tribology International, 97, 490-498, 2016. 
+A. Jurado, H. Kim, A. Rossi, A. Arcifa, J. K. Schuh, N. D. Spencer, C. Leal, R. H. Ewoldt and R. M. Espinosa-Marzal. “Effect of the environmental humidity on the bulk, interfacial and nanoconfined properties of an ionic liquid.” Physical Chemistry Chemical Physics, 18, 22719-22730, 2016. 
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H. Ewoldt. “Design-driven modeling of surface-textured full-film lubricated sliding: validation and rationale of non-standard thrust observations.” Tribology Letters, 65 (2), 2017. 
+Y. H. Lee, J. K. Schuh, R. H. Ewoldt, and J. T. Allison. "Enhancing full-film lubrication performance via arbitrary surface texture design.” Journal of Mechanical Design, 139 (5), 053401-1-13, 2017. 
+V. A. Iyer, J. K. Schuh, E. C. Montoto, V. P. Nemani, S. Qian, G. Nagarjuna, J. Rodríguez-López, R. H. Ewoldt, and K. C. Smith. “Assessing the impact of electrolyte conductivity and viscosity on the reactor cost and pressure drop of redox active polymer flow batteries.” Journal of Power Sources, 361 (1), 334-344, 2017. 
+M. Burgess, K. Hernández-Burgos, J. K. Schuh, J. Davila, E. C. Montoto, R. H. Ewoldt, and J. Rodríguez-López. “Modulation of the Reactivity of Solubilized Redox Active Polymers via Polyelectrolyte Dynamics.” Journal of the American Chemical Society, 160 (6), 2093-2104, 2018.
+J. Zhang, R. E. Corman, J. K. Schuh, R. H. Ewoldt, I. A. Shkrob, and L. Zhang. “Solution properties and practical limits of concentrated electrolytes for nonaqueous redox flow batteries.” The Journal of Physical Chemistry C, 112 (15), 8159-8172, 2018.
+Y. H. Lee, J. K. Schuh, R. H. Ewoldt, and J. T. Allison. "Simultaneous design of non-Newtonian lubricant and surface texture using surrogate-based multiobjective optimization." Journal of Mechanical Design, 60, p. 99-116, 2019
+J. K. Schuh and R. H. Ewoldt. "Low Reynolds number friction reduction with polymers and textures." Journal of Non-Newtonian Fluid Mechanics, 273, 104167, 2019
+J. K. Schuh. "Inertial contributions to friction measurements in thrust bearings." 
+Proceedings of the Institution of Mechanical Engineers, Part J: Journal of Engineering Tribology, 2022. 
+D. Lee, T. Balachandran, S. Sirimanna, N. Salk, A. Yoon, P. Xiao, J. Macks, Y. Yu, S. Lin, J. K. Schuh, P. Powell, K. S. Haran. "Detailed Design and Prototyping of a High Power Density Slotless PMSM." IEEE Transactions on Industry Applications. 2022
+Click for more
+Articles in Conference Proceedings
+J. K. Schuh. "Impact of instant feedback on student performance in a 300 level class." Proceedings of the American Society of Engineering Education Annual Conference & Exposition, Long Beach, CA (virtual), July 26-29, 2021. 
+D. Lee, T. Balachandran, N. Salk, J. K. Schuh, A. Yoon, P. Xiao, Y. Yu, S. Lin, P. Powell, K. K. Haran. "Design and Prototype of a High Power Density Slotless PMSM for Direct Drive Aircraft Propulsion." 2021 IEEE Power and Energy Conference at Illinois (PECI), 2021, pp. 1-6. 
+Y. H. Lee, J. K. Schuh, R. H. Ewoldt, and J. T. Allison. “Simultaneous Design of Non-Newtonian Lubricant and Surface Texture Using Surrogate-Based Optimization.” American Institute of Aeronautics and Aviation Science and Technology Forum, Kissimmee, FL, January 8-12, 2018.
+C. Lin, Y. H. Lee, J. K. Schuh, R. H. Ewoldt, and J. T. Allison. “Efficient Optimal Surface Texture Design Using Linearization.” 12th World Congress on Structural and Multidisciplinary Optimization, Braunschweig, Germany, July 5-9, 2017. 
+Y. H. Lee, J. K. Schuh, R. H. Ewoldt, and J. T. Allison. “Shape parameterization comparison for full-film lubrication texture design.” Proceedings of the ASME International Design Engineering Technical Conference, Charlotte, NC, August 21-24, 2016. 
+L. G. Rao, J. K. Schuh, J. T. Allison, and R. H. Ewoldt. “On using adaptive surrogate modeling in design for efficient fluid power.” Proceedings of the ASME International Design Engineering Technical Conference, Boston, MA, August 2-5, 2015.
+Click for more
+Presentations
+J. K. Schuh. "Viscoelastic contributions to the infinite length journal bearing". American Physical Society: 76th Annual Meeting of the Division of Fluid Dynamics, Washington D.C., November 19-21, 2023. 
+J. K. Schuh. "Utilizing water towers for pumped storage hydropower." American Physical Society: 75th Annual Meeting of the Division of Fluid Dynamics, Indianapolis, IN, November 20-22, 2022.
+
+J. K. Schuh. "Inertial contributions to friction measurements in thrust bearings." American Physical Society: 73rd Annual Meeting of the Division of Fluid Dynamics, Chicago, IL, November 22-24, 2020. Virtual. 
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H. Ewoldt. “Designing With Non-Linear Viscoelastic Fluids.” American Physical Society: 70th Annual Meeting of the Division of Fluid Dynamics, Denver, CO, November 19-21, 2017.
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H. Ewoldt. “Toward co-design of surface textures and Non-Newtonian fluids for decreased friction in lubricated viscous sliding.” Society of Rheology 89th Annual Meeting, Denver, CO, October 8-12, 2017.
+J. K. Schuh and R. H. Ewoldt. “Surface textures and Non-Newtonian fluids for decreased friction.” Society of Rheology 88th Annual Meeting, Tampa, FL, February 12-16, 2017.
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H.  Ewoldt. “A validated numerical model for the design of surface textures in full-film lubricated sliding.” American Physical Society: 69th Annual Meeting of the Division of Fluid Dynamics, Portland, OR, November 20-22, 2016.
+Y. H. Lee (presenter), J. K. Schuh, R. H. Ewoldt, and J. T. Allison. “Generalization of Surface Texture Shape Reduces Friction and Increases Load Capacity Simultaneously in Sliding Contact with Full-Film Lubrication.” Center for Compact and Efficient Fluid Power Fluid Power Innovation and Research Conference, Minneapolis, MN, October 10-12, 2016.
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H. Ewoldt. “Design appropriate modeling for determining optimal friction reduction with surface textures.” Center for Compact and Efficient Fluid Power Fluid Power Innovation and Research Conference, Minneapolis, MN, October 10-12, 2016. 
+J. K. Schuh and R. H. Ewoldt. “Surface textures and Non-Newtonian fluids for decreased friction.” International Congress of Theoretical and Applied Mechanics 2016, Montreal, QC, Canada, August 21-26, 2016.
+J. K. Schuh and R .H. Ewoldt (presenter). “Surface textures and Non-Newtonian fluids for decreased friction.” American Physical Society: 68th Annual Meeting of the Division of Fluid Dynamics, Boston, MA, November 22-24, 2015.
+J. K. Schuh, Y. H. Lee, J. T. Allison, and R. H. Ewoldt. “Rheological design for efficient fluid power.” Center for Compact and Efficient Fluid Power Fluid Power Innovation and Research Conference, Chicago, IL, October 14-16, 2015.
+J. K. Schuh, J. T. Allison, and R. H. Ewoldt. “Rheological design for efficient fluid power.” Center for Compact and Efficient Fluid Power IEC Summit, Atlanta, GA, February 2-4, 2015.
+J. K. Schuh, J. T. Allison, and R. H. Ewoldt. “Rheological design for efficient fluid power.” Center for Compact and Efficient Fluid Power Fluid Power Innovation and Research Conference, Nashville, TN, October 13-15, 2014.
+Click for more
+Honors
+Teacher Ranked as Excellent (Fall 2021)
+Teacher Ranked as Excellent (Fall 2021)
+Teacher Ranked as Excellent (Spring 2021)
+Teacher Ranked as Excellent (Fall 2019)
+Teacher Ranked as Excellent (Spring 2019)
+Teacher Ranked as Excellent (Fall 2018)
+Honorable Mention: 2017 Journal of Mechanical Design Editor's Choice Award (June 2018)
+Teacher Ranked as Excellent (Fall 2017)
+T. A. Peebles Award for Excellence in Automated Control Systems (May 2013)
+Click for more
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 205 - Electrical & Electronic Ckts
+ECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 330 - Power Ckts & Electromechanics
+ECE 445 - Senior Design Project Lab
+ENG 572 - Professional Practicum
+ENG 573 - Capstone Project
+TAM 335 ABK (TAM 335 ABL, TAM 335 ABM) - Introductory Fluid Mechanics
+Click for more
+
+
+
+
+
+
+Related News
+
+
+New seizure-monitoring baseball cap innovated by ECE and Carle Illinois students
+
+
+
+
+
+
+
+

@@ -1,0 +1,150 @@
+
+
+
+
+
+
+
+ 
+
+
+Joao Ramos 
+
+
+
+Assistant Professor
+
+jlramos@illinois.edu
+2101C Mechanical Engineering Lab
+
+
+
+For More Information
+RoboDesign Lab GitHub 
+RoboDesign Lab YoutTube channel
+RoboDesign Lab
+Personal website
+
+Education
+PhD, Mechanical Engineering, Massachusetts Institute of Technology (MIT), USA, 2018
+MSc, Mechanical Engineering, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil 2012
+
+BSc, Control and Automation Engineering, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil 2010
+
+
+Academic Positions
+Affiliate, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2019 - present
+Assistant Professor, Department of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 2019 - present
+Postdoctoral Associate, Massachusetts Institute of Technology (MIT), USA, 2018 - 2019
+
+Research Assistant, Massachusetts Institute of Technology (MIT), USA, 2013 - 2018
+Research Assistant, Pontifical Catholic University of Rio de Janeiro (PUC-Rio), Brazil, 2011 - 2013 
+
+
+Documents
+
+
+Other Professional Employment
+Mechanical Engineer, GT2 Energy, Brazil, 2013
+
+Research Interests
+Human Motion Control and Biomechanics
+Legged and humanoid robots
+Human-Machine Interfaces
+Robot Dynamics and Control
+
+Mechatronics and Mechanism Design
+
+
+Research Areas
+Health and Bio
+Manufacturing
+Security and Defense
+
+
+Selected Articles in Journals
+S. Wang* and J. Ramos, "Dynamic Locomotion Teleoperation of a Reduced Model of a Wheeled Humanoid Robot Using a Whole-Body Human-Machine Interface," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 1872-1879, April 2022, doi: 10.1109/LRA.2021.3138521. - Accepted for presentation at ICRA 2022 (acceptance rate 43%).
+J. Ramos and S. Kim, “Dynamic locomotion synchronization of bipedal robot and human operator via bilateral feedback teleoperation”, Vol. 4, Issue 35, Science Robotics, 2019. 
+J. Ramos and S. Kim, "Humanoid Dynamic Synchronization Through Whole-Body Bilateral Feedback Teleoperation," in IEEE Transactions on Robotics, vol. 34, no. 4, pp. 953-965, Aug. 2018 - Accepted for presentation at ICRA 2019 (acceptance rate 45%)
+J. Ramos and S. Kim, "Dynamic Bilateral Teleoperation of the Cart-Pole: A Study Toward the Synchronization of Human Operator and Legged Robot," in IEEE Robotics and Automation Letters, vol. 3, no. 4, pp. 3293-3299, Oct. 2018 - Accepted for presentation at IROS 2018 (acceptance rate 46%). 
+
+Articles in Conference Proceedings
+Joao Luiz A. S. Ramos, and Marco A. Meggiolaro, “Torque Control of an Active Upper Limb Exoskeleton with Pneumatic Artificial Muscles Using sEMG and a Modified Hill-Type Muscle Model”, 4th National Meeting of Biomechanical Engineering, Vitoria, ES, Brazil, April 25th – 27th, 2013.
+Joao Luiz A. S. Ramos, and Marco A. Meggiolaro, “Use of Surface Electromyography to Control an Active Upper Limb Exoskeleton Actuated by Pneumatic Artificial Muscles and Optimized with Genetic Algorithms”, 22nd International Congress of Mechanical Engineering (COBEM), Ribeirao Preto, Brazil, November 3 – 7, 2013.
+Joao Luiz A. S. Ramos, and Marco A. Meggiolaro, “Use of Surface Electromyography for Human Amplification Using an Exoskeleton Driven by Artificial Pneumatic Muscles”, 5th IEEE/RAS-EMBS International Conference on Biomedical Robotics and Biomechatronics (BioRob 2014), Sao Paulo, Brazil, August 12-15, 2014.
+A. Wang, J. Ramos, J. Mayo, W. Ubellacker, J. Cheung and S. Kim, "The HERMES humanoid system: A platform for full-body teleoperation with balance feedback," IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), Seoul, 2015, pp. 730-737.
+J. Ramos, A. Wang, W. Ubellacker, J. Mayo and S. Kim, "A balance feedback interface for whole-body teleoperation of a humanoid robot and implementation in the HERMES system," IEEE-RAS 15th International Conference on Humanoid Robots (Humanoids), Seoul, 2015, pp. 844-850. 
+J. Ramos, A. Wang and S. Kim, "A Balance Feedback Human Machine Interface for humanoid teleoperation in dynamic tasks," IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hamburg, 2015, pp. 4229-4235 (acceptance rate 45%).
+J. Ramos and S. Kim, "Improving humanoid posture Teleoperation by Dynamic Synchronization through operator motion anticipation," IEEE International Conference on Robotics and Automation (ICRA), Singapore, 2017, pp. 5350-5356 (acceptance rate 41%). 
+J. Ramos, B. Katz, M. Y. M. Chuah and S. Kim, "Facilitating Model-Based Control Through Software-Hardware Co-Design," 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, QLD, 2018, pp. 566-572 (acceptance rate 41%).  
+Y. Sim* and J. Ramos, "The dynamic effect of mechanical losses of transmissions on the equation of motion of legged robots," 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 2056-2062, doi: 10.1109/ICRA48506.2021.9561739 (acceptance rate 49%).
+
+S. Wang*, K. Murphy*, D. Kenney* and J. Ramos, "A Comparison Between Joint Space and Task Space Mappings for Dynamic Teleoperation of an Anthropomorphic Robotic Arm in Reaction Tests," 2021 IEEE International Conference on Robotics and Automation (ICRA), 2021, pp. 2846-2852, doi: 10.1109/ICRA48506.2021.9561368 (acceptance rate 49%).
+
+J. Ramos, Y. Ding*, Y. -W. Sim*, K. Murphy* and D. Block, "HOPPY: An Open-source Kit for Education with Dynamic Legged Robots," 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, pp. 4312-4318, doi: 10.1109/IROS51168.2021.9636108 (acceptance rate 45%)
+
+Song, S.Y., Xiao*, C., Chen, Y.*, Ramos, J., Hsiao-Wecksler, E.T. “Hands-free Interface for a Self-balancing Omnidirectional Riding Ballbot,” 45th American Society of Biomechanics Annual Meeting (virtual), Atlanta, GA, August 10-13, 2021.
+Y. Jung*, S. Wang*, K. Murphy*, A. Purushottam*, and J. Ramos, “A Whole-Body Human-Machine Interface for Bilateral Teleoperation of Wheeled Humanoid Robots”, Workshop on Human-like Behavior and Cognition in Robots, IEEE/RSJ IROS 2021 (Best Poster Award)
+Click for more
+Magazine Articles
+J. Ramos, A. Wang and S. Kim, "The brain in the machine: MIT is building robots that use full-body teleoperation to move with greater agility," in IEEE Spectrum, vol. 56, no. 6, pp. 22-27, June 2019, doi: 10.1109/MSPEC.2019.8727142.
+IEEE Spectrum "MIT Robot Steals Human Brains to Help it Balance", 2015. 
+MIT MechE Connects (cover): "Robotics in the 21st Century - Building Robots for the People", 2015. 
+
+Teaching Honors
+List of Teachers Ranked as Excellent By Their Students (ME340 Dynamics of Mechanical Systems)
+ (Fall 2021
+)
+List of Teachers Ranked as Excellent By Their Students (ME446 Robot Dynamics and Control)
+ (Spring 2021
+)
+
+Research Honors
+NSF CAREER Award 2021 (03/18/2021)
+National Council for Scientific and Technological Development (CNPq), full 2-years MSc fellowship (03/10/2011)
+Science without Borders, full 4-years doctorate fellowship  (05/14/2013)
+
+Improvement Activities
+Collins Scholar, Academy for Excellence in Engineering Education, University of Illinois at Urbana-Champaign (UIUC), USA, 2019-2020
+
+Kaufman Teaching Certificate Program, Teaching and Learning Lab, Massachusetts Institute of Technology (MIT), USA, 2019
+
+
+
+Recent Courses TaughtME 340 - Dynamics of Mechanical Systems
+ME 371 - Mechanical Design II
+SE 422 (ME 446, ECE 489) - Robot Dynamics and Control
+
+
+
+
+
+
+
+Related News
+
+	June 17, 2021
+	Ramos awarded NSF CAREER grant
+
+	October 27, 2020
+	HOPPY brings robot design to life for undergrads
+
+	October 19, 2020
+	Ramos, Hauser paving the way for robotic search-and-rescue capability
+
+	September 27, 2020
+	Illinois team awarded NSF funding for robotic wheelchair
+
+	November 13, 2019
+	"Wired In" with João Ramos
+
+	October 18, 2019
+	Ramos’ humanoid robots push boundaries of controls
+
+
+
+
+
+
+
+

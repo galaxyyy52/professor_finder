@@ -1,0 +1,84 @@
+
+
+
+
+
+
+
+ 
+
+
+Heng Ji 
+
+
+
+Professor
+(217) 244-0862
+hengji@illinois.edu
+3318 Siebel Center for Comp Sci
+
+
+
+For More Information
+Heng Ji's Website
+
+BiographyHeng Ji is a professor at Computer Science Department of University of Illinois at Urbana-Champaign. She received her B.A. and M. A. in Computational Linguistics from Tsinghua University, and her M.S. and Ph.D. in Computer Science from New York University. Her research interests focus on Natural Language Processing, especially on Information Extraction and Knowledge Base Population. She is selected as "Young Scientist" and a member of the Global Future Council on the Future of Computing by the World Economic Forum in 2016 and 2017. The awards she received include "AI's 10 to Watch" Award by IEEE Intelligent Systems in 2013, NSF CAREER award in 2009, PACLIC2012 Best paper runner-up, "Best of ICDM2013" paper award, "Best of SDM2013" paper award, ACL2018 Best Demo paper nomination, Google Research Award in 2009 and 2014, IBM Watson Faculty Award in 2012 and 2014 and Bosch Research Award in 2014-2018.  She has coordinated the NIST TAC Knowledge Base Population task since 2010. She is the associate editor for IEEE/ACM Transaction on Audio, Speech, and Language Processing. She has served as the Program Committee Co-Chair of NAACL-HLT2018, NLP-NABD2018, NLPCC2015, CSCKG2016 and CCL2019, and senior area chair for many conferences. She has led several multi-institute research efforts including DARPA DEFT Tinker Bell team of seven universities and DARPA KAIROS RESIN team of six universities. She is the task leader of the U.S. ARL projects on information fusion and knowledge networks construction between 2009-2019.  She is invited by the Secretary of the Air Force and AFRL to join Air Force Data Analytics Expert Panel to inform the Air Force Strategy 2030.
+Research Interests
+Natural Language Processing and its connections with Data Mining, Social Science and Vision.
+
+
+Research Areas
+Artificial Intelligence
+Data and Information Systems
+
+
+Articles in Conference Proceedings
+Yi R. Fung, Christopher Thomas, Revanth Gangi Reddy, Sandeep Polisetty, Heng Ji, Shih-Fu Chang, Kathleen McKeown, Mohit Bansal and Avi Sil. 2021. "InfoSurgeon: Cross-Media Fine-grained Information Consistency Checking for Fake News Detection." Proc. The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP 2021). 
+Manling Li, Alireza Zareian, Qi Zeng, Spencer Whitehead, Di Lu, Heng Ji, and Shih-Fu Chang."Cross-media Structured Common Space for Multimedia Event Extraction." In: Proc. The 58th Annual Meeting of the Association for Computational Linguistics (ACL2020). 2020.
+Manling Li, Qi Zeng, Ying Lin, Kyunghyun Cho, Heng Ji, Jonathan May, Nathanael Chambers, and Clare Voss. "Connecting the Dots: Event Graph Schema Induction with Path Language Modeling." In: Proc. The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP2020). 2020.
+
+Honors
+AI's 10 to Watch, IEEE Intelligent Systems (2013)
+NSF CAREER Award (2009)
+
+
+Recent Courses TaughtCS 546 - Adv Topics in NLP
+CS 598 HJ - Knowledge-driven Nat Lang Gen
+
+
+
+
+
+
+
+Related News
+
+
+Amazon names Huang and Zhong inaugural fellows for AICE research  
+
+
+Amazon and the University of Illinois Urbana-Champaign announce funded research projects 
+
+
+AICE celebrates inaugural event
+
+
+ Amazon-Illinois Center for Conversational Experiences (AICE) launches Tuesday, September 26
+
+
+Ji Makes It Her Mission to Separate Truly Valuable Information from Noise
+
+
+Illinois led DARPA Project Earns $5.8 Million to Advance Conceptual Learning
+
+
+
+News Notes
+11/8/2023Illinois CS Professor Ling Ren has been awarded the Bitcoin Research Prize for an article he co-authored.10/10/2023Illinois CS Professor Heng Ji has been invited to the WLA Young Scientists Forum at the  World Laureates Forum Nov. 6-8 in Shanghai, China, where she will present research on AI for drug discovery.
+
+
+
+
+
+
+

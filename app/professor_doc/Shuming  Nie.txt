@@ -1,0 +1,412 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Shuming Nie 
+
+
+
+
+
+Grainger Distinguished Chair and Professor
+
+
+(217) 300-1266
+nies@illinois.edu
+2116 Everitt Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Research Areas
+Applications of MEMS and nanotechnology in medical and biological problems
+Biomaterials
+Biomedical imaging
+BioMEMS
+Biophotonics
+Biophotonics angiogenesis
+Breast cancer
+Cancer
+Cell and molecular engineering
+Cell and tissue engineering
+Early cancer detection
+Fluorescence
+Image-guided drug delivery
+Image-guided surgery
+Instrumentation 
+Molecular imaging
+Nanomaterials
+Nanomedicine
+Nanotoxicity
+Optical biosensors
+Point-of-care diagnostics
+Quantum dot chemistry and physics
+Single-molecule imaging
+Translational nanomedicine
+Tumor microenvironments
+Click for more
+For More Information
+Nie Lab
+
+BiographyProfessor Shuming Nie is the Grainger Distinguished Chair in Engineering, Professor of Bioengineering, Chemistry, Materials Science and Engineering, Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign, and Founding Dean of the College of Engineering and Applied Sciences at Nanjing University (China).  His academic research is primarily in the areas of nanomedicine; image-guided cancer surgery; cell-based immunotherapy; wearable optoelectronic devices and digital health.  His major academic achievements include the discovery of colloidal metal nanoparticles that are able to amplify the efficiencies of surface-enhanced Raman scattering (SERS) by 14-15 orders of magnitude, his pioneering work on water-soluble semiconductor quantum dots for biomedical applications, and his breakthrough work in developing multifunctional smart nanoparticles for integrated biomedical imaging and therapy, including image-guided cancer surgery. Professor Nie has published over 300 papers, patents, and book chapters, have delivered nearly 500 invited lectures around the world, and have trained over 30 doctoral students and postdoctoral fellows who are now making an impact at top academic institutions and biotech companies. His scholarly work has been cited more than 90,000 times according to Google Scholar. Professor Nie received his BS degree from Nankai University (China) in 1983, earned his MS and PhD degrees from Northwestern University (Evanston, Illinois, 1984-1990), and did postdoctoral research at Georgia Institute of Technology and Stanford University (1990-1994).For more information, see Dr. Nie's Google Scholar Profile at https://scholar.google.com/citations?user=8_C-MpAAAAAJ&hl=en.
+Education
+1994 Post-Doc, Stanford University
+
+1989 Ph.D. Department of Chemistry, Northwestern University
+
+1985 MS, Department of Chemistry, Northwestern University
+
+1983 B.S. College of Chemistry, Nankai University (China)
+
+
+Academic Positions
+2017–Present Professor of Bioengineering, Chemistry, and Electrical and Computer Engineering, Marerials Science and Engineering, University of Illinois – Urbana Champaign
+
+2017–Present Grainger Distinguished Chair in Engineering, University of Illinois at Urbana-Champaign
+2011–2017 International Dean, College of Engineering and Applied Sciences, Nanjing University, China
+
+2005–2017 Director of Emory-Georgia Cancer Nanotechnology Center 
+2005–2017 Wallace H. Coulter Distinguished Chair Professor in Biomedical Engineering
+2005–2017 Professor of Materials Science and Engineering, Georgia Institute of Technology (Adjunct) 
+2005–2017 Full Professor of Biomedical Engineering, Chemistry, Hematology and Oncology, Emory University and Georgia Institute of Technology
+2004–2010 Associate Director for Bioengineering and Nanotechnology, Winship Cancer Institute (WCI), Emory University School of Medicine.
+2002–2004 Director of Cancer Nanotechnology, Winship Cancer Institute (WCI)
+2002–2005 Associate Professor of Biomedical Engineering, Chemistry, Hematology and Oncology, Emory University and Georgia Institute of Technology
+2002–2002 Full Professor, Department of Chemistry, Indiana University - Bloomington.
+2000–2001 Associate Professor, Department of Chemistry, Indiana University - Bloomington.
+1994–2000 Assistant Professor, Department of Chemistry, Indiana University - Bloomington.
+Click for more
+Journal Editorships
+Nanotechnology Advisory Committee, nGimat, Atlanta, GA
+Founding SAB Member – Nanoplex Technologies, Mountain View, CA
+Editorial Board, Nanotechnology Journal, Institute of Physics Publishing, Bristol, UK
+Editorial Board Member, The Open Biomedical Engineering Journal (OBE), 
+Member of Honorary Editorial Board, International Journal of Nanomedicine.
+Editorial Advisory Board – “Nanotech Briefs”.
+Editorial Board of “Current Pharmaceutical Biotechnology”
+Editorial Board Member – “Small – A New Journal for Nanoscience and Nanotechnology”.
+Editorial Board Member – “Journal of Single Molecules”, Jenna, Germany.
+Associate Editor, Science in China
+Associate Editor, Nanomedicine - Future of Medicine
+Associate Editor, Med-X Journal (Shanghai Jiaotong U and Nature Publishing)
+Associate Editor, IEEE Transactions in Biomedical Engineering.
+
+Associate Editor, IEEE Open Journal of Engineering in Medicine and Biology .
+Click for more
+Professional Societies
+AACR - American Association for Cancer Research
+ACS - American Chemical Society (Member)
+IAMBE - International Institute of Medical and Biological Engineering (Fellow and Nominating Committee)
+AIMBE - American Institute of Medical and Biological Engineering (Fellow and Technical Review Committee)
+BMES - Biomedical Engineering Society (Member)
+AAAS - American Association for the Advancement of Science (Fellow)
+Click for more
+
+
+Research Interests
+Image-Guided Surgery
+Cancer Nanomedicine and Immunotherapy
+Bioimaging at Multi-Scale
+Bio-Micro and Nanotechnology
+
+Research Areas
+Applications of MEMS and nanotechnology in medical and biological problems
+Biomaterials
+Biomedical imaging
+BioMEMS
+Biophotonics
+Biophotonics angiogenesis
+Breast cancer
+Cancer
+Cell and molecular engineering
+Cell and tissue engineering
+Early cancer detection
+Fluorescence
+Image-guided drug delivery
+Image-guided surgery
+Instrumentation 
+Molecular imaging
+Nanomaterials
+Nanomedicine
+Nanotoxicity
+Optical biosensors
+Point-of-care diagnostics
+Quantum dot chemistry and physics
+Single-molecule imaging
+Translational nanomedicine
+Tumor microenvironments
+Click for more
+
+
+Books Edited or Co-Edited (Original Editions)
+Scanning and Force Microscopies for Biomedical Applications, published in 2000.
+
+Chapters in Books
+Li Lin, Ruiyang Xue, Shuming Nie, "Surface-enhanced Raman scattering (SERS) nanoparticles for biodiagnostics, bioimaging, and spectroscopy-guided cancer surgery", Encyclopedia of Nanomaterials, Volume 3, 2022 doi:10.1016/B978-0-12-822425-0.00111-1.
+Smith AM, Wen MM, Wang MD, Nie SM. “Size-Minimized Quantum Dots for Molecular and Cellular Imaging,” Nobel Symposium 138: Single Molecule Spectroscopy in Chemistry, Physics and Biosciences: Springer Series in Chemical Physics   Volume: 96   Pages: 187-201   Published: 2010. 
+X. Gao and S. Nie, Encoded microbes for gene multiplexing, in: Perspective in Gene Expression," BioTechniques Press/Eaton Pub., 2003 - Science - 467 pages.
+May Dongmei Wang, Jonathan W. Simons, Shuming Nie, "Cancer Nanotechnology for Molecular Profiling and Individualized Therapy," in: Pharmacogenetics of Breast Cancer, 1st Edition, CRC Press, 2008.
+A. M. Smith, M. M. Wen, M. D. Wang, and S. M. Nie, “Size-Minimized Quantum Dots for Molecular and Cellular Imaging,” in: Single Molecule Spectroscopy in Chemistry, Physics and Biology: Nobel Symposium (Springer Series in Chemical Physics, Vol. 96) (Hardcover), Gräslund, Astrid; Rigler, Rudolf; Widengren, Jerker (Eds.), 2010. 
+J. R. Taylor and S. Nie, “Optical imaging and biomechanical studies of single DNA molecules,” in Recent Advances in Biomechanics, Springer-Verlag Berlin Heidelberg, 2001, pp 11-17.
+W. C.-W. Chan and S. Nie, “Luminescent Quantum Dots as Ultrasensitive Biological Labels,” in Biomedical Photonics Handbook, CRC Press, Chap. 60, 2002. 
+W. Chan, X. Gao, and S. Nie, “Semiconductor quantum dots as multicolor and ultrasensitive biological labels,” in: Colloids and Colloid Assemblies: Synthesis, Modification, Organization, and Application, Wiley-VCH Publishers, 2002.
+X. Gao and S. Nie, “Quantum dot tagged beads for massively parallel encoding of biomolecules,” in: Encoding Technologies in Combinatorial and Drug Discovery, Marcel Dekker, New York, 2004.  
+A. J. Smith and S. Nie, “Semiconductor Quantum Dots for Molecular and Cellular Imaging,” in: CRC Biomedical Engineering Handbook, 3rd Edition, 2005.
+Xiaohu Gao, Yun Xing, Leland CW Chung and Shuming Nie, “Quantum Dot Nanotechnology for Prostate Cancer” in Prostate Cancer: Novel Biology, Genetics and Therapy 2005. 
+Xiaohu Gao, Max Yezhleyev, Yun Xing and Shuming Nie, “Bioconjugated Quantum Dots for Sensitive and Multiplexed Immunoassays,” in A Reference Book for Immunoassay and Other Bioanalytical Methods, Marcel Dekker Inc. 2005. 
+Xiaohu Gao, Leland WK Chung and Shuming Nie, "Quantum Dots for In-vivo Molecular and Cellular Imaging," in Methods in Molecular Biology, Humana Press, 2005
+G. Ruan, A. Agrawal, A. M. Smith, X. Gao, and S. M. Nie, Quantum dots as fluorescent labels for molecular and cellular imaging, Reviews in Fluorescence 2006, 3, 181-193 (Edited by C. D. Geddes and J. P. Lakowicz, Springer, New York). 
+A. Agwaral, T. Sathe, S. M. Nie, “Nanoparticle probes for ultrasensitive molecular detection and imaging,” an invited chapter in “Single-Molecule and Single Cell Analysis,” 2005.
+
+Click for more
+Selected Articles in Journals
+C Wang, W Meng, Y Li, G Xu, M Peng, S Nie, Z Deng. Ultra-small α-CsPbI 3 perovskite quantum dots with stable, bright and pure red emission for Rec. 2020 display backlights, Nanoscale, 2023,15, 1661-1668.
+Z Wu, Z Wang, H Xie, Y Wang, H He, S Nie, J Ye, L Lin. Raman-Guided Bronchoscopy: Feasibility and Detection Depth Studies Using Ex Vivo Lung Tissues and SERS Nanoparticle Tags.  Photonics 9 (6), 429, 2022.
+
+I Srivastava, R Xue, J Jones, H Rhee, K Flatt, V Gruev, S Nie,Biomimetic Surface-Enhanced Raman Scattering Nanoparticles with Improved Dispersibility, Signal Brightness, and Tumor Targeting Functions. ACS Nano 2022.
+C Che, R Xue, N Li, P Gupta, X Wang, B Zhao, S Singamaneni, S Nie, ...Accelerated Digital Biodetection Using Magneto-plasmonic Nanoparticle-Coupled Photonic Resonator Absorption Microscopy,ACS nano 16 (2), 2345-2354, 2022.
+I Srivastava, P Moitra, M Fayyaz, S Pandit, TL Kampert, P Fathi, S. Nie,Rational Design of Surface-State Controlled Multicolor Cross-Linked Carbon Dots with Distinct Photoluminescence and Cellular Uptake Properties, ACS Applied Materials & Interfaces 13 (50), 59747-59760, 2021.
+
+F Ostadhossein, P Moitra, E Altun, D Dutta, D Sar, I Tripathi, SH Hsiao, S. Nie, Function-adaptive clustered nanoparticles reverse Streptococcus mutans dental biofilm and maintain microbiota balance. F Ostadhossein,
+Communications biology 4 (1), 1-16, 2021.
+
+S Blair, M Garcia, T Davis, Z Zhu, Z Liang, C Konopka, K Kauffman, S. Nie, Hexachromatic bioinspired camera for image-guided cancer surgery. Science Translational Medicine 13 (592), eaaw7067, 2021.
+S Nie, Remembering Dr. Richard P. Van Duyne (1945-2019): Gentleman, Scholar, and Surface-Enhanced Raman Scattering Pioneer, ACS nano 14 (1), 26, 2020.
+S Pandit, D Dutta, S Nie, Active transcytosis and new opportunities for cancer nanomedicine, Nature materials 19 (5), 478-480, 2020.
+J Wu, J Tong, Y Gao, A Wang, T Zhang, H Tan, S Nie, Z Deng, Efficient and Stable Thin‐Film Luminescent Solar Concentrators Enabled by Near‐Infrared Emission Perovskite Nanocrystals, Angewandte Chemie International Edition 59 (20), 7738-7742, 2020.
+M Xie, Z Wang, Q Lu, S Nie, CJ Butch, Y Wang, B Dai, Ultracompact Iron Oxide Nanoparticles with a Monolayer Coating of Succinylated Heparin: A New Class of Renal-Clearable and Nontoxic T1 Agents for High-Field MRI, ACS applied materials & interfaces 12 (48), 53994-54004, 2020.
+M Satpathy, L Wang, RJ Zielinski, W Qian, YA Wang, AM Mohs, …, Targeted drug delivery and image-guided therapy of heterogeneous ovarian cancer using her2-targeted theranostic nanoparticles, Theranostics 9 (3), 778, 2019.
+A Wang, Y Guo, Z Zhou, X Niu, Y Wang, F Muhammad, H Li, T Zhang, …, Aqueous acid-based synthesis of lead-free tin halide perovskites with near-unity photoluminescence quantum efficiency, Chemical science 10 (17), 4573-4579, 2019.
+M Xie, S Liu, CJ Butch, S Liu, Z Wang, J Wang, X Zhang, S Nie, Q Lu, …, Succinylated heparin monolayer coating vastly increases superparamagnetic iron oxide nanoparticle T 2 proton relaxivity, Nanoscale 11 (27), 12905-12914, 2019.
+X Meng, Y Du, Z Li, S Zhu, H Wu, C Li, W Chen, S Nie, Q Ren, Y Lu, Cherenkov Radiation Induced by Megavolt X-Ray Beams in the Second Near-Infrared Window, arXiv preprint arXiv:1901.00422, 2019.
+AD Newton, JD Predina, CJ Corbett, LG Frenzel-Sulyok, L Xia, …, Optimization of second window indocyanine green for intraoperative near-infrared imaging of thoracic malignancy, Journal of the American College of Surgeons 228 (2), 188-197, 2019.
+J Tong, J Wu, W Shen, Y Zhang, Y Liu, T Zhang, S Nie, Z Deng, Direct hot-injection synthesis of lead halide perovskite nanocubes in acrylic monomers for ultrastable and bright nanocrystal–polymer composite films, ACS applied materials & interfaces 11 (9), 9317-9325, 2019.
+TM Morgan, X Wang, X Qian, JM Switchenko, S Nie, KR Patel, RJ Cassidy, …, Measurement of circulating tumor cells in squamous cell carcinoma of the head and neck and patient outcomes, Clinical and Translational Oncology 21 (3), 342-347, 2019.
+JD Predina, J Keating, A Newton, C Corbett, L Xia, M Shin, …, A clinical trial of intraoperative near‐infrared imaging to assess tumor extent and identify residual disease during anterior mediastinal tumor resection, Cancer 125 (5), 807-817, 2019.
+JD Predina, AD Newton, C Corbett, M Shin, LF Sulfyok, OT Okusanya, …, Near-infrared intraoperative imaging for minimally invasive pulmonary metastasectomy for sarcomas, The Journal of thoracic and cardiovascular surgery 157 (5), 2061-2069, 2019.
+JD Predina, J Runge, A Newton, M Mison, L Xia, C Corbett, M Shin, ..., Evaluation of aminolevulinic acid-derived tumor fluorescence yields disparate results in murine and spontaneous large animal models of lung cancer, Scientific reports 9 (1), 1-10, 2019.
+B Dai, X Wu, CJ Butch, J Wang, Z Wang, Y Wang, S Nie, Q Lu, Y Wang, ..., Encapsulating maytansinoid in pH-sensitive nanocarriers: The importance of using extremely potent cytotoxic agents and fast release for nanomedicine to achieve tumor elimination, Nano Research 12 (8), 1959-1966, 2019.
+I Srivastava, JS Khamo, S Pandit, P Fathi, X Huang, A Cao, RT Haasch, ..., Influence of electron acceptor and electron donor on the photophysical properties of carbon dots: a comparative investigation at the bulk‐state and single‐particle level, Advanced Functional Materials 29 (37), 1902466, 2019.
+J Langer, D Jimenez de Aberasturi, J Aizpurua, RA Alvarez-Puebla, …, Present and future of surface-enhanced Raman scattering, ACS nano 14 (1), 28-117, 2019.
+S Pandit, T Banerjee, I Srivastava, S Nie, D Pan, Machine learning-assisted array-based biomolecular sensing using surface-functionalized carbon dots, ACS sensors 4 (10), 2730-2737, 2019.
+X Meng, Y Du, R Wang, Z Li, S Zhu, H Wu, C Li, W Chen, S Nie, Q Ren, …, Cherenkov excited luminescence imaging induced by megavolt X-ray beams in the second near-infrared window, Optics Communications 452, 417-421, 2019.
+J Xu, D Kooby, S Nie, Nanofluorophore assisted fluorescence image-guided cancer surgery, J. Med. Clin. Res. Rev 2, 1-3, 2018.
+JD Predina, AD Newton, L Xia, C Corbett, C Connolly, M Shin, LF Sulyok, …, An open label trial of folate receptor-targeted intraoperative molecular imaging to localize pulmonary squamous cell carcinomas, Oncotarget 9 (17), 13517, 2018.
+LA Lane, R Xue, S Nie, Emergence of two near-infrared windows for in vivo and intraoperative SERS, Current opinion in chemical biology 45, 95-103, 2018.
+AD Newton, JD Predina, S Nie, PS Low, S Singhal, Intraoperative fluorescence imaging in thoracic surgery, Journal of surgical oncology 118 (2), 344-355, 2018.
+ C Chen, L Zhou, J Yu, Y Wang, S Nie, S Zhu, J Zhu, Dual functional asymmetric plasmonic structures for solar water purification and pollution detection, Nano Energy 51, 451-456, 2018.
+JL Tanyi, L Cory, E DeJesus, J Keating, J Predina, S Nie, C Deshpande, ..., Intraoperative molecular imaging can identify sub-centimeter peritoneal implants during ovarian cancer cytoreductive surgery, European Journal of Gynaecological Oncology 38 (4), 589-595, 2017.
+BA Kairdolf, X Qian, S Nie, Bioconjugated nanoparticles for biosensing, in vivo imaging, and medical diagnostics, Analytical chemistry 89 (2), 1015-1031, 2017.
+KYJ Lee, GY Lee, LA Lane, B Li, J Wang, Q Lu, Y Wang, S Nie, Functionalized, long-circulating, and ultrasmall gold nanocarriers for overcoming the barriers of low nanoparticle delivery efficiency and poor tumor penetration, Bioconjugate chemistry 28 (1), 244-252, 2017.
+J Keating, A Newton, O Venegas, S Nims, R Zeh, J Predina, …, Near-infrared intraoperative molecular imaging can locate metastases to the lung, The Annals of thoracic surgery 103 (2), 390-398, 2017.
+ B Pelaz, C Alexiou, RA Alvarez-Puebla, F Alves, AM Andrews, S Ashraf, ...., Diverse applications of nanomedicine, ACS nano 11 (3), 2313-2381, 2017.
+JYK Lee, JT Pierce, JP Thawani, R Zeh, S Nie, M Martinez-Lage, …, Near-infrared fluorescent image-guided surgery for intracranial meningioma, Journal of neurosurgery 128 (2), 380-390, 2017.
+JJ Keating, JJ Runge, S Singhal, S Nims, O Venegas, AC Durham, …, Intraoperative near‐infrared fluorescence imaging targeting folate receptors identifies lung cancer in a large‐animal model, Cancer 123 (6), 1051-1060, 2017.
+ J Wang, GY Lee, Q Lu, X Peng, J Wu, S Wu, BA Kairdolf, S Nie, Y Wang, ..., Quantitative examination of the active targeting effect: The key factor for maximal tumor accumulation and retention of short-circulated biopolymeric nanocarriers, Bioconjugate chemistry 28 (5), 1351-1355, 2017.
+T Morgan, X Wang, X Qian, S Nie, DM Shin, JJ Beitlerm, Measurement of Circulating Tumors Cells in Squamous Cell Carcinoma of the Head and Neck and Patient Outcomes, INTERNATIONAL JOURNAL OF RADIATION ONCOLOGY BIOLOGY PHYSICS 98 (2), E9-E9, 2017.
+Y Hu, H Cheng, X Zhao, J Wu, F Muhammad, S Lin, J He, L Zhou, …, Surface-enhanced Raman scattering active gold nanoparticles with enzyme-mimicking activities for measuring glucose and lactate in living tissues, ACS nano 11 (6), 5558-5566, 2017.
+L Xia, R Zeh, J Mizelle, A Newton, J Predina, S Nie, S Singhal, TJ Guzzo, Near-infrared intraoperative molecular imaging can identify metastatic lymph nodes in prostate cancer, Urology 106, 133-138, 2017.
+J Xu, D Kooby, B Kairdolf, S Nie, New horizons in intraoperative diagnostics of cancer in image and spectroscopy guided pancreatic cancer surgery, New Horizons in Clinical Case Reports 1, 2, 2017.
+JYK Lee, JT Pierce, R Zeh, SS Cho, R Salinas, S Nie, S Singhal, Intraoperative near-infrared optical contrast can localize brain metastases, World neurosurgery 106, 120-130, 2017.
+J Han, X Qian, Q Wu, R Jha, J Duan, Z Yang, KO Maher, S Nie, C Xu, Human Pluripotent Stem Cells, 2016.
+BA Kairdolf, A Bouras, M Kaluzova, AK Sharma, MD Wang, ..., Intraoperative spectroscopy with ultrahigh sensitivity for image-guided surgery of malignant brain tumors, Analytical chemistry 88 (1), 858-867, 2016.
+TJ Guzzo, J Jiang, J Keating, E DeJesus, R Judy, S Nie, P Low, P Lal, ..., Intraoperative molecular diagnostic imaging can identify renal cell carcinoma, The Journal of urology 195 (3), 748-755, 2016.
+JJ Keating, OT Okusanya, E De Jesus, R Judy, J Jiang, C Deshpande, ..., Intraoperative molecular imaging of lung adenocarcinoma can identify residual tumor cells at the surgical margins, Molecular imaging and biology 18 (2), 209-218, 2016.
+J Keating, J Tchou, O Okusanya, C Fisher, R Batiste, J Jiang, G Kennedy, ..., Identification of breast cancer margins using intraoperative near‐infrared imaging, Journal of surgical oncology 113 (5), 508-514, 2016.
+HJ Li, JZ Du, XJ Du, CF Xu, CY Sun, HX Wang, ZT Cao, XZ Yang, YH Zhu, ..., Stimuli-responsive clustered nanoparticles for improved tumor penetration and therapeutic efficacy, Proceedings of the National Academy of Sciences 113 (15), 4164-4169, 2016.
+X Gao, M Yezhelyev, Y Xing, RM O’Regan, S Nie, Bioconjugated Quantum Dots for Sensitive and Multiplexed Immunoassays, Immunoassay and Other Bioanalytical Techniques, 482-493, 2016.
+H Cheng, L Zhang, J He, W Guo, Z Zhou, X Zhang, S Nie, H Wei, Integrated nanozymes with nanoscale proximity for in vivo neurochemical monitoring in living brains, Analytical chemistry 88 (10), 5489-5497, 2016.
+HJ Li, JZ Du, J Liu, XJ Du, S Shen, YH Zhu, X Wang, X Ye, S Nie, J Wang, Smart superstructures with ultrahigh pH-sensitivity for targeting acidic tumor microenvironment: instantaneous size switching and improved tumor penetration, ACS nano 10 (7), 6753-6761, 2016.
+K Oh, C Kaddi, WB White, OT Okusanya, A Mohs, S Nie, MD Wang, ..., A Novel, low-cost intraoperative fluorescent imaging system for surgical use: Opportunities for research capacity in low-and middle-income countries, Annals of Global Health 82 (3), 2016.
+ J Han, X Qian, Q Wu, R Jha, J Duan, Z Yang, KO Maher, S Nie, C Xu, Novel surface-enhanced Raman scattering-based assays for ultra-sensitive detection of human pluripotent stem cells, Biomaterials 105, 66-76, 2016.
+A. M. Smith, L. A, Lane and S. M. Nie, “Mapping the Spatial Distribution of Charge Carriers in Quantum- Confined Heterostructures,” Nature Communications, 5, 4506 (doi:10.1038/ncomms5506), 2014.
+
+Smith AM, Mancini MC, and Nie SM. Bioimaging: Second Window for In-vivo Imaging, Nature Nanotechnology, 4, 710-711, 2009.
+Smith AM and Nie SM, Next-generation quantum dots, NATURE BIOTECHNOLOGY, 27, 732-733, 2009.
+A. M. Smith, A. M. Mohs, and S. M. Nie, “Tuning the optical and electronic properties of colloidal nanocrystals by lattice strain,” Nature Nanotechnology, 4, 56-63, 2009.
+
+X. M. Qian, X.H. Peng, D. O. Ansari, Q. Yin-Goen, G. Z. Chen, D. M. Shin, L. Yang, A. N. Young, M. D. Wang, and S. M. Nie, “In-vivo tumor targeting and spectroscopic detection with surface-enhanced Raman nanoparticle tags,” Nature Biotechnology, 26, 83-90, 2008.
+
+X. Gao, Y. Cui, R. M. Levenson, L. W. K. Chung, and S. M. Nie, In-vivo cancer targeting and imaging with semiconductor quantum dots, Nature Biotechnology, 22, 969-976, 2004.
+
+M. Y. Han, X. Gao, J. Z. Su, and S. M. Nie, Quantum-Dot-Tagged Microbeads for Multiplexed Optical Coding of Biomolecules, Nature Biotechnology, 19, 631-635, 2001.
+
+W. C. W. Chan and S. M. Nie, Quantum dot bioconjugates for ultrasensitive nonisotopic detection, Science, 281, 2016-2018, 1998.
+S. M. Nie and S. R. Emory, Probing single molecules and single nanoparticles by surface-enhanced Raman scattering, Science, 275, 1102-1106, 1997.
+S. M. Nie, D. T. Chiu, and R. N. Zare, Probing individual molecules with confocal fluorescence microscopy, Science, 266, 1018-1021, 1994.
+Click for more
+Articles in Conference Proceedings
+Smith AM, Wen MM, Wang MD, Nie SM. “Size-Minimized Quantum Dots for Molecular and Cellular Imaging,” Nobel Symposium 138: Single Molecule Spectroscopy in Chemistry, Physics and Biosciences: Springer Series in Chemical Physics Volume: 96 Pages: 187-201, Published: 2010.
+
+A. M. Smith, M. M. Wen, M. D. Wang, and S. M. Nie, “Size-Minimized Quantum Dots for Molecular and Cellular Imaging,” in: Single Molecule Spectroscopy in Chemistry, Physics and Biology: Nobel Symposium (Springer Series in Chemical Physics, Vol. 96) (Hardcover), Gräslund, Astrid; Rigler, Rudolf; Widengren, Jerker (Eds.), 2010.
+
+
+Invited Lectures
+Engineering Technologies for Image-Guided, Robotic and Minimally Invasive Surgery (COCHE Distinguished lecture and Keynote Talk)
+
+Biomedical Nanotechnology - New Opportunities for Cancer Imaging and Image-Guided Surgery (Invited Lecture) 
+Engineering Technologies for Image-Guided and Robotic Cancer Surgery (Invited)
+
+Nanotechnology, Image-Guided Surgery, and 28 Years of Friendship with Dr. Tan (Invited via Zoom)
+Engineering New Technologies for Surgical Navigation and Guidance (Invited Lecture via Zoom)
+
+Surgical Navigation and Guidance: Image-Guided Cancer Surgery (Plenary Lecture via Zoom)
+
+Engineering New Surgery Technology (Invited - Via Zoom)
+Nanotechnology: from Single Molecule Raman Spectroscopy to Image-Guided Cancer Surgery (Invited Lecture)
+
+Nanobiophotonics: from Single-Molecule Raman Spectroscopy to Image-Guided Precision Surgery (Invited)
+Nanotechnology: from Single-Molecule Raman Spectroscopy to Image-Guided Cancer Surgery (Invited)
+Emergence of Two Near-Infrared Windows for In-Vivo and Intraoperative SERS (Keynote Lecture)
+Nanotechnology: from Single Molecule Raman Spectroscopy to Image-Guided Cancer Surgery (Invited Lecture)
+
+Nanotechnology: Targeting the Tumor Microenvironments (Invited)
+
+Image-Guided and Minimally Invasive Surgery: Engineering Challenges and Clinical Opportunities (Invited) 
+
+Nanotechnology: From Single-Molecule Spectroscopy to Image-Guided Cancer Surgery
+SERS Nanoparticles in Medicine: From Single- Molecule Spectroscopy to Precision Cancer Surgery
+Nanotechnology and Biomarkers for Cardiovascular Risk Prediction and Precision Surgery (Invited Keynote)
+
+Clinical Translation of Nanomedicine: New Contrast Agents for Image-Guided Cancer Diagnostics and Surgery (Invited)
+Engineering unusual properties on the nanoscale: smart nanomicelles for targeting tumor microenvironments (Invited)
+SERS nanoparticles in medicine:new opportunities for spectroscopic cancer detection and image-guided
+surgery (Invited)
+Intraoperative Molecular Imaging and Robotic Technologies for Minimally Invasive Cancer Surgery (Invited)
+In-Vivo and Intraoperative SERS in the First and Second NIR Windows (Invited)
+Cardiovascular Informatics (Discussion Leader)
+Biomedical Raman Spectroscopy in the First and Second NIR Windows (Invited)
+Nanotechnology: from Single-Molecule Spectroscopy to Image-Guided Precision Surgery (Invited)
+Nanotechnology: from Single-Molecule Raman Spectroscopy to Image-Guided Precision Surgery (Invited)
+Nanobiophotonics: from Single-Molecule Optical Spectroscopy to Image-Guided Precision Surgery (Invited)
+SERS Nanoparticles in Medicine: New Opportunities for Spectroscopy Cancer Detection and Image-Guided Precision Surgery (Invited)
+
+Engineering Unusual Properties on the Nanoscale: from Single-Molecule Spectroscopy to Smart Molecular Imaging Probes (Invited)
+
+Nanotechnology, Biomarkers, and Artificial Intelligence: A Terrific Trio for Digital Health (Invited)
+Nanotechnology and Nanomedicine
+Engineering Unusual Properties on the Nanoscale: from Single-Molecule Raman Spectroscopy to Smart Imaging Probes (Invited)
+Nanotechnology, Biomarkers, and Artificial Intelligence for Digital Health (Invited Keynote)
+Pharmaceutical Engineering: Smart Drug Delivery Systems for Targeting the Tumor  Microenvironments (Keynote Lecture)
+Click for more
+Patents
+US Patent App. 17/744,369, 2022, J. Song, S. Nie, and C. Hill, Polyoxometalate Complexes and Pharmaceutical Compositions.
+US Patent 11,331,297, 2022, J. Song, S. Nie, and C. Hill, Polyoxometalate complexes and uses in managing cancer.
+
+
+US 10,392,598, B2. Xu, C., Nie, S., and Han, J. Methods of measuring cell purity for making quality control determinations and related compositions. August 27, 2019.
+US 2019/0262302 A1. Song, J., Nie, S., and Hill, C. Polyoxometalate complexes and uses in managing cancer. August 29, 2019
+US 10,137,208, B2. Qian, X., Ansari, D., and Nie, S. Vivo tumor targeting and spectroscopic detection with surface-enhanced raman nanoparticle tags. November 27, 2018.
+US 9,303,205 B2. Smith, A.M., and Nie, S. Lattice-mismatched core-shell quantum dots. April 5, 2016.
+US 9,345,389 B2. Nie, S., Mohs, A.M., and Mancini, M.C. Additional systems and methods for providing real-time anatomical guidance in a diagnostic or therapeutic procedure. May 24, 2016.
+US 2016/0143914 A1. Wang, Y., and Nie, S. Nanoparticles for encapsulation and delivery of bioactive compounds and compositions thereof. May 26, 2016.
+US 9,451,882, B2. Nie, S., Mohs, A., and Mancini, M. Integrated system and methods for real-time anatomical guidance in a diagnostic or therapeutic procedure. September 27, 2016.
+US 9,073,751 B2. Nie, S., Smith, A.M., and Kairdolf, B.A. Quantum dots, methods of making quantum dots, and methods of using quantum dots. July 7, 2015.
+US 2014/0024047 A1. Kairdolf, B.A., and Nie, S. Coated quantum dots and methods of making and using thereof. January 23, 2014.
+US 2013/0259944 A1. Shin, D.M., Nie, S., Peng, X.H., and Wang, Y. Methods and compositions for treating cancer with platinum particles. October 3, 2013.
+US 2013/0337471 A1. Nie, S., Liu, J., and Kairdolf, B.A. Cell identification with nanoparticles, compositions and methods related thereto. December 19, 2013.
+CA 2,536,266 C. Nie, S., and Doering, W. Surface enhanced raman spectroscopy (sers)-active composite nanoparticles, methods of fabrication thereof, and methods of use thereof. October 15, 2013.
+WO 2,013,033,060 A1. Kairdolf, B.A., and Nie, S. Devices having a calibration control region, systems and methods for immunohistochemical analyses. March 7, 2013.
+WO 2,013,022,499 A3. Kairdolf, B.A., and Nie, S. Polymer coated metal particles and uses related thereto. May 23, 2013.
+US 8,420,155 B2. Nie, S., and Bailey, R.E. Alloyed semiconductor quantum dots and concentration-gradient alloyed quantum dots, series comprising the same and methods related thereto. August 21, 2013.
+WO 2,012,065,163. Nie, S., Mohs, A.M., and Mancini, M.A. Additional systems and methods for providing real-time anatomical guidance in a diagnostic or therapeutic procedure. October 4, 2012.
+EP 2,512,337 A1. Nie, S., Mohs, A., and Mancini, M. System and method for providing real-time anatomical guidance in a diagnostic or therapeutic procedure. October 24, 2012.
+EP 2,501,779 A2. Smith, A.M., and Nie, S. Lattice-mismatched core-shell quantum dots. September 26, 2012.
+US 2011/0060036 A1. Nie, S., Duan, H., and Kuang, M. Branched multifunctional nanoparticle conjugates and their use. March 10, 2011.
+WO 2011/084528 A1. Nie, S., Mohs, A., and Mancini, M. System and method for providing real-time anatomical guidance in a diagnostic or therapeutic procedure. July 14, 2011.
+EP 2325642 A1. Nie, S., and Gao, X. Use of multimodality nanostructures to detect target substances. May 25, 2011.
+US 2011/0189102 A1. Kairdolf, B.A., and Nie, S. Coated quantum dots and methods of making and using thereof. August 4, 2011.
+EP 2335272 A2. Smith, A., Nie, S., and Kairdolf, B.A. Quantum dots, methods of making quantum dots, and methods of using quantum dots. June 22, 2011.
+US 2010/0304358 A1. Nie, S., Agrawal, A., and Yang, Z.C. Methods of identifying biological targets and instrumentation to identify biological targets. December 2, 2010.
+WO 2010/028112 A3. Smith, A., Nie, S., and Kairdolf, B.A. Quantum dots, methods of making quantum dots, and methods of using quantum dots. May 27, 2010.
+WO 2009/123934 A3. Nie, S., Duan, H., and Kuang, M. Branched multifunctional nanoparticle conjugates and their use. April 15, 2010.
+US 2009/0004118 A1. Nie, S., Lee, Y.K., and Kim, G. Multifunctional nanoparticle conjugates and their use. January 1, 2009.
+WO 2005/065081 A3. Nie, S., and Gao, X. Bioconjugated nanostructures, methods of fabrication thereof, and methods of use thereof. April 30, 2009.
+WO 2005/021712 A3. Bao, G., Kim, G.J., Nie, S., and Nitin, N. Modified molecular beacons. April 9, 2009.
+WO 2008/048230 A3. Agrawal, A., Chun, Y.Z., and Nie, S. Methods of identifying biological targets and instrumentation to identify biological targets. May 7, 2009.
+WO 2008/122035 A1. Quian, X., Ansari, D., and Nie, S. In vivo tumor targeting and spectroscopic detection with surface-enhanced raman nanoparticle tags. October 9, 2008.
+WO 2008/054523 A3. Yang, L., Mao, H., Nie, S., and Gao, X. Nanostructures, methods of synthesizing thereof, and methods of use thereof. December 11, 2008.
+WO 2008/116044 A8. Gao, X, Nie, S., and Yezhelyev, M. Semiconductor quantum dots for efeicient delivery and intracellular imaging of siRNA. December 24, 2008.
+WO 2007/018647 A3. Gao, X., Nie, S., Peng, X.H., and Yang, L. Multifunctional nanostructures, methods of synthesizing thereof, and methods of use thereof. May 31, 2007.
+EP1639093 A2. Bao, G., Nitin, N., Nie, S., and Kim, G.J. Modified molecular beacons. March 29, 2006.
+WO 2005/102396 A3. Nie, S., and Gao, X. Multimodality nanostructures, methods of fabrication thereof, and methods of use thereof. January 26, 2006.
+WO 2006/039842 A1. Nie, S., Xu, R., Zhao, W., and Huang, X. A fiber-optic detecting device. April 20, 2006.
+CA 2,534,402 A1. Nie, S., and Gao, X. Porous materials embedded with nanospecies, methods of fabrication thereof, and methods of use thereof. February 24, 2005.
+WO 2004/083902 A3. Bao, G., Laconte, L., Nie, S., and Nitin, N. Multifunctional magnetic nanoparticle probes for intracellular molecular imaging and monitoring. June 30, 2005.
+US 2003/0148544 A1. Nie, S., Gao, X., and Han, M. Methods of preparing multicolor quantum dot tagged beads and conjugates thereof. August 7, 2003.
+WO 2003/003015 A3. Gao, X., Han, M., and Nie, S. Methods of preparing multicolor quantum dot tagged beads and conjugates thereof. October 9, 2003.
+WO 2000/029617 A3. Nie, S., Chan, W.C.W., Amory, S.R. Water-soluble luminescent quantum dots and bioconjugates thereof. November 9, 2000.
+Click for more
+
+
+Honors
+2019 
+2018
+2018 
+2017 
+2013
+2013
+2012  
+2012 
+2011  
+2010 
+2010 
+2007 
+2007 
+2007
+2005
+Click for more
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Seeing the unseen: How butterflies can help scientists detect cancer
+
+
+Collaborative team of BIOE faculty starts new joint center for mRNA delivery and cancer immunotherapy
+
+
+Baxter Awards Young Investigators
+
+
+Nie and Gruev developing sensitive near IR cameras as part of $9 million NCI grant led by Penn Medicine
+
+
+CCIL team develops plasmonic SERS nanoparticles coated with red blood cell membranes for improved stability and tumor targeting
+
+
+Online Master of Engineering graduate spotlight: Anissa Akrout
+
+
+
+
+
+
+
+

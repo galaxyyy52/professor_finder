@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Mohamad Alipour 
+
+
+
+
+
+Research Assistant Professor
+
+
+(217) 333-5356
+alipour@illinois.edu
+2114 Newmark Civil Engineering Bldg
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaConstruction Materials
+Research Areas
+Construction Materials
+Sustainable and Resilient Infrastructure Systems
+
+For More Information
+Mohamad Alipour's research website.
+
+BiographyMohamad Alipour is a research assistant professor in the Department of Civil and Environmental Engineering at the University of Illinois at Urbana-Champaign. Prior to joining UIUC, Mohamad was a postdoctoral scholar in the Department of Civil and Environmental Engineering at UCLA (2021) and a postdoctoral researcher in the Department of Engineering Systems and Environment at the University of Virginia (2020).  Dr. Alipour's research focuses on scalable digitization and automation to tackle the challenges facing our built and natural environments by harnessing big data. His work integrates sensing, data analytics, and artificial intelligence with engineering domain expertise. His most recent research projects leverage deep learning, multi-modal data fusion, computer vision, virtual and augmented reality and digital image correlation for solving real-world challenging problems in structural and infrastructural engineering. Dr. Alipour received his Ph.D. in Civil Engineering (Structures) from the University of Virginia, and a B.S. and M.S. in Structural Engineering from Tehran Polytechnic. 
+Education
+Ph.D. in Civil Engineering (Structures), University of Virginia, Charlottesville, VA. 2019.
+M.S. in Structural Engineering, Tehran Polytechnic, Tehran, Iran, 2010.
+B.S. in Civil Engineering, Tehran Polytechnic, Tehran, Iran, 2008.
+
+Academic Positions
+Research Assistant Professor, University of Illinois at Urbana-Champaign, 2022-Present
+Faculty Fellow, National Center for Supercomputing Applications (NCSA), 2022-Present
+Postdoctoral Scholar, University of California Los Angeles (UCLA), 2021-2022
+
+ 
+
+Postdoctoral Scholar, University of Virginia, Charlottesville, VA., 2020-2021
+
+Journal Editorships
+Co-Guest Editor, Journal of Sensors, Special Edition on Infrastructure Health Monitoring and Automated Inspection Using
+Machine Learning and Computer Vision, 2023-Present.
+Associate editor, Journal of Nondestructive Evaluation, 2022-Present.
+
+Professional Societies
+Member, ASCE/SEI Bridge & Tunnel Management, Inspection, and Rehabilitation (BTMIR) Committee, 2020-Present.
+Member, ASCE/SEI Structural Control and Sensing (SC&C) Committee, 2020-Present.
+Associate Member, American Society of Civil Engineers (ASCE), 2014-Present.
+Member, American Concrete Institute (ACI), 2014-Present.
+
+Other Outside Service
+Technical reviewer for journals: Computing in Civil Engineering (ASCE), Bridge Engineering  (ASCE), Structural Engineering (ASCE), Advanced Engineering Informatics (Elsevier), Nondestructive Evaluation (Springer), Journal of Structural Control and Health Monitoring (Wiley), Civil Structural Health Monitoring (Springer), Journal of Construction and Building Materials (Elsevier), Thin-Walled Structures (Elsevier), Journal of Pattern Recognition (Elsevier), Journal of Advances in Structural Engineering (SAGE), Journal of Transportation Research Record (SAGE)
+
+
+Technical reviewer for conferences: International Conference on Structural Health Monitoring of Intelligent Infrastructure (SHMII), Transportation Research Board (TRB) Annual Meeting
+
+
+
+Research Interests
+Sensing and information extraction in natural and built environments
+Machine learning and computer vision for smart infrastructure
+Digital twins and infrastructure digitization
+Structural health monitoring
+Automated and augmented structural inspection
+
+Undergraduate Research OpportunitiesIf you are already at UIUC as an undergraduate student and are interested in getting involved in our research, please reach out to Dr. Alipour via email to schedule a time to talk in his office.
+Graduate Research OpportunitiesDr. Alipour is looking for highly motivated and hard-working students to join his research group. If you are interested and have competitive educational records and programming skills, please read some of our papers and familiarize yourself with our work (Our research website) and reach out to Dr. Alipour by sending an email that describes:
+
+What you can do: describe your problem solving and programming skills, familiarity with machine learning, computer simulations, etc., past publications (if any).
+Why you specifically want to work with us and how your background and interests align with our program.
+What research you are interested in: while you may be new to research, we want to know about the types of problems you are excited to work on, why you are interested in them, and why you have the right background to work on them.
+
+For more information on our open positions, please visit here.
+Primary Research AreaConstruction Materials
+Research Areas
+Construction Materials
+Sustainable and Resilient Infrastructure Systems
+
+
+
+Chapters in Books
+Alipour, M., Shariati, A., Schumacher, T., Harris, D. K., & Riley, C. J. (2019). Digital Image and Video-Based Measurements. In Load Testing of Bridges (pp. 145-168). CRC Press.
+
+Selected Articles in Journals
+Alipour, M., La Puma, I., Picotte, J., Shamsaei, K., Rowell, E., Watts, A., Kosovic, B., Ebrahimian, H., and Taciroglu. E., "A Multimodal Data Fusion and Deep Learning Framework for Large-Scale Wildfire Surface Fuel Mapping." Fire 6, no. 2 (2023): 36.
+Dizaji, M. S., Harris, D. K., & Alipour, M. (2022). Integrating visual sensing and structural identification using 3D-digital image correlation and topology optimization to detect and reconstruct the 3D geometry of structural damage. Structural Health Monitoring, 14759217211073505.
+
+Dizaji, M. S., Alipour, M., & Harris, D. K. (2022). Image-Based Tomography of Structures to Detect Internal Abnormalities Using Inverse Approach. Experimental Techniques, 1-16.
+Li, T., Alipour, M., & Harris, D. K. (2021). Context-aware sequence labeling for condition information extraction from historical bridge inspection reports. Advanced Engineering Informatics, 49, 101333.
+Li, T., Alipour, M., & Harris, D. K. (2021). Mapping textual descriptions to condition ratings to assist bridge inspection and condition assessment using hierarchical attention. Automation in Construction, 129, 103801.
+Dizaji, M. S., Alipour, M., & Harris, D. K. (2021). Subsurface damage detection and structural health monitoring using digital image correlation and topology optimization. Engineering Structures, 230, 111712.
+Li, T., Alipour, M., Donaldson, B. M., & Harris, D. K. (2021). Deep Learning-Based Visual Identification of Signs of Bat Presence in Bridge Infrastructure Images: A Transfer Learning Approach. Transportation Research Record, 03611981211031904.
+Alipour, M., & Harris, D. K. (2020). A big data analytics strategy for scalable urban infrastructure condition assessment using semi-supervised multi-transform self-training. Journal of Civil Structural Health Monitoring, 10(2), 313-332.
+Alipour, M., & Harris, D. K. (2020). Increasing the robustness of material-specific deep learning models for crack detection across different materials. Engineering Structures, 206, 110157.
+Alipour, M., Harris, D. K., & Miller, G. R. (2019). Robust pixel-level crack detection using deep fully convolutional neural networks. Journal of Computing in Civil Engineering, 33(6), 04019040.
+Alipour, M., Washlesky, S. J., & Harris, D. K. (2019). Field deployment and laboratory evaluation of 2D digital image correlation for deflection sensing in complex environments. Journal of Bridge Engineering, 24(4), 04019010.
+Bagheri, A., Ozbulut, O. E., Harris, D. K., Alipour, M., & Zare Hosseinzadeh, A. (2019). A hybrid experimental-numerical approach for load rating of reinforced concrete bridges with insufficient structural properties. Structure and Infrastructure Engineering, 15(6), 754-770.
+Dizaji, M. S., Alipour, M., & Harris, D. K. (2018). Leveraging full-field measurement from 3D digital image correlation for structural identification. Experimental Mechanics, 58(7), 1049-1066.
+Bagheri, A., Alipour, M., Ozbulut, O. E., & Harris, D. K. (2018). A nondestructive method for load rating of bridges without structural properties and plans. Engineering Structures, 171, 545-556.
+Bagheri, A., Alipour, M., Ozbulut, O. E., & Harris, D. K. (2018). Identification of Flexural Rigidity in Bridges with Limited Structural Information. Journal of Structural Engineering, 144(8), 04018126.
+Alipour, M., Harris, D. K., Barnes, L. E., Ozbulut, O. E., & Carroll, J. (2017). Load-capacity rating of bridge populations through machine learning: Application of decision trees and random forests. Journal of Bridge Engineering, 22(10), 04017076.
+Gheitasi, A., Ozbulut, O. E., Usmani, S., Alipour, M., & Harris, D. K. (2016). Experimental and analytical vibration serviceability assessment of an in-service footbridge. Case Studies in Nondestructive Testing and Evaluation, 6, 79-88.
+Click for more
+Articles in Conference Proceedings
+Dizaji, M. S., Alipour, M., Harris, D. K., & Mao, Z. (2022, July). Detecting and Reconstructing the 3D Geometry of Subsurface Structural Damages Using Full-Field Image-Based Sensing and Topology Optimization. In Rotating Machinery, Optical Methods & Scanning LDV Methods, Volume 6: Proceedings of the 40th IMAC, A Conference and Exposition on Structural Dynamics 2022 (pp. 175-180). Cham: Springer International Publishing.
+Alipour, M., Harris, D. K., Dizaji, M. S., Bilmen, Z., & Zeng, Z. (2021, July). Leveraging Mixed Reality for Augmented Structural Mechanics Education. In 2021 ASEE Virtual Annual Conference Content Access.
+Tang, T., Alipour, M., Poncy, A., & Harris, D. K. (2021). E-scooter Availability Versus Utilization Insights: A Geospatial Analysis (No. TRBAM-21-03860).
+Li, T., Alipour, M., Donaldson, B. M., & Harris, D. K. (2021). Deep Learning-Based Visual Identification of Signs of Bat Presence in Bridge Infrastructure Images: A Transfer Learning Approach. Transportation Research Record, 03611981211031904.
+Ndong, A. K., Dizaji, M. S., Alipour, M., Ozbulut, O. E., & Harris, D. K. (2019). Load Rating of a Reinforced Concrete T-beam Bridge through Ambient Vibration Testing and Finite Element Model Updating. In Dynamics of Civil Structures, Volume 2 (pp. 337-343). Springer, Cham.
+Dizaji, M. S., Harris, D. K., Alipour, M., & Ozbulut, O. E. (2018, March). Reframing measurement for structural health monitoring: a full-field strategy for structural identification. In Nondestructive Characterization and Monitoring of Advanced Materials, Aerospace, Civil Infrastructure, and Transportation XII (Vol. 10599, p. 1059910). International Society for Optics and Photonics.
+Alipour, M., Harris, D. K., & Barnes, L. E. (2017). Pattern recognition in the national bridge inventory for automated screening and the assessment of infrastructure. In Structures Congress 2017 (pp. 279-291).
+Click for more
+Other Publications
+For an up-to-date list of publications please visit the Google Scholar page.
+
+Reports
+Harris, D. K., Li, T., Donaldson, B. M., & Alipour, M. (2020). Development of a Test Method for Evaluating Staining on Structures as an Indicator of Bat Presence (No. FHWA/VTRC 20-R18).
+Harris, D. K., Ozbulut, O., Bagheri, A., Dizaji, M. S., Ndong, A. K., & Alipour, M. (2020). Load Rating Strategies for Bridges With Limited or Missing As-Built Information (No. FHWA/VTRC 20-R27).
+
+
+
+Honors
+Young Professionals Award, Structural Engineering Institute (SEI), American Society of Civil Engineers (ASCE) (2020)
+Research Excellence Award, Department of Engineering Systems and Environment, University of Virginia (2019)
+O.H. Ammann Research Fellowship in Structural Engineering, Structural Engineering Institute (SEI), American Society of Civil Engineers (ASCE) (2018)
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Makhnenko, Alipour named NCSA Faculty Fellows
+
+
+Alipour wins Best Paper medal
+
+
+
+Watch
+
+
+
+
+
+
+
+
+

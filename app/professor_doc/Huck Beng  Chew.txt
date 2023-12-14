@@ -1,0 +1,168 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Huck Beng Chew 
+
+
+Administrative Titles
+
+Associate Professor
+(217) 333-9770
+hbchew@illinois.edu
+306H Talbot Laboratory
+
+
+ASSOC HEAD
+
+hbchew@illinois.edu
+ 
+
+
+
+For More Information
+Aerospace Faculty in Focus: Huck Beng Chew
+Prof. Chew's Research Group Website
+
+Education
+National University of Singapore
+Doctor of Philosophy, Mechanical Engineering (President Graduate Fellowship), 2007.
+National University of Singapore
+Master of Engineering, Mechanical Engineering (Accelerated Masters Program), 2003
+
+National University of Singapore
+Bachelor of Engineering (1st Class Honors; University Scholar Program), Mechanical Engineering, 2002
+
+
+Academic Positions
+University of Illinois, Urbana-Champaign, IL Affiliate Associate Professor, Computational Science and Engineering, Aug 2018 - Present
+University of Illinois, Urbana-Champaign, IL
+Associate Professor, Aerospace Engineering, Aug 2018 – Present
+University of Illinois, Urbana-Champaign, IL Affiliate Assistant Professor, Computational Science and Engineering, Sept 2011-July 2018
+University of Illinois, Urbana-Champaign, IL
+Assistant Professor, Aerospace Engineering, Aug 2011 – July 2018
+Brown University, Providence, RI
+Assistant Professor (Research), School of Engineering, June – Aug 2011
+
+Brown University, Providence, RI
+Postdoctoral Research Associate, School of Engineering, Jan 2008 – June 2011. Field: Nanomechanics of Materials.
+Click for more
+Professional Registrations
+Registered Chartered Environmental Engineer (UK) CEnv (since 2010)
+Registered Chartered Engineer (UK) CEng (since 2007)
+Fellow of the Institute of Mechanical Engineers, FIMechE (since 2014; member since 2007)
+
+
+Research Areas
+Aerospace Materials
+
+
+Chapters in Books
+Chew, H.B., Guo, T.F. and Cheng, L., Mechanism-based modeling of thermal and moisture induced failure of IC devices, in: Moisture Sensitivity of Plastic Packages of IC Devices, Chapter 12. Editors: Fan, X.J. and Suhir, E. 1st Edition, Springer 2010, pp. 301-331, ISBN: 978-1-4419-5718-4. 
+
+Selected Articles in Journals
+Tran, H., Chew, H.B.,  Transient to Steady-State Morphology Evolution of Carbon Surfaces under Ion Bombardment: Monte Carlo Simulations. Acta Materialia (2023), 119498.
+Xie, D., Li, Z.H., Sasaki, T.T., Gao, Y.F., Lyu, Z.Y., Feng, R., Chen, Y., An, K., Chew, H.B., Nakata, T., Kamado, K., Hono, K., Liaw, P.K., Identifying the effect of coherent precipitates on the deformation mechanisms by in situ neutron diffraction in an extruded magnesium alloy under low-cycle fatigue conditions. Acta Materialia 251 (2023), 118903.
+Jiang, Y., Sridhar, S., Liu, Z., Wang, D., Zhou, H., Deng, J., Chew, H.B., Ke, C., The interplay of intra- and inter-layer interactions in bending rigidity of ultrathin 2D materials. Applied Physics Letters 122 (2023), 153101. 
+Tran, H., Chew, H.B., Surface morphology and carbon structure effects on sputtering: Bridging scales between molecular dynamics simulations and experiments. Carbon 205 (2023), 180-193.
+
+Jing, Y., Li, N., Liu, Z., Yi, C., Zhou, H., Park, C., Fay, C.C., Deng, J., Chew, H.B., Ke, C., Exceptionally strong boron nitride nanotube aluminum composite interfaces. Extreme Mechanics Letters 59 (2023), 101952.
+Worthington, M., Chew, H.B., Crack path predictions in heterogeneous media by machine learning. Journal of the Mechanics and Physics of Solids 172 (2023), 105188.
+Tran, H., Chew, H.B., Cohesive zone interpretations of phase-field fracture models. Journal of Applied Mechanics, 89 (2022), 121005.
+Xie, D., Zhang, W., Lyu, Z., Liaw, P.K., Chew, H.B., Wei, Y., Ren, Y., Gao, Y., Plastic anisotropy and twin distributions near the fatigue crack tip of textured Mg alloys from in situ synchrotron x-ray diffraction measurements and multiscale mechanics modeling. Journal of the Mechanics and Physics of Solids, 165 (2022), 104936.
+Tran, H., Gao, Y.F., Chew, H.B., An inverse method to reconstruct crack-tip cohesive zone laws for fatigue by numerical field projection. International Journal of Solids and Structures 239-240 (2022), 111435.
+Li, N., Dmuchowski, C.M., Jiang, Y., Yi, C., Gou, F., Deng, J., Ke, C., Chew, H.B., Sliding energy landscape governs interfacial failure of nanotube-reinforced ceramic nanocomposites. Scripta Materialia 210 (2022), 114413
+Muro-Barrios, R., Lambros, J., Chew, H.B., Dual-scale porosity effects on crack growth in additively manufactured metals: 3D ductile fracture models. Journal of the Mechanics and Physics of Solids 159 (2022), 104727.
+Cui, Y., Chew, H.B., Machine-learning prediction of atomistic stress along grain boundaries. Acta Materialia  222 (2022), 117387.
+Wang, H., Lu, S.-H., Wang, X., Xia, S., Chew, H.B., A review of the multiscale mechanics of silicon electrodes in high-capacity lithium-ion batteries. Journal of Physics D: Applied Physics 55 (2022), 063001.
+Xie, D., Lyu, Z., Fan, M., Chew, H.B., Liaw, P.K., Bei, H., Zhang, Z., Gao, Y., Micromechanical origin of the enhanced ductility in twinless duplex Mg-Li alloy. Materials Science and Engineering: A 815 (2021), 141305
+Xie, D., Lyu, Z., Li, Y., Liao, P.K., Chew, H.B., Ren, Y., Chen, Y., An, K., Gao, Y., In situ monitoring of dislocation, twinning, and detwinning modes in an extruded magnesium alloy under cyclic loading conditions. Materials Science and Engineering A  809 (2021), 140860.
+Bagchi, S., Johnson, H.T., Chew, H.B., Strain-controlled rotation of twisted 2D atomic layers for tunable nanomechanical systems. ACS Applied Nano Materials 3 (2020), 10878-10884.
+VanSickle, R., Foehring, D., Chew, H.B., Lambros, J., Microstructure effects on fatigue crack growth in additively manufactured Ti-6Al-4V. Materials Science and Engineering: A 795 (2020), 139993.
+Cui, Y., Gao, Y.F., Chew, H.B., Two-scale porosity effects on cohesive crack growth in a ductile media. International Journal of Solids and Structures, 200-201 (2020), 188-197
+Bagchi, S., Johnson, H.T., Chew, H.B., Rotational stability of twisted bilayer graphene. Physical Review B, 101 (2020), 054109. 
+Qu, W., Bagchi, S., Chen, X., Chew, H.B., Ke, C., Bending and interlayer shear moduli of ultrathin boron nitride nanosheet. Journal of Physics D: Applied Physics, 52 (2019), 465301 
+Cui, Y., Chew, H.B., A simple numerical approach for reconstructing the atomic stresses at grain boundaries from quantum-mechanical calculations. The Journal of Chemical Physics, 150 (2019), 144702.
+Antartis, D.A., Wang, H., Tang, C.Y., Chew, H.B., Dillon, S.J., Chasiotis, I., Nanofibrillar Si helices for low-stress, high capacity Li+ anodes with large affine deformations. ACS Applied Materials and Interfaces, 11-12 (2019), 11715-11721
+Waymel, R.F., Chew, H.B., Lambros, J., Loading orientation effects on the strength anisotropy of additively-manufactured Ti-6Al-4V alloys under dynamic compression. Experimental Mechanics, 59 (2019), 829-841. 
+Sawant, S.S., Rao, P., Harpale, A., Chew, H.B., Levin, D.A., Multi-scale thermal response modeling of an AVCOAT-like thermal protection material. International Journal of Heat and Mass Transfer, 133 (2019), 1176-1195.
+Bagchi, S., Ke, C., Chew, H.B., Oxidation effect on the shear strength of graphene on aluminum and titanium surfaces. Physical Review B, 98 (2018), 174106.
+Yi, C., Bagchi, S., Gou, F., Dmuchowski, C.M., Park, C., Fay, C.C., Chew, H.B., Ke, C., Direct nanomechanical measurements of boron nitride nanotube-ceramic interfaces. Nanotechnology, 30(2018), 025706.
+Bagchi, S., Harpale, A., Chew, H.B., Interfacial load transfer mechanisms in carbon nanotube-polymer nanocomposites. Proceedings of Royal Society A, 474 (2018), 20170705.
+Mohan, S., Li, R., Chew, H.B., Local stress analysis of partial dislocation interactions with symmetrical-tilt grain boundaries containing E-structural units. Philosophical Magazine, 25 (2018), 2345-2366
+Foehring, D., Chew, H.B., Lambros, J., Characterizing the tensile behavior of additively manufactured Ti-6Al-4V using multiscale digital image correlation. Materials Science and Engineering: A, 724 (2018), 536-546.
+Yi, C., Bagchi, S., Dmuchowski, C.M., Gou, F., Chen, X., Park, C., Chew, H.B., Ke, C., Direct nanomechanical characterization of carbon nanotubes-titanium interfaces. Carbon, 132 (2018), 548-555.
+Harpale, A., Sawant, S., Kumar, R., Levin, D., and Chew, H.B., Ablative thermal protection systems: Pyrolysis modeling by scale-bridging molecular dynamics. Carbon, 130 (2018), 315-324.
+Wang, H., and Chew, H.B., Nanoscale mechanics of the solid electrolyte interphase on lithiated-silicon electrodes. ACS Applied Materials and Interfaces, 9(2017), 25662-25667.
+Li, R., and Chew, H.B., Grain boundary traction signatures: Quantifying the asymmetrical dislocation emission processes under tension and compression. Journal of the Mechanics and Physics of Solids, 103(2017), 142-154.
+Harpale, A., and Chew, H.B., Hydrogen-plasma patterning of multilayer graphene: mechanisms and modeling. Carbon, 117(2017), 82-91.
+Li., R., and Chew, H.B., Grain boundary traction signatures: Quantitative predictors of dislocation emission. Physical Review Letters, 117(2016), 085502.
+Wang, H., and Chew, H.B., Molecular dynamics simulations of plasticity and cracking in lithiated silicon electrodes. Extreme Mechanics Letters, 9 (2016), 503-513.
+Harpale, A., Panesi, M., and Chew, H.B., Plasma-graphene interaction and its effects on nanoscale patterning. Physical Review B, 93 (2016), 035416. 
+Wang, X., Fan, F., Wang, J., Wang, H., Tao, S., Yang, A., Liu, Y., Chew, H.B., Mao, S.X., Zhu, T., and Xia, S., High damage tolerance of electrochemically lithiated silicon. Nature Communications, 6 (2015), 8417. 
+Wang, H., Wang, X., Xia, S., and Chew, H.B., Brittle-to-ductile transition of lithiated silicon electrodes: Crazing to stable nanopore growth. The Journal of Chemical Physics, 143 (2015), 104703. 
+Li, R., and Chew, H.B., 'Closed and Open-Ended Stacking Fault Tetrahedra Formation along the Interfaces of Cu-Al Nanolayered Metals. Philosophical Magazine, 95 (2015), 2747-2763. 
+Wang, H., Hou, B., Wang, X., Xia, S., and Chew, H.B., Atomic-scale mechanisms of sliding along an interdiffused Li-Si-Cu interface. Nano Letters, 15 (2015), 1716-1721. 
+Harpale, A., Panesi, M., and Chew, H.B., Communication: Surface-to-bulk diffusion of isolated versus interacting C atoms in Ni(111) and Cu(111) substrates: A first principle investigation. The Journal of Chemical Physics, 142 (2015), 061101. 
+Li, R., and Chew, H.B., Planar-to-wavy transition of Cu/Ag nanolayered metals: A precursor mechanism to twinning. Philosophical Magazine,95 (2015), 1029-1048. 
+Chew, H.B., Hou, B., Wang, X., and Xia, S., Cracking mechanisms in lithiated silicon thin film electrodes. International Journal of Solids and Structures, 51 (2014), 4176-4187. 
+Li, R., and Chew, H.B., Deformation twinning and plastic recovery in Cu/Ag nanolayers under uniaxial tensile straining. Philosophical Magazine Letters, 94 (2014), 260-268. 
+Chew, H.B., Cohesive zone laws for fatigue crack growth: Numerical field projection of the micromechanical damage process in an elasto-plastic medium. International Journal of Solids and Structures, 61 (2014), 1410-1420. 
+Anderson, E., Li, R., and Chew, H.B., Negative stiffness induced by shear along wavy interfaces. Journal of the Mechanics and Physics of Solids, 63 (2014), 285-297. 
+Chew, H.B., Inverse extraction of interfacial tractions from elastic and elasto-plastic far-fields by nonlinear field projection. Journal of the Mechanics and Physics of Solids, 61 (2013), 131-144. 
+Kim, S.-W., Chew, H.B., Kumar, S., In situ TEM study of crack-grain boundary interactions in thin copper foils. Scripta Materialia, 68 (2013), 154-157. 
+Kim, S.-P., Chew, H.B., Chason, E., Shenoy, V.B. and Kim, K.-S., Nanoscale mechanisms of surface stress and morphology evolution in FCC metals under noble-gas ion bombardments. Proceedings of the Royal Society A, 468 (2012), 2550-2573. 
+Highlighted in NSF: http://nsf.gov/news/news_summ.jsp?cntn_id=124413 
+Kim, H.-G., Chew, H.B. and Kim, K.-S., Inverse extraction of cohesive zone laws by field projection method using numerical auxiliary fields. International Journal for Numerical Methods in Engineering, 91 (2012), 516-530. 
+Chew, H.B., Moon, M.-W., Lee, K.R. and Kim, K.-S., Compressive dynamic scission of carbon nanotubes under sonication: fracture by atomic ejection. Proceedings of the Royal Society A, 467 (2011), 1270-1289. Highlighted in Nature, 468 (2010), 870-871. Highlighted in NSF: http://www.nsf.gov/news/news_summ.jsp?cntn_id=118277 
+Chew, H.B., Hong, S. and Kim, K.-S., Cohesive zone laws for void growth – II. Numerical field projection of elasto-plastic fracture processes with vapor pressure. Journal of the Mechanics and Physics of Solids, 57 (2009), 1374-1390. 
+Hong, S., Chew, H.B. and Kim, K.-S., Cohesive zone laws for void growth – I. Experimental field projection of crack-tip crazing in glassy polymers. Journal of the Mechanics and Physics of Solids, 57 (2009), 1357-1373. 
+Cheong, W.G., Chew, H.B., Guo, T.F. and Cheng, L., Thermo-mechanical analysis of Plastic Ball Grid Arrays with vapor pressure effects. IEEE Transactions on Components and Packaging Technologies, 32 (2009), 12-19. 
+Chew, H.B., Guo, T.F. and Cheng, L., Influence of nonuniform initial porosity distribution on adhesive failure in electronic packages. IEEE Transactions on Components and Packaging Technologies, 31 (2008), 277-284.
+Chew, H.B., Guo, T.F. and Cheng, L., Pressure-sensitive ductile layers — II. 3D models of extensive damage. International Journal of Solids and Structures, 44 (2007), 5349-5368. 
+Chew, H.B., Guo, T.F. and Cheng, L., Pressure-sensitive ductile layers — I. Modeling the growth of extensive damage. International Journal of Solids and Structures, 44 (2007), 2553-2570. 
+Chew, H.B., Guo, T.F. and Cheng, L., Effects of pressure-sensitivity and plastic dilatancy on void growth and interaction. International Journal of Solids and Structures, 43 (2006), 6380-6397. 
+Chew, H.B., Guo, T.F. and Cheng, L., Vapor pressure and voiding effects on thin film damage. Thin Solid Films, 504 (2006), 325-330. 
+Chew, H.B., Guo, T.F. and Cheng, L., Vapor pressure and residual stress effects on mixed mode toughness of an adhesive film. International Journal of Fracture, 134 (2005), 349-368. 
+Chew, H.B., Guo, T.F. and Cheng, L., Vapor pressure and residual stress effects on the failure of an adhesive film. International Journal of Solids and Structures, 42 (2005), 4795-4810.
+Chew, H.B., Guo, T.F. and Cheng, L., Vapor pressure and residual stress effects on the toughness of polymeric adhesive joints. Engineering Fracture Mechanics, 71 (2004), 2435-2448.
+Click for more
+Honors
+Vice Chancellor’s List (2002)
+
+Research Honors
+2017 Dean's Award for Excellence in Research (4/24/2017)
+
+
+Recent Courses TaughtAE 321 - Mechs of Aerospace Structures
+AE 323 - Applied Aerospace Structures
+AE 370 - Aerospace Numerical Methods
+AE 527 - Multi-Scale Mdlng of Materials
+ME 471 (AE 420, CSE 451) - Finite Element Analysis
+
+
+
+
+
+
+
+
+

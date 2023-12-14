@@ -1,0 +1,114 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Diwakar Shukla 
+
+
+
+
+
+ASSOC PROF
+
+
+(217) 300-0021
+diwakar@illinois.edu
+203 Roger Adams Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaComputational bioengineering - Biomolecular modeling
+Research Areas
+Biomolecular modeling
+
+For More Information
+Research Synopsis
+
+Research Group Website
+
+BiographyDiwakar Shukla is an associate professor in the Department of Chemical and Biomolecular Engineering. He also is an affiliate faculty member in the Center for Biophysics and Computational Biology, the Computational Science & Engineering Program, the Department of Plant Biology, and the National Center for Supercomputing Applications. His research work is focused on understanding complex biological processes using novel physics-based models and techniques. He joined the department in 2015. He received his B. Tech and M. Tech. degrees from the Indian Institute of Technology in Bombay and his M.S. and Ph.D. degrees from the Massachusetts Institute of Technology. His postdoctoral work was at Stanford University. He has received several awards for his research including the W.H. Peterson Award from ACS, the Innovation in Biotechnology Award from AAPS, the COMSEF Graduate Student Award from AIChE, as well as the Institute Silver Medal and Manudhane Award from IIT Bombay.
+Education
+Postdoctoral Fellow, Chemistry, Stanford University, 2011-2014 
+Ph.D., Chemical Engineering, Massachusetts Institute of Technology, 2006-2011 
+M.S., Chemical Engineering Practice, Massachusetts Institute of Technology, 2009
+M.Tech., Chemical Engineering, Indian Institute of Technology Bombay, 2006
+B.Tech., Chemical Engineering, Indian Institute of Technology, Bombay, 2006
+
+
+
+Research Interests
+Molecular Engineering; Molecular Modeling and Simulations; Biophysics
+
+Primary Research AreaComputational bioengineering - Biomolecular modeling
+Research Areas
+Biomolecular modeling
+
+
+
+Selected Articles in Journals
+S. Shukla, C. Zhao and D. Shukla. Dewetting Controls Plant Hormone Perception and Initiation of Drought Resistance Signaling. Structure, Vol. 27,  1-11, 2019.
+B. Selvam, Z. Shamsi and D. Shukla. Universality of Sodium Ion Binding Mechanism in G-Protein-Coupled Receptors. Angew. Chem. Int. Ed., 57, 12, 3048-3053, 2018.
+Balaji Selvam, Shriyaa Mittal and Diwakar Shukla. Free energy landscape of the complete transport cycle in a key bacterial transporter.  ACS Central Science, Vol. 4, 9,  1146–1154, 2018.
+C. Zhao and D. Shukla. SAXS-guided Enhanced Unbiased Sampling for Structure Determination of Proteins and Complexes. Scientific Reports, Vol. 8, Article number: 17748, 2018.
+Z. Shamsi, K. J. Cheng and D. Shukla. REinforcement learning based Adaptive samPling: REAPing Rewards by Exploring Protein Conformational Landscapes. J. Phys. Chem. B, Vol. 122, 35, 8386-8395, 2018.
+J. Feng and D. Shukla. Characterizing Conformational Dynamics of Proteins using Evolutionary Couplings., J. Phys. Chem. B, Vol. 122, 3, 1017–1025, 2018. 
+S. Mittal and D. Shukla, Optimal Probes: An Algorithm for Predicting Probe Positions for Double Electron Electron Resonance Spectroscopy. J. Phys. Chem. B, Vol. 121, 9761-70 , 2017. 
+Z. Shamsi, A. S. Moffett and D. Shukla, Evolutionary Couplings Guided Adaptive Sampling of Protein-Protein Association Pathways, Sci. Rep., Article number: 12700, 2017.
+A. Moffett, K. Bender, S. C. Huber and D. Shukla, Allosteric Control of Brassinosteroid associated Kinase 1 (BAK1) through S-glutathionylation. Biophys. J., Vol. 113, pages 2354-63, 2017.
+A. S. Moffett, K. Bender, S. C. Huber and D. Shukla. Conformational disorder as a potential regulatory mechanism of the BRI1and BAK1 kinase domains in plants. J. Biol. Chem., Vol. 292, 12643-52, 2017.
+Click for more
+
+
+Honors
+Pivot Fellowship, Simons Foundation (2022)
+Sloan Research Fellowship, Alfred P. Sloan Foundation (2019)
+NSF Early Career Award, National Science Foundation (2018)
+OpenEye Outstanding Junior Faculty in Computational Chemistry, American Chemical Society (2018)
+CoMSEF Young Investigator Award, American Institute of Chemical Engineers (2018)
+New Innovator Award in Food & Agriculture Research, Foundation for Food & Agriculture Research (2017)
+Engineering Council Outstanding Advising Award, University of Illinois at Urbana-Champaign (2015)
+List of Excellent Teachers, University of Illinois at Urbana-Champaign (2016-2018)
+Click for more
+Teaching Honors
+Outstanding Graduate Teaching Assistant Award (2010)
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Professor Diwakar Shukla named a Pivot Fellow by Simons Foundation
+
+
+
+
+
+
+
+

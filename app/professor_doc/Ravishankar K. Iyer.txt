@@ -1,0 +1,479 @@
+
+
+
+
+
+
+
+ 
+
+
+Ravishankar K Iyer 
+
+
+Administrative TitlesGeorge and Ann Fisher Distinguished Professor of Engineering
+
+Professor
+(217) 333-9732
+rkiyer@illinois.edu
+255 Coordinated Science Lab
+
+
+
+For More Information
+Ravishankar K. Iyer's home page
+
+Education
+Ph.D., Electrical Engineering, University of Queensland, 1977
+BE     Electrical Engineering      University of Queensland    1973
+
+BiographyRavishankar K. Iyer is George and Ann Fisher Distinguished Professor of Engineering at the University of Illinois at Urbana-Champaign. He holds joint appointments in the Departments of Electrical and Computer Engineering and Computer Science, in the Coordinated Science Laboratory (CSL), the National Center for Supercomputing Applications, the Carle Illinois College of Medicine, and the Carl R. Woese Institute for Genomic Biology. He is also faculty Research Affiliate at the Mayo Clinic, and Yeoh Ghin Seng Distinguished Visiting Professor of the National University Health System, Singapore.Professor Iyer leads the DEPEND Group at CSL, with a multidisciplinary focus on systems and software that combine deep measurement driven analytics and machine learning with applications in two important domains: i) trust (that spans resilience and the security of critical infrastructures) and ii) health (that spans computational genomics and health analytics focused on personalized medicine). The Depend Group has developed a rich AI analytics framework that has been deployed on real-world applications in collaborations with industry, health providers, and government agencies including NSF, NIH, and DoD. Iyer directs the Illinois/Mayo NSF Center for Computational Biotechnology and Genomic Medicine (CCBGM). Professor Iyer is a Fellow of the American Association for the Advancement of Science (AAAS), the Institute of Electrical and Electronics Engineers (IEEE), and the Association for Computing Machinery (ACM). He has received several awards, including the IEEE Emanuel R. Piore Award, and the 2011 Outstanding Contributions award by the Association of Computing Machinery. Professor Iyer is also the recipient of the degree of Doctor Honoris Causa from Toulouse Sabatier University in France.
+Academic Positions
+Founder and Chief Scientist, Armored Computing, Inc.
+Interim Vice Chancellor for Research, University of Illinois, 2008-2011
+Director, Motorola Center for Communication, 2000-2008
+Director, Coordinated Science Laboratory, University of Illinois, 2000-2008
+Acting Director, Coordinated Science Laboratory, University of Illinois, August 1995-May 1996
+Co-Director, Center for Reliable and High-Performance Computing, University of Illinois, 1989-present
+Co-Director, Illinois Computer Laboratory for Aerospace Systems and Software (ICLASS), National Aeronautics and Space Administration (NASA) Center for Excellence in Aerospace Computing, 1985-1998
+Director and Principal Investigator, Multi-University DARPA Project on Design for Dependability, 1994-1998
+Associate Professor, Electrical and Computer Engineering, University of Illinois, August 1985-1989
+Research Associate Professor, Coordinated Science Laboratory, University of Illinois, August 1985-1989
+Associate Professor, Computer Science, University of Illinois, August 1985-1989
+Assistant Professor, Electrical and Computer Engineering, University of Illinois, August 1983-August 1985
+Research Assistant Professor, Coordinated Science Laboratory, University of Illinois, August 1983-August 1985
+Acting Assistant Professor and Research Associate, Department of Electrical Engineering, Stanford University, April 1980-August 1983
+Yeoh Ghim Seng Visiting Professor, National University Health System, Singapore, 2017-present
+Adjunct Professor, School of Computer Science and Engineering, University of New South Wales, 2018-present
+Faculty, Carle Illinois College of Medicine
+Faculty Research Affiliate, Mayo Clinic, 2016-present
+Chief Scientist, Information Trust Institute, 2004-present
+Carl R. Woese Institute for Genomic Biology, Faculty in Computing Genomes for Reproductive Health Research Theme, 2015-present
+CyberSecurity Division Faculty Advisor, NCSA, 2015-present
+Affiliate Faculty, NCSA, 2015-present
+Research Professor, Coordinated Science Laboratory, University of Illinois, 1989-present
+Professor, Computer Science, University of Illinois, 1989-present
+Professor, Electrical and Computer Engineering, University of Illinois, 1989-present
+George and Ann Fisher Distinguished Professor of Electrical and Computer Engineering, University of Illinois, 1998-present
+Click for more
+Research Interests
+Reliable and secure networks and systems, Measurement and modeling, dependability and security validation and benchmarking, data analytics, computing for genomics research, machine learning, artificial intelligence, computer systems, measurement driven analytics and machine learning, AI and health, trustworthiness of AI systems and algorithms. 
+
+
+Research Areas
+Biomedical Imaging, Bioengineering, and Acoustics
+Cloud computing
+Machine learning and pattern recognition
+Networking and distributed computing
+Power and Energy Systems
+Reliable and secure systems
+System modeling and measurement
+Click for more
+
+Research Topics
+Autonomous vehicular technology, UAVs
+Genomics
+Healthcare and medical technologies
+Machine learning
+Neuro-engineering
+
+Books Edited or Co-Edited (Original Editions)
+R. K. Iyer, M. Morganti, W. K. Fuchs and V. Gligor, Eds., Dependable Computing for Critical Applications 5, Dependable Computing and Fault-Tolerant Systems, vol. 10, IEEE Computer Society Press, 1998.
+
+Chapters in Books
+K. Chung, P. Tang, Z. Zhu, X. Li, Z. T. Kalbarczyk, T. Kesavadas, R. K. Iyer. "Machine Learning in the Hands of a Malicious Adversary: A Near Future If Not Reality." in Game Theory and Machine Learning for Cyber Security. C. A. Kamhoua, C. D. Kiekintveld, F. Fang, Q. Zhu, Eds. Wiley-IEEE Press, 2021.
+
+C. Di Martino, Z. Kalbarczyk, R. Iyer, “Measuring the Resiliency of Extreme-Scale Computing Environments,” Principles of Performance and Reliability Modeling and Evaluation: Essays in Honor of Kishor Trivedi on His 70th Birthday, L. Fiondella, A. Puliafito, Eds., Springer International Publishing AG Switzerland, pp. 609–655, 2016.
+R.K. Iyer, N. Nakka, W. Gu, and  Z. Kalbarczyk, "Fault Injection,"Encyclopedia of Software Engineering, 2010.
+K. Pattabiraman, N. Nakka, Z. Kalbarczyk, R. Iyer, "Discovering Application-Level Insider Attacks Using Symbolic Execution," Emerging Challenges for Security, Privacy and Trust, D. Gritzalis. J. Lopez, Eds., Springer, New York, NY, pp. 63-75, 2009.
+R.K. Iyer, Z. Kalbarczyk and W. Gu, "Benchmarking the Operating System Against Faults Impacting Operating System Functions," Dependability Benchmarking for Computer Systems, K.Kanoun and L. Spainhower, Wiley, 2008.
+R.K. Iyer, P Dabrowski, N Nakka and Z Kalbarczyk, "Reconfigurable Tamper-resistant Hardware Support Against Insider Threats: The Trusted ILLIAC Approach," Insider Attack and Cyber Security: Beyond the Hacker (Advances in Information Security), S. Stolfo, S. Bellovin, S. Hershkop, A. Keromytis, S. Sinclair and S. Smith, Springer, 2008.
+R. K. Iyer, "Measurement-Based Analysis of Networked System Availability," Performance Evaluation - Stories and Perspectives, G. Kotsis, Ed., vol. 175 in the series OCG Schriftenreihe, Austrian Computer Society, December 2003.
+R. K. Iyer, "Hardware and Software Fault Tolerance," Encyclopedia of Electrical Engineering, John Wiley and Sons, 2001.
+R. K. Iyer, "Computer Equipment Testing," Encyclopedia of Electrical Engineering, John Wiley and Sons, 2001.
+Click for more
+Selected Articles in Journals
+Paul M. Arnold, Andrew G. Webb, Ravishankar K. Iyer (2021). Commentary: Smoking is an independent risk factor for 90-day readmission and reoperation following posterior cervical decompression and fusion. Neurosurgery. https://doi.org/10.1093/neuros/nyab101
+
+Krishnakant Saboo, Amirhossein Shamsaddini, Mihir V. Iyer, Chang Hu, Andrew Fagan, Edith A. Gavis, Melanie B. White, Michael Fuchs, Douglas M. Heuman, Masoumeh Sikaroodi, Ravishankar K. Iyer, Patrick M. Gillevet, Jasmohan S. Bajaj (2020). Sex is associated with differences in gut microbial composition and function in hepatic encephalopathy. J Hepatol, S0168-8278(20)30457-8. https://doi.org/10.1016/j.jhep.2020.06.046 
+
+Hui Lin, Homa Alemzadeh, Zbigniew Kalbarczyk, Ravishankar Iyer. (2019) Challenges and Opportunities in Detection of Safety-Critical Cyber-Physical Attacks.  IEEE Computer. https://doi.org/10.1109/mc.2019.2915045
+
+Yogatheesan Varatharajah, Vijay K. Ramanan, Ravishankar Iyer, Prashanthi Vemuri (2019). Predicting Short-term MCI-to-AD Progression Using Imaging, CSF, Genetic Factors, Cognitive Resilience, and Demographics. Scientific Reports, 9, 2235. https://doi.org/10.1038/s41598-019-38793-3
+
+Ravishankar K. Iyer, Arjun P. Athreya, Liewei Wang, Richard M. Weinshilboum (2019). Artificial Intelligence and Pharmacogenomics; A timely synergy for individualizing medicine. Advances in Molecular Pathology, Volume 2(1), 111-118. https://doi.org/10.1016/j.yamp.2019.08.003
+
+Jacob R. Heldenbrand, Saurabh Baheti, Matthew A. Bockol, Travis M. Drucker, Steven N. Hart, Matthew E. Hudson, Ravishankar K. Iyer, Michael T. Kalmbach, Katherine I. Kendig, Eric W. Klee, Nathan R. Mattson, Eric D. Wieben, Mathieu Wiepert, Derek E. Wildman, Liudmila S. Mainzer (2019). Correction to: Recommendations for performance optimizations when using GATK3.8 and GATK4. BMC Bioinformatics, 20(1), 722. https://doi.org/10.1186/s12859-019-3169-7 
+
+Jacob R. Heldenbrand, Saurabh Baheti, Matthew A. Bockol, Travis M. Drucker, Steven N. Hart, Matthew E. Hudson, Ravishankar K. Iyer, Michael Kalmbach, Katherine I Kendig, Eric W. Klee, Nathan R Mattson, Eric D. Wieben, Mathieu Wiepert, Derek E. Wildman, Liudmila S. Mainzer (2019). Recommendations for performance optimizations when using GATK3.8 and GATK4. BMC Bioinformatics, 20(1), 557:1-557:9.  https://doi.org/10.1186/s12859-019-3169-7  
+
+Krishnakant V. Saboo, Yogatheesan Varatharajah, Brent M. Berry, Vaclav Kremen, Michael R. Sperling, Kathryn A. Davis, Barbara C. Jobst, Robert E. Gross, Bradley Lega, Sameer A. Sheth, Gregory A. Worrell, Ravishankar K. Iyer, Michal T. Kucewicz (2019). Unsupervised machine-learning classification of electrophysiologically active electrodes during human cognitive task performance. Scientific Reports, 9(1). https://doi.org/10.1038/s41598-019-53925-5
+
+Arjun P. Athreya, Drew Neavin, Tania Carrillo-Roa, Michelle Skime, Joanna Biernacka, Mark A. Frye, A. John Rush, Liewei Wang, Elisabeth B. Binder, Ravishankar K. Iyer, Richard M. Weinshilboum, William V. Bobo (2019). Pharmacogenomics-Driven Prediction of Antidepressant Treatment Outcomes: A Machine Learning Approach with Multi-Trial Replication. American Society for Clinical Pharmacology & Therapeutics (ASCPT). https://doi.org/10.1002/cpt.1482
+
+Arjun Athreya, Ravishankar Iyer, Liewei Wang, Richard M. Weinshilboum, William V. Bobo (2019). Integration of machine learning and pharmacogenomic biomarkers for predicting response to antidepressant treatment: can computational intelligence be used to augment clinical assessments?. Pharmacogenomics, 20. https://doi.org/10.2217/pgs-2019-0119
+
+Hui Lin, Zbigniew Kalbarczyk, Ravishankar Iyer (2019). RAINCOAT: Randomization of Network Communication in Power Grid Cyber Infrastructure to Mislead Attackers. IEEE Transactions on Smart Grid, 10(5), 4893-4906. https://doi.org/10.1109/TSG.2018.2870362
+
+Michal T. Kucewicz, Krishnakant Saboo, Brent M. Berry, Vaclav Kremen, Laura R. Miller, Fatemeh Khadjevand, Cory S. Inman, Paul Wanda, Michael R. Sperling, Richard Gorniak, Kathryn A. Davis, Barbara C. Jobst, Bradley Lega, Sameer A. Sheth, Daniel S. Rizzuto, Ravishankar K. Iyer, Michael J. Kahana, Gregory A. Worrell (2019). Human Verbal Memory Encoding is Hierarchically Distributed in a Continuous Processing Stream. eNeuro, 6(1). https://doi.org/10.1523/ENEURO.0214-18.2018
+
+Yogatheesan Varatharajah, Vijay K. Ramanan, Ravishankar Iyer, Prashanthi Vemuri (2019). Predicting Short-term MCI-to-AD Progression Using Imaging, CSF, Genetic Factors, Cognitive Resilience, and Demographics. Scientific Reports, 9(1), https://doi.org/10.1038/s41598-019-38793-3
+
+Subho Sankar Banerjee, Mohamed El-Hadedy, Jong Bin Lim, Zbigniew T. Kalbarczyk, Deming Chen, Steven S. Lumetta, Ravishankar K. Iyer (2019). ASAP: Accelerated Short-Read Alignment on Programmable Hardware. IEEE Transactions on Computers, 68(3), 331-346. https://doi.org/10.1109/TC.2018.2875733
+
+Zachary Stephens, Chen Wang, Ravishankar K. Iyer, Jean-Pierre A. Kocher (2018). Detection and visualization of complex structural variants from long reads. BMC Bioinformatics, 19-S(20), 67-77. https://doi.org/10.1186/s12859-018-2539-x
+
+Arjun Athreya, Ravishankar Iyer, Drew Neavin, Liewei Wang, Richard Weinshilboum, Rima Kaddiurah-Daouk, John Rush, Mark Frye, William Bobo (2018). Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder. IEEE Computational Intelligence Magazine, 13(3), 20-31. https://doi.org/10.1109/MCI.2018.2840660
+
+Duan Liu, Balmiki Ray, Drew R. Neavin, Jiabin Zhang, Arjun P. Athreya, Joanna M. Biernacka, William V. Bobo, Daniel K. Hall-Flavin, Michelle K. Skime, Hongjie Zhu, Gregory D. Jenkins, Anthony Batzler, Krishna R. Kalari, Felix Boakye-Agyeman, Wayne R. Matson, Swati S. Bhasin, Taisei Mushiroda, Yusuke Nakamura, Michiaki Kubo, Ravishankar K. Iyer, Liewei Wang, Mark A. Frye, Rima Kaddurah-Daouk, Richard M. Weinshilboum (2018). Beta-defensin 1, aryl hydrocarbon receptor and plasma kynurenine in major depressive disorder: metabolomics-informed genomics. Translational Psychiatry, 8(1), 10. https://doi.org/10.1038/s41398-017-0056-8
+
+Yogatheesan Varatharajah, Sujeeth Baradwaj, Atilla Kiraly, Diego Ardila, Ravishankar Iyer, Shravya Shetty, Kai Kohlhoff (2018). Predicting Brain Age Using Structural Neuroimaging and Deep Learning, bioRxiv, https://doi.org/10.1101/497925
+
+Yogatheesan Varatharaj, Brent M. Berry, Sanmi Koyejo, Ravishankar K. Iyer (2018). A Contextual-bandit-based Approach for Informed Decision-making in Clinical Trials. ArXiv, abs/1809.00258. https://arxiv.org/abs/1809.00258v1
+
+Yogatheesan Varatharajah, Brent Berry, Jan Cimbalnik, Vaclav Kremen, Jamie Van Gompei, Matt Stead, Benjamin Brinkmann, Ravishankar Iyer, Gregory Worrell (2018). Integrating Artificial Intelligence with Real-time Intracranial EEG Monitoring to Automate Interictal Identification of Seizure Onset Zones in Focal Epilepsy. Journal of Neural Engineering, 15(4). https://doi.org/10.1088/1741-2552/aac960
+
+Zachary Stephens, Chen Wang, Ravishankar K. Iyer, Jean-Pierre Kocher (2018). Detection and visualization of complex structural variants from long reads. IEEE BIBM International Conference on Bioinformatics & Biomedicine (BIBM), 19(20). https://doi.org/10.1186/s12859-018-2539-x
+
+Hui Lin, Chen Chen, Jianhui Wang, Junjian Qi, Dong Jin, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2018). Self-Healing Attack-Resilient PMU Network for Power System Operation. IEEE Transactions on Smart Grid, 9(3), 1551-1565. https://doi.org/10.1109/TSG.2016.2593021
+
+Arjun P. Athreya, Alan J. Gaglio, Junmei Cairns, Krishna R. Kalari, Richard M. Weinshilboum, Liewei Wang, Zbigniew T Kalbarczyk, Ravishankar K Iyer (2018). Machine Learning Helps Identify New Drug Mechanisms in Triple-Negative Breast Cancer. IEEE Transactions on Nanobioscience, 17(3), 251-259. https://doi.org/10.1109/tnb.2018.2851997
+
+Arjun P. Athreya, Drew Neavin, Mark A. Frye, Liewei Wang, Richard M. Weinshilboum, William V. Bobo, Ravishankar K. Iyer (2018). Augmentation of Physician Assessments with Multi-Omics Enhances Predictability of Drug Response: A Case Study of Major Depressive Disorder. IEEE Computational Intelligence Magazine, 13(3). https://doi.org/10.1109/MCI.2018.2840660
+
+Rui Tan, Hoang Hai Nguyen, Eddy. Y. S. Foo, David K. Y. Yau, Zbigniew Kalbarczyk; Ravishankar K. Iyer, Hoay Beng Gooi (2017). Modeling and Mitigating Impact of False Data Injection Attacks on Automatic Generation Control. IEEE Transactions on Information Forensics and Security, 12(7), 1609-1624. https://doi.org/10.1109/TIFS.2017.2676721
+
+Zachary J. Estrada, Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2017). Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds. ACM SIGPLAN Notices, 52(7), 157-170. https://doi.org/10.1145/3140607.3050759
+
+Xiao Li, Homa Alemzadeh, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas (2017). Surgeon Training in Telerobotic Surgery via a Hardware-in-the-Loop Simulator. Journal of Healthcare Engineering, 2017, 1-13. https://doi.org/10.1155/2017/6702919  
+
+Saurabh Jha, Valerio Formicola, Catello Di Martino, Mark Dalton, William T. Kramer, Zbigniew Kalbarczyk, Ravishankar Iyer (2017). Resiliency of HPC Interconnects: A Case Study of Interconnect Failures and Recovery in Blue Waters. IEEE Transactions on Dependable and Secure Computing, 15(6), 915-930. https://doi.org/10.1109/TDSC.2017.2737537  
+
+Arjun P. Athreya, Krishna R. Kalari, Junmei Cairns, Alan J. Gaglio, Quin F. Wills, Nifang Niu, Richard Weinshilboum, Ravishankar K. Iyer, Liewei Wang (2017). Model-based unsupervised learning informs metformin-induced cell-migration inhibition through an AMPK-independent mechanism in breast cancer. Oncotarget, 2017(8), 27199-27215. https://doi.org/10.18632/oncotarget.16109  
+
+Zachary D. Stephens, Ravishankar K. Iyer, Chen Wang, Jean-Pierre A. Kocher (2017). Unraveling complex local genomic rearrangements from long-read data. 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 181-187. https://doi.org/10.1109/BIBM.2017.8217647
+
+Catello Di Martino, Santonu Sarkar, Rajeshwari Ganesan, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2017). Analysis and Diagnosis of SLA Violations in a Production SaaS Cloud. IEEE Transactions on Reliability, 66(1), 54-75. https://doi.org/10.1109/TR.2016.2635033
+
+Cuong Pham, Long Wang, Byung Chul Tak, Salman Baset, Chunqiang Tang, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2016). Failure Diagnosis for Distributed Systems using Targeted Fault Injection. IEEE Transactions on Parallel and Distributed Systems, 28(2), 503-516. https://doi.org/10.1109/TPDS.2016.2575829
+
+Zachary D. Stephens, Matthew E. Hudson, Liudmila S. Mainzer, Morgan Taschuk, Matthew R. Weber, Ravishankar K. Iyer (2016). Simulating Next-Generation Sequencing Datasets from Empirical Mutation and Sequencing Models. PLOS ONE, 11(11). https://doi.org/10.1371/journal.pone.0167047
+
+Yogatheesan Varatharajah, Ravishankar K. Iyer, Brent M. Berry, Gregory A. Worrell, Benjamin H. Brinkmann (2017). Seizure Forecasting and the Preictal State in Canine Epilepsy. International Journal of Neural System, 27(1). https://doi.org/10.1142/S0129065716500465
+
+Hui Lin, Chen Chen, Jianhui Wang, Junjian Qi, Dong Jin, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2016). Self-Healing Attack-Resilient PMU Network for Power System Operation. IEEE Transactions on Smart Grid, 9(3), 1551-1565. https://doi.org/10.1109/TSG.2016.2593021 
+
+Hui Lin, Adam Slagell, Zbigniew T. Kalbarczyk, Peter W. Sauer, Ravishankar K. Iyer (2016). Runtime Semantic Security Analysis to Detect and Mitigate Control-Related Attacks in Power Grids. IEEE Transactions on Smart Grid, 9(1), 163-198. https://doi.org/10.1109/TSG.2016.2547742
+
+Homa Alemzadeh, Jaishankar Raman, Nancy Leveson, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2016). Adverse Events in Robotic Surgery: A Retrospective Study of 14 Years of FDA Data. PLOS ONE, 11(4). https://doi.org/10.1371/journal.pone.0151470
+
+Homa Alemzadeh, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Xiao Li, Thenkurussi Kesavadas, Jaishankar Raman (2015).  A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems. SIGBED Review, Special Issue on Medical Cyber Physical Systems workshop (MedicalCPS'15), 12(4). 
+
+Zachary D. Stephens, Skylar Y. Lee, Faraz Faghri, Roy H. Campbell, Chengxiang Zhai, Miles J. Efron, Ravishankar Iyer, Michael C. Schatz, Saurabh Sinha, Gene E. Robinson (2015). Big Data: Astronomical or Genomical?. PLOS Biology, 13(7). https://doi.org/10.1371/journal.pbio.1002195
+
+Long Wang, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Arun Iyengar (2015). VM-μCheckpoint: Design, Modeling, and Assessment of Lightweight In-Memory VM Checkpointing. IEEE Transactions on Dependable and Secure Computing, 12(2), 243–255. https://doi.org/10.1109/TDSC.2014.2327967
+
+Zachary J. Estrada, Fei Deng, Zachary Stephens, Cuong Pham, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2015). Performance Comparison and Tuning of Virtual Machines For Sequence Alignment Software. Scalable Computing: Practice and Experience. 16(1), 71-84. http://dx.doi.org/10.12694/scpe.v16i1.1061
+
+Cuong Manh Pham, Zachary J. Estrada, Phuong Cao, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2014). Building Reliable and Secure Virtual Machines Using Architectural Invariants. IEEE Security & Privacy, 12(5), 82-85. https://doi.org/10.1109/MSP.2014.87
+
+Karthik Pattabiraman, Nithin M. Nakka, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2013). SymPLFIED: Symbolic Program-Level Fault Injection and Error Detection Framework.  IEEE Transactions on Computers, 62(11), 2292-2307. https://doi.org/10.1109/TC.2012.219
+
+Homa Alemzadeh, Ravishankar K. Iyer, Zbigniew Kalbarczyk, Jaishankar Raman (2013). Analysis of Safety-Critical Computer Failures in Medical Devices. IEEE Security & Privacy Magazine, 11(4), 14-26. http://dx.doi.org/10.1109/MSP.2013.49
+
+Keun Soo Yim, David Hreczany, Ravishankar K. Iyer (2011). HTAF: Hybrid Testing Automation Framework to Leverage Local and Global Computing Resources. In: Murgante B., Gervasi O., Iglesias A., Taniar D., Apduhan B.O. (eds) Computational Science and Its Applications - ICCSA 2011. ICCSA 2011. Lecture Notes in Computer Science, 6784. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-21931-3_37
+
+Karthik Pattabiraman, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2011). Automated Derivation of Application-Aware Error Detectors Using Static Analysis: The Trusted Illiac Approach. IEEE Transactions on Dependable and Secure Computing, 8(1), 44-57. https://doi.org/10.1109/TDSC.2009.23
+
+Karthik Pattabiraman, Giacinto Paulo Saggese, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar Iyer (2011). Automated Derivation of Application-aware Error Detectors using Dynamic Analysis, IEEE Transactions on Dependable and Secure Computing, 8(5), 640-655. http://dx.doi.org/10.1109/TDSC.2010.19
+
+Keun S. Yim, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2010). Measurement-Based Analysis of Fault and Error Sensitivities of Dynamic Memory. 2010 IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2010, 431–436. https://doi.org/10.1109/DSN.2010.5544287
+
+Jean Arlat, Cristian Constantinescu, Ravishankar K. Iyer, Johan Karlsson, Michael Nicolaïdis (2009). Third Workshop on Dependable and Secure Nanocomputing. 2009 IEEE/IFIP International Conference on Dependable Systems and Networks, 596-597. https://doi.org/10.1109/DSN.2009.5270283
+
+Nikhil Pandit, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2009). Effectiveness of Machine Checks for Error Diagnostics. 2009 IEEE/IFIP International Conference on Dependable Systems and Networks, 578–583. https://doi.org/10.1109/DSN.2009.5270290
+
+Galen Lyle, Shelley Chen, Karthik Pattabiraman, Zbigniew Kalbarczyk, Ravishankar Iyer (2009). An End-to-End Approach for the Automatic Derivation of Application-Aware Error Detectors. 2009 IEEE/IFIP International Conference on Dependable Systems and Networks, 584–589. https://doi.org/10.1109/DSN.2009.5270291
+
+Daniel Chen, Gabriela Jacques-Silva, Zbigniew Kalbarczyk, Ravishankar K. Iyer, B. G. Mealey (2008). Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER. 14th IEEE Pacific Rim International Symposium on Dependable Computing (PRDC), 339–346. http://dx.doi.org/10.1109/PRDC.2008.35
+
+Long Wang, Zbigniew Kalbarczyk, Weining Gu, Ravishankar K. Iyer (2007). Reliability MicroKernel: Providing Application-Aware Reliability in the OS. IEEE Transactions on Reliability, 56(4), 597-614. https://doi.org/10.1109/TR.2007.909758
+
+Claudio Basile, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2007). Inner-Circle Consistency for Wireless Ad Hoc Networks. IEEE Transactions on Mobile Computing, 6(1), 39-55. http://dx.doi.org/10.1109/TMC.2007.250670
+
+Ravishankar K. Iyer, Zbigniew Kalbarczyk, Karthik Pattabiraman, William Healey, Wen-mei W. Hwu, Peter Klemperer, Reza Farivar (2007). Toward Application-Aware Security and Reliability. IEEE Security & Privacy, 5(1), 57-62. https://doi.org/10.1109/MSP.2007.23 
+
+Claudio Basile, Zbigniew Kalbarczyk, Ravishankar K. Iyer (2006). Active Replication of Multithreaded Applications. IEEE Transactions on Parallel and Distributed Systems, 17(5), 448-465. https://doi.org/10.1109/TPDS.2006.56
+
+Ravishankar K. Iyer (2006). Editorial: State of the Journal Address. IEEE Transactions on Dependable and Secure Computing, 2(1), 1-1. https://doi.org/10.1109/TDSC.2005.10
+
+Shuo Chen, Jun Xu, Zibigniew Kalbarczyk, Ravishankar K. Iyer (2005). Security Vulnerabilities: From Analysis to Detection and Masking Techniques. Proceedings of the IEEE, 94(2), 407-418. https://doi.org/10.1109/JPROC.2005.862473
+
+Ravishankar K. Iyer, Nithin M. Nakka, Zibigniew Kalbarczyk, Subhasish Mitra (2005). Recent Advances and New Avenues in Hardware-Level Reliability Support. IEEE Micro, Special Issue on Reliability-Aware Microarchitecture, 25(6), 18-29. https://doi.org/10.1109/MM.2005.119
+
+G.P. Saggese, Nicholas J. Wang, Zbigniew Kalbarczyk, Sanjay Patel, Ravishankar K. Iyer (2005). An Experimental Study of Soft Errors in Microprocessors, IEEE Micro, Special Issue on Reliability-Aware Microarchitecture, 25(6), 30-39. http://dx.doi.org/10.1109/MM.2005.104
+
+Zbigniew Kalbarczyk, Ravishankar K. Iyer, Long Wang (2005). Application Fault Tolerance with Armor Middleware. IEEE Internet Computing, 9(2), 28-37. https://doi.ieeecomputersociety.org/10.1109/MIC.2005.31
+
+Ravishankar K. Iyer (2005). Editorial: State of the Journal Address. IEEE Transactions on Dependable and Secure Computing, 2(1), 1-1. https://doi.org/10.1109/TDSC.2005.10
+
+K. Whisnant, R. K. Iyer, Z. T. Kalbarczyk, P. H. Jones, D. A. Rennels, and R. Some, "The Effects of an ARMOR-based SIFT Environment on the Performance and Dependability of User Applications," IEEE Transactions on Software Engineering, vol. 30, no. 4, pp. 257-277, April 2004.
+
+K. Whisnant, Z. Kalbarczyk, and R.K. Iyer, "A System Model for Dynamically Reconfigurable Software," IBM Systems Journal, Special Issue on Autonomic Computing, vol. 42, no. 1, pp. 45-59, April 2003.
+B. Floering, Z. Kalbarczyk, and R. K. Iyer, "An Adaptive Architecture for Monitoring and Failure Analysis of High-Speed Networks," IEEE Transactions on Computers, Special Issue on Embedded Fault-Tolerant Computing Systems, October 2000
+S. Bagchi, Z. Kalbarczyk, R. K. Iyer, and Y. Levendel, "Design and Evaluation of Preemptive Control Signature (PECOS) Checking for Distributed Applications," IEEE Transactions on Computers, Special Issue on Embedded Fault-Tolerant Computing Systems, October 2000
+S. Bagchi, B. Srinivasan, K. Whisnant, Z. Kalbarczyk, and R. K. Iyer, "Hierarchical Error Detection in a Software-Implemented Fault Tolerance (SIFT) Environment," IEEE Transactions on Knowledge and Data Engineering, vol. 12, no. 2, pp. 203-224, March/April 2000.
+I. Lee and R. K. Iyer, "Diagnosing Rediscovered Software Problems Using Symptoms," IEEE Transactions on Software Engineering, vol. 26, no. 1, pp. 113-127, January 2000.
+Click for more
+Articles in Conference Proceedings
+Saurabh Jha , Shengkun Cui, Subho Banerjee, Tianyin Xu, Jeremy Enos, Mike Showerman, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2020). Live Forensics for HPC Systems: A Case Study on Distributed Storage Systems. Proceedings of the International Conference for High-Performance Computing, Networking, Storage and Analysis (SC 2020). (Best Paper Award & Best Student Paper Finalist). https://dl.acm.org/doi/pdf/10.5555/3433701.3433787
+
+Subho S Banerjee, Saurabh Jha , Zbigniew Kalbarczyk, Ravishankar K. Iyer (2020). Inductive Bias-driven Reinforcement Learning For Efficient Schedules in Heterogeneous Clusters. 37th International Conference on Machine Learning (ICML 2020).
+
+Saurabh Jha, Archit Patke, Jim Brandt, Ann Gentile, Benjamin Lim, Mike Showerman, Greg Bauer, Larry Kaplan, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer (2020). Measuring congestion in high-performance datacenter interconnects. Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation, NSDI 2020, 37-57. 
+
+Rakesh Kumar, Saurabh Jha, Ashraf Mahgoub, Rajesh Kalyanam, Stephen Harrell, Xiaohui Carol Song, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer, Saurabh Bagchi (2020). The Mystery of the Failing Jobs: Insights from Operational Data from Two University-Wide Computing Systems. 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2020, 158-171. https://doi.org/10.1109/DSN48063.2020.00034
+
+Guanpeng Li, Yiran Li, Saurabh Jha , T. Tsai, S. K. S. Hari, M. B. Sullivan, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2020). AV-FUZZER: Finding safety violations in autonomous driving systems. Proceedings of the IEEE International Conference on Software Reliability Engineering (ISSRE'20) (Best Paper Award 2020)
+Saurabh Jha, Shengkun Cui, Subho S. Banerjee, James Cyriac, Timothy Tsai, Zbigeniew Kalbarczyk, Ravishankar K. Iyer. (2020) ML-driven Malware that Targets AV Safety. Proceedings of the 2020 50th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN 2020). :113-124. doi: 10.1109/DSN48063.2020.00030 (Best Paper Award)
+Varatharajah Y, Berry B, Joseph B, Balzekas I, Kremen V, Brinkmann B, Worrell G, Iyer R. Electrophysiological Correlates of Brain Health Help Diagnose Epilepsy and Lateralize Seizure Focus. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:3460-3464. doi: 10.1109/EMBC44109.2020.9176668. PubMed PMID: 33018748.
+Chen, J., Banerjee, S. S., Kalbarczyk, Z. T., & Iyer, R. K. (2020). Machine learning for load balancing in the Linux kernel. In APSys 2020 - Proceedings of the 2020 ACM SIGOPS Asia-Pacific Workshop on Systems (pp. 67-74). (APSys 2020 - Proceedings of the 2020 ACM SIGOPS Asia-Pacific Workshop on Systems). Association for Computing Machinery. https://doi.org/10.1145/3409963.3410492
+Qiu, H., Banerjee, S. S., Jha, S., Kalbarczyk, Z. T., & Iyer, R. K. (2020). FIRM: An Intelligent Fine-grained Resource Management Framework for SLO-Oriented Microservices. In 14th USENIX Symposium on Operating Systems Design and Implementation (OSDI 20) USENIX Association. https://www.usenix.org/conference/osdi20/presentation/qiu
+Krishnakant Saboo, Chang Hu, Yogatheesan Varatharajah, Ravishankar K Iyer, “Predicting longitudinal cognitive scores using baseline imaging and clinical variables, Proceedings of the 2020 IEEE 17th International Symposium on Biomedical Imaging (ISBI). 2020; :1326-1330. doi: 10.1109/ISBI45749.2020.9098511.
+Jha, S., Patke, A., Brandt, J., Gentile, A., Showerman, M., Roman, E., Kalbarczyk, Z. T., Kramer, B., & Iyer, R. K. (2019). A study of network congestion in two supercomputing high-speed interconnects. In Proceedings - 2019 IEEE Symposium on High-Performance Interconnects, HOTI 2019 (pp. 45-48). [9070292] (Proceedings - 2019 IEEE Symposium on High-Performance Interconnects, HOTI 2019). Institute of Electrical and Electronics Engineers Inc.. https://doi.org/10.1109/HOTI.2019.00024 (Best Student Paper Finalist)
+Saboo KV, Varatharajah Y, Berry BM, Sperling MR, Gorniak R, Davis KA, Jobst BC, Gross RE, Lega B, Smith SA, Kahana MJ, Kucewicz MT, Worrell GA, Iyer RK. A Computationally Efficient Model for Predicting Successful Memory Encoding Using Machine-Learning-based EEG Channel Selection. Proceedings 2019 9th International IEEE/EMBS Conference on Neural Engineering (NER). 2019 May; :323. doi: 10.1109/NER.2019.8717057.
+Yogatheesan Varatharaj, Krishnakant Saboo, Ravi K. Iyer, Scott Przybelski, Christopher Schwarz, Ronald Petersen, Clifford R. Jack, Prashanthi Vemuri, "A Joint Model for Predicting Structural and Functional Brain Health in Elderly Individuals", EEE BIBM 2019, November 18-21.
+Keywhan Chung, Ziao Li, Peicheng, Tang, Zbigniew Kalbarczpk, Ravi Iyer, Thenkurussi Kesavadas, "Smart Malware that Uses Leaked Control Data of Robotic Applications: The Case of Raven-II Surgical Robots", RAID 2019, September 23-25.  
+
+Artificial-Intelligence-Augmented Psychiatry with Pharmacogenomics: Towards Individualization of Antidepressant Selection in Patients with Major Depressive Disorder, American Society for Clinical Pharmacology and Therapeutics, Presidential Trainee Award to the Lead Student Author A. Athreya. 2019. 
+Saurabh Jha, Michale Showerman, Jeremy Enos, Zbigniew Kalbarczyk, William Kramer, Ravishankar K. Iyer, "Kaleidoscope: Understanding and Diagnosing Filesystem Issues at Scale," SIAM Conference on Computational Science and Engineering (CSE19).
+Factor Graphs Identify Sex-Specific Antidepressant Response Profiles: Citalopram/Escitalopram as Molecular Probes for Subgroups of Major Depressive Disorder Patients. American Society for Clinical Pharmacology and Therapeutics, Presidential Trainee Award to Lead Student Author A. Athreya. 2018.
+Keywhan Chung, Xiao Li, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas, "Fault-Injection on a Haptic Rendering Algorithm in the Raven Surgical Robot." in Workshop on Security and Dependability of Critical Embedded Real-Time Systems, IEEE, 2018. 
+Key-whan Chung, Phuong Cao, Yuming Wu, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Alexander Withers:
+TRACTION: an infrastructure for trusted alert sharing and collaborative mitigation. HotSoS 2019: 27:1-27:2
+Keywhan Chung, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Availability Attacks on Computing Systems through Alteration of Environmental Control: Smart Malware Approach." in Proceedings of the International Conference on Cyber-Physical Systems (ICCPS), IEEE/ACM, 2019,  ICCPS 2019: 1-12.
+Saurabh Jha, Subho Banerjee, Timothy Tsai, Siva Kumar Sastry Hari, Michael Sullivan, Zbigniew Kalbarczyk, Steve Keckler, Ravishankar K. Iyer, "ML-based Fault Injection for Autonomous Vehicles: A Case for Bayesian Fault Injection," Accepted 49th IEEE/IFIP International Conference on Dependable Systems and Networks (DSN19), June 2019.
+Phuong M. Cao, Yuming Wu, Subho S. Banerjee, Justin Azoff, Alex Withers, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer (2019), "CAUDIT: Continuous Auditing of SSH Servers To Mitigate Brute-Force Attacks", 16th USENIX Symposium on Networked Systems Design and Implementation (NDSI'19), February 26-28
+Subho S. Banerjee, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, (2019), "AcMCÂ²: Accelerated Markov Chain Monte Carlo for Probabilistic Models", to appear at the 24th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS'19), April 13-17th
+Keywhan Chung, Xiao Li, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, Thenkurussi Kesavadas, (2018), ""Fault-Injection on a Haptic Rendering Algorithm in the Raven Surgical Robot", Proceedings of the 3rd Workshop on Security and Dependability of Critical Embedded Real-Time Systems, June 25
+
+Saurabh Jha, Timothy Tsai, Siva Kumar Sastry Hari, Michael Sullivan, Zbigniew Kalbarczyk, Stephen W. Keckler, Ravishankar Iyer, (2018), "Kayotee: A Fault Injection-based System to Assess the Safety and Reliability of Autonomous Vehicles to Faults and Errors", 3rd IEEE International Workshop on Automotive Reliability & Test (ART 2018), November 1-2
+Hui Lin, Zbigniew Kalbarczyk, Ravishankar K. Iyer, "Impact of Malicious SCADA Commands on Power Grids' Dynamic Responses", 2018 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2018, doi: 10.1109/SmartGridComm.2018.8587462
+Keywhan Chung, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Indirect Cyber Attacks by Perturbation of Environment Control: A Data Driven Attack Model: Poster", Proceedings of the 5th Annual Symposium and Bootcamp on Hot Topics in the Science of Security (HoTSos'18), no. 21, 2018, doi: 10.1145/3190619.3191681
+Saurabh Jha, Subho S. Banerjee, James Cyriac, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "AVFI: Fault Injection for Autonomous Vehicles", Proceedings of the 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W 2018), pp. 55-56. doi: 10.1109/DSN-W.2018.00027
+Saurabh Jha, Jim Brandt, Ann Gentile, Zbigniew T. Kalbarczyk, Ravishankar K. Iyer, "Characterizing Supercomputer Traffic Networks Through Link-Level Analysis", Proceedings of the 2018 IEEE International Conference on Cluster Computing (CLUSTER 2018), September 10-13, doi: 10.1109/CLUSTER.2018.00072
+Subho S. Banerjee, Arjun P. Athreya, Zbigniew Kalbarczyk, Steven Lumetta, Ravishankar K. Iyer, "A ML-based Runtime System for Executing Dataflow Graphs on Heterogeneous Processors", Proceedings of the ACM Symposium on Cloud Computing, 2018. doi: 10.1145/3267809.3275474
+Zachary D. Stephens, Ravishankar K. Iyer, "Measuring the Mappability Spectrum of Reference Genome Assemblies", Proceedings of the 2018 ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics, doi: 10.1145/3233547.3233582
+A.P. Athreya, D. Neavin, M. Frye, M. Skime, R. Kaddurah-Daouk, A. Rush, W. Matson, R.K. Iyer, W. Bobo, L. Wang, R.M. Weinshilboum, “Factor Graphs Identify Sex-Specific Antidepressant Response Profiles: Citalopram/Escitalopram as Molecular Probes for Subgroups of Major Depressive Disorder Patients,” to appear in Proceedings of 2018 Annual Meeting of American Society of Clinical Pharmacology and Therapeutics. 
+Subho S. Banerjee, Saurabh Jha, James Cyriac, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, (2018) "Hands Off the Wheel in Autonomous Vehicles? A Systems Perspective on over a Million Miles of Field Data", DSN 2018.
+Varatharajah Yogatheesan, Chong Min Jin, Saboo Krishnakant, Berry Brent, Brinkmann Benjamin, Worrell Gregory, and Iyer Ravishankar. "EEG-GRAPH: A Factor Graph Based Model for Capturing Spatial, Temporal, and Observational Relationships in Electroencephalograms" To appear in Advances in Neural Information Processing Systems. 2017.
+Subho S. Banerjee, Mohamed el-Hadedy, Jong B. Lim, Daniel Chen, Zbigniew T. Kalbarczyk, Deming Chen and Ravishankar K. Iyer, “ASAP: Accelerated Short Read Alignment on Programmable Hardware,” FPGA 2017.
+Yogatheesan Varatharajah, Brent Michael Berry, Zbigniew Kalbarczyk, Benjamin Brinkmann, Gregory A. Worrell, Ravishankar Iyer, “Inter-Ictal Seizure Onset Zone Localization Using Unsupervised Clustering and Bayesian Filtering,” 8th International IEEE EMBS Neural Engineering Conference, Shanghai, China, May 25-28, 2017.
+B. Lim, D. Chen, Y. An, Z. Kalbarczyk, R. Iyer, “Attack-Induced, Common-Mode Failures on Industrial PLCs,” 22nd IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2017), Christchurch, New Zealand, January 22-25, 2017
+Sprabery, Read & J. Estrada, Zachary & Kalbarczyk, Zbigniew & Iyer, Ravishankar & B. Bobba, Rakesh & Campbell, Roy. (2017). Trustworthy Services Built on Event-Based Probing for Layered Defense. 215-225. 10.1109/IC2E.2017.36. 
+J. Estrada, Zachary & Sprabery, Read & Yan, Lok & Yu, Zhongzhi & Campbell, Roy & Kalbarczyk, Zbigniew & Iyer, Ravishankar. (2017). Using OS Design Patterns to Provide Reliability and Security as-a-Service for VM-based Clouds. 13th ACM SIGPLAN/SIGOPS International Conference 157-170. 10.1145/3050748.3050759. 
+Formicola, Valerio & Jha, Saurabh & Chen, Daniel & Deng, Fei & Bonnie, Amanda & Mason, Mike & Brandt, Jim & Gentile, Ann & Kaplan, Larry & Repik, Jason & Enos, Jeremy & Showerman, Mike & Greiner, Annette & Kalbarczyk, Zbigniew & Iyer, Ravishankar & Kramer, Bill. (2017). Understanding Fault Scenarios and Impacts through Fault Injection Experiments in Cielo. Cray User Group. 
+P. Athreya, Arjun & Armstrong, Don & Gundling, William & Wildman, Derek & T. Kalbarczyk, Zbigniew & Iyer, Ravishankar. (2017). Prediction of adenocarcinoma development using game theory. Conference proceedings: ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Conference. 2017. 1668-1671. 10.1109/EMBC.2017.8037161. 
+Jha, Saurabh & Brandt, Jim & Gentile, Ann & Bauer, Gregory & Enos, Jeremy & Showerman, Michael & Kaplan, Larry & Bode, Brett & Greiner, Annette & Bonnie, Amanda & Mason, Mike & Iyer, Ravishankar & Kramer, William & Kalbarczyk, Zbigniew. (2017). Holistic Measurement-Driven System Assessment. 10.1109/CLUSTER.2017.124. 
+P. Athreya, Arjun & S. Banerjee, Subho & Neavin, Drew & Kaddurah-Daouk, Rima & Rush, Augustus & A. Frye, Mark & Wang, Liewei & Weinshilboum, Richard & Bobo, William & Iyer, Ravishankar. (2017). Data-driven longitudinal modeling and prediction of symptom dynamics in major depressive disorder: Integrating factor graphs and learning methods. 1-9. 10.1109/CIBCB.2017.8058559. 
+S. S. Banerjee, M. Aly, C. Y. Tan, Z. Kalbarczyk, R. K. Iyer, S. Lumetta, “On Accelerating Pair-HMM Computations in Programmable Hardware,” International Conference on Field-Programmable Logic and Applications (FPL), Ghent, September 4 - 8, 2017
+D. Stephens, Zachary & Iyer, Ravishankar & Wang, Chen & A. Kocher, Jean-Pierre. (2017). Unraveling complex local genomic rearrangements from long-read data. 181-187. 10.1109/BIBM.2017.8217647. 
+Chen, Shuo & McCutchen, Matt & Cao, Phuong & Qadeer, Shaz & Iyer, Ravishankar. (2017). SVAuth – A Single-Sign-On Integration Solution with Runtime Verification. 349-358. 10.1007/978-3-319-67531-2_21. 
+Arjun P. Athreya, Drew Neavin, Mark A. Frye, Michelle Skime, A. John Rush, Wayne R. Matson, Liewei Wang, Rima Kaddurah-Daouk, Ravishankar K. Iyer, Richard M. Weinshilboum and William V. Bobo, "Prediction of Clinical Outcome After 4 and 8 Weeks of Citalopram/Escitalopram Therapy for Major Depression: A Data-Driven Machine Learning Approach," to appear in the proceedings of the 2017 Annual Meeting of the Society of Biological Psychiatry.
+Keywhan Chung, Valerio Formicola, Alexander Withers, Adam Slagell, Zbigniew T. Kalbarczyk and Ravishankar K. Iyer, â€œAttacking Supercomputers through Targeted Alteration of Environmental Control: A Data-Driven Case Study,â€ in Proceedings of the Communications and Network Security (CNS). IEEE, 2016.
+X. Li, H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. Iyer, T. Kesavadas, “A Hardware-in-the-Loop Simulator for Safety Training in Robotic Surgery,” Proceedings of the 2016 IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2016, Daejeon, Korea, Oct. 9–14, 2016.
+S. S. Banerjee, A. P. Athreya, L. S. Mainzer, C. V. Jongeneel, W.-M. Hwu, Z. T. Kalbarczyk, R. K. Iyer, “Efficient and Scalable Workflows for Genomic Analyses,” Proceedings of the 7th International Workshop on Data-Intensive Distributed Computing (DIDC'16), in conjunction with the 25th International ACM Symposium on High Performance Parallel and Distributed Computing (HPDC'16), Kyoto, Japan, pp. 27–36, June 1, 2016.
+Zachary J. Estrada, Read Sprabery, Lok Yan, Zhongzhi Yu, Roy Campbell, Zbigniew Kalbarczyk, Ravishankar K. Iyer, “Using OS Design Patterns to Provide Reliability- and Security-as-a-Service for VM-based Clouds,” 13th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environments (VEE’17); co-located with ASPLOS 2017, Xi’an, China, April 8th-9th, 2017.
+U. Ghosh, X. Dong, R. Tan, Z. Kalbarczyk, D. K. Y. Yau, R. K. Iyer, “A Simulation Study on Smart Grid Resilience Under Software-Defined Networking Controller Failures,” Proceedings of the 2nd ACM International Workshop on Cyber-Physical System Security, CPSS'16, Xi’ian, China, pp. 52–58, May 30, 2016.
+A. P. Athreya, D. Neavin, W. V. Bobo, M. A. Frye, M. Skime, R. Kaddurah-Daouk, A. J. Rush, W. Matson, R. K. Iyer, L. Wang and R. M. Weinshilboum, "Data-Driven Learning Analysis Identifies Gender Differences In Metabolomic Treatment Response Of Citalopram / Escitalopram In Major Depressive Disorder", Annual Meeting of American Society for Clinical Pharmacology and Therapeutics (ASCPT), March 2017. 2017 Presidential Trainee Award and 2017 Jason Morrow Award
+A. P. Athreya, A. Gaglio, J. Cairns, K. Kalari, R. Weinshilboum, L.Wang, Z. Kalbarczyk, and R. K. Iyer, "Unsupervised Single-Cell Analysis in Triple-Negative Breast Cancer: A Case Study", IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Dec 2016.
+A.P. Athreya, K-Y.Ngiam, Z. Luo, E.S.Tai, Z. Kalbarczyk and R.K. Iyer, "Towards Longitudinal Analysis of a Population’s Electronic Health Records using Factor Graphs", IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT), Dec 2016. Best Paper Award
+H. Alemzadeh, D. Chen, X. Li, T. Kesavadas, Z. Kalbarczyk, R. K. Iyer, “Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-Based Detection and Mitigation,” Proceedings of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28–July 1, 2016
+V. Badrinath Krishna, K. Lee, G. A. Weaver, R. K. Iyer, W. H. Sanders, “F-DETA: A Framework for Detecting Electricity Theft Attacks in Smart Grids,” Proceedings of the 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28–July 1, 2016.
+Z. Hong, Z. Kalbarczyk, R.K.Iyer, "A Data-Driven Approach to Soil Moisture Collection and Prediction," SmartComp 2016, May 18-20, St. Louis, Missouri, 2016.
+H. Lin, H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. K. Iyer, â€œSafety-Critical Cyber-Physical Attacks: Analysis, Detection, and Mitigation,â€ Proceedings of the 2016 Symposium and Bootcamp on the Science of Security, HotSoS 2016, Pittsburgh, PA, USA, pp. 82â€“89, Apr. 19â€“21, 2016.
+R. Tan, H. H. Nguyen, E. Y. S. Foo, X. Dong, D. K. Y. Yau, Z. Kalbarczyk, R. K. Iyer, H. B. Gooi, â€œOptimal False Data Injection Attack Against Automatic Generation Control in Power Grids,â€ 2016 ACM/IEEE 7th International Conference on Cyber-Physical Systems (ICCPS), Vienna, Austria, pp. 1â€“10, Apr. 11â€“14, 2016.
+S. Jha, V. Formicola, Z. Kalbarczyk, C. Di Martino, W. Kramer, R. Iyer, “Understanding Gemini Interconnect Failovers on Blue Waters: Methodology and Tools,” Cray User Group, 2016.
+Z. D. Stephens, M. E. Hudson, L. S. Mainzer, M. Taschuk, M. R. Weber, R. K. Iyer, “Simulating Next-Generation Sequencing Datasets from Empirical Mutation and Sequencing Models,” GLBIO/CCBC Great Lakes Bioinformatics and the Canadian Computational Biology Conference 2016, Canadian Computational Biology Conference 2016, GLBIO/CCBC 2016, Toronto, Ontario, Canada, May 16–19, 2016.
+P. Cao, E. Badger, Z. Kalbarczyk, R. Iyer, “A Framework for Generation, Replay, and Analysis of Real-World Attack Variants,” 2016 Symposium and Bootcamp on the Science of Security, HotSoS 2016, Pittsburgh, PA, USA, Apr. 19–21, 2016.
+K. Chung, C. A. Kamhoua, K. A. Kwiat, Z. T. Kalbarczyk, R. K. Iyer, “Game Theory with Learning for Cyber Security Monitoring,” IEEE High Assurance Systems Engineering Symposium, HASE 2016, Orlando, FL, USA, Jan. 7–9, 2016.
+X. Dong, H. Lin, R. Tan, R. K. Iyer, Z. Kalbarczyk, “Software-Defined Networking for Smart Grid Resilience: Opportunities and Challenges,” 10th ACM Symposium on Information, Computer and Communications Security, Asia CCS '15, 1st ACM Workshop on Cyber-Physical System Security, pp. 61–68, 2015.
+H. Alemzadeh, D. Chen, A. Lewis, Z. Kalbarczyk, J. Raman, N. Leveson, R. Iyer, “Systems-Theoretic Safety Assessment of Robotic Telesurgical Systems,” Proceedings of the 34th International Conference on Computer Safety, Reliability, and Security, SAFECOMP 2015, Delft, The Netherlands, pp. 213–227, Sep. 22–25, 2015.
+Z. J. Estrada, C. Pham, F. Deng, L. Yan, Z. Kalbarczyk, R. K. Iyer, “Dynamic VM Dependability Monitoring Using Hypervisor Probes,” 2015 11th European Dependable Computing Conference (EDCC), pp. 61–72, Sep. 7–11, 2015.
+G. Wang, Z. J. Estrada, C. Pham, Z. Kalbarczyk, R. K. Iyer, “Hypervisor Introspection: A Technique for Evading Passive Virtual Machine Monitoring,” 9th USENIX Workshop on Offensive Technologies, WOOT '15, Washington, D.C., USA, Aug. 10–11, 2015.
+J. Abraham, R. Iyer, D. Gizopoulos, D. Alexandrescu, Y. Zorian, “The Future of Fault Tolerant Computing,” 2015 IEEE 21st International On-Line Testing Symposium, Halkidiki, Greece, pp. 108–109, July 6–8, 2015.
+C. Di Martino, S. Jha, W. Kramer, Z. Kalbarczyk, R. K. Iyer, “LogDiver: A Tool for Measuring Resilience of Extreme-Scale Systems and Applications,” Proceedings of the 5th Workshop on Fault Tolerance for HPC at eXtreme Scale, FTXS '15, Portland, OR, USA, pp.11–18, June 15–19, 2015.
+P. Cao, E. C. Badger, Z. T. Kalbarczyk, R. K. Iyer, A. Withers, A. J. Slagell, “Towards an Unified Security Testbed and Security Analytics Framework,” 2015 Symposium and Bootcamp on the Science of Security, HotSoS 2015, Urbana, IL, USA, art. no. 24, Apr. 21–22, 2015.
+P. Cao, E. Badger, Z. Kalbarczyk, R. Iyer, A. Slagell, “Preemptive Intrusion Detection: Theoretical Framework and Real-World Measurements,” 2015 Symposium and Bootcamp on the Science of Security, HotSoS 2015, Urbana, IL, USA, art. no. 5, Apr. 21–22, 2015.
+H. Alemzadeh, Z. Kalbarczyk, R. K. Iyer., T. Kesavadas, S. Small, J. Raman, “Simulation-Based Training for Safety Incidents: Lessons from Analysis of Adverse Events in Robotic Surgical Systems,” Abstract in the American College of Surgeons’ 8th Annual Meeting of the Consortium of ACS-Accredited Education Institutes, Mar. 2015.
+H. Alemzadeh, D. Chen, X. Li, T. Kesavadas, Z. T. Kalbarczyk, R. K. Iyer, “Targeted Attacks on Teleoperated Surgical Robots: Dynamic Model-Based Detection and Mitigation,” 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28–July 1, 2016.
+V. Badrinath Krishna, K. Lee, G. A. Weaver, R. K. Iyer, W. H. Sanders, “F-DETA: A Framework for Detecting Electricity Theft Attacks in Smart Grids,” 46th Annual IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2016, Toulouse, France, June 28–July 1, 2016.
+V. Badrinath Krishna, R. K. Iyer, W. H. Sanders, “ARIMA-Based Modeling and Validation of Consumption Readings in Power Grids,” Proceedings of the 10th International Conference on Critical Information Infrastructures Security, CRITIS 2015, Oct. 5–7, 2015. (CIPRNet Young CRITIS Award).
+C. Di Martino, Z. Kalbarczyk, W. Kramer, R. Iyer, “Measuring and Understanding Extreme-Scale Application Resilience: A Field Study of 5,000,000 HPC Application Runs,” 2015 45th IEEE/IFIP International Conference on Dependable Systems and Networks, DSN 2015, Rio de Janeiro, Brazil, pp. 25–36, June 22–25, 2015. (Chosen as one of top three papers).
+Catello Di Martino, Daniel Chen, Geetika Goel, Rajeshwari Ganesan, Zbigniew Kalbarczyk and Ravishankar Iyer. Analysis and Diagnosis SLA Violations in a Production SaaS Cloud. Proceedings of the 25th IEEE International Symposium on Software Reliability Engineering, Nov 3-6 2014, Naples, Italy
+Catello Di Martino, Zbigniew Kalbarczyk, William Kramer, Ravishankar Iyer. Measuring and understanding application resiliency at extreme scale: a study of 5,000,000 application runs. To appear in the 45th international conference on dependable systems and networks. June 23-27 2015, Rio de Janeiro, Brazil
+Zachary J. Estrada, Fei Deng, Zachary Stephens, Cuong Pham, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, “Performance comparison of and tuning of virtual machines for sequence alignment software,” Scalable Computing: Practice and Experience, vol. 16, no. 1, 2015.
+Xinshu Dong, Hui Lin, Rui Tan, Ravishankar K. Iyer and Zbigniew T. Kalbarczyk, “Software-Defined Networking for Smart Grid Resilience: Opportunities and Challenges.”  Coordinated Science Laboratory technical report UILU-ENG-15-2203, University of Illinois at Urbana-Champaign, February 2015.
+H. Alemzadeh, D. Chen, Z. Kalbarczyk, R. K. Iyer, X. Li, T. Kesavadas, J. Raman, “A Software Framework for Simulation of Safety Hazards in Robotic Surgical Systems,” SIGBED Review, Special Issue on Medical Cyber Physical Systems workshop (MedicalCPS'15), CPS Week, Seattle, WA, Apr. 2015, vol. 12, no. 4, Nov. 2015.
+Phuong Cao, Hongyang Li, Klara Nahrstedt, Zbigniew Kalbarczyk, Ravishankar Iyer, and Adam J. Slagell. 2014. Personalized password guessing: a new security threat. In Proceedings of the 2014 Symposium and Bootcamp on the Science of Security (HotSoS '14). ACM, New York, NY, USA, , Article 22 , 2 pages. DOI=10.1145/2600176.2600198 
+Cuong Pham; Estrada, Z.; Phuong Cao; Kalbarczyk, Z.; Iyer, R.K., "Reliability and Security Monitoring of Virtual Machines Using Hardware Architectural Invariants," Dependable Systems and Networks (DSN), 2014 44th Annual IEEE/IFIP International Conference on , vol., no., pp.13,24, 23-26 June 2014 . (Best Paper Award and William C. Carter Award).
+Q. Li, H. Alemzadeh, Z. Kalbarczyk, R. K. Iyer, “A Fault-Tolerant Hardware Architecture for Robust Wearable Heart Rate Monitoring,” Proceedings of the 9th International Conference on Pervasive Computing Technologies for Healthcare, Pervasive Health’2015, Istanbul, Turkey, May 20–23, 2015.
+Phuong Cao, Key-whan Chung, Zbigniew Kalbarczyk, Ravishankar Iyer, and Adam J. Slagell. 2014. Preemptive intrusion detection. In Proceedings of the 2014 Symposium and Bootcamp on the Science of Security (HotSoS '14). ACM, New York, NY, USA, , Article 21 , 2 pages. 
+Zachary J. Estrada, Zachary Stephens, Cuong Pham, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, “A performance evaluation of sequence alignment software in virtualized environments,”in the 1st Int’l Workshop on Cloud for Bio (C4Bio), in conjunction with the 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.  IEEE, 2014, pp. 730-737.
+Hui Lin, Adam Slagell, Zbigniew Kalbarczyk, and Ravishankar K. Iyer. 2014. Semantic Security Analysis of SCADA Networks to Detect Malicious Control Commands in Power Grids (Poster). In Proceedings of the 7th International Conference on Security of Information and Networks (SIN '14). ACM, New York, NY, USA, , Pages 492 , 4 pages. DOI=10.1145/2659651.2659746
+Homa Alemzadeh, Raymond Hoagland, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, Automated Classification of Computer-based Medical Device Recalls, In Proc. of the 27th IEEE International Symposium on Computer-Based Medical Systems (CBMS), New York, NY, May 2014.
+G. Wang, Z. Estrada, C. Pham, Z. Kalbarczyk, R. Iyer, “Hypervisor Introspection: Exploiting Timing Side-Channels against VM Monitoring,” the 44th International Conference on Dependable Systems and Networks (DSN) 2014, Fast Abstract, Atlanta, USA
+R. Ramamurthy, Z. Estrada, C. Pham, Z. Kalbarczyk, R. Iyer, “Designing a Performance Isolation Benchmark for Virtualized Systems,” the 44th International Conference on Dependable Systems and Networks (DSN) 2014, Fast Abstract, Atlanta, USA
+Kuan-Yu Tseng, Dao Lu, Zbigniew T. Kalbarczyk, and Ravishankar K. Iyer, “AHEMS: Asynchronous Hardware-Enforced Memory Safety,” Digital System Design (DSD), 2014 17th Euromicro Conference on , vol., no., pp.183,190, 27-29 Aug. 2014.
+Z. J. Estrada, Z. Stephens, C. Pham, Z. Kalbarczyk, and R. K. Iyer, “A Performance Evaluation of Sequence Alignment Software in Virtualized Environments,” To appear in The 1st Int'l Workshop on Cloud for Bio (C4Bio), in conjunction with the 14th IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing.
+H. Alemzadeh, J. Raman, N. Leveson, R. K. Iyer, “Safety Implications of Cardiothoracic Robotic Surgery: Analysis of Adverse Event Reports of da Vinci Surgical Systems,” Submitted to the Annals of Thoracic Surgery.  
+Selected as J. Maxwell Chamberlain Memorial Paper for the Adult Cardiac Surgery in the 50th Annual Meeting of the Society of Thoracic Surgeons (STS), Jan. 2014.
+
+Catello Di Martino, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Geetika Goel, Santonu Sarkar, Rajeshwari Ganesan, “Characterization of Operational Failures from a Business Data Processing SaaS Platform,” Companion Proceedings of the 36th International Conference on Software Engineering, ICSE 2014, Hyderabad, India, pp. 195–204, May 31–June 7, 2014. 
+C. Pham, Z. Kalbarczyk, R. Iyer, V. Dogaru, R. Wagle, C. Venkatramani, “An Evaluation of Zookeeper For High Availability in System S,” In Proceedings of the 5th International Conference on Performance Engineering (ICPE) 2014, Dublin, Ireland
+Hui Lin, Adam J. Slagell, Zbigniew Kalbarczyk, Peter W. Sauer, Ravishankar K. Iyer: Semantic security analysis of SCADA networks to detect malicious control commands in power grids. SEGS@CCS 2013: 29-34
+H. Alemzadeh, J. Raman, N. Leveson, R. K. Iyer, “Safety Implications of Robotic Surgery: A Study of 13 Years FDA Data on da Vinci Surgical Systems,” To be submitted to the Journal of American Medical Association (JAMA). CSL Technical Report, UILU-ENG-13-2208, Nov. 2013.  Featured in The Wall Street Journal, “Report Raises Concerns on Robotic Surgery Device”, Nov. 8, 2013.
+C. Pham, Q. Li, Z. Estrada, Z. Kalbarczyk, R. Iyer, “A Simulation Framework to Evaluate Virtual CPU Scheduling Algorithms, ” In proceedings of The First International Workshop on Resource Management of Cloud Computing (CCRM) 2013 Workshop, Philadelphia, USA
+Keun Soo Yim, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Pluggable Watchdog: Transparent Failure Detection for MPI Programs. IPDPS 2013: 489-500
+C. Pham, Z. Estrada, P. Cao, Z. Kalbarczyk, R. Iyer, “HyperTap: Security and Reliability Monitoring for Virtual Machines, ” To appear in the 44th international conference on Dependable Systems and Networks (DSN 2014). Atlanta,GA, USA. 
+C. Di Martino, F. Baccanico, W. Kramer, J. Fullop, Z. Kalbarczyk, R. Iyer.  Lessons Learned From the Failure Analysis of a Petascale System: the Case of Blue Waters. . To appear in the 44th international conference on Dependable Systems and Networks (DSN 2014). Atlanta,GA, USA. 
+H. Lin, A. Slagell, C. Di Martino, Z. Kalbarczyk, and R.K. Iyer, “Adapting bro into scada: building a speciﬁcation-based intrusion detection system for the dnp3 protocol,” In Proc. of 8th Annual Cyber Security and Information Intelligence Research Workshop (CSIIRW 2012), Oak Ridge, TN, USA, Jan. 8–10, 2013.
+H. Alemzadeh, C. Di Martino, Z. Jin, Z. Kalbarczyk, and R.K. Iyer, "Towards Resiliency in Embedded Medical Monitoring Devices," Workshop on Open Resilient Human-aware Cyber-Physical Systems, in conjunction with DSN 2012.
+C. Pham; P. Cao; Z. Kalbarczyk and R.K. Iyer, "Toward a high availability cloud: Techniques and challenges," 2012 IEEE/IFIP 42nd International Conference on Dependable Systems and Networks Workshops (DSN-W), vol., no., pp.1-6, 25-28 June, 2012.
+K.S. Yim, V. Sidea, Z. Kalbarczyk, D. Chen, R.K. Iyer, "A fault-tolerant programmable voter for software-based N-modular redundancy",  Aerospace Conference, 2012 IEEE, On page(s): 1 - 20 
+K-Y Tseng, D. Chen, Z. Kalbarczyk, R.K. Iyer: Characterization of the error resiliency of power grid substation devices. Proceedings of the International Conference on Dependable Systems and Networks DSN 2012: 1-8, 2012
+A. Pecchia, D. Cotroneo, Z. Kalbarczyk, R. K. Iyer, “Improving Log-Based Field Failure Data Analysis of Multi Nodes Computing Systems,” to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.
+A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, ”Analysis of Security Data from a Large Computing Organization,” to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011
+C.Pham, D. Chen, Z. Kalbarczyk, R.K. Iyer, R. Sarkar, and R. Hosn, “CloudVal: A Framework for Validation of Virtualization Environment in Cloud Infrastructure,” to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.
+G. Jacques-Silva, Z. Kalbarczyk, B. Gedik, H. Andrade, K.-L. Wu, and R. K. Iyer, “Modeling Stream Processing Applications for Dependability Evaluation,” to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011. (William C. Carter Award for Best Paper).
+K.S. Yim, C. Pham, M. Saleheen, Z. Kalbarczyk, and R.K. Iyer, "Hauberk: Lightweight Silent Data Corruption Error Detector for GPGPU," to appear in Proceedings of the IEEE International Parallel and Distributed Processing Symposium, IPDPS, Anchorage, AK, 2011
+K.S. Yim, D. Hreczany, and R.K. Iyer, •	"HTAF: Hybrid Testing Automation Framework to Leverage Local and Global Computing Resources," in Proceedings of the 11th International Conference on Computational Science and Applications (ICCSA 2011) Santander, Spain, June 20-23, 2011.
+H. Alemzadeh, M. U. Saleheen, Z. Jin, Z. Kalbarczyk, and R. K. Iyer, “RMED: A Reconfigurable Architecture for Embedded Medical Monitoring,” In Proceedings of the Fifth IEEE-NIH Life Science Systems and Applications Workshop (LiSSA’11), pp. 212-215, April 2011, Bethesda, MD.
+A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, „Analysis of Credential Stealing Attacks in an Open Networked Environment,” Int’l Conference on Network and System Security, NSS 2010, Melbourne, Australia, September 2010.
+M. U. Saleheen, H. Alemzadeh, A. M. Cheriyan, Z. T. Kalbarczyk, and R. K. Iyer, “An Efficient Embedded Hardware for High Accuracy Detection of Epileptic Seizures,” In Proceedings of 3rd International Conference on Biomedical Engineering and Informatics (BMEI'10), pp. 1889-1896, October 2010, China.
+L. Wang, Z. Kalbarczyk, R. K. Iyer, A. Iyengar, “Checkpointing Virtual Machines against Transient Errors,” Proc. of On-Line Testing Symposium, Corfu, Greece, July 2010.
+A.M. Cheriyan, A.O. Jarvi, Z. Kalbarczyk, T.M. Gallagher, R.K. Iyer, K.L. Watkin, "Pervasive embedded systems for detection of traumatic brain injury," Proc. ICME, 1704-1707,New York, NY, 2009.
+K. Pattabiraman, N. Nakka, Z. Kalbarczyk, R.K. Iyer, "Discovering Application-Level Insider Attacks Using Symbolic Execution," Proc. 24th IFIP International Information Security Conference, SEC, pp. 63-75, Brisbane, Aus,  2009.
+P. Dabrowski, W. Healey, K. Pattabiraman, S. Chen, Z. Kalbarczyk, and R. Iyer, â€œHardware Implementation of Information Flow Signatures Derived via Program Analysis,â€ 2nd Workshop on Dependable & Secure Nanocomputing, organized in conjunction with Conference on Dependable Systems and Networks, DSN08, Anchorage, AK, 2008.
+P. Klemperer, S. Chen, K. Pattabiraman, Z. Kalbarczyk, and R. K. Iyer, FPGA Hardware Implementation of Statically-derived Application-aware Error Detectors, 1st Workshop on Dependable and Secure NanoComputing, (WDSN), Edinburgh, UK, June 2007, (co-located with DSN 2007).
+C.Pham, P. Cao, Z. Kalbarczyk, R.K. Iyer, “Toward a High Availability Cloud: Techniques and Challenges,” to appear in Proceedings of the International Conference on Dependable Systems and Networks, DSN2012, Boston, 2012.
+A. Pecchia, D. Cotroneo, Z. Kalbarczyk, R. K. Iyer, “Improving Log-Based Field Failure Data Analysis of Multi Nodes Computing Systems,” in Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.
+A. Sharma, Z. Kalbarczyk, R. Iyer, J. Barlow, ”Analysis of Security Data from a Large Computing Organization,” Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011
+C.Pham, D. Chen, Z. Kalbarczyk, R.K. Iyer, R. Sarkar, and R. Hosn, “CloudVal: A Framework for Validation of Virtualization Environment in Cloud Infrastructure,” Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011.
+G. Jacques-Silva, Z. Kalbarczyk, B. Gedik, H. Andrade, K.-L. Wu, and R. K. Iyer, “Modeling Stream Processing Applications for Dependability Evaluation,”  Proceedings of the International Conference on Dependable Systems and Networks, DSN2011, Hong Kong, 2011. (William C. Carter Award for Best Paper).
+K.S. Yim, Z.T. Kalbarczyk, and R.K. Iyer, "Measurement-based Analysis of Fault and Error Sensitivities of Dynamic Memory," International Conference on Dependable Systems and Networks (DSN), Chicago, USA, pp. 431-436. 2010.
+G. Lyle, S. Chen, K. Pattabiraman, Z. Kalbarczyk, and R.K. Iyer, "An End-to-end Approach for the Automatic Derivation of Application-Aware Error Detectors, "International Conference on Dependable Systems and Networks (DSN), Estoril, Portugal, 2009.
+D. Chen, G. Jacques-Silva, Z. Kalbarczyk, R.K. Iyer, and B.G. Mealey, "Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER," In Procedings of the IEEE Pacific Rim International Symposium on Dependable Computing (PRDC), pp. 339-346, Taipei, Taiwan, 2008.
+C. Basile, Z. Kalbarczyk, R. K. Iyer, “Inner-Circle Consistency for Wireless Ad Hoc Networks,” IEEE Trans. Mob. Comput., vol. 6, 1, pp. 39-55, 2007.
+M. Kaâniche, L. Romano, Z. Kalbarczyk, R. K. Iyer, R. M. Karcich, “A Hierarchical Approach for Dependability Analysis of a Commercial Cache-Based RAID Storage Architecture,” Proc. Twenty-Eighth Annual International Symposium on Fault-Tolerant Computing, pp. 6-15, 2007.
+Wang, L., Kalbarczyk, Z., and Iyer, R. K. 2008. Formalizing System Behavior for Evaluating a System Hang Detector. In Proceedings of the 2008 Symposium on Reliable Distributed Systems (October 06 - 08, 2008). SRDS. IEEE Computer Society, Washington, DC, 269-278. DOI= http://dx.doi.org/10.1109/SRDS.2008.11
+Nikhil Pandit, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Effectiveness of machine checks for error diagnostics. DSN 2009: 578-583
+Jean Arlat, Cristian Constantinescu, Ravishankar K. Iyer, Johan Karlsson, Michael Nicolaidis: Third workshop on dependable and secure nanocomputing. DSN 2009: 596-597
+Keun Soo Yim, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Quantitative Analysis of Long-Latency Failures in System Software. PRDC 2009: 23-30
+Karthik Pattabiraman, Nithin Nakka, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Discovering Application-Level Insider Attacks Using Symbolic Execution. SEC 2009: 63-75
+Karthik Pattabiraman, Nithin Nakka, Zbigniew Kalbarczyk, Ravishankar K. Iyer: SymPLFIED: Symbolic program-level fault injection and error detection framework. DSN 2008: 472-481 - Winner William Carter Best Paper Award
+Jean Arlat, Cristian Constantinescu, Ravishankar K. Iyer, Michael Nicolaidis: Second workshop on dependable and secure nanocomputing. DSN 2008: 546-547
+Subhasish Mitra, Ravishankar K. Iyer, Kishor S. Trivedi, James W. Tschanz: Reliable system design: models, metrics and design techniques. ICCAD 2008: 3
+Daniel Chen, Gabriela Jacques-Silva, Zbigniew Kalbarczyk, Ravishankar K. Iyer, Bruce G. Mealey: Error Behavior Comparison of Multiple Computing Systems: A Case Study Using Linux on Pentium, Solaris on SPARC, and AIX on POWER. PRDC 2008: 339-34
+Long Wang, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Formalizing System Behavior for Evaluating a System Hang Detector. SRDS 2008: 269-278
+Nithin Nakka, Karthik Pattabiraman, Ravishankar K. Iyer: Processor-Level Selective Replication. DSN 2007: 544-553
+Marcello Cinque, Domenico Cotroneo, Zbigniew Kalbarczyk, Ravishankar K. Iyer: How Do Mobile Phones Fail? A Failure Data Analysis of Symbian OS Smart Phones. DSN 2007: 585-594
+Jean Arlat, Ravishankar K. Iyer, Michael Nicolaidis: Workshop on Dependable and Secure Nanocomputing. DSN 2007: 809-810
+Ravishankar K. Iyer: TRUSTED ILLIAC: A Configurable Hardware Framework for a Trusted Computing Base. HASE 2007: 3
+Karthik Pattabiraman, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Automated Derivation of Application-aware Error Detectors using Static Analysis. IOLTS 2007: 211-216
+Ravishankar K. Iyer: Security vulnerabilities: from measurements to design. ASIACCS 2006: 15
+Claudio Basile, Meeta Gupta, Zbigniew Kalbarczyk, Ravi K. Iyer: An Approach for Detecting and Distinguishing Errors versus Attacks in Sensor Networks. DSN 2006: 473-484
+Karthik Pattabiraman, Giacinto Paolo Saggese, Daniel Chen, Zbigniew Kalbarczyk, Ravishankar K. Iyer: Dynamic Derivation of Application-Specific Error Detectors and their Implementation in Hardware. EDCC 2006: 97-108
+Click for more
+Patents
+Ravishankar K. Iyer, Haotian Chen, Yogatheesan Varatharajah. (2020). A Multi-stage Prognostic Pipeline for Tracking and Predicting Disease Escalation. This application was filed on December 2, 2020 and assigned serial number 63/120,715.
+Ravishankar K. Iyer, Arjun P. Athreya, Richard M. Weinshilboum, Leiwei Wang, William V. Bobo, ANALYTICS AND MACHINE LEARNING FRAMEWORK FOR ACTIONABLE INTELLIGENCE FROM CLINICAL AND OMICS DATA.”  This application was filed on Dec 15, 2017 and assigned serial number 62/599,054 
+Berry, Michael & Varatharajah, Yogatheesan & Křemen, Václav & Iyer, Ravishankar & Brinkmann, Benjamin & Sieck, Gary & worrell, gregory. (2017). Unsupervised pathological brain identification method and apparatus using electrophysiologic biomarkers.. “Seizure Onset Zone Localization”, This application was filed May 25, 2018, assigned serial number 62/511,239.
+
+Journal Editorships
+Inaugural Editor-In-Chief, IEEE Transactions on Dependable and Secure Computing, 2003-2008
+
+Professional Societies
+AAAS, Fellow
+IEEE, Fellow
+ACM, Fellow
+
+Honors
+Paul Sabatier University/ LAAS Medal  (June 2011)
+Doctor Honoris Causa, Paul Sabatier University, Toulouse, France (June 2011)
+ACM SIGSAC Outstanding Contributions Award  (2011)
+IEEE Computer Society Golden Core Member (2008)
+Fellow of the American Association for the Advancement of Science (AAAS) (2005)
+IEEE Emanuel R. Piore Award  (2001)
+American Institute of Aeronautics and Astronautics (AIAA), Information Systems Award and Medal (1993)
+Humboldt Foundation Senior Distinguished US Scientist Award "in recognition of scientific achievement in research and teaching," (1991)
+Click for more
+Teaching Honors
+University of Illinois List of teachers rated excellent by their students, Fall 2014, ECE 313
+
+Research Honors
+IEEE Computer Society Meritorious Service Award for outstanding performance as the Founding Editor-in-Chief of IEEE Transactions on Dependable and Secure Computing, 2004-2007,  awarded 2008
+College of Engineering 1994, 1996 and 2001 List for Advising Excellence Award, University of Illinois
+Fellow, American Academy for the Advancement of Science (AAAS), 2005
+IBM Faculty Award, 1998, 2003, 2006, 2008, 2010, 2014
+AIAA Distinguished Service Award, 1997
+Best Paper Award for "FAMAS: Fault Modeling via Adaptive Simulation," H. Jin, R.K. Iyer, M.C. Hsueh, and M. Covington, 10th International Conference on VLSI Design, 1997.
+Best Paper Award for "Analyze-NOW--An Environment for Collection and Analysis of Failures in a Network of Workstations," A. Thakur and R. K. Iyer, International Symposium on Software Reliability Engineering, 1996.
+IEEE Computer Society 1995 commemorative volume highlighting the best papers of the past 25 years in fault-tolerant computing: "A Statistical Load Dependency Model for CPU Errors at SLAC," R. K. Iyer and D. J. Rossetti (1982) and "Simulation of Software Behavior under Hardware Faults," K. Goswami and R. K. Iyer (1993).
+Information Systems Award and Medal "for fundamental and pioneering contributions toward the design, evaluation and validation of dependable aerospace computing systems", American Institute for Aeronautics and Astronautics (AIAA), 1993
+Associate Fellow, American Institute for Aeronautics and Astronautics (AIAA), 1992
+Humboldt Foundation Senior US Scientist Award for Excellence in Research and Teaching, 1991
+Senior Humboldt Award, 1991
+Fellow, Association for Computing Machinery (ACM)
+Fellow, IEEE, 1990
+Distinguished Visitor of the IEEE Computer Society, 1989-present
+Keynote Address, International Conference on Computing Systems and Information Technology, Sydney, Australia, August 1989
+Outstanding Contribution Award, 19th International Symposium on Fault-Tolerant Computing, June 1989
+Keynote Speaker, International Workshop on Fault-Tolerant Computing, Melbourne, Australia, July, 1985
+Member, Sigma Xi Honor Society, 1980
+CSIRO (Commonwealth Scientific and Industrial Research Organization), Australia, Postdoctoral Research Award, 1978; five/six awards encompassing mathematics, science, and engineering
+Royal Norwegian Council for Scientific and Industrial Research Fellowship, 1977 (for work at the Norwegian Institute of Technology, Trondheim; ten awards encompassing science and engineering)
+International prize and plaque for a graduate research paper, IEEE Student Paper Contest, 1977 (two prizes awarded internationally)
+Click for more
+
+Recent Courses TaughtCS 498 DSG (CS 498 DSU) - Data Science & Analytics
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 314 - Probability in Engineering Lab
+ECE 471 - Data Science Analytics and PGM
+ECE 498 DSG (ECE 498 DSU) - Data Science & Analytics
+ECE 542 (CS 536) - Fault-Tolerant Dig Syst Design
+ECE 598 RKI - Dependable AI Systems
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Precision medicine model uses AI to target ASD
+
+
+ECE faculty and student receive funding from Jump ARCHES program
+
+
+Iyer's research shows potential in individualizing treatment for depression
+
+
+Illinois ECE professors lead multi-disciplinary efforts to improve computing platforms
+
+
+New computation tool to make DNA analysis more affordable, efficient
+
+
+Illinois ECE PhD student improves bioinformatics software to better analyze human DNA                                           
+
+
+
+
+
+
+
+

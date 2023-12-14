@@ -1,0 +1,71 @@
+
+
+
+
+
+
+
+ 
+
+
+Sheldon Howard Jacobson 
+
+
+
+Founder Professor in Engineering
+(217) 244-7275
+shj@illinois.edu
+3224 Siebel Center for Comp Sci
+
+
+
+For More Information
+Sheldon Jacobson's web page.
+
+BiographySheldon H. Jacobson is a Founder Professor of Computer Science, Director of the Simulation and Optimization Laboratory, and Founding Director of the Bed Time Research Institute at the University of Illinois at Urbana-Champaign.  He holds appointments in Industrial and Enterprise Systems Engineering, Electrical and Computer Engineering, Mathematics, Statistics, and the College of Medicine.  He has a B.Sc. and M.Sc. in Mathematics from McGill University and a Ph.D. in Operations Research from Cornell University.  He has served on the faculties at Case Western Reserve University (Weatherhead School of Management, 1988-1993), Virginia Tech (Industrial and Systems Engineering, 1993-1999), and the University of Illinois (1999-present).  He has published 186 peer-reviewed articles, 11 book chapters, 50 conference proceedings, 45 professional and editorial publications, and delivered over 510 presentation, seminars and posters at conferences, universities, and research laboratories around the world.  He has directed 23 Ph.D. dissertations and been awarded over $5M of research support from the National Science Foundation and the Air Force Office of Scientific Research.  As Director of the Bed Time Research Institute, he spearheaded the creation of two research videos (“A Healthy Collaboration: Pediatric Immunization and Operations Research”, “Aviation Security: Researching the Risk.”) and launched four websites, all designed to communicate the value of basic research through Broader Impact activities, and promulgate STEM activities for enhancing and growing a technically literate citizenry.  (http://bracketodds.cs.illinois.edu,  , http://electionanalytics.cs.illinois.edu, http://drivingobesity.cs.illinois.edu, http://redistricting.cs.illinois.edu).He has made several seminal research contributions, all focusing on applying operations research and optimization-based artificial intelligence to address societal problems of national interest.  He launched the research field, aviation security analytics, demonstrating how probabilistic models, optimization, and artificial intelligence can be used to improve the performance of aviation security systems.   His research on multi-level aviation security passenger screening at airports was the precursor to risk-based security, providing the foundational concepts that informed the design and implementation of TSA Precheck© (see the presentation he delivered on 3 October 2003 to the TSA outlining the benefits and foundations for differential passenger screening; see also the video).  His contributions have been recognized with numerous awards, including a 2003 Guggenheim Fellowship and the 2018 INFORMS Impact Prize, given biennially to recognize widespread impact of operations research.   His research on the design of pediatric vaccine formularies introduced the use of operations research in the pediatric immunization domain.  His research on bridging obesity, transportation, and fuel consumption established the impact of transportation on obesity, providing the foundation for non-medical obesity interventions based on modes of transportation.     His research on computational redistricting demonstrates how optimization-based AI can be used to combat gerrymandering by creating a transparent environment for designing and evaluating district maps. His research has been widely reported and communicated in the national press, including the Washington Post, the Chicago Tribune, the Los Angeles Times, and the Boston Globe, editorialized in the New York Times, and discussed in Business Week, Forbes, Kiplinger, and The Osgood Files on CBS radio.  He has appeared on The Street Signs (CNBC), The Closing Bell (CNBC), Weekends with Alex Witt (MSNBC), Washington Post Radio, CBS This Morning, CBC Canada News (television and radio), and BBC World News (television and radio).  His views have been published as opinion-editorials and letters in the Washington Post, Quartz, CNN Opinion, Inside Higher Ed, the Wall Street Journal, and the Chicago Tribune.He has been recognized with numerous awards, including a Guggenheim Fellowship (2003), the INFORMS Impact Prize (2018), the IISE David F. Baker Distinguished Research Award (2017), IISE Award for Technical Innovation in Industrial Engineering (2010, 2013), the Aviation Security Research Award (Aviation Security International) (2002), the IIE Outstanding Publication Award (2009), the Award for Excellence in the Teaching of Operations Research (IISE Operations Research Division) (2011), and runner-up for the Christopher Columbus Homeland Security Award (Transportation and Border Security) (2010).  He is an elected Fellow of the American Association for the Advancement of Science (AAAS, 2020), the Institute for Operations Research and the Management Sciences (INFORMS, 2013) and the Institute of Industrial and Systems Engineers (IISE, 2011).  He has also received several best paper and poster awards, including the 2019 Best Service Science paper for his research on computational redistricting.His leadership and expertise have been used by both government and professional societies.  He briefed personnel within the Office of Science and Technology Policy (in the executive Office of President George W. Bush) (August 2002, Washington, DC) on issues related to aviation security and assessing the cost and benefit of checked baggage screening strategies.  He briefed the Advisory Committee on Immunization Practice (ACIP) on a web-site he co-developed for designing optimal pediatric vaccine formularies (October 2001, Atlanta, Georgia.)  He served on committees for the National Academies, including the National Research Council Committee on Airport Passenger Screening: Backscatter X-Ray Machines (2013-2015), the National Academy of Medicine (NAM) Standing Committee for the Centers for Disease Control and Prevention Division of Strategic National Stockpile (2015-2017), and A Workshop on Medical-Product Shortages: Effects on Patient Health and Opportunities to Predict, Prevent, and Respond to Them (2018).  He led the NSF-Funded workshop (May 2016, Arlington, VA), Setting a Broader Impacts Innovation Roadmap, in creating new pathways for enhancing Broader Impacts in the Engineering Directorate at the NSF. He served as the (elected) Treasurer for the Institute for Operations Research and the Management Sciences (INFORMS) (2015-2016) and as a Program Director in the Division of Civil, Mechanical, and Manufacturing Innovation at the National Science Foundation (2012-2014).  He was an invited panelist at the 2019 INFORMS Government and Analytics Summit.
+
+Research Areas
+Theory and Algorithms
+
+
+
+Recent Courses TaughtIE 410 (CS 481) - Stochastic Processes & Applic
+IE 413 (CS 482) - Simulation
+
+
+
+
+
+
+
+Related News
+
+
+The future of airport security is facial recognition
+
+
+TSA finds a record 43 firearms in baggage at Midway Airport this year
+
+
+How old is too old to lead?
+
+
+Chicago Area Quantum Tech Hub chosen as Regional Technology and Innovation Hub
+
+
+Is the FAA Missing the Mark to Reduce Airplane Near-Misses?
+
+
+REAL ID Requirements get Further Delayed
+
+
+
+News Notes
+11/29/2023CS Professor Sheldon H. Jacobson wrote an opinion piece on gerrymandering congressional districts in advance of the 2024 presidential election.(The Hill)10/31/2023CS Professor Sheldon H. Jacobson wrote about the need to end daylight savings time.(The Telegraph)10/26/2023CS Professor Sheldon H. Jacobson examined gun safety legislation.(The Hill)10/23/2023CS Professor Sheldon H. Jacobson wrote about the effectiveness of deadlines. (The Hill)10/11/2023CS Professor Sheldon H. Jacobson discussed President Joe Biden’s re-election campaign. (The Hill)10/9/2023CS Professor Sheldon H. Jacobson was interviewed about the UAW and Kaiser Permanante strikes. (Epoch Times)
+
+
+
+
+
+
+

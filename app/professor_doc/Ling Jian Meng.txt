@@ -1,0 +1,135 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Ling Jian Meng 
+
+
+
+
+
+ProfessorProfessor
+
+
+(217) 333-7710
+ljmeng@illinois.edu
+111E Talbot Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+
+
+
+
+Primary Research AreaBioimaging at Multi-Scale
+For More Information
+The Radiation Detection and Imaging Group
+
+Education
+Ph.D., Detector Physics, University of Southampton, UK, 2001
+B.Sc., Modern Physics, University of Science and Technology of China, PRC, 1995
+
+
+Academic Positions
+Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering, 09/2017 - present
+Affiliated Professor, University of Illinois at Urbana-Champaign, Department of Bioengineering, 09/2017 - present
+Associate Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering, 08/2012 - 08/2017
+Affiliated Faculty Member, University of Illinois at Urbana-Champaign, Beckman Institute for Advanced Science and Technology, 06/2007 - present
+Assistant Professor, University of Illinois at Urbana-Champaign, Department of Nuclear, Plasma, and Radiological Engineering, 03/2006 - 08/2012
+Assistant Research Scientist, University of Michigan, Department of Nuclear Engineering and Radiological Sciences, 07/2004  - 02/2006
+Research Fellow, University of Michigan, Department of Radiology and Department of Nuclear Engineering and Radiological Sciences, 01/2002 - 07/2004
+Click for more
+Major Consulting Activities
+Proliferation Deterrence Merit Review Team workshop, May 2. 2011, at the Pacific Northwest National Laboratory (PNNL) in Richland, Washington.
+NIH In Vivo Imaging and Bioengineering Research Study Section on February 7-8, 2011, LA
+
+Professional Societies
+Member, Society of Nuclear Medicine and Molecular Imaging (SNMMI)
+Member, IEEE Nuclear and Plasma Sciences Society  Member, 2000 - present
+
+
+
+
+Research Interests
+Biomedical imaging
+Radiation detection and measurement
+
+Post-Doctoral Research OpportunitiesWe are currently recruiting a post-doctoral research associate to join the Radiation Detection and Imaging Group.  
+Primary Research AreaBioimaging at Multi-Scale
+
+
+Selected Articles in Journals
+Nan Li and L. J. Meng, "Adaptive Angular Sampling for SPECT Imaging," IEEE Trans. Nucl. Sci., vol. 58,(5), pp. 2205-2218, 2011
+
+L. J. Meng, Nan Li and P. J. La Riviere, "X-ray Fluorescence Emission Tomography (XFET) with Novel Imaging Geometries--A Monte Carlo Study", IEEE Transactions in Nuclear Sciences, vol. 58, no. 6, pp. 3359-3369, 2011.
+
+L. J. Meng and N. Li, "Non-uniform Object-Space Pixelation (NUOP) for Penalized Maximum-likelihood Image Reconstruction for a Single Photon Emission Microscope System," IEEE Trans. Nucl. Sci., vol. 56(5), pp. 2777-2788, 2009.
+
+L. J. Meng, J. W. Tan, K. Spartiotis, T. Schulman, “Preliminary Evaluation of A Novel Energy-Resolved Photon-Counting Gamma Ray Detector”, Nuclear Instruments and Methods A, vol. 604(3), pp. 548-554, 2009.
+
+L. J. Meng, G. Fu, E. J. Roy, B. Suppe, and C. T. Chen, “An Ultrahigh Resolution SPECT System for I-125 Mouse Brain Imaging Studies”, Nucl. Instru. Methods, vol. 600(2), pp. 498-505, 2009.
+
+L. J. Meng and N. Li, “A Vector Uniform Cramer-Rao Bound for SPECT System Design”, IEEE Transactions in Nuclear Sciences, vol. 56, pp. 81-89, 2009.
+
+L. J. Meng and G. Fu, “Investigation of the Intrinsic Spatial Resolution of an Intensified EMCCD Scintillation Camera”, IEEE Transactions in Nuclear Sciences, vol. 55, pp. 2508 – 2517, 2008.
+
+L. J. Meng, “An Intensified EMCCD Camera for Low Energy Gamma Ray Imaging Applications”, IEEE Transactions in Nuclear Sciences, vol. 53, pp. 2376 – 2384, 2006.
+L. J. Meng, Z. He, B. Alexander and J. Sandoval, “Spectroscopic Performance of 1 cm thick HgI2 Detectors”, IEEE Transactions in Nuclear Sciences, vol. 53, pp. 1706 – 1712, 2006.
+L. J. Meng “Design and Feasibility Study of a Single Photon Emission Microscope System for Small Animal I-125 Imaging”, IEEE Transactions in Nuclear Sciences, vol. 53, pp. 1168-1178, 2006.
+L. J. Meng and Z. He, “Exploring the Limiting Timing Resolution for Large Volume CZT Detectors with Waveform Analysis”, Nuclear Instruments and Methods in Physics Research Section a-Accelerators Spectrometers Detectors and Associated Equipment, vol. 550, pp. 435-445, 2005.
+L. J. Meng and Z. He, “Estimate interaction timing in large volume HgI2 detector using cathode pulse waveforms”, Nuclear Instruments and Methods in Physics Research Section a-Accelerators Spectrometers Detectors and Associated Equipment, vol. 545, pp. 234-251, 2005.
+Click for more
+Refereed Conference Papers and Presentations
+L. J. Meng, L. Cai and J. W. Tan, "Technological Development Towards Sub-500 μm Resolution SPECT Imaging Inside MR Scanners," Fourth workshop on small animal, single photon emission computed tomography (SPECT), Tucson, Arizona, 2010.
+L. J. Meng, J. W. Tan, L. Cai, Q. Guo, and H. S. Krawczynski , "Development of Small-Pixel CZT and CdTe Detectors Read Out by a Novel Energy-Resolved Photon-Counting ASIC," IEEE NSS/MIC, Knoxville, 2010.
+L. J. Meng, J. W. Tan and C. Liang, "Sub-500 Î¼m Resolution SPECT Imaging Inside a 3T MRI Scanner," IEEE NSS/MIC, Knoxville, 2010.
+L. J. Meng, G. Fu, N. Li, and P. La Riviere, "X-ray Fluorescence Emission Tomography (XFET)  - Towards 3D Mapping of Trace-Metals in Biological Samples With A Bench-Top X-ray Source," IEEE NSS/MIC, Knoxville, 2010.
+L. J. Meng, G. Fu, N. Li, M. Newville, P. Eng and P. La Riviere, "X-ray Fluorescence Emission Tomography (XFET) for Imaging Trace-Metals in Plant," Symposium on Radiation Measurements and Applications (SORMA), Ann Arbor, 2010.
+L. J. Meng, J. W. Tan and C. Liang, "Sub-500 Î¼m Resolution SPECT Imaging Inside a 3T MRI Scanner," Symposium on Radiation Measurements and Applications (SORMA), Ann Arbor, 2010.
+L. J. Meng, G. Fu, N. Li, M. Newville, P. Eng; P. La Rivi're, "X-ray fluorescence tomography using imaging detectors," SPIE Conference on Developments in X-Ray Tomography VII, August, 2010.
+Y. Yin, H. Wu, S. Komarov, A. Garson, Q. Guo, H. Krawczynski, L. J. Meng, Y.-C. Tai1, "Coincidence Measurement of 350μm Pitched Pixelated CdZnTe Detector with LSO PET Module," IEEE NSS/MIC Conference Record, Knoxville, 2010.
+Click for more
+Patents
+D. Ramsden, L. J. Meng, O. Ivanov, S. Ignatov, "Gamma-ray Spectrometry," US Patent #20060027754.
+L. J. Meng, D. K. Wehe, W. L. Rogers, N. Clinthorne, "Method and system for generating an image of the radiation density of a source of photons located in an object," United States Patent #6,881,959.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Zannoni wins prestigious early career grant
+
+
+Bioengineering Ph.D. candidate Elena Maria Zannoni earns top prize at the PIDSC Young Investigator Awards
+
+
+
+
+
+
+
+

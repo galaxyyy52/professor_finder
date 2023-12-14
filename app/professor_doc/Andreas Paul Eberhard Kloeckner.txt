@@ -1,0 +1,92 @@
+
+
+
+
+
+
+
+ 
+
+
+Andreas Paul Eberhard Kloeckner 
+
+
+
+Associate Professor
+(217) 244-6401
+andreask@illinois.edu
+4318 Siebel Center for Comp Sci
+
+
+
+For More Information
+Github profile with released code
+Research web page
+
+Education
+PhD, Applied Mathematics, Brown University (2010)
+MSc, Applied Mathematics, Brown University (2006)
+Diplom, Applied Mathematics ("Technomathematik"), Universität Karlsruhe/Germany (2005)
+
+BiographyAndreas Klöckner is an associate professor in the scientific computing area within the Department of Computer Science at the University of Illinois at Urbana-Champaign. His research focuses on high-order accurate integral equation methods and fast algorithms for elliptic boundary value problems as well as code transformation for high-performance scientific computing. He is the recipient of a 2017 National Science Foundation CAREER Award. In support of his research, Dr. Klöckner has released numerous scientific software packages. Previously, he was a Courant Instructor at the Courant Institute of Mathematical Sciences at New York University with Leslie Greengard, after obtaining his PhD degree from the Division of Applied Mathematics at Brown University in 2010 with Jan Hesthaven.
+Research Interests
+Scientific Computing 
+Parallel Computing 
+Numerical Techniques 
+High-performance computing
+Integral equation methods
+
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Scientific Computing
+
+
+Journal Editorships
+Guest Editor, SIAM Journal on Scientific Computing (Special Section on Software in Computational Science and Engineering in conjunction with SIAM CSE '15)
+Gues Editor, IEEE Computing in Science & Engineering (Special Issue “Scientific Computing with Python on GPUs and Parallel Systems”, Jul./Aug. 2021, Vol. 23, No. 4)
+
+Professional Societies
+Member - Association for Computing Machinery
+Member - Society for Industrial and Applied Mathematics
+
+
+Recent Courses TaughtCS 450 (CSE 401, ECE 491, MATH 450) - Numerical Analysis
+CS 555 (CSE 510, MATH 552) - Numerical Methods for PDEs
+CS 591 MH - Scientific Computing Seminar
+CS 598 APK - Lang/Abst f High-Perf Sci Comp
+
+
+
+
+
+
+
+Related News
+
+
+Two Conferences in Chicago Chaired by Illinois CS Faculty Highlight Department's Leadership in Parallel Computing
+
+
+New Center to Leverage High-Performance Computing to Advance Hypersonic Propulsion
+
+
+Nine CS Faculty and Staff Receive Engineering, Campus Awards for Excellence
+
+
+Kloeckner wins NSF CAREER Award to make computer simulation faster, cheaper
+
+
+Kloeckner and Xie join CS
+
+
+
+News Notes
+
+
+
+
+
+
+
+

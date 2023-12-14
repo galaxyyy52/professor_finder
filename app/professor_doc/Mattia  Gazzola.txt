@@ -1,0 +1,159 @@
+
+
+
+
+
+
+
+ 
+
+
+Mattia Gazzola 
+
+
+
+Associate Professor; Charles Conrad Kritzer Faculty Scholar
+(217) 300-4773
+mgazzola@illinois.edu
+3032B Sidney Lu Mech Engr Bldg
+
+
+
+For More Information
+Mind In Vitro webpage
+Lab webpage
+paper2tree
+Elastica
+
+Education
+PhD Mechanical Engineering, ETH Zurich, Aug 2013 (Advisor: Petros Koumoutsakos)
+MSc Nuclear Engineering, Politecnico di Milano, May 2006
+BSc Energy Engineering, Politecnico di Milano, May 2003
+
+Academic Positions
+Core Theme Faculty, Carl R. Woese Institute for Genomic Biology Faculty, UIUC, 2020-date
+Blue Waters Professor, National Center for Supercomputing Applications, UIUC, 2016-date
+Assistant Professor, Department of Mechanical Science and Engineering, UIUC, 2016-date
+Postdoctoral Fellow, SEAS, Harvard, 2013-2016 (Advisor: L. Mahadevan)
+
+Research Interests
+Bio-locomotion
+Bio-hybrid robotics and computing
+Fluid mechanics
+Soft mechanics
+Numerics
+High Performance Computing
+Click for more
+
+Research Areas
+Applied Physics
+Computation and Applied Math
+Energy
+Fluid Mechanics
+Health and Bio
+Security and Defense
+Solid Mechanics and Materials
+Click for more
+
+Selected Articles in Journals
+Y. Bhosale*, T. Parthasarathy*, M. Gazzola, "Soft streaming – flow rectification via elastic boundaries", Journal of Fluid Mechanics, 945, R1, 2022.
+T. Parthasarathy*, Y. Bhosale*, M. Gazzola, "Elastic solid dynamics in a coupled oscillatory Couette flow system", Journal of Fluid Mechanics, 946, A15, 2022.
+Y. Bhosale*, G. Vishwanathan, G. Upadhyay*, T. Parthasarathy*, G. Juarez, M. Gazzola, "Multi-curvature viscous streaming: flow topology and particle manipulation", Proceedings of the National Academy of Sciences, 119 (36), e2120538119, 2022.
+Y. Bhosale*, N. Weiner, A. Butler, S. Kim*, M. Gazzola, H. King, "Micromechanical origin of plasticity and hysteresis in nest-like packings", Physical Review Letters, 128(19), 198003, 2022.
+F. Chan*, Y. Bhosale*, T. Parthasarathy*, M. Gazzola, "﻿Three-dimensional geometry and topology effects in viscous streaming", Journal of Fluid Mechanics,  933, A53, 2022.
+X. Zhang*, N. Naughton*, T. Parthasarathy*, M. Gazzola, "Friction modulation in limbless, three-dimensional gaits and heterogeneous terrains", Nature Communications, 12, 6076, 2021. 
+Y. Bhosale*, T. Parthasarathy*, M. Gazzola, "A remeshed vortex method for mixed rigid/soft body fluid-structure interaction", Journal of Computational Physics, 444, 110577, 2021.
+S. Agarwal, F. Chan*, B. Rallabandi, M. Gazzola, S. Hilgenfeldt, An unrecognized inertial force induced by flow curvature in microfluidics, Proceedings of the National Academy of Sciences, 118 (29), 2021.
+N. Naughton*, J. Sun, A. Tekinalp*, T. Parthasarathy*, G. Chowdhary, M. Gazzola, "Elastica: A compliant mechanics environment for soft robotic control", IEEE Robotics and Automation Letter, 6 (2), 3389-3396, 2021.
+J. Wang, X. Zhang*, J. Park, I. Park, E. Kilicarslan, Y. Kim, Z. Dou*, R. Bashir, M. Gazzola, "Computationally assisted design and selection of maneuverable biological walking machines", Advanced Intelligent Systems, 3 (5), 2000237, 2021.
+Y. Bhosale*, T. Parthasarathy*, M. Gazzola, "Shape curvature effects in viscous streaming", Journal of Fluid Mechanics, 898, 2020.
+N. Weiner, Y. Bhosale*, M. Gazzola, H. King, "Mechanics of randomly packed filaments – the 'bird nest' as meta-material", Journal of Applied Physics, 127 (5), 050902, 2020.
+O. Aydin, X. Zhang*, S. Nuethong, G. Pagan-Diaz, R. Bashir, M. Gazzola, T. Saif, "Neuromuscular actuation of biohybrid motile bots", Proceedings of the National Academy of Sciences, 116 (40), 19841-19847, 2019.
+X. Zhang*, F. Chan*, T. Parthasarathy*, M. Gazzola, "Modeling and simulation of complex dynamic musculoskeletal architectures", Nature Communications, 10 (1), 1-12, 2019.
+T. Parthasarathy*, F. Chan*, M. Gazzola, "Streaming-enhanced flow-mediated transport", Journal of Fluid Mechanics, 878, 647-662, 2019.
+N. Charles, M. Gazzola, L. Mahadevan, "Topology, geometry, and mechanics of strongly stretched and twisted filaments: solenoids, plectonemes, and artificial muscle fibers", Physical Review Letters, 123 (20), 208003, 2019.
+G. Chowdhary, M. Gazzola, G. Krishnan, C. Soman, S. Lovell, "Soft robotics as an enabling technology for agroforestry practice and research", Sustainability, 11 (23), 6751, 2019.
+C. Bernier, M. Gazzola, R. Ronsse, P. Chatelain, "Simulations of propelling and energy harvesting articulated bodies via vortex particle-mesh methods", Journal of Computational Physics, 392, 34-55, 2019. 
+M. Gazzola, L. Dudte, A. McCormick, L. Mahadevan, "Forward and inverse problems in the mechanics of soft filaments", Royal Society Open Science, 5 (6), 171628, 2018.
+G. Pagan-Diaz, X. Zhang*, L. Grant, Y. Kim, O. Aydin, C. Cvetkovic, E. Ko, E. Solomon, J. Hollis, H. Kong, T. Saif, M. Gazzola, R. Bashir, "Simulation and fabrication of stronger, larger and faster walking biohybrid machines", Advanced Functional Materials, 28 (23), 1801145, 2018.
+S. Park, M. Gazzola, K. Park, S. Park, V. Di Santo, E. Blevins, J. Lind, P. Campbell, S. Dauth, A. Capulli, F. Pasqualini, S. Ahn, A. Cho, H. Yuan, B. Maoz, R. Vijaykumar, J. Choi, K. Deisseroth, G. Lauder, L. Mahadevan, K. Parker, "Phototactic guidance of a tissue-engineered soft-robotic ray", Science, 353 (6295), 158-162, 2016.
+M. Gazzola, A. Tchieu, D. Alexeev, A. de Brauer, P. Koumoutsakos, "Learning to school in the presence of hydrodynamic interactions", Journal of Fluid Mechanics, 789, 726-749, 2016.
+M. Gazzola, M. Argentina, L. Mahadevan, "Gait and speed selection in slender inertial swimmers", Proceedings of the National Academy of Sciences, 112 (13), 3874-3879, 2015.
+W. M. van Rees, M. Gazzola, P. Koumoutsakos, "Optimal morphokinematics for undulatory swimmers at intermediate Reynolds numbers", Journal of Fluid Mechanics, 722, R3, 2015.
+F. Huhn, W. van Rees, M. Gazzola, D. Rossinelli, G. Haller, P. Koumoutsakos, "Quantitative flow analysis of swimming dynamics with coherent lagrangian vortices", Chaos, 25 (8), 087405, 2015.
+D. Rossinelli, B. Hejazialhosseini, W. van Rees, M. Gazzola, M. Bergdorf, P. Koumoutsakos, "MRAG-I2D: Multi-resolution adapted grids for remeshed vortex methods on multicore architectures", Journal of Computational Physics, 288, 1-18, 2015.
+M. Gazzola, M. Argentina, L. Mahadevan, "Scaling macroscopic aquatic locomotion", Nature Physics, 10 (10), 758-761, 2014.
+M. Gazzola, B. Hejazialhosseini, P. Koumoutsakos, "Reinforcement learning and wavelet adapted vortex methods for simulations of self-propelled swimmers", SIAM Journal on Scientific Computing, 36 (3), B622-B639, 2014.
+W. van Rees, M. Gazzola, P. Koumoutsakos, "Optimal shapes for anguilliform swimmers at intermediate Reynolds numbers", Journal of Fluid Mechanics,  698, 5-18, 2013.
+M. Gazzola, C. Mimeau, A. Tchieu, P. Koumoutsakos, "Flow mediated interactions between two cylinders at finite Reynolds numbers", Physics of Fluids, 24 (4), 043103, 2012.
+M. Gazzola, W. van Rees, P. Koumoutsakos, "C-start: optimal start of larval fish", Journal of Fluid Mechanics, 698, 5-18, 2012.
+P. Chatelain, M. Gazzola, S. Kern, P. Koumoutsakos, "Simulations of single and multiple swimmers with non-divergence free deforming geometries", Journal of Computational Physics, 230 (19), 7093-7114, 2011.
+M. Gazzola, O. Vasilyev, P. Koumoutsakos, "Shape optimization for drag reduction in linked bodies using evolution strategies", Computers and Structures, 89 (11-12), 1224-1231, 2011.
+M. Gazzola, C. Burckhardt, B. Bayati, M. Engelke, U. Greber, P. Koumoutsakos, "A stochastic model for microtubule motors describes the in vivo cytoplasmic transport of human adenovirus", PLoS Computational Biology, 5(12): e1000623, 2009.
+J. Peiro, L. Formaggia, M. Gazzola, A. Radaelli, V. Rigamonti, "Shape reconstruction from medical images and quality mesh generation via implicit surfaces", International Journal for Numerical Methods in Fluids, 53 (8), 1339-1360, 2007.
+E. Oubel, M. De Craene, M. Gazzola, O. Alfred,  A. Frangi, "Multiview registration of cardiac tagging MRI images", 4th IEEE International Symposium on Biomedical Imaging: Macro to Nano, pp. 388-391, 2007.
+Click for more
+Other Scholarly Activities
+Paper2Tree Fall Event 2018
+Initiated and funded large scale outreach Paper2Tree project, involving Champaign and Urbana municipalities, school and park districts (2017)
+
+Honors
+Cover of Physical Review Letters (2022)
+Cover of Advanced Intelligent Systems (2021)
+NSF CAREER Award (2019)
+Cover of Journal of Fluid Mechanics (2019)
+Cover of Advanced Functional Materials (2018)
+Blue Waters Professorship (2016)
+Cover of Science
+ (2016)
+Advanced Swiss National Science Foundation Fellowship (2015)
+Le Prix La Recherche (2015)
+Cover of Nature Physics (2014)
+Swiss National Science Foundation Fellowship (2013)
+ETH Medal Award for Outstanding Doctoral Thesis (2013)
+Click for more
+Teaching Honors
+UIUC Teacher Ranked as Excellent by Students (Fall 2016, Spring 2017, Fall 2018)
+
+Improvement Activities
+Collins Scholars, 2016-2017
+
+
+Recent Courses TaughtME 310 AE2 (ME 310 AL3, ME 310 AL1) - Fundamentals of Fluid Dynamics
+ME 447 - Comp Design & Dyn of Soft Syst
+ME 498 MG - Comp modeling & optimization
+TAM 539 - Fluid Mechanics Seminar
+
+
+
+
+
+
+
+Related News
+
+	November 10, 2023
+	Gazzola's soft bendable CyberOctopus called a machine learning marvel
+
+	August 21, 2023
+	More faculty from MechSE earn promotion and named appointments
+
+	March 6, 2023
+	Gazzola wins Grainger Engineering Dean's Award
+
+	February 24, 2023
+	Reaching like an octopus: a biology-inspired model opens the door to soft robot control
+
+	February 9, 2023
+	Gazzola named Fellow of Center for Advanced Study
+
+	January 20, 2023
+	Microelectronics give researchers a remote control for biological robots
+
+
+
+
+
+
+
+
