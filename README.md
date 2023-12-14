@@ -6,7 +6,7 @@ Python, beautiful soap to retreive professor's information for a given Universit
 
 build an index file for professors
 
-**Installation step
+Installation step:
 
 .....
 
@@ -24,7 +24,7 @@ Implemented NLTK for keyword synonyms search
 
 Implemented case non-sensitive keyword search
 
-**Installation：**
+**Installation step：**
 
 pip install fastapi[all] uvicorn
 
