@@ -19,7 +19,11 @@ class ProfessorSearch:
         self.text_files_directory = text_files_directory
         self.corpus, self.filenames = self._load_corpus()
         self.tokenized_corpus = [doc.split(" ") for doc in self.corpus]
-        self.bm25 = BM25Okapi(self.tokenized_corpus)
+        # Custom parameters
+        k1 = 1.5
+        b = 0.75       
+        # Initialize BM25 with custom parameters
+        self.bm25 = BM25Okapi(self.tokenized_corpus, k1=k1, b=b)
 
     def _load_corpus(self) -> Tuple[List[str], List[str]]:
         corpus = []
