@@ -2,6 +2,1094 @@
     {
         "name": "Anu  Aggarwal",
         "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=96320&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/agganu",
+        "doc_name": "anu-aggarwal"
+    },
+    {
+        "name": "Narendra  Ahuja",
+        "department": "ece",
+        "title": "Research Professor, formerly Donald Biggar Willett Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=30761&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/n-ahuja",
+        "doc_name": "narendra-ahuja"
+    },
+    {
+        "name": "Jont  Allen",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3617&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jontalle",
+        "doc_name": "jont-allen"
+    },
+    {
+        "name": "Juan  Alvarez",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=11013&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/alvarez",
+        "doc_name": "juan-alvarez"
+    },
+    {
+        "name": "Arijit  Banerjee",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=68614&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/arijit",
+        "doc_name": "arijit-banerjee"
+    },
+    {
+        "name": "Yuliy Baryshnikov",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=18204&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ymb",
+        "doc_name": "juliy-baryshnikov"
+    },
+    {
+        "name": "Tamer Basar",
+        "department": "ece",
+        "title": "Swanlund Endowed Chair Emeritus and CAS Professor Emeritus of Electrical and Computer Engineering",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3575&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/basar1",
+        "doc_name": "tamer-basar"
+    },
+    {
+        "name": "Tangul  Basar",
+        "department": "ece",
+        "title": "Senior Lecturer, Retired",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3676&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/tangul",
+        "doc_name": "tangul-basar"
+    },
+    {
+        "name": "Can  Bayram",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=46625&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/cbayram",
+        "doc_name": "can-bayram"
+    },
+    {
+        "name": "James W. Beauchamp",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=136387&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jwbeauch",
+        "doc_name": "james-w-beauchamp"
+    },
+    {
+        "name": "Mohamed Ali  Belabbas",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=29488&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/belabbas",
+        "doc_name": "mohamed-ali-belabbas"
+    },
+    {
+        "name": "Jennifer Bernhard",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3608&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jbernhar",
+        "doc_name": "jennifer-truman-bernhard"
+    },
+    {
+        "name": "Suma Bhat",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=52281&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/spbhat2",
+        "doc_name": "suma-pallathadka-bhat"
+    },
+    {
+        "name": "Ujjal Kumar Bhowmik",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=87325&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ubhowmik",
+        "doc_name": "ujjal-kumar-bhowmik"
+    },
+    {
+        "name": "Simeon  Bogdanov",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=95314&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/bogdanov",
+        "doc_name": "simeon-bogdanov"
+    },
+    {
+        "name": "Stephen  Boppart",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3578&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/boppart",
+        "doc_name": "stephen-boppart"
+    },
+    {
+        "name": "Nikita  Borisov",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3644&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/nikita",
+        "doc_name": "nikita-borisov"
+    },
+    {
+        "name": "Subhonmesh  Bose",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=58863&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/boses",
+        "doc_name": "subhonmesh-bose"
+    },
+    {
+        "name": "Yoram Bresler",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3687&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ybresler",
+        "doc_name": "yoram-bresler"
+    },
+    {
+        "name": "Donna Brown",
+        "department": "ece",
+        "title": "Associate Professor Emerita",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=9712&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/djb",
+        "doc_name": "donna-jean-brown"
+    },
+    {
+        "name": "Andreas C. Cangellaris",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3582&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/cangella",
+        "doc_name": "andreas-c-cangellaris"
+    },
+    {
+        "name": "Varun  Chandrasekaran",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=137427&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/varunc",
+        "doc_name": "varun-chandrasekaran"
+    },
+    {
+        "name": "Deming  Chen",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3589&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/dchen",
+        "doc_name": "deming-chen"
+    },
+    {
+        "name": "Xu  Chen",
+        "department": "ece",
+        "title": "Teaching Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=86222&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/xuchen1",
+        "doc_name": "xu-chen"
+    },
+    {
+        "name": "Yun-Sheng  Chen",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=89584&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/yunsheng",
+        "doc_name": "yun-sheng-chen"
+    },
+    {
+        "name": "Yuting Wu Chen",
+        "department": "ece",
+        "title": "Teaching Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=55251&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ywchen",
+        "doc_name": "yuting-wu-chen"
+    },
+    {
+        "name": "Zuofu  Cheng",
+        "department": "ece",
+        "title": "Teaching Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=46624&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/zcheng1",
+        "doc_name": "zuofu-cheng"
+    },
+    {
+        "name": "Weng Chew",
+        "department": "ece",
+        "title": "George and Ann Fisher Distinguished Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=75221&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/w-chew",
+        "doc_name": "weng-cho-chew"
+    },
+    {
+        "name": "Eric Chitambar",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=84487&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/echitamb",
+        "doc_name": "eric-anil-chitambar"
+    },
+    {
+        "name": "Hyungsoo  Choi",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3539&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/hyungsoo",
+        "doc_name": "hyungsoo-choi"
+    },
+    {
+        "name": "Kent D. Choquette",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3588&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/choquett",
+        "doc_name": "kent-d-choquette"
+    },
+    {
+        "name": "Brian T. Cunningham",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3576&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/bcunning",
+        "doc_name": "brian-t-cunningham"
+    },
+    {
+        "name": "John Dallesasse",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=23015&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jdallesa",
+        "doc_name": "john-michael-dallesasse"
+    },
+    {
+        "name": "Minh N. Do",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3638&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/minhdo",
+        "doc_name": "minh-n-do"
+    },
+    {
+        "name": "Alejandro  Dominguez-Garcia",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=4693&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/aledan",
+        "doc_name": "alejandro-dominguez-garcia"
+    },
+    {
+        "name": "Peter D. Dragic",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=4700&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/p-dragic",
+        "doc_name": "peter-d-dragic"
+    },
+    {
+        "name": "Katie Driggs-Campbell",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=83364&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/krdc",
+        "doc_name": "katherine-rose-driggs-campbell"
+    },
+    {
+        "name": "J. Gary  Eden",
+        "department": "ece",
+        "title": "Intel Alumni Endowed Chair Emeritus Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3611&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jgeden",
+        "doc_name": "j.-gary-eden"
+    },
+    {
+        "name": "Kejie  Fang",
+        "department": "ece",
+        "title": "Assistant Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=77327&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/kfang3",
+        "doc_name": "kejie-fang"
+    },
+    {
+        "name": "Milton  Feng",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=98623&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/mfeng",
+        "doc_name": "milton-feng"
+    },
+    {
+        "name": "Arne Fliflet",
+        "department": "ece",
+        "title": "Lecturer",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=46628&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/afliflet",
+        "doc_name": "arne-woolsey-fliflet"
+    },
+    {
+        "name": "Steven J. Franke",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3667&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/s-franke",
+        "doc_name": "steven-j-franke"
+    },
+    {
+        "name": "Chester S. Gardner",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=18079&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/cgardner",
+        "doc_name": "chester-s-gardner"
+    },
+    {
+        "name": "Matthew  Gilbert",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=4739&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/matthewg",
+        "doc_name": "matthew-gilbert"
+    },
+    {
+        "name": "Lynford L. Goddard",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3853&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/lgoddard",
+        "doc_name": "lynford-l-goddard"
+    },
+    {
+        "name": "Songbin  Gong",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=38685&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/songbin",
+        "doc_name": "songbin-gong"
+    },
+    {
+        "name": "George Gross",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3601&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/gross",
+        "doc_name": "george-gross"
+    },
+    {
+        "name": "Viktor  Gruev",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=64045&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/vgruev",
+        "doc_name": "viktor-gruev"
+    },
+    {
+        "name": "Saurabh  Gupta",
+        "department": "ece",
+        "title": "Assistant Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=87536&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/saurabhg",
+        "doc_name": "saurabh-gupta"
+    },
+    {
+        "name": "Bruce  Hajek",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3573&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/b-hajek",
+        "doc_name": "bruce-hajek"
+    },
+    {
+        "name": "Ibrahim N. Hajj",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=39525&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ihajj",
+        "doc_name": "ibrahim-n-hajj"
+    },
+    {
+        "name": "Lippold Haken",
+        "department": "ece",
+        "title": "Teaching Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3698&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/l-haken",
+        "doc_name": "lippold-haken"
+    },
+    {
+        "name": "Pavan Kumar  Hanumolu",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=32983&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/hanumolu",
+        "doc_name": "pavan-kumar-hanumolu"
+    },
+    {
+        "name": "Kiruba Sivasubramaniam Haran",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=42046&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/kharan",
+        "doc_name": "kiruba-sivasubramaniam-haran"
+    },
+    {
+        "name": "Mark Hasegawa-Johnson",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3612&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jhasegaw",
+        "doc_name": "mark-allan-hasegawa-johnson"
+    },
+    {
+        "name": "Wei  He",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=47533&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/weihe16",
+        "doc_name": "wei-he"
+    },
+    {
+        "name": "Philip  Hillmer",
+        "department": "ece",
+        "title": "Lecturer",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3604&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/hillmer",
+        "doc_name": "philip-hillmer"
+    },
+    {
+        "name": "Bin  Hu",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=84209&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/binhu7",
+        "doc_name": "bin-hu"
+    },
+    {
+        "name": "Yih-Chun  Hu",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3688&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/yihchun",
+        "doc_name": "yih-chun-hu"
+    },
+    {
+        "name": "Jian  Huang",
+        "department": "ece",
+        "title": "Assistant Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=72627&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jianh",
+        "doc_name": "jian-huang"
+    },
+    {
+        "name": "Wen-mei  Hwu",
+        "department": "ece",
+        "title": "AMD Jerry Sanders Chair Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3681&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/w-hwu",
+        "doc_name": "wen-mei-hwu"
+    },
+    {
+        "name": "Raluca Ilie",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=63889&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/rilie",
+        "doc_name": "raluca-ilie"
+    },
+    {
+        "name": "Ravishankar K. Iyer",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3660&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/rkiyer",
+        "doc_name": "ravishankar-k-iyer"
+    },
+    {
+        "name": "Jianming  Jin",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3607&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/j-jin1",
+        "doc_name": "jianming-jin"
+    },
+    {
+        "name": "Douglas L. Jones",
+        "department": "ece",
+        "title": "William L. Everitt Distinguished Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3591&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/dl-jones",
+        "doc_name": "douglas-l-jones"
+    },
+    {
+        "name": "Zbigniew T. Kalbarczyk",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=66001&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/kalbarcz",
+        "doc_name": "zbigniew-t-kalbarczyk"
+    },
+    {
+        "name": "Farzad  Kamalabadi",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3598&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/farzadk",
+        "doc_name": "farzad-kamalabadi"
+    },
+    {
+        "name": "Nickvash  Kani",
+        "department": "ece",
+        "title": "Research Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=98734&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/kani",
+        "doc_name": "nickvash-kani"
+    },
+    {
+        "name": "Dimitrios  Katselis",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=56342&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/katselis",
+        "doc_name": "dimitrios-katselis"
+    },
+    {
+        "name": "Timothy L. Killeen",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=52947&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/tkilleen",
+        "doc_name": "timothy-l-killeen"
+    },
+    {
+        "name": "Hyunseok  Kim",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=134189&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/hyunseok",
+        "doc_name": "hyunseok-kim"
+    },
+    {
+        "name": "Joohyung  Kim",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=100422&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/joohyung",
+        "doc_name": "joohyung-kim"
+    },
+    {
+        "name": "Kyekyoon  Kim",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3621&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/kevinkim",
+        "doc_name": "kyekyoon-kim"
+    },
+    {
+        "name": "Nam Sung  Kim",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=52474&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/nskim",
+        "doc_name": "nam-sung-kim"
+    },
+    {
+        "name": "Philip T. Krein",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3624&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/krein",
+        "doc_name": "philip-t-krein"
+    },
+    {
+        "name": "Erhan  Kudeki",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3597&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/erhan",
+        "doc_name": "erhan-kudeki"
+    },
+    {
+        "name": "Rakesh  Kumar",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3725&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/rakeshk",
+        "doc_name": "rakesh-kumar"
+    },
+    {
+        "name": "Jean-Pierre Leburton",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3615&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jleburto",
+        "doc_name": "jean-pierre-leburton"
+    },
+    {
+        "name": "Minjoo Lawrence Lee",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=62140&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/mllee",
+        "doc_name": "minjoo-lawrence-lee"
+    },
+    {
+        "name": "Kirill Levchenko",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=84210&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/klevchen",
+        "doc_name": "kirill-levchenko"
+    },
+    {
+        "name": "Xiuling  Li",
+        "department": "ece",
+        "title": "Professor Emerita",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3774&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/xiuling",
+        "doc_name": "xiuling-li"
+    },
+    {
+        "name": "Zhi-Pei  Liang",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3690&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/z-liang",
+        "doc_name": "zhi-pei-liang"
+    },
+    {
+        "name": "Daniel M. Liberzon",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3628&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/liberzon",
+        "doc_name": "daniel-m-liberzon"
+    },
+    {
+        "name": "Michael Loui",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3629&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/loui",
+        "doc_name": "michael-c-loui"
+    },
+    {
+        "name": "Steven Lumetta",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3631&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/lumetta",
+        "doc_name": "steven-sam-lumetta"
+    },
+    {
+        "name": "Joseph W. Lyding",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3632&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/lyding",
+        "doc_name": "joseph-w-lyding"
+    },
+    {
+        "name": "Jonathan Makela",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3616&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jmakela",
+        "doc_name": "jonathan-j-makela"
+    },
+    {
+        "name": "Olgica  Milenkovic",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3854&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/milenkov",
+        "doc_name": "olgica-milenkovic"
+    },
+    {
+        "name": "Andrew Miller",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=63137&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/soc1024",
+        "doc_name": "andrew-edmund-miller"
+    },
+    {
+        "name": "Olga Mironenko",
+        "department": "ece",
+        "title": "Teaching Assistant Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=107903&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/olgamiro",
+        "doc_name": "olga-mironenko"
+    },
+    {
+        "name": "Andrey  Mironov",
+        "department": "ece",
+        "title": "Research Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=115836&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/amirono2",
+        "doc_name": "andrey-mironov"
+    },
+    {
+        "name": "Sayan  Mitra",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=137935&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/mitras",
+        "doc_name": "sayan-mitra"
+    },
+    {
+        "name": "Radhika  Mittal",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=87531&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/radhikam",
+        "doc_name": "radhika-mittal"
+    },
+    {
+        "name": "Thomas  Moon",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=98126&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/tmoon",
+        "doc_name": "thomas-moon"
+    },
+    {
+        "name": "Pierre  Moulin",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3651&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/pmoulin",
+        "doc_name": "pierre-moulin"
+    },
+    {
+        "name": "David M. Nicol",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3592&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/dmnicol",
+        "doc_name": "david-malcolm-nicol"
+    },
+    {
+        "name": "Bill O'Brien, Jr.",
+        "department": "ece",
+        "title": "Donald Biggar Willett Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3684&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/wdo",
+        "doc_name": "william-d-o'brien"
+    },
+    {
+        "name": "Michael L. Oelze",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3647&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/oelze",
+        "doc_name": "michael-l-oelze"
+    },
+    {
+        "name": "Janak H. Patel",
+        "department": "ece",
+        "title": "Donald Biggar Willett Professor Emeritus ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=8000&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jhpatel",
+        "doc_name": "janak-h-patel"
+    },
+    {
+        "name": "Sanjay Patel",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3702&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/sjp",
+        "doc_name": "sanjay-jeram-patel"
+    },
+    {
+        "name": "Zhen  Peng",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=96117&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/zvpeng",
+        "doc_name": "zhen-peng"
+    },
+    {
+        "name": "Chandrasekhar  Radhakrishnan",
+        "department": "ece",
+        "title": "Teaching Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=18041&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/cradhak",
+        "doc_name": "chandrasekhar-radhakrishnan"
+    },
+    {
+        "name": "Maxim  Raginsky",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=23013&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/maxim",
+        "doc_name": "maxim-raginsky"
+    },
+    {
+        "name": "Shaloo  Rakheja",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=96995&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/rakheja",
+        "doc_name": "shaloo-rakheja"
+    },
+    {
+        "name": "Umberto  Ravaioli",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3657&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ravaioli",
+        "doc_name": "umberto-ravaioli"
+    },
+    {
+        "name": "Elyse  Rosenbaum",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3596&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/elyse",
+        "doc_name": "elyse-rosenbaum"
+    },
+    {
+        "name": "Romit  Roy Choudhury",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=34470&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/croy",
+        "doc_name": "romit-roy-choudhury"
+    },
+    {
+        "name": "William H. Sanders",
+        "department": "ece",
+        "title": "Herman M. Dieckamp Endowed Chair Emeritus in Engineering",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=37331&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/whs",
+        "doc_name": "william-h-sanders"
+    },
+    {
+        "name": "Christopher  Schmitz",
+        "department": "ece",
+        "title": "Teaching Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=10784&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/cdschmit",
+        "doc_name": "christopher-schmitz"
+    },
+    {
+        "name": "Jonathon Kenneth Schuh",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=86687&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/schuh4",
+        "doc_name": "jonathon-kenneth-schuh"
+    },
+    {
+        "name": "Jose E. Schutt-Aine",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3610&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/jesa",
+        "doc_name": "jose-e-schutt-aine"
+    },
+    {
+        "name": "Alexander Schwing",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=63138&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/aschwing",
+        "doc_name": "alexander-gerhard-schwing"
+    },
+    {
+        "name": "Naresh R. Shanbhag",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3673&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/shanbhag",
+        "doc_name": "naresh-r-shanbhag"
+    },
+    {
+        "name": "Victoria Shao",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=96118&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/yangshao",
+        "doc_name": "yang-victoria-shao"
+    },
+    {
+        "name": "Ilan  Shomorony",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=84404&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ilans",
+        "doc_name": "ilan-shomorony"
+    },
+    {
+        "name": "Andrew Singer",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3571&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/acsinger",
+        "doc_name": "andrew-carl-singer"
+    },
+    {
+        "name": "Paris  Smaragdis",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=10351&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/paris",
+        "doc_name": "paris-smaragdis"
+    },
+    {
+        "name": "Pengfei  Song",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=83320&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/songp",
+        "doc_name": "pengfei-song"
+    },
+    {
+        "name": "Rayadurgam  Srikant",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3664&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/rsrikant",
+        "doc_name": "rayadurgam-srikant"
+    },
+    {
+        "name": "Andrew R. Stillwell",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=99036&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/andrewrs",
+        "doc_name": "andrew-r-stillwell"
+    },
+    {
+        "name": "Gary R. Swenson",
+        "department": "ece",
+        "title": "Research Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=18078&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/swenson1",
+        "doc_name": "gary-r-swenson"
+    },
+    {
+        "name": "Timothy N. Trick",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3677&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ttrick",
+        "doc_name": "timothy-n-trick"
+    },
+    {
+        "name": "Haohua  Tu",
+        "department": "ece",
+        "title": "Research Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=120510&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/htu",
+        "doc_name": "haohua-tu"
+    },
+    {
+        "name": "Abhishek K. Umrawal",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=138172&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/aumrawal",
+        "doc_name": "abhishek-kumar-umrawal"
+    },
+    {
+        "name": "Lav R. Varshney",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=42043&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/varshney",
+        "doc_name": "lav-r-varshney"
+    },
+    {
+        "name": "Venugopal V. Veeravalli",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3679&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/vvv",
+        "doc_name": "venugopal-varadachari-veeravalli"
+    },
+    {
+        "name": "Pramod  Viswanath",
+        "department": "ece",
+        "title": "Professor Emeritus",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=3653&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/pramodv",
+        "doc_name": "pramod-viswanath"
+    },
+    {
+        "name": "Yurii Vlasov",
+        "department": "ece",
+        "title": "Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=59539&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/yvlasov",
+        "doc_name": "yurii-a-vlasov"
+    },
+    {
+        "name": "Lara  Waldrop",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=44926&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/lwaldrop",
+        "doc_name": "lara-waldrop"
+    },
+    {
+        "name": "Dong Kai  Wang",
+        "department": "ece",
+        "title": "Teaching Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=79279&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/dwang47",
+        "doc_name": "dong-kai-wang"
+    },
+    {
+        "name": "Huan  Zhang",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=139124&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/huanz",
+        "doc_name": "huan-zhang"
+    },
+    {
+        "name": "Richard Y. Zhang",
+        "department": "ece",
+        "title": "Assistant Professor ",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=94491&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/ryz",
+        "doc_name": "richard-y.-zhang"
+    },
+    {
+        "name": "Yupeng Zhang",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=134974&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/zhangyp",
+        "doc_name": "yupeng-zhang"
+    },
+    {
+        "name": "Yang  Zhao",
+        "department": "ece",
+        "title": "Assistant Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=88526&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/yzhaoui",
+        "doc_name": "yang-zhao"
+    },
+    {
+        "name": "Zhizhen Jane  Zhao",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=63139&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/zhizhenz",
+        "doc_name": "zhizhen-jane-zhao"
+    },
+    {
+        "name": "Wenjuan  Zhu",
+        "department": "ece",
+        "title": "Associate Professor",
+        "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=46627&s=400&type=portrait",
+        "home_page_url": "https://ece.illinois.edu/about/directory/faculty/wjzhu",
+        "doc_name": "wenjuan-zhu"
+    },
+    {
+        "name": "Anu  Aggarwal",
+        "department": "ece",
         "photo_url": "https://ws.engr.illinois.edu/directory/viewphoto.aspx?id=96320&s=400&type=portrait",
         "home_page_url": "https://ece.illinois.edu/about/directory/faculty/agganu",
         "doc_name": "anu-aggarwal",
