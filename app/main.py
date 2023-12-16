@@ -5,7 +5,10 @@ from fastapi import FastAPI, Request, Form
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
 import os,json,nltk
+from nltk.tokenize import word_tokenize
+from nltk.stem import PorterStemmer
 
+nltk.download('punkt')
 nltk.download('wordnet')
 from nltk.corpus import wordnet as wn
 
@@ -16,10 +19,20 @@ templates = Jinja2Templates(directory="templates")
 
 class ProfessorSearch:
     def __init__(self, text_files_directory: str):
+        self.ps = PorterStemmer()  # Initialize the Porter Stemmer
         self.text_files_directory = text_files_directory
         self.corpus, self.filenames = self._load_corpus()
         self.tokenized_corpus = [doc.split(" ") for doc in self.corpus]
-        self.bm25 = BM25Okapi(self.tokenized_corpus)
+
+        # Custom parameters
+        k1 = 1.5
+        b = 0.75       
+        # Initialize BM25 with custom parameters
+        self.bm25 = BM25Okapi(self.tokenized_corpus, k1=k1, b=b)
+        
+    def _stem_text(self, text):
+        tokens = word_tokenize(text)
+        return " ".join([self.ps.stem(token) for token in tokens])
 
     def _load_corpus(self) -> Tuple[List[str], List[str]]:
         corpus = []
@@ -27,15 +40,21 @@ class ProfessorSearch:
         for filename in os.listdir(self.text_files_directory):
             if filename.endswith(".txt"):
                 with open(os.path.join(self.text_files_directory, filename), 'r', encoding='utf-8') as f:
-                    corpus.append(f.read().lower())
+                    text = f.read().lower()
+                    stemmed_text = self._stem_text(text)  # Stem the text
+                    corpus.append(stemmed_text)
                     filenames.append(os.path.splitext(filename)[0])
         return corpus, filenames
 
     def search(self, query: str, top_n: int = 5) -> List[dict]:
-        tokenized_query = query.split(" ")
+        # Stem the query
+        stemmed_query = self._stem_text(query)
+        # Tokenize and expand the query        
+        tokenized_query = stemmed_query.split(" ")
+        print(f"word,STEM word:{query, tokenized_query}")
+        tokenized_query += query.split(" ")
+        expanded_query = tokenized_query.copy() 
         
-        expanded_query = tokenized_query.copy()
-
         # To support synonyms search, expand each term in the query with synonyms
         for term in tokenized_query:
             expanded_query.extend(get_synonyms(term, max_synonyms=5))
