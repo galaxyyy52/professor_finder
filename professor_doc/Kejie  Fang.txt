@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+ 
+
+
+Kejie Fang 
+
+
+
+Assistant Professor 
+(217) 300-6765
+kfang3@illinois.edu
+2112 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Fang research group
+
+Education
+Ph.D. Physics, Stanford University, 2013. Thesis: Creating Effective Magnetic Field for Photons: Principles and Applications. Adviser: Shanhui Fan
+
+Research StatementResearch in Fang group focuses on study of light-matter interactions at micro- and nano-scales. Guided by exploratory theories, research emphasis is given to device demonstrations and multi-scale integrations for applications in photonic quantum information processing, quantum sensing, and quantum networks.
+Graduate Research OpportunitiesWe welcome highly motivated students to join our group. Our research intersects with several fields of science and engineering including quantum optics, nanophotonics, and NEMS, and offers rich opportunities for graduate researchers to be trained in device physics, fabrication, and measurements. Incoming or interested students should contact Prof. Fang (kfang3@illinois.edu) with a complete CV, accompanied by a short paragraph highlighting relevant practical experience and coursework.
+Research Interests
+Quantum photonics
+Optomechanics
+Nanophotonics
+Nonlinear photonics
+
+
+Research Areas
+Microcavity lasers and nanophotonics
+Microelectromechanical systems (MEMS)
+Microelectronics and Photonics
+Nano-electro mechanical systems (NEMS)
+Nano-photonics
+Nanotechnology
+Photonic integrated circuits (PICs)
+Semiconductor lasers and photonic devices
+Sensors
+Click for more
+
+Research Topics
+Micro & nanoelectromechanical M/NEMS integrated systems
+Quantum optics, cryptography, information, and computing
+
+Selected Articles in Journals
+M. Zhao and K. Fang, Observation of photon-phonon correlations via dissipative filtering, Physical Review Applied 18, 034043 (2022).
+
+S. Liu, H. Tong, and K. Fang, Optomechanical crystal with bound states in the continuum, Nature Communications 13, 3187 (2022).
+
+M. Zhao and K. Fang, “InGaP quantum nanophotonic integrated circuits with 1.5% nonlinearity-to-loss ratio”, Optica 9, 258-263 (2022).
+
+Y. Wang and K. Fang; “Few-photon transport via a multimode nonlinear cavity: Theory and applications”, Phys. Rev. A 105, 023713 (2022).
+
+Y. Wang and K. Fang, "Continuous-variable graph states for quantum metrology", Phys. Rev. A 102, 052601 (2020).
+
+H. Tong, S. Liu, M. Zhao, and K. Fang, "Observation of phonon trapping in the continuum with topological charges", Nature Communications 11, 5216 (2020).
+
+M. Zhao, W. Kusolthossakul, and K. Fang, "High-efficiency fiber-to-chip interface for aluminum nitride quantum photonics", OSA Continuum 3, 952-960 (2020).
+
+K. Fang and Y. Wang, Anomalous quantum Hall effect of light in Bloch-wave modulated photonic crystals, Phys. Rev. Lett. 122, 233904 (2019).
+
+M. Zhao and K. Fang, Mechanical bound states in the continuum for macroscopic optomechanics, Opt. Express 27, 10138-10151 (2019).
+
+K. Fang, J. Luo, A. Metelmann, M. H. Matheny, F. Marquardt, A. A. Clerk, and O. Painter, “Generalized nonreciprocity in an optomechanical circuit via synthetic magnetism and reservoir engineering”, Nature Physics 13, 465–471 (2017).
+
+K. Fang, M. H. Matheny, X. Luan, and O. Painter, “Optical transduction and routing of microwave phonons in cavity-optomechanical circuits”, Nature Photonics 10, 489-496 (2016).
+
+A.A. Asatryan, L.C. Botten, K. Fang, S. Fan, and R.C. McPhedran, “Two dimensional Green’s tensor for gyrotropic clusters composed of circular cylinders”, Journal of the Optical Society of America A 31, 2294 (2014).
+
+L.D. Tzuang, K. Fang, P. Nussenzveig, S. Fan, and M. Lipson, “Nonreciprocal phase shift induced by an effective magnetic flux for light”, Nature Photonics 8, 701 (2014).
+
+E. Li, B. Eggleton, K. Fang, and S. Fan, “Photonic Aharonov–Bohm effect in photon–phonon interactions”, Nature Communications 5: 3225 (2014).
+
+K. Fang, V. M. Acosta, C. Santori, Z. Huang, K. M. Itoh, H. Watanabi, S. Shikata, and R. G. Beausoleil, "High-sensitivity magnetometry based on quantum beats in diamond nitrogen-vacancy centers", Physical Review Letters 110, 130802 (2013).
+
+K. Fang and S. Fan, "Controlling the flow of light using inhomogeneous effective gauge field that emerges from dynamic modulation", Physical Review Letters 111, 203901 (2013).
+
+K. Fang and S. Fan, “Effective magnetic field for photons based on magneto-optical effect”, Physical Review A 88, 043847 (2013).
+
+A.A. Asatryan, L.C. Botten, K. Fang, S. Fan, and R.C. McPhedran, “Local density of states of chiral Hall edge states in gyrotropic photonic clusters”, Physical Review B 88, 035127 (2013).
+
+K. Fang, Z. Yu, and S. Fan, “Photonic de Haas-van Alphen effect”, Optics Express 21, 18216 (2013).
+
+K. Fang, Z. Yu, and S. Fan, “Experimental demonstration of a photonic Aharonov-Bohm effect”, Physical Review B 87 060301(R) (2013).
+
+K. Fang, Z. Yu, and S. Fan, “Realizing effective magnetic field for photons by controlling the phase of dynamic modulation”, Nature Photonics 6, 782-787 (2012).
+
+K. Fang, Z. Yu, and S. Fan, “Photonic Aharonov-Bohm effect based on dynamic modulation", Physical Review Letters 108 153901 (2012).
+
+K. Fang, Z. Yu, V. Liu, and S. Fan, “Ultra-compact optical isolator using Fano interference in photonic crystal slab”, Optics Letters 36 4254–4256 (2011).
+
+K. Fang, Z. Yu, and S. Fan, “Microscopic physics of photonic one-way edge mode”, Physical Review B 84 075477 (2011).
+
+K. Fang, B. Chen, and W. Xue, “Noncommutative geometry modified non-Gaussianities of cosmological perturbation”, Physical Review D 77 063523 (2008).
+
+K. Fang, “On factorization of couple channel scattering S matrices”, Communication in Theoretical Physics 48 901-907 (2007).
+
+Click for more
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 398 KF - Quantum Systems I
+ECE 445 - Senior Design Project Lab
+ECE 487 - Intro Quantum Electr for EEs
+ECE 498 KF (ECE 498 KF3, ECE 498 KF4) - Quantum Optics & Devices
+
+
+
+
+
+
+
+Related News
+
+
+Midwest collaboration, led by IQUIST, awarded $25 million quantum information institute
+
+
+Fang wins NSF CAREER award
+
+
+ECE ILLINOIS welcomes two new faculty members
+
+
+
+
+
+
+
+

@@ -1,0 +1,96 @@
+
+
+In This SectionPeopleAll Faculty
+Department Faculty
+Adjuncts and Affiliates
+Emeritus Faculty
+
+
+Staff
+Staff Listing
+Service Areas and Offices
+
+
+
+
+
+
+ 
+
+
+Andre Schleife he/him/his
+
+
+
+Associate Professor
+(217) 244-0339
+schleife@illinois.edu
+408B Materials Science & Eng Bld
+
+
+
+For More Information
+Follow us on Twitter
+Schleife research group page
+
+Short Courses
+08/2019 Teacher and Organizer at "Summer School and Workshop on Time-Dependent Density Functional Theory", Rutgers, NJ
+06/2019 Two-week class on "First-principles Quantum Simulations" at Universidade Federal do ABC, Sao Paulo, Brazil
+
+Research StatementMaterials are real-world realizations of quantum mechanics and a platform for novel states that emerge depending on relative coupling of charge, spin, and lattice degrees of freedom, and external excitations. My group (http://schleife.matse.illinois.edu) uses advanced computation to understand and predict this intricate interplay for materials in electronic and energy applications and under extreme conditions. We study electronic excitations, triggered by interaction with electromagnetic and particle radiation, and subsequent femto-second relaxation processes. These are of high fundamental scientific interest, critically important for materials characterization, and determine efficiency of materials in electronic, optical, and photonic applications. We have extensive expertise with first-principles simulations, based on density func- tional, many-body perturbation, and time-dependent density functional theory, of hard materials, modern semiconductors, and nanomaterials. We also use this insight to advance the theoretical framework and its numerical implementation, positioning us well in an exciting and modern field.
+
+Research Areas
+Computational Material Science
+Electronic Materials
+
+
+Research Topics
+Data Science & Accelerated Materials Discovery
+Energy & Environment 
+Nanoscale Science and Technology
+
+Selected Articles in Journals
+Jiuyu Sun, Cheng-Wei Lee, Alina Kononov, André Schleife, Carsten A. Ullrich, "Real-time exciton dynamics with time-dependent density-functional theory", Phys. Rev. Lett. 127, 077401 (2021)
+Xiao Zhang, Sebastian Achilles, Jan Winkelmann, Roland Haas, André Schleife, Edoardo Di Napoli, "Solving the Bethe-Salpeter equation on massively parallel architectures", Computer Physics Communications 267, 108081 (2021)
+Alina Kononov, André Schleife, "Anomalous stopping and charge transfer in proton-irradiated graphene", Nano Lett. 21, 4816-4822 (2021)
+Leveillee, J., Schleife, A., "Free-electron effects on optical absorption of hybrid perovskite CH3NH3PbI3 from first principles" Phys. Rev. B 100, 035205 (2019)
+Lee, C.-W., Schleife, A., "Hot-electron mediated ion diffusion in semiconductors for ion-beam nanostructuring" Nano Lett. 19, 3939-3947 (2019)
+Kang, K., Kononov, A., Lee, C.-W., Leveillee, J. A., Shapera, E. P., Zhang, X., Schleife, A. "Pushing the frontiers of modeling excited electronic states and dynamics to accelerate materials engineering and design" Comput. Mater. Sci. 160, 207-216 (2019)
+Lee, C. - W. & Schleife, A. "Novel diffusion mechanism in the presence of excited electrons?: Ultrafast electron–ion dynamics in proton-irradiated magnesium oxide" Mater. Today 21, 925-927 (2018)
+Schleife, A., Kanai, Y. & Correa, A. A., "Accurate atomistic first-principles calculations of electronic stopping" Phys. Rev. B 91, 014306 (2015)
+Rödl, C. & Schleife, A. "Photoemission spectra and effective masses of n- and p-type oxide semiconductors from first principles: ZnO, CdO, SnO2, MnO, and NiO" Phys. Status Solidi A 211, 74-81 (2014)
+Varley, J. B., Schleife, A., Janotti, A. and Van de Walle, C. G. "Ambipolar doping in SnO" Appl. Phys. Lett. 103, 082118 (2013)
+Schleife, A., Rinke, P., Bechstedt, F. and Van de Walle, C. G. "Enhanced Optical Absorption Due to Symmetry Breaking in TiO_2(1-x) S_2x Alloys" J. Phys. Chem. C 117, 4189–4193 (2013)
+Schleife, A. and Bechstedt, F. "Ab initio description of quasiparticle band structures and optical near-edge absorption of transparent conducting oxides" J. Mater. Res. 27, 2180–2189 (2012)
+de Carvalho, L. Cláudio, Schleife, A., Furthmüller, J. and Bechstedt, F. "Distribution of cations in wurtzitic In_x Ga_1-x N and In_x Al_1-x N alloys: Consequences for energetics and quasiparticle electronic structures" Phys. Rev. B 85, 115121 (2012)
+Küfner, S., Schleife, A., Höffling, B. and Bechstedt, F. "Energetics and approximate quasiparticle electronic structure of low-index surfaces of SnO_2" Phys. Rev. B 86, 075320 (2012)
+Rinke, P., Schleife, A., Kioupakis, E., Janotti, A., Rödl, C., Bechstedt, F., Scheffler, M. and Van de Walle, C.G. "First-Principles Optical Spectra for F Centers in MgO" Phys. Rev. Lett. 108, 126404 (2012)
+Schleife, A., Draeger, E. W., Kanai, Y. and Correa, A. A. "Plane-wave pseudopotential implementation of explicit integrators for time-dependent Kohn-Sham equations in large-scale simulations" J. Chem. Phys. 137, 22A546 (2012)
+Schleife, A., Rödl, C., Fuchs, F., Hannewald, K. and Bechstedt, F. "Optical Absorption in Degenerately Doped Semiconductors: Mott Transition or Mahan Excitons?" Phys. Rev. Lett. 107, 236405 (2011)
+Schleife, A., Rödl, C., Fuchs, F., Furthmüller, J. and Bechstedt, F. "Optical and energy-loss spectra of MgO, ZnO, and CdO from ab initio many-body calculations" Phys. Rev. B 80, 035112 (2009)
+Schleife, A., Fuchs, F., Furthmüller, J. and Bechstedt, F. "First-principles study of ground- and excited-state properties of MgO, ZnO, and CdO polymorphs" Phys. Rev. B 73, 245212 (2006)
+Click for more
+Service on Campus Committees
+Education Director, Illinois MRSEC, 2023-current
+
+Research Honors
+2023 Dean's Award for Excellence in Research
+
+
+Recent Courses TaughtCSE 498 DM - Intro to Digital Materials
+ME 598 DM - Intro to Digital Materials
+MSE 304 - Electronic Properties of Matls
+MSE 404 ELA (MSE 404 MAC, MSE 404 MIC) - Computational MSE- Microscale
+MSE 485 (CSE 485, PHYS 466) - Atomic Scale Simulations
+MSE 595 - Materials Colloquium
+MSE 598 DM (MSE 598 DMO, MSE 598 ML, MSE 598 MLO) - Machine Learning for MatSE
+Click for more
+
+
+
+
+
+
+
+
+

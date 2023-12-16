@@ -1,0 +1,182 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Sergei Maslov 
+
+
+
+
+
+Professor and Bliss Faculty Scholar
+
+
+(217) 265-5705
+maslov@illinois.edu
+3146C Everitt Laboratory
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+Primary Research AreaComputational and Systems Biology
+Research Areas
+Big Data
+Bioinformatics
+Biomolecular modeling
+Cancer biology
+Cancer genomics
+Complex system modeling
+Computational biology and biomedicine
+Computational evolutionary and systems biology
+Dynamics of complex biomolecular networks
+Gene regulation
+Gene regulatory networks in bacteria
+Genomics of bacteria and their communities
+Metagenomics
+Neural modeling
+Noise biology
+Polymer mechanics
+Quantitative biology
+Statistical learning
+Systems biology
+Theoretical biological physics
+Click for more
+For More Information
+Sergei Maslov's group webpage
+
+Education
+Stony Brook University	PhD	1996	Theoretical statistical physics
+
+Academic Positions
+2015- Full Professor and Bliss Faculty Scholar at the Department of Bioengineering, University of Illinois at Urbana-Champaign (100%)
+2015- Full Professor and Bliss Faculty Scholar at the Department of Physics, University of Illinois at Urbana-Champaign (0%)
+
+Journal Editorships
+Associate Editor,  PLoS Computational Biology, 9/2019-present    
+Editorial board member of Biology Direct Journal, 10/2005-present   
+
+Service on Campus Committees
+Math Bio Faculty Search Committee. Department of Mathematics, 2022
+
+
+
+Primary Research AreaComputational and Systems Biology
+Research Areas
+Big Data
+Bioinformatics
+Biomolecular modeling
+Cancer biology
+Cancer genomics
+Complex system modeling
+Computational biology and biomedicine
+Computational evolutionary and systems biology
+Dynamics of complex biomolecular networks
+Gene regulation
+Gene regulatory networks in bacteria
+Genomics of bacteria and their communities
+Metagenomics
+Neural modeling
+Noise biology
+Polymer mechanics
+Quantitative biology
+Statistical learning
+Systems biology
+Theoretical biological physics
+Click for more
+
+
+Chapters in Books
+Maslov, S., Sneppen, K., and Alon, U. (2003). Correlation Profiles and Circuit Motifs in Complex Networks, an invited book chapter in  the "Handbook of Graphs and Networks", S. Bornholdt, and H.-G. Schuster, (eds.), Wiley-VCH, Weinheim.
+
+Selected Articles in Journals
+Xia F, Allen J, Balaprakash P, Brettin T, Garcia-Cardona C, Clyde A, Cohn J, Doroshow J, Duan X, Dubinkina V, Evrard Y, Fan YJ, Gans J, He S, Lu P, Maslov S, Partin A, Shukla M, Stahlberg E, Wozniak JM, Yoo H, Zaki G, Zhu Y, Stevens R. A cross-study analysis of drug response prediction in cancer cell lines. Brief Bioinform. (2022);23(1):bbab356.
+
+Wang Z, Goyal A, Dubinkina V, George A, Wang T, Fridman Y, Maslov S. Complementary resource preferences spontaneously emerge in diauxic microbial communities. Nature Communications 2021 12, 6661:6661-6612,  DOI:10.1038/s41467-021-27023-y (2021).
+
+Tkachenko AV, Maslov S, Wang T, Elbanna A, Wong GN, Goldenfeld N. [co-first and co-corresponding author] (2021). Elife 10, e68341, doi:10.7554/eLife.68341 (2021). 
+
+
+ 
+
+
+King WP, Amos J, Azer M, Baker D, Bashir R, Best C, Bethke E, Boppart SA, Bralts E, Corey RM, Dietkus R. Durack, Gary, Elbel, Stefan, Elliott, Greg, Fava, Jake, Goldenfeld, Nigel, Goldstein, Molly H., Hayes, Courtney, Herndon, Nicole, Jamison, Shandra, Johnson, Blake, Johnson, Harley, Johnson, Mark, Kolaczynski, John, Lee, Tonghun, Maslov, Sergei, McGregor, Davis J., Milner, Derek, Moller, Ralf, Mosley, Jonathan, Musser, Andy, Newberger, Max, Null, David, O’Bryan, Lucas, Oelze, Michael, O’Leary, Jerry, Pagano, Alex, Philpott, Michael, Pianfetti, Brian, Pille, Alex, Pizzuto, Luca, Ricconi, Brian, Rubessa, Marcello, Rylowicz, Sam, Shipley, Clifford, Singer, Andrew C., Stewart, Brian, Switzky, Rachel, Tawfick, Sameh, Wheeler, Matthew, White, Karen, Widloski, Evan M., Wood, Eric, Wood, Charles and Wooldridge, Abigail R. Emergency ventilator for COVID-19. PLoS One. 2020 Dec 30;15(12):e0244963.
+Tkachenko AV, Maslov S, Elbanna A, Wong GN, Weiner ZJ, Goldenfeld N. Persistent heterogeneity not short-term overdispersion determines herd immunity to COVID-19. PNAS, 118 (17) e2015972118; 
+
+Wong GN, Weiner ZJ, Tkachenko AV, Elbanna A, Maslov S, Goldenfeld N. Modeling COVID-19 dynamics in Illinois under nonpharmaceutical interventions. Physical Review X. 2020 Nov 16;10(4):041033
+Kudella PW, Tkachenko AV, Salditt A, Maslov S, Braun D. Structured sequences emerge from random pool when replicated by templated ligation. Proceedings of the National Academy of Sciences. 2021 Feb 23;118(8).  https://doi.org/10.1073/pnas.2018830118
+Goyal, A., Wang, T., Dubinkina, V. , Maslov S. Ecology-guided prediction of cross-feeding interactions in the human gut microbiome. Nat Commun 12, 1335 (2021). https://doi.org/10.1038/s41467-021-21586-6
+Tkachenko AV & Maslov S (2015) Spontaneous emergence of autocatalytic information-coding polymers. J Chem Phys 143(4):045102.
+Maslov S & Sneppen K (2015) Well-temperate phage: optimal bet-hedging against local environmental collapses. Sci Rep 5:10523.
+Maslov S & Sneppen K (2015) Diversity Waves in Collapse-Driven Population Dynamics. PLoS Comput Biol 11(9):e1004440.
+Dixit PD, Pang TY, Studier FW, & Maslov S (2015) Recombinant transfer in the basic genome of Escherichia coli. Proc Natl Acad Sci U S A 112(29):9070-9075.
+Pang TY & Maslov S (2013) Universal distribution of component frequencies in biological and technological systems. Proc. Natl. Acad. Sci. U. S. A. 110(15):6235-6239.
+Dixit PD & Maslov S (2013) Evolutionary Capacitance and Control of Protein Stability in Protein-Protein Interaction Networks. PLoS Computational Biology 9(4).
+Grilli J, Bassetti B, Maslov S, & Lagomarsino MC (2012) Joint scaling laws in functional and evolutionary categories in prokaryotic genomes. Nucleic Acids Res. 40(2):530-540.
+Heo M, Maslov S, & Shakhnovich E (2011) Topology of protein interaction network shapes protein abundances and strengths of their functional and nonspecific interactions. Proc. Natl. Acad. Sci. U. S. A.:4258-4263.
+Studier FW, Daegelen P, Lenski RE, Maslov S, & Kim JF (2009) Understanding the differences between genome sequences of Escherichia coli B strains REL606 and BL21(DE3) and comparison of the E. coli B and K-12 genomes. Journal of molecular biology 394(4):653-680.
+Maslov S, Krishna S, Pang TY, & Sneppen K (2009) Toolbox model of evolution of prokaryotic metabolic networks and their regulation. Proc Natl Acad Sci U S A 106(24):9743-9748.
+Maslov S & Sneppen K (2002) Specificity and stability in topology of protein networks. Science 296(5569):910-913.
+Click for more
+
+
+Honors
+University of Illinois Presidential Award and Medallion (2021)
+American Institute for Medical and Biological Engineering (AIMBE) fellow (2021)
+American Physical Society Fellow (2020)
+Bliss Faculty Scholar at University of Illinois at Urbana-Champaign (2014)
+Presidential Early Career Award for Scientists & Engineers (PECASE) (2002)
+
+
+
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Predicting the response of fungal genes using FUN-PROSE
+
+
+New IGB center dedicated to machine learning and predictive modeling
+
+
+Grainger Engineering publishes Limitless Magazine Spring 2022  Issue 
+
+
+Microbial community diversity research inspires new economic model
+
+
+New model accurately describes COVID-19 waves and plateaus: adding random nature of social activity to traditional model, graphs match waves and plateaus of regional U.S. data
+
+
+The Atlantic: We are not at endemicity yet
+
+
+
+
+
+
+
+

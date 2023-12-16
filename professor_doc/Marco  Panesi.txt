@@ -1,0 +1,174 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Marco Panesi 
+
+
+
+Professor
+(217) 300-3853
+mpanesi@illinois.edu
+314 Talbot Laboratory
+
+
+DIR, CHESS
+(217) 300-3853
+mpanesi@illinois.edu
+314 Talbot Laboratory
+
+
+
+For More Information
+Center for Hypersonics & Entry Systems Studies
+
+Education
+Ph.D. Aerospace Engineering, von Kármán Institute for Fluid Dynamics (VKI), Belgium and Università degli Studi di Pisa, Italy, 2009
+M.S. Applied Fluid Dynamics, von Kármán Institute for Fluid Dynamics (VKI), Belgium, 2005
+M.S. Aerospace Engineering, Università di Pisa, Italy 2003 
+
+Academic Positions
+Director of the Center for Hypersonics and Entry Systems Studies (CHESS), 01/2020-present
+Associate Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, 08/2018-present
+Affiliate Professor of Mechanical Science and Engineering, University of Illinois at Urbana-Champaign, 10/2014-present
+Assistant Professor, Department of Aerospace Engineering, University of Illinois at Urbana-Champaign, 08/2012-08/2018
+Research Associate, Institute for Computational Engineering and Sciences, The University of Texas at Austin, Austin, 06/2011-08/2012
+Visiting Scientist at NASA Ames Research Center, Moffett Field, 94035, CA, 02/2009-08/2012
+Postdoctoral Researcher, Insitute for Computational Engineering and Sciences, The University of Texas at Austin, Austin, TX, 02/2009-06/2011
+
+Research Engineer, von Kármán Institute for Fluid Dynamics (VKI), 10/2003-09/2004
+Click for more
+Research Interests
+Uncertainty Quantification & Machine Learning
+Non-equilibrium Weakly Ionized plasmas
+Non-equilibrium Chemistry and Radiation
+Hypersonics
+
+
+Research Areas
+Combustion and Propulsion
+Computational Fluid Mechanics
+Hypersonics
+
+
+Chapters in Books
+G. Colonna, M. Capitelli, L.D. Pietanza, A. Munafo, M. Panesi - High Enthalpy Ionized Flows - Elementary Processes in Hypersonic Flows - Hypersonic Meteoroid Entry Physics - Institute of Physics,  2018
+R.L. Jaffe, D.W. Schwenke and M. Panesi, "First principles calculation of heavy particle rate coefficients: application to nitrogen dissociation" Hypersonic Non-equilibrium Flows: Fundamentals and Recent Advances. American Institute of Aeronautics and Astronautics, 2015 - ISBN 978-1-62410-328-5.
+W.M. Huo, M. Panesi and T.E. Magin, "Ionization Phenomena behind Shock Waves," High Temperature Phenomena in Shock Waves, Springer, 2012. ISBN 978-3-642-25118-4.
+A. Bourdon, A. Bultel, M. Panesi, and T.E. Magin, "Kinetic mechanism for high enthalpy air flows," Course on hypersonic entry and cruise vehicles - RTO/VKI Lecture Series sponsored by RTO, DOE, AFOSR, & NASA held at Stanford University, 1 (1), 2008. ISBN-13. 978-2-930389-87-7
+M. Panesi, T.E. Magin, A. Bourdon, A. Bultel, and O. Chazot, "Collisional radiative modeling in flow simulation," RTO-EN-AVT-162 VKI Lecture Series, 1 (1), 2008. - ISBN 978-92-837-0091-3.
+
+Selected Articles in Journals
+A.  Padovan, B. Vollmer,  F. Panerai, M. Panesi, K. A. Stephani, D. J. Bodony "A Modified B′ Formulation for Ablating-Surface Boundary Conditions" International Journal of Heat and Mass Transfer, International Journal of Heat and Mass Transfer, Volume 218, 124770 (2024).
+I. Zanardi, S. Venturi, M. Panesi "Adaptive physics-informed neural operator for coarse-grained non-equilibrium flow" Scientific Reports 13 (15497) (2023).
+M. Sharma, S. Venturi, I. Zanardi, M. Panesi " Efficient Quasi-Classical Trajectory Calculations by means of Neural Operator Architectures", J. Physical Chemistry Chemical Physics  (2023). 
+AS Nair, J Sirignano, M Panesi, JF MacArt "Deep Learning Closure of the Navier–Stokes Equations for Transition-Continuum Flows" AIAA Journal (2023).
+SM Jo, S. Venturi, JG Kim, and M. Panesi "Rovibrational Internal Energy Transfer and Dissociation of High-Temperature Oxygen Mixture" J. Chem. Phys. 158, 064305, (2023).
+S. Oruganti, N. N. Mansour, M. Panesi, and F. Panerai "Microstructure of Pyrolyzing RTV Silcone", Polymer Degradation and Stability, Volume 207, January, 110237 (2023).
+M. Sharma, SM Jo,  S. Venturi, R.L. Jaffe, M. Panesi  "A comprehensive study of HCN: Potential Energy Surfaces, State-to-State Kinetics, and Master Equation Analysis", The Journal of Physical Chemistry A, (2022).
+Sung Min Jo, Simone Venturi, Maitreyee P. Sharma, Alessandro Munafo, and Marco Panesi, "Rovibrational-Specific QCT and Master Equation Study on N2(X1+g )+O(3P) and NO(X2 )+N(4S) Systems in High-Energy Collisions"  J. Phys. Chem A. 2022, 126, 21, 3273–3290 (2022). 
+P. Rostkowski, J. Meurisse, J. Thornton, R. Smith, M.Panesi "Effects of Problem Complexity Reduction on Parameter Sensitivity and Identifiability in Charring Ablator Scenarios" Aerospace Science and Technology 124 (2022) 107522, (2022). 
+Jeremie B. E. Meurisse, Alejandro Alvarez Laguna, Marco Panesi, Nagi N. Mansour "Three-dimensional unsteady model of arc heater plasma flow" Aerospace Science and Technology, Volume 123, April 2022, 107465 (2022).
+A. Martin and M. Panesi "Radiative transmission and absorption within the ablative heat shield of hypersonic vehicles", Journal of Spacecraft and Rockets,  Vol. 59, Jan.-Feb.  (2022) .
+A. Alberti, A. Munafo, C. Pantano, J. Freund, M. Panesi "Effect of mode-beating nano-second pulse on non-equilibrium laser-generated plasmas" Journal of Applied Physics, 131, 033102 (2022)
+M. P. Sharma, R. Jaffe, and M. Panesi" Carbon Clusters:  Thermochemistry and Electronic Structure at High Temperatures", Phys. Chem. A 2021, 125, 32, 7038–7051 (2021).
+J. M. Wang, M. Panesi, J. B. Freund "Nonequilibrium effects on flow-induced by laser-induced optical breakdown" Physical Review Fluids  6, 063403  (2021). 
+SM Jo, M. Panesi and JG Kim "Prediction of shock standoff distance with modified rotational relaxation time of air mixture" Phys. Rev. Fluids, Physics of Fluids 33, 047102 (2021)
+A. Alberti, A. Munafo, C. Pantano, M. Panesi, "Self-Consistent Computational Fluid Dynamics of Supersonic Drag Reduction via Upstream-Focused Laser-Energy Deposition", AIAA Journal, 59:4, 1214-1224, (2021).
+S. Venturi, M. Sharma; B. Lopez, M. Panesi  "A Data-Inspired and Physics-Driven Model Reduction for Dissociation: Application to O2+O System", Journal of Physical Chemistry A, 124, 8359-837 (2020).
+R. Macdonald, E. Torres, T. Schwerzentruber, and M. Panesi "State-to-state and direct molecular simulation study of energy transfer and dissociation of nitrogen mixtures" Journal of Physical Chemistry A,  124, 35, 6986–7000 (2020).
+S. Venturi, R.L. Jaffe, and M. Panesi "A Bayesian Machine Learning Approach to the Quantification of Uncertainties on Ab Initio Potential Energy Surfaces" Journal of Physical Chemistry A, 124, 25, 5129–5146 (2020). 
+A. Alberti, A. Munafo, C. Pantano, J. Freund, M. Panesi "Collinear dual-pulse laser optical breakdown and energy deposition" Journal of Physics D: Applied Physics,  53, 205202, (2020).
+A. Munafo, A. Alberti, J.B. Freund, C. Pantano, M. Panesi "A computational model for nano-second pulse laser-plasma interactions" , Journal of Computational Physics, 406, 109190, (2020).
+M. Sharma, Y. Liu, M. Panesi "Characterization of Chemical Non-Equilibrium in Hypersonic Flows using Quadratic Reconstruction Operator", Physical Review E,  101, 013307, (2020)
+A. Sahai, C.O. Johnston, B. Lopez, M. Panesi "A Generalized Approach to Maximum Entropy Based Reduced Order Spectral Models for Non-equilibrium Radiation", Journal of Quantitative Spectroscopy and Radiative Transfer, 242, 106752, (2020).
+
+
+A. Alberti, A. Munafo, Koll, Matthew; Nishihara, Munetake;, J.B. Freund, C. Pantano, G. Elliott, M. Panesi "Plasma kernel dynamics in non-equilibrium laser discharges", Journal of Physics D: Applied Physics 53 (2), 025201, (2019).
+A. Sahai, C.O. Johnston, B. Lopez, M. Panesi "Reduced-order Non-Boltzmann Modeling of Coupled CO2 Thermochemistry and Radiation in Mars Entry Wake Flows" Physical Review Fluids 4 (9), 093401,  (2019).
+P. Rostokwski, S. Venturi, A. Omidy, H. Weng, A. Martin. M.Panesi "Calibration and Uncertainty Quantification of VISTA Ablator Material Database Using Bayesian Inference" Journal of Thermophysics and Heat transfer,  33:2, 356-369 (2019)
+R.L. Jaffe, D.W. Schwenke, M. Grover, P. Valentini T. E. Schwartzentruber, S. Venturi and M. Panesi "Comparison of Potential Energy Surface and Computed Rate Coefficients for N2 Dissociation", Journal of Thermophysics and Heat Transfer, Vol. 32,  869-881 , 2018.
+R.L. Macdonald, R.L. Jaffe, D.W. Schwenke, M. Panesi "Construction of a Maximum Entropy Quasi-Classical Trajectory Method. Part 1: Theory and Application to N2-N2 System" J. Chemical Physics, 148, 054309 (2018).
+R.L. Macdonald, M. Grover, T. Schwartzentruber, M. Panesi "Construction of a Maximum Entropy Quasi-Classical Trajectory Method. Part 2: Comparison against the Direct Molecular Simulation method" J. Chemical Physics, 148, 054310 (2018).
+C.O. Johnston and M. Panesi "Impact of State-Specific Flowfield Modeling on Atomic Nitrogen Radiation" Phys. Rev. Fluids 3, 013402 (2018)
+C.O. Johnston, A. Sahai, M. Panesi "Extension of Multiband Opacity-Binning to Molecular, Non-Boltzmann Shock Layer Radiation" Journal of Thermophysics and Heat Transfer,  AIAA Nov. , 6 pages (2017).
+A. Sahai, B. Lopez, C.O. Johnston, M. Panesi "Adaptive Coarse Graining Method for Energy Transfer and Dissociation Kinetics of Polyatomic Species" J. Chem. Phys. 147, 054107 (2017).
+Doyle Knight, Olivier Chazot, Joanna Austin, Mohammad Ali Badr, Graham Candler, Bayram Celik, Donato de Rosa, Rafaele Donelli, Jefrey Komives, Andrea Lani, Deborah Levin, Ioannis Nompelis, Marco Panesi, Giuseppe Pezzella, Bodo Reimann, Ozgur Tumuklu, Kemal Yuceil "Assessment of Predictive Capabilities for Aerodynamic Heating in Hypersonic Flow", Progress in Aerospace Sciences, Volume 90, April 2017, Pages 39-53 (2017).
+A. Sahai, N.M. Mansour, B. Lopez, M. Panesi "Modeling of a high pressure arc-discharge with the fully-implicit Navier-Stokes stabilized finite element flow solver" Plasma Sources Sci. Technol. 26 055012 (2017).
+A. Munafo, N.M. Mansour, M. Panesi, "A reduced-Order NLTE Kinetic Model for Radiating Plasmas of Outer Envolopes of Stellar Atmospheres" - Astrophys. J. 838 126 (2017).
+W. Zhang, A. Lani, M. Panesi,"Analysis of Non-equilibrium Phenomena in Inductively Coupled Plasma Generators", Physics of Plasma, 23, 073512 (2016)
+R. L. Macdonald, A. Munafo', C. O. Johnston, M. Panesi "Physics of Non-equilibrium Radiation and Dissociation of CO Molecules in Shock Heated Flows", Physical Review Fluids, 1, 043401 (2016).
+V. Laporta, K. Heritier, M. Panesi, "Electron-Vibrational Energy Transfer in Molecular Oxygen Plasmas", Chemical Physics, Vol. 472, 15, Pages 44-49, (2016)
+A. Harpale, M. Panesi, and H.B. Chew, "Plasma-Graphene Interaction and Its Effects on Nanoscale Patterning", Physical Review B 93, 035416, 10 pages, (2016).
+A. Munafo, Y. Liu, and M. Panesi "Modeling of dissociation and energy transfer in shock-heated nitrogen flows", Physics of Fluids, 27, 127101, 23 pages, (2015).
+A. Munafo, S.A. Alfuhaid, J.L. Cambier, and M. Panesi "A tightly coupled non-equilibrium magneto-hydrodynamic model for Inductively Coupled RF Plasmas", Journal of Applied Physics, Vol.118, (13), 133303, 11 pages, (2015).
+ K. Miki, M. Panesi, and S. Prudhomme, "Systematic Validation of Non-Equilibrium Thermochemical Models using Bayesian Approach," Journal of Computational Physics, Vol. 298, 125-144, 20 pages, (2015).
+Y. Liu, M. Panesi, A. Sahai, and M. Vinokur "Generalized Multi-Group Macroscopic Modeling for Thermo-Chemical Non-Equilibrium Gas Mixtures". Journal of Chemical Physics, Vol. 142, 134109, 17 pages, (2015).
+A. Harpale, M. Panesi, and H.B. Chew "Surface-to-bulk diffusion of isolated versus interacting C atoms in Ni(111) and Cu(111) substrates: A first principle investigation", Journal of Chemical Physics: Communication, Vol 142, 061101, 4 pages, (2015).
+K.L. Heritier, R.L. Jaffe, V. Laporta, and M. Panesi, "Energy Transfer Models in Nitrogen Plasmas: Analysis of N2-N-e Interaction", Journal of Chemical Physics Vol.141, 184302, 16 pages, (2014).
+M. Panesi, A. Munafo, T.E. Magin, and R.L. Jaffe, "Non-equilibrium shock-heated nitrogen flows using a rovibrational state-to-state method" - Physical Review E, Vol.90, No.1, 013009, 16 pages, (2014).
+D. Kotov, H. Yee, M. Panesi, D. Prabhu, and A. Wray, "Computational Challenges for Simulations Related to the NASA Electric Arc Shock Tube Experiments", Journal of Computational Physics, Vol. 269, 215-233, 19 pages, (2014).
+A. Munafo, M. Panesi, and T.E. Magin, "Boltzmann Rovibrational collisional model for internal energy excitation and dissociation in hypersonic flows" Physical Review E, Vol.89, No.2, 023001, 13 pages, (2014).
+G. Colonna, G. D’Ammando, A.S. Dikalyuk, M. Panesi, L.D. Pietanza, and S. T. Surzhikov "Advanced Models in Shock Waves", special issue on Molecular Physics and Plasmas in Hypersonics, The Open Plasma Physics Journal 7, 24-33, 10 pages, (2014).
+A. Munafo, A. Lani, A. Bultel, and M. Panesi, "Modeling of Non-Equilibrium Phenomena in Expanding Flows by means of a Collisional-Radiative Model", Physics of Plasmas 20, 073501, 14 pages, (2013).
+M. Panesi, and A. Lani "Collisional Radiative Coarse-Grain Model for Ionization in Air", Physics of Fluids, Vol.25, No.5, 057101, 27 pages, (2013). 
+M. Panesi, R.L. Jaffe, D. Schwenke, and T.E. Magin "Rovibrational internal energy transfer and dissociation of N2-N system in hypersonic flows", Journal of Chemical Physics, Vol.138, No.4, 044312, 16 pages (2013).
+M. Panesi, K. Miki, S. Prudhomme, and A. Brandis, "On the validation of the data reduction model with application to shock tube experiments," Computer Methods in Applied Mechanics and Engineering, Vol. 213-216, (383-398), (2012).
+K. Miki, M. Panesi, E. Prudencio, and S. Prudhomme, "Probabilistic Models and Uncertainty Quantification for the Ionization Reaction Rate of Atomic Nitrogen,” Journal of Computational Physics. Vol. 231, No.9, p. (3871-3886), (2012).
+K. Miki, M. Panesi, E. Prudencio, and S. Prudhomme, "Estimation of the Nitrogen Ionization Reaction Rate Using EAST Data and Bayesian Model Analysis," Physics of Plasmas Vol.19, No 2, p. 19,023507,(2012).
+A. Munafò, M. Panesi, G. Colonna, R.L. Jaffe, A. Bourdon, and T.E. Magin, “QCT-based vibrational collisional models applied to non-equilibrium nozzle flows,”  The European Physical Journal D, Vol. 66, p. 188, 11 pages, (2012).
+A. Lani, M. Panesi, and H. Deckoninck, "Conservative Residual Distribution Method for Viscous Double Cone Flows in Thermochemical Non-equilibrium," Communication in Computational Physics, 13, pp. 479-501, (2012).
+T.E. Magin, M. Panesi, A. Bourdon, R.L. Jaffe, and D.W. Schwenke, "Coarse-graining model for rovibrational energy excitation and dissociation of molecular nitrogen," Chemical Physics Special Issue Chemical Physics of Low Temperature Plasmas, Vol. 398, p.90-95, 6 pages, (2011).
+M. Panesi, T.E. Magin, A Bourdon, A. Bultel, and O. Chazot, "Electronic Excitation of atoms and molecules for the Fire II Flight Experiment," Journal of Thermophysics and Heat Transfer, 0887-8722 Vol. 25 No.3 (361-374), 14 pages,(2011).
+M. Panesi, T. E. Magin, A. Bourdon, A. Bultel, and O. Chazot, "Analysis of the Fire II Flight Experiment by Means of a Collisional Radiative Model," Journal of Thermophysics and Heat Transfer, 0887-8722 Vol.23 No.2 (236-248), (2009).
+G. Degrez, A. Lani, M. Panesi, O Chazot, and H. Deconinck, "Modelling of high-enthalpy, high-Mach number flows," Journal of Physics D: Applied Physics, Vol.42 No.19 1940(04-20), (2009).
+M. Panesi, P. Rini, G. Degrez, and O. Chazot, "Analysis of Chemical Non-Equilibrium and Elemental Demixing in the VKI Plasmatron," Journal of Thermophysics and Heat Transfer, 0887-8722 Vol.21 No.1 (57-66), (2007).
+Click for more
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students  (Fall 2018)
+List of Teachers Ranked as Excellent by Their Students  (Spring 2016)
+
+Research Honors
+2021 Vannevar Bush Faculty Fellow (2021)
+2021 NASA Groundbreaker Award (2021)
+Caterpillar Faculty Scholar award (2020)
+2016 Dean's Award for Excellence in Research (University of Illinois at Urbana-Champaign) (2016)
+2015 NASA Early Career Faculty Award (ECF) (2015)
+2015 Award on Physical Modelling (8th Symposium on Aerothermodynamics for Space Vehicles - ESA) (2015)
+2015 Air Force Young Investigator Award (YIP) (2015)
+2011 Award Fundamentals on Aerothermodynamics (7th Symposium on Aerothermodynamics for Space Vehicles - ESA)  (2011)
+Click for more
+
+Recent Courses TaughtAE 410 (CSE 461) - Computational Aerodynamics
+AE 433 - Aerospace Propulsion
+AE 512 - Molecular Gas Dynamics
+AE 590 A (AE 590 AO, AE 590 ONL) - Seminar
+AE 598 ONL (AE 598 UQ) - Uncertainty Quantification
+ME 510 (AE 510) - Advanced Gas Dynamics
+Click for more
+
+
+
+
+
+
+
+

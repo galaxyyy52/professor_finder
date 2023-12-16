@@ -1,0 +1,105 @@
+
+
+
+
+
+
+
+ 
+
+
+Juan Alvarez 
+
+
+
+Teaching Assistant Professor
+(217) 300-5452
+alvarez@illinois.edu
+3046 Electrical & Computer Eng Bldg
+
+
+
+Education
+Ph.D., Electrical Engineering, University of Illlinois at Urbana-Champaign, 2004
+M.S., Electrical Engineering, University of Illlinois at Urbana-Champaign, 2000
+Engineer (B.Sc.), Electronics and Communications, ITESM-CCM, 1997
+
+Academic Positions
+Teaching Assistant Professor, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, August 2019-present.
+Lecturer, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, Jan. 2013 -August 2019.
+Visiting Lecturer, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, USA, Jan. 2011 - December 2012.
+Postdoctoral Fellow, Department of Mathematics and Statistics, York University, Canada, Sept. 2007 - June 2009
+Postdoctoral Fellow, Chemical Physics Theory Group , University of Toronto, Canada, Sept. 2007 - June 2009
+Postdoctoral Fellow, Department of Mathematics and Statistics, University of Saskatchewan, Canada, Sept. 2006 - Aug. 2007
+Sessional Lecturer, Department of Mathematics and Statistics, University of Saskatchewan, Canada, Sept. 2004 - Dec. 2006
+Postdoctoral Fellow, Mathematical Sciences Group, University of Saskatchewan, Canada, Sept. 2004 - Aug. 2006
+Click for more
+Resident Instruction
+ECE 463: Digital Communications Laboratory
+ECE 461: Digital Communications 
+ECE 459: Communications, I
+ECE 211: Analog Circuits & Systems 
+ECE 210: Analog Signal Processing
+
+Research Interests
+Response to Failure and Success in Engineering
+Improving study skills in undergraduate students.
+Applied probability
+Mathematical modeling of polymers and biophysical systems; in particular:      
+- configurational and statistical properties of lattice models for polymers
+- steric stabilization and sensitized flocculation of colloidal dispersions
+- adsorption and localization of random copolymers
+- ion transport
+
+
+Research Areas
+Communications
+
+
+Selected Articles in Journals
+J. Alvarez, M. Gara, E. J. Janse van Rensburg, and A. Rechnitzer ''Atmospheric Collapse in Self-Avoiding Walks: A Numerical Study using GARM," J. Stat. Mech., (2009) P12005.
+J. Alvarez and S. G. Whittington, ''Force-extension relations in adsorbing polymers subject to a force," J. Stat. Mech., (2009) P04016.
+J. Alvarez and C. E. Soteros, "Higher Order Morita Approximations for Random Copolymer Localization," Journal of Mathematical Chemistry, 45 (2009) 238-256.
+J. Alvarez and E. J. Janse van Rensburg, ''Directed Paths in a Layered Environment," J. Phys. A: Math. Theor, 41 (2008) 465003.
+    J. Alvarez, E. J. Janse van Rensburg, C. E. Soteros, and S. G. Whittington, ''Self-avoiding polygons and walks in slits," J. Phys. A: Math. Theor, 41 (2008) 185004.
+J. Alvarez, E. Orlandini, C. E. Soteros, and S. G. Whittington, ''Higher Order Morita Approximations for Random Copolymer Adsorption," J. Phys. A: Math. Theor , 40 (2007) F289-F298.
+Juan Alvarez and Bruce Hajek, ''Kernel representations for flux and concentration in ion channel models with time-varying concentrations," J. Chem. Phys., Vol. 125, pp. 164703, 2006.
+Juan Alvarez and Bruce Hajek, ''Equivalence of trans paths in ion channels,'' Phys. Rev. E, Vol. 73, pp. 046126, 2006.
+Juan Alvarez and Bruce Hajek, "A queue with semi-periodic traffic", Advances in Applied Probability, Vol. 37, No. 1, pp. 160-184, March 2005.
+Juan Alvarez and Bruce Hajek, " On the use of packet classes in communication networks to enhance congestion pricing based on marks ", IEEE Transactions on Automatic Control, Vol. 47, Issue 6, pp. 1020-1026, June 2002.
+
+Click for more
+Articles in Conference Proceedings
+Gertner, Y., & Alvarez, J., & Cosman, B., & Amos, J. R. (2023, June), Identifying Student Profiles Related to Success in Discrete Math CS Courses Paper presented at 2023 ASEE Annual Conference & Exposition, Baltimore , Maryland.
+
+Mironenko, O., & Alvarez, J. (2023, June), Assessing the Impact of Weekly In-class Pop Quizzes on Student Performance in a Fundamental ECE Course Paper presented at 2023 ASEE Annual Conference & Exposition, Baltimore , Maryland.
+
+Alvarez, J., & Amos, J. R., & Gertner, Y., & Cosman, B. (2023, June), Identifying Student Profiles Related to Success in an Analog Signal Processing Course Paper presented at 2023 ASEE Annual Conference & Exposition, Baltimore , Maryland.
+
+Gertner, Y., & Alvarez, J., & Cosman, B., & Amos, J. (2022, August), Understanding Student Learning Profiles in Second Year Problem-Solving Engineering Classes Paper presented at 2022 ASEE Annual Conference & Exposition, Minneapolis, MN. 
+J. Alvarez and B. Hajek, " Reversible Markov chain models for ion channels", Proceedings of the 38th Annual Conference on Information Sciences and Systems, pp. 1371-1376, March 2004.
+J. Alvarez and B. Hajek, " Observations on using marks for pricing in multiclass packet networks to provide multidimensional QoS", Proceedings of the 2000 Conference on Information Sciences and Systems, Vol. II, pp. TP2-16 to TP2-21, March 2000.
+Click for more
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 313 (MATH 362) - Probability with Engrg Applic
+ECE 459 - Communications Systems
+ECE 461 - Digital Communications
+ECE 463 - Digital Communications Lab
+Click for more
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

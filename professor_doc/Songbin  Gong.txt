@@ -1,0 +1,344 @@
+
+
+
+
+
+
+
+ 
+
+
+Songbin Gong 
+
+
+Administrative TitlesIntel Alumni Fellow in Electrical and Computer Engineering
+
+Associate Professor
+(217) 244-6564
+songbin@illinois.edu
+2264 Micro & Nanotechnology Lab
+
+
+
+For More Information
+Gong group website
+
+Education
+Bachelor, Electrical Engineering, Huazhong University of Science and Technology
+PhD, Electrical Engineering, University of Virginia, May 2010 
+ 
+
+Academic Positions
+Graduate Research Assistant, ECE Department, University of Virginia, May, 2005- April, 2010.
+Postdoctoral Researcher , ESE Department, University of Pennsylvania, April, 2010-Aug, 2012. 
+Research Scientist,  ECE Department, Carnegie Mellon University, Aug, 2012- Aug, 2013.
+Assistant Professor, Micro and Nano Technology Lab, University of Illinois at Urbana Champaign, Aug, 2013-Now
+Assistant Professor, ECE Department, University of Illinois at Urbana Champaign, Aug, 2013-July 2019
+Intel Alumni Fellow, ECE Department, University of Illinois at Urbana Champaign, April, 2017-Now
+Associate Professor, ECE Department, University of Illinois at Urbana Champaign, Aug, 2019-Now
+Click for more
+Resident Instruction
+ECE447 Fall 2018
+ECE350 Spring 2018
+ECE447 Fall 2017
+ECE457 Spring 2017
+ECE447 Fall 2016
+ECE457 Spring 2016
+ECE457 Spring 2015
+ECE 329 Fall 2014
+ECE329 Spring 2014
+ECE329 Fall 2013
+Click for more
+Post-Doctoral Research OpportunitiesWe are currently looking for qualified postdoctoral researchers in the area of RF-MEMS devices and components. Please contact Prof. Songbin Gong with your CV for more detailed information.
+Graduate Research OpportunitiesWe are currently seeking self-motivated, creative and hard-working students to join the integrated RF micro-systems research group. Please contact Prof. Gong with your CV.
+Undergraduate Research OpportunitiesProf. Gong welcomes undergraduates to work in his research group.
+Research Interests
+RF and microwave photonics
+Antennas for communication and wireless sensing
+Microwave acoustics
+Millimeter wave integrated circuits
+Microwave devices and circuits
+
+Reconfigurable RF and microwave systems
+Micro-Electro-Mechanical Systems
+Click for more
+
+Research Areas
+Acoustics
+Circuits
+Electromagnetic theory
+Electromagnetics and Optics
+Microelectromechanical systems (MEMS)
+Microwave devices and circuits
+Millimeter wave integrated circuits
+Nano-electro mechanical systems (NEMS)
+Wireless communication systems
+Click for more
+
+Research Topics
+Micro & nanoelectromechanical M/NEMS integrated systems
+Photonics: optical engineering and systems
+RF and microwave engineering
+
+Books Authored or Co-Authored (Original Editions)
+Piezoelectric RF MEMS resonators
+
+Chapters in Books
+"Lithium Niobate MEMS Resonators" in Microsystems and Nanosystems Series, Springer 2015
+
+
+
+Selected Articles in Journals
+Amr O. Ghoname, Ahmed E. Hassanien, Edmond Chow, Lynford L. Goddard, and Songbin Gong, "Highly linear lithium niobate Michelson interferometer modulators assisted by spiral Bragg grating reflectors," Opt. Express 30, 40666-40681 (2022)
+Y. Yang, L. Gao and S. Gong, "Surface-Acoustic-Wave Devices Based on Lithium Niobate and Amorphous Silicon Thin Films on a Silicon Substrate," in IEEE Transactions on Microwave Theory and Techniques, vol. 70, no. 11, pp. 5185-5194, Nov. 2022, doi: 10.1109/TMTT.2022.3194554.
+A. R. Will-Cole, Ahmed E. Hassanien, Sila Deniz Calisgan, Min-Gyo Jeong, Xianfeng Liang, Sungho Kang, Vageeswar Rajaram, Isabel Martos-Repath, Huaihao Chen, Antea Risso, Zhenyun Qian, Seyed Mahdi Seyed Abrishami, Nader Lobandi, Matteo Rinaldi, Songbin Gong, and Nian X. Sun
+, "Tutorial: Piezoelectric and magnetoelectric N/MEMS—Materials, devices, and applications", Journal of Applied Physics 131, 241101 (2022) https://doi.org/10.1063/5.0094364 
+L. Gao, Y. Yang and S. Gong, "Investigating Substrate Loss in MEMS Acoustic Resonators and On-Chip Inductors," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 69, no. 6, pp. 2178-2189, June 2022, doi: 10.1109/TUFFC.2022.3168539.
+Ahmed E. Hassanien, Amr O. Ghoname, Edmond Chow, Lynford L. Goddard, and Songbin Gong, "Compact MZI modulators on thin film Z-cut lithium niobate," Opt. Express 30, 4543-4552 (2022) 
+R. Lu, Y. Yang and S. Gong, "Low-Loss Unidirectional Acoustic Focusing Transducer in Thin-Film Lithium Niobate," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 67, no. 12, pp. 2731-2737, Dec. 2020, doi: 10.1109/TUFFC.2020.3011624.
+A. E. Hassanien, S. Link, Y. Yang, E. Chow, L. L. Goddard and S. Gong, “Efficient and Wideband Acousto-optic Modulation on Thin-film Lithium Niobate for Microwave-to-Photonic Conversion,” in Photonics Research, doi: 10.1364/PRJ.421612. 
+R. Lu, Y. Yang and S. Gong, "Acoustic Loss of GHz Higher-Order Lamb Waves in Thin-Film Lithium Niobate: A Comparative Study," in Journal of Microelectromechanical Systems, vol. 30, no. 6, pp. 876-884, Dec. 2021, doi: 10.1109/JMEMS.2021.3114627.
+R. Lu and S. Gong, “RF Acoustic Microsystems Based on Suspended Lithium Niobate Thin Films: Advances and Outlook,” in J. Micromech. Microeng. 31 114001.
+Daehun Lee, Shawn Meyer, Songbin Gong, Ruochen Lu, and Keji Lai
+, "Visualization of acoustic power flow in suspended thin-film lithium niobate phononic devices", Appl. Phys. Lett. 119, 214101 (2021) https://doi.org/10.1063/5.0073530 
+W. Huang, J. Zhou, P. Froeter, K. Walsh, S. Liu, M. Kraman, M. Li, J. Michaels, D. Sievers, S. Gong, and Xiuling Li, "Three-dimensional radio frequency transformers based on a self-rolled-up membrane platform," Nature Electronics, 1(5), p.305.
+A. E. Hassanien, R. Lu and S. Gong, "Near-Zero Drift and High Electromechanical Coupling Acoustic Resonators at > 3.5 GHz," in IEEE Transactions on Microwave Theory and Techniques, vol. 69, no. 8, pp. 3706-3714, Aug. 2021, doi: 10.1109/TMTT.2021.3079497.
+A. E. Hassanien, S. Link, Y. Yang, E. Chow, L. L. Goddard and S. Gong, “Efficient and Wideband Acousto-optic Modulation on Thin-film Lithium Niobate for Microwave-to-Photonic Conversion,” in Photonics Research, doi: 10.1364/PRJ.421612. 
+R. Lu, Y. Yang and S. Gong, "Acoustic Loss in Thin-Film Lithium Niobate: An Experimental Study," in Journal of Microelectromechanical Systems, vol. 30, no. 4, pp. 632-641, Aug. 2021, doi: 10.1109/JMEMS.2021.3092724.
+R. Lu, Y. Yang, A. E. Hassanien and S. Gong, "Gigahertz Low-Loss and High Power Handling Acoustic Delay Lines Using Thin-Film Lithium-Niobate-on-Sapphire," in IEEE Transactions on Microwave Theory and Techniques, vol. 69, no. 7, pp. 3246-3254, July 2021, doi: 10.1109/TMTT.2021.3074918.
+7.	S. Gong, R. Lu, Y. Yang, L. Gao and A. E. Hassanien, “Microwave Acoustic Devices: Re-cent Advances and Outlooks,” in IEEE Journal of Microwaves, doi: 10.1109/JMW.2021.3064825. 
+Y. Yang, L. Gao and S. Gong, “X-band Miniature Filters Employing Lithium Niobate Acoustic Resonators and Bandwidth Widening Technique,” in IEEE Transactions on Microwave Theory and Techniques, doi: 10.1109/TMTT.2021.3049434. 
+R. Lu, Y. Yang, S. Link and S. Gong, "Low-Loss 5-GHz First-Order Antisymmetric Mode Acoustic Delay Lines in Thin-Film Lithium Niobate," in IEEE Transactions on Microwave Theory and Techniques, vol. 69, no. 1, pp. 541-550, Jan. 2021, doi: 10.1109/TMTT.2020.3022942.
+E. Guerrero, P. Silveira, J. Verdú, Y. Yang, S. Gong and P. de Paco, "A Synthesis Approach to Acoustic Wave Ladder Filters and Duplexers Starting With Shunt Resonator," in IEEE Transactions on Microwave Theory and Techniques, vol. 69, no. 1, pp. 629-638, Jan. 2021, doi: 10.1109/TMTT.2020.3033554.
+A. Kourani, Y. Yang and S. Gong, "L- and X-Band Dual-Frequency Synthesizer Utilizing Lithium Niobate RF-MEMS and Open-Loop Frequency Dividers," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 68, no. 5, pp. 1994-2004, May 2021, doi: 10.1109/TUFFC.2020.3048929.
+Y. Yang, L. Gao, R. Lu and S. Gong, "Lateral Spurious Mode Suppression in Lithium Niobate A1 Resonators," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 68, no. 5, pp. 1930-1937, May 2021, doi: 10.1109/TUFFC.2020.3049084.
+S.R. Eisner, C.A. Chapin, R. Lu, Y. Yang, S. Gong and D.G. Senesky, “A Laterally Vibrating Lithium Niobate MEMS Resonator Array Operating at 500 °C in Air,” in Sensors 2021, 21, 149. 
+Y. Yang, R. Lu, L. Gao and S. Gong, “10-60-GHz Electromechanical Resonators Using Thin-Film Lithium Niobate,” in IEEE Transactions on Microwave Theory and Techniques, doi: 10.1109/TMTT.2020.3027694. 
+R. Lu, M. Breen, A. E. Hassanien, Y. Yang and S. Gong, “A Piezoelectric Micromachined Ultrasonic Transducer Using Thin-Film Lithium Niobate,” in Journal of Microelectromechanical Systems, doi: 10.1109/JMEMS.2020.3026547.
+R. Lu, Y. Yang and S. Gong, “Low-Loss Unidirectional Acoustic Focusing Transducer in Thin-Film Lithium Niobate,” in the Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, doi: 10.1109/TUFFC.2020.3011624.
+L. Gao, Y. Yang and S. Gong, "Wideband Hybrid Monolithic Lithium Niobate Acoustic Filter in the K-Band," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 68, no. 4, pp. 1408-1417, April 2021, doi: 10.1109/TUFFC.2020.3035123.
+M. Bahadori, Y. Yang, A. Hassanien, L. Goddard and S. Gong, “Ultra-efficient and fully isotropic monolithic microring modulators in thin-film lithium niobate photonics platform,” in Optics Express 28, 29644-29661 (2020). 
+ S. Zhang, R. Lu, H. Zhou, S. Link, Y. Yang, Z. Li, K. Huang, X. Ou and S. Gong, “Surface Acoustic Wave Devices Using Lithium Niobate on Silicon Carbide,” in IEEE Transactions on Microwave Theory and Techniques, doi: 10.1109/TMTT.2020.3006294. 
+Z. Yang, M. D. Kraman, Z. Zheng, H. Zhao, J. Zhang, S. Gong, Y. V. Shao, W. Huang, P. Wang and X. Li, “Monolithic Heterogeneous Integration of 3D Microwave L-C Elements by Self-Rolled-Up Membrane Nanotechnology,” in Advanced Functional Materials(2020): 2004034. 
+R. Lu, Y. Yang, S. Link and S. Gong, “Enabling Higher Order Lamb Wave Acoustic Devices With Complementarily Oriented Piezoelectric Thin Films,” in Journal of Microelectromechanical Systems, doi: 10.1109/JMEMS.2020.3007590
+A. Kourani, Y. Yang and S. Gong, “A Ku-Band Oscillator Utilizing Overtone Lithium Niobate RF-MEMS Resonator for 5G,” in IEEE Microwave and Wireless Components Letters, vol. 30, no. 7, pp. 681-684, July 2020, doi: 10.1109/LMWC.2020.2996961. 
+M. Bahadori, Y. Yang, A. Hassanien, L. Goddard and S. Gong, “Theory of Coupled Harmonics and Its Application to Resonant and Non-Resonant Electro-Optic Modulators,” in Journal of Lightwave Technology, vol. 38, no. 20, pp. 5756-5767, 15 Oct.15, 2020, doi: 10.1109/JLT.2020.3002071. 
+A. Kourani, R. Lu and S. Gong, “A Wideband Oscillator Exploiting Multiple Resonances in Lithium Niobate MEMS Resonator,” in in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, doi: 10.1109/TUFFC.2020.2989623. 
+R. Lu, Y. Yang, S. Link and S. Gong, “A1 Resonators in 128° Y-cut Lithium Niobate with Electromechanical Coupling of 46.4%,” in Journal of Microelectromechanical Systems, vol. 29, no. 3, pp. 313-319, June 2020, doi: 10.1109/JMEMS.2020.2982775. 
+M. Bahadori, L. Goddard and S. Gong, “Fundamental Electro-Optic Limitations of Thin-Film Lithium Niobate Microring Modulators,” in Optics Express 28, 13731-13749 (2020). 
+ J. Moody, A. Dissanayake, H. Bishop, R. Lu, N. Liu, D. Duvvuri, A. Gao, D. Truesdell, N. S. Barker, S. Gong, B. H Calhoun and S. M. Bowers, “A Highly Re-configurable Bit-level Duty Cycled TRF Receiver Achieving -106 dBm Sensitivity and 33 nW Average Power Consumption,” in IEEE Solid-State Circuits Letters, vol. 2, no. 12, pp. 309-312, Dec. 2019. doi: 10.1109/LSSC.2019.2956419. 
+R. Lu, Y. Yang, M.-H. Li and S. Gong, “GHz Low-Loss Acoustic RF Couplers in Lithium Niobate Thin Film,” in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 67, no. 7, pp. 1448-1461, July 2020, doi: 10.1109/TUFFC.2020.2971196. 
+R. Lu, S. Link and S. Gong, “A Unidirectional Transducer Design for Scaling GHz AlN-based RF Microsystems,” in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control 
+Y. Yang, R. Lu and S. Gong, “High Q Antisymmetric Mode Lithium Niobate MEMS Reso-nators with Spurious Mitigation,” in Journal of Microelectromechanical Systems, doi: 10.1109/JMEMS.2020.2967784.
+W. Huang et al., “Monolithic mtesla-level magnetic induction by self-rolled-up membrane technology,” in Science Advances, vol. 6, no. 3, 2020.
+M-H. Li, C-Y. Chen, R. Lu, Y. Yang, T. Wu and S. Gong, “Temperature Stability Analysis of Thin-Film Lithium Niobate SH0 Plate Wave Resonators,” in Journal of Microelectromechanical Systems.vol. 28, no. 5, pp. 799-809, Oct. 2019.
+M.-H. Li, R. Lu, T. Manzaneque, and S. Gong, “Low Phase Noise RF Oscillators Based on Thin-Film Lithium Niobate Acoustic Delay Lines,” in Journal of Microelectromechanical Systems, 2019 
+A. E. Hassanien, M. Breen, M-H. Li, and S. Gong, “A Theoretical Study of Acoustically Driven Antennas,” Journal of Applied Physics, Journal of Applied Physics 127, no. 1 (2020): 014903.
+Y. Yang, R. Lu, L. Gao, and S. Gong, “4.5 GHz Lithium Niobate MEMS Filters with 10% Fractional Bandwidth for 5G Front-ends,” in Journal of Microelectromechanical Systems vol. 28, no. 4, pp. 575-577, Aug. 2019.
+S. Shim, S. Gong, M. I. Rosenblatt, D. Palanker A. Al-Qahtani, M. G. Sun, Q. Zhou,  L. Kanu, F. Chau, and C. Q. Yu, “Feasibility of Intraocular Projection for Treatment of Intrac-table Corneal Opacity,” Cornea. 2019 April; 38(4):523-527. 
+R. Lu, Y. Yang, M. Li, T. Manzaneque and S. Gong, "GHz Broadband SH0 Mode Lithium Niobate Acoustic Delay Lines," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 67, no. 2, pp. 402-412, Feb. 2020.
+S. Sarah, S. Gong, V. H. Fan, M. I. Rosenblatt, A. F. Al-Qahtani, M. G. Sun, Qiang Zhou, L. Kanu, I. V. Vieira, and C. Q. Yu, “Characterization of an Electronic Corneal Prosthesis System,” in Current Eye Research. doi: 10.1109/LSSC.2019.2956419
+M. Bahadori, Y. Yang, L. L. Goddard, and S. Gong, “High performance fully etched iso-tropic microring resonators in thin-film lithium niobate on insulator platform,” Opt. Express 27, 22025-22039 (2019)
+M.-H. Li, C-Y. Chen, R. Lu, Y. Yang, and S. Gong,  “Temperature Stability Analysis of Thin-Film Lithium Niobate Resonators,” in Journal of Microelectromechanical Systems, vol. 28, no. 5, pp. 799-809, Oct. 2019.
+R. Lu, T. Manzaneque, Y. Yang, M.-H. Li, and S. Gong, “GHz Low-Loss and Wide-Band S0 Mode Lithium Niobate Acoustic Delay Lines”, in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 66, no. 8, pp. 1373-1386, Aug. 2019.
+ A. Kar, M. Bahadori, S. Gong, and L. L. Goddard, “Realization of alignment-tolerant grating couplers for z-cut thin-film lithium niobate”, in Optics Express 27,15856-15867 (2019). 
+R. Lu, S. P. Link, S. Zhang, M. G. Breen, and S. Gong, “Aluminum Nitride Lamb Wave Delay Lines with Sub-6 dB Insertion Loss”, in Journal of Microelectromechanical Systems, vol. 28, no. 4, pp. 569-571, Aug. 2019.  
+R. Lu, M. Li, Y. Yang, T. Manzaneque and S. Gong, "Accurate Extraction of Large Electromechanical Coupling in Piezoelectric MEMS Resonators," in Journal of Microelectromechanical Systems, vol. 28, no. 2, pp. 209-218, April 2019.
+C. Zhao, A. Gao, Y. Yang, C. Tu, A. Bhutani, K. A. Walsh, S. Gong, and D. P. Shoemaker, “High-quality CoFe2O4 thin films with large coercivity grown via a wet chemical route,” AIP Advances 9, 035126 (2019)
+P. Bassirian, J. Moody, R. Lu, A. Gao, T. Manzaneque, A. Roy, N. S. Barker, B. H. Calhoun, S. Gong, and S. Bowers, "Nanowatt-Level Wakeup Receiver Front Ends Using MEMS Resonators for Impedance Transformation," in IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 4, pp. 1615-1627, April 2019.
+T. Manzaneque, R. Lu, and S. Gong, “Low-Loss and Wide-Band Acoustic Delay Lines,” IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 4, pp. 1379-1391, April 2019.
+R. Lu, T. Manzaneque, Y. Yang, L. Gao, A. Gao and S. Gong, "A Radio Frequency Nonreciprocal Network Based on Switched Acoustic Delay Lines," in IEEE Transactions on Microwave Theory and Techniques, vol. 67, no. 4, pp. 1516-1530, April 2019.
+W. N. Allen, A. Gao, S. Gong and D. Peroulis, "Hybrid Bandpass-Absorptive-Bandstop Magnetically Coupled Acoustic-Wave-Lumped-Element-Resonator Filters," in IEEE Microwave and Wireless Components Letters, vol. 28, no. 7, pp. 582-584, July 2018.
+R. Lu, J. Krol, L. Gao, and S. Gong, “A Frequency Independent Framework for Synthesis of Programmable Non-reciprocal Networks”, Scientific Reports vol. 8, no. 14655 (2018) 
+R. Lu, T. Manzaneque, Y. Yang and S. Gong, "Lithium Niobate Phononic Crystals for Tailoring Performance of RF Laterally Vibrating Devices," in IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control, vol. 65, no. 6, pp. 934-944, June 2018.
+T. Manzaneque, R. Lu, Y. Yang and S. Gong, "Lithium Niobate MEMS Chirp Compressors for Near Zero Power Wake-Up Radios," in Journal of Microelectromechanical Systems, vol. 26, no. 6, pp. 1204-1215, Dec. 2017.
+G. G. See, A. Gao, L. Xu, R. Nuzzo, S. Gong, and B. T. Cunningham, “Quantum Dot Emis-sion Modulation using Piezoelectric Photonic Crystal MEMS Resonator" Optics Express, vol. 25, no. 21, pp. 25831-25841, October 2017. 
+R. Liu, S. Dev, Y. Zhong, R. Lu, W. Streyer, J.W. Allen, M.S. Allen, B. R. Wenner, S. Gong, and D. Wasserman, "Enhanced responsivity resonant RF photodetectors," Opt. Express 24, 26044-26054 (2016)
+Y-H. Song and S. Gong, “Wideband RF Filters Using Medium-scale Integration of Lithium Niobate Laterally Vibrating Resonators”, in IEEE Electron Device Letters, vol. 38, no. 3, pp. 387-390, March 2017.
+Y-H. Song and S. Gong, “Wideband Spurious-free Lithium Niobate RF-MEMS Filters”, in Journal of Microelectromechanical Systems, vol. 26, no. 4, pp. 820-828, Aug. 2017.
+R. Liu, R. Lu, C. Roberts, S. Gong, J. W. Allen, M. S. Allen, B. R. Wenner and D. Wasserman “Multiplexed Infrared Photodetection using Resonant RF Circuits” Applied Physics Letter,108, 061101 (2016).
+A. Gao and S. Gong, “Harnessing Mode Conversion for Spurious Mode Suppression in AlN Laterally Vibrating Resonators,” Journal of Microelectromechanical Systems, vol. 25, no. 3, pp. 450-458, June 2016. 
+Y-H. Song, R, Lu and S. Gong, “Analysis and Removal of Spurious Response in SH0 Lithium Niobate MEMS Resonators,” in IEEE Transactions on Electron Devices, vol. 63, no. 5, pp. 2066-2073, May 2016.
+Y-H. Song and S. Gong, “Elimination of spurious modes in SH0 Lithium Niobate laterally vibrat-ing resonators,” IEEE Electron Devices Letter, vol.36, no.11, pp.1198-1201, Nov. 2015
+X. Yu, W. Huang, M. Li, T. M. Comberiate, S. Gong, J. E. Schutt-Aine, X. Li "Ultra-Small, High-Frequency, and Substrate-Immune Microtube Inductors Transformed from 2D to 3D" Scientific reports 5 (2015): 9661.
+S. Gong, H. Shen, and N. S. Barker, "Study of Broadband Cryogenic DC-Contact RF-MEMS switches," Microwave Theory and Techniques, IEEE Transaction on, vol. 57, no. 12, pp. 3442-3449, Dec. 2009. 
+S. Gong, H. Shen, and N. S. Barker, "A 60 GHz 2-bit Switched-line phase shifter using SP4T RF-MEMS switches," in  IEEE Transaction on Microwave Theory and Techniques, vol.59, no.4, pp.894-900, April 2011.
+S. Gong, N. Kuo, and G. Piazza, "GHz High Q Lateral Overmoded Bulk Acoustic-wave Resonators using Epitaxial SiC Thin Film," in Journal of Microelectromechanical Systems, no. 99, pp. 1-3, Jan, 2012.
+S. Gong, and G. Piazza, "Design and Analysis of Lithium Niobate based High Electromechanical Coupling RF-MEMS Resonators for Wideband Filtering," in IEEE Transaction on Microwave Theory and Techniques, vol. 61, no.1, pp. 403-414, Jan. 2013.
+S. Gong, and G. Piazza, "Figure of Merit Enhancement for Laterally Vibrating Lithium Niobate MEMS Resonators," in IEEE Transaction on Electron Devices, vol.60, no.11, pp.3888-3894, Nov. 2013.
+S. Gong and G. Piazza, "Monolithic  Multi-Frequency Wideband RF Filters using Two-Port Laterally Vibrating  Lithium Niobate MEMS Resonators," in Journal of  Microelectromechanical  Systems, vol.23, no.5, pp.1188,1197, Oct. 2014.
+Click for more
+Articles in Conference Proceedings
+ A. E. Hassanien, E. Chow, S. Link, Y. Yang, L. Goddard, and S. Gong, "Wideband Acousto-Optical Modulation on Suspended Thin-Film Lithium Niobate," in Conference on Lasers and Electro-Optics, J. Kang, S. Tomasulo, I. Ilev, D. Müller, N. Litchinitser, S. Polyakov, V. Podolskiy, J. Nunn, C. Dorrer, T. Fortier, Q. Gan, and C. Saraceno, eds., OSA Technical Digest (Optical Society of America, 2021), paper SW3H.7. 
+R. Lu and S. Gong, "A 15.8 GHz A6 Mode Resonator with Q of 720 in Complementarily Oriented Piezoelectric Lithium Niobate Thin Films," 2021 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS), 2021, pp. 1-4, doi: 10.1109/EFTF/IFCS52194.2021.9604327.
+R. Lu and S. Gong, "Power Flow Angles of GHz Propagating Acoustic Waves in Thin-Film Lithium Niobate," 2021 IEEE International Ultrasonics Symposium (IUS), 2021, pp. 1-4, doi: 10.1109/IUS52206.2021.9593653.
+A. E. Hassanien and S. Gong, "An Acoustic Resonator with Electromechanical Coupling of 16% and Low TCF at 5.4 GHz," 2021 IEEE International Ultrasonics Symposium (IUS), 2021, pp. 1-4, doi: 10.1109/IUS52206.2021.9593546.
+S. Link, R. Lu, Y. Yang, A. E. Hassanien and S. Gong, "An A1 Mode Resonator at 12 GHz using 160nm Lithium Niobate Suspended Thin Film," 2021 IEEE International Ultrasonics Symposium (IUS), 2021, pp. 1-4, doi: 10.1109/IUS52206.2021.9593341.
+L. Gao, Y. Yang and S. Gong, "Understanding Substrate Loss in Microwave Acoustic Resonators," 2021 IEEE International Ultrasonics Symposium (IUS), 2021, pp. 1-4, doi: 10.1109/IUS52206.2021.9593816.
+Y. Yang, L. Gao and S. Gong, "A Miniaturized Acoustic Dual-Band Bandpass Filter using Thin-Film Lithium Niobate," 2021 IEEE International Ultrasonics Symposium (IUS), 2021, pp. 1-4, doi: 10.1109/IUS52206.2021.9593792.
+ A. E. Hassanien, R. Lu and S. Gong, “Near Zero TCF Acoustic Resonator with High Electromechanical Coupling of 13.5% at 3.5 GHz,” IEEE International Microwave Symposium (IMS), June 2021 (Accepted for Oral Presentation). 
+R. Lu, Y. Yang, A. E. Hassanien and S. Gong, “Low-Loss and High Power Handling Acoustic Delay Lines Using Thin-Film Lithium Niobate on Sapphire,” IEEE International Microwave Symposium (IMS), June 2021 (Accepted for Oral Presentation).
+ J. Guan, J. Zhang, R. Lu, S. Hyungjoo, J. Zhou, S. Gong and H. Hassanieh, “Efficient Wideband Spectrum Sensing Using MEMS Acoustic Resonators,” in 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI'21)
+L. Gao, Y. Yang and S. Gong, "A 14.7 GHz Lithium Niobate Acoustic Filter with Fractional Bandwidth of 2.93%," 2020 IEEE International Ultrasonics Symposium (IUS), 2020, pp. 1-4, doi: 10.1109/IUS46767.2020.9251795.
+Y. Yang, L. Gao, R. Lu and S. Gong, "Suppression of Spurious Modes in Lithium Niobate A1 Resonators Using Dispersion Matching," 2020 IEEE International Ultrasonics Symposium (IUS), 2020, pp. 1-4, doi: 10.1109/IUS46767.2020.9251462.
+R. Lu, M. Breen, A. E. Hassanien, Y. Yang and S. Gong, “Thin-Film Lithium Niobate Based Piezoelectric Micromachined Ultrasound Transducers,” 2020 IEEE International Ultrasonics Symposium (IUS). 
+R. Lu, Y. Yang and S. Gong, "5 GHz A1 Mode Lateral Overtone Bulk Acoustic Resonators in Thin-Film Lithium Niobate," 2020 IEEE International Ultrasonics Symposium (IUS), 2020, pp. 1-4, doi: 10.1109/IUS46767.2020.9251334.
+S. Zhang, R. Lu, H. Zhou, S. Link, Y. Yang, Z. Li, K. Huang, X. Ou, and S. Gong, “Surface Acoustic Wave Resonators using Lithium Niobate on Silicon Carbide Platform,” IEEE International Microwave Symposium (IMS), June 2020 (Accepted for Oral Presentation).
+L. Gao, Y. Yang, and S. Gong, “A 19 GHz Lithium Niobate Acoustic Filter with FBW of 2.4%,” IEEE International Microwave Symposium (IMS), June 2020 (Accepted for Oral Presentation).
+R. Lu, S. Link, Y. Yang, and S. Gong, “5.4 GHz Acoustic Delay Lines in Lithium Niobate Thin Film with 3 dB Insertion Loss,” IEEE International Microwave Symposium (IMS), June 2020 (Accepted for Oral Presentation).
+Y. Yang L. Gao, and S. Gong, “An X-band Lithium Niobate Acoustic RFFE Filter with FBW of 3.45% and IL of 2.7 dB, ” IEEE International Microwave Symposium (IMS), June 2020 (Accepted for Oral Presentation).
+A. Dissanayake, et. al, “A -108dBm Sensitivity, -28dB SIR, 130nW to 41µW, Digitally Reconfigurable Bit-Level Duty-Cycled Wakeup and Data Receiver,” CICC, 2020
+M-H. Li, R. Lu, T. Manzaneque and S. Gong, “Thin-Film Lithium Niobate Acoustic Delay Line Oscillators,” 2020 IEEE International Conference on Micro Electro Mechanical System 
+R. Lu, Y. Yang, M-H. Li, M. Breen and S. Gong, “8.5 GHz and 11.5 GHz Acoustic Delay Lines Using Higher-Order Lamb Modes in Lithium Niobate Thin Film,” 2020 IEEE International Conference on Micro Electro Mechanical System
+M. Krainak, M. Stephen, E. Troupaki, S. Tedder, B. Reyna, J. Klamkin, H. Zhao, B. Song, J. Fridlander, M. Tran, K. Bergman, M. Lipson, A. Rizzo, I. Datta, N. Abrams, S. Mookherjea, S-T. Ho, Q. Bei, Y. Huang, Y. Tu, B. Moslehi, J. Harris, A. Matsko, Anatoliy Savchenkov, Guangyao Liu, Roberto Proietti, S. J. B. Yoo, L. Johansson, C. Dorrer, F. R. Arteaga-Sierra, J. Qiao, S. Gong, T. Gu, O. J. Ohanian III, X. Ni, Y. Ding, Y. Duan, H. Dalir, Ray T. Chen, Volker J. Sorger and T. Komljenovic, “Integrated photonics for NASA applications,” 2019 International Society for Optics and Photonics, Components and Packaging for Laser Systems V, vol. 10899, p. 108990F. 
+Y. Yang, R. Lu, L. Gao and S. Gong, “A C-Band Lithium Niobate MEMS Filter with 10% Fractional Bandwidth for 5G Front-Ends,” 2019 International Ultrasonic Symposium
+R. Lu, Y. Yang, M. Breen, M-H. Li and S. Gong, “5 GHz Acoustic Delay Lines using Antisymmetric Mode in Lithium Niobate Thin Film,” 2019 International Ultrasonic Symposium
+M. Bahadori, A. Kar, Y. Yang, A. Lavasani, L. Goddard and S. Gong, “High-Performance Integrated Photonics in Thin Film Lithium Niobate Platform,” 2019 Conference on Lasers and Electro-Optics, OSA Technical Digest (Optical Society of America, 2019), paper JTh2A.41. 
+Y. Yang, R. Lu, L. Gao, S. Gong, “A C-Band Lithium Niobate MEMS Filter with 10% Fractional Bandwidth for 5G Front-Ends”, in International Ultrasonic Symposium, 2019 (Accepted for oral presentation and Finalist for student paper competition).
+M. Bahadori, A. Kar, Y. Yang, A. Lavasani, L. Goddard, and S. Gong, "High-Performance Integrated Photonics in Thin Film Lithium Niobate Platform,” in Conference on Lasers and Electro-Optics, San Jose, CA, USA, 2019.
+Y. Yang, R. Lu, A. Kourani, and S. Gong, "Advancing Lithium Niobate Based Thin-Film Devices for 5G Front-Ends,” in IEEE International Microwave Symposium (IMS), June 2019. 
+C.-Y. Chen, M.-H. Li, A. Gao, R. Lu, and S. Gong, "Q-enhanced Lithium Niobate SH0 Resonators with Optimized Acoustic Boundaries,” in IEEE International Frequency Control Symposium, April 2019. 
+A. Kourani, R. Lu, A. Gao, and S. Gong, "A 300-500 MHz Tunable Oscillator Exploiting Ten Overtones in Single Lithium Niobate Resonator,” in IEEE International Frequency Control Symposium, April 2019 (Best Paper Award).  
+A. Emad, R. Lu, M.-H. Li, Y. Yang, T. Wu, and S. Gong, "Resonant torsinal micro-actuators using thin-film lithium niobate,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019.
+R. Lu, T. Manzaneque, Y. Yang, M.-H. Li, and S. Gong, "Towards digitally addressable delay synthesis: GHz low-loss acoustic delay elements from 20 ns to 900 ns,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019 
+M.-H. Li, C-Y. Chen, R. Lu, Y. Yang, and S. Gong, "Power efficient ovenized lithium niobate SH0 resonator arrays with passive temperature compensation,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019. 
+A. Gao, M. Winterkorn, J. Provine, Y. Yang, R. Lu, and S. Gong, "Boosting Qs of AlN resonators by redefining acoustic boundaries,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019. 
+T. Wu, R. Lu, A. Gao, C. Tu, T. Manzaneque, and S. Gong, "A chip-scale RF MEMS gyrator via hybridizing Lorentz-Force and Piezoelectric Transduction Mechanisms,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019. 
+Y. Yang, R. Lu, and S. Gong, "A 1.65 GHz Lithium Niobate A1 Resonator with Electromechanical coupling of 11.4% and Q of 3112,” in IEEE Micro Electro Mechanical Systems (MEMS), Seoul, Korea, Jan 2019. 
+Y. Yang, R. Lu and S. Gong, "Scaling Acoustic Filters Towards 5G," 2018 IEEE International Electron Devices Meeting (IEDM), San Francisco, CA, 2018, pp. 39.6.1-39.6.4.
+R. Lu, T. Manzaneque, Y. Yang, J. Zhou, H. Hassanieh and S. Gong, "A Radio Frequency Comb Filter for Sparse Fourier Transform-Based Spectrum Sensing," 2018 IEEE International Ultrasonics Symposium (IUS), Kobe, 2018, pp. 1-9. (Oral Presentation)
+S0-Mode Lithium Niobate Acoustic Delay Lines with 1 dB Insertion Loss," 2018 IEEE International Ultrasonics Symposium (IUS), Kobe, 2018, pp. 1-9. (Best Paper Award, Oral presentation, highlighted as Significant Advance of the year)
+R. Lu, T. Manzaneque, Y. Yang, A. Gao, L. Gao and S. Gong, "A Radio Frequency Non-Reciprocal Network Based on Switched Low-Loss Acoustic Delay Lines," 2018 IEEE International Ultrasonics Symposium (IUS), Kobe, 2018, pp. 1-4. (Oral Presentation).
+W. N. Allen, A. Gao, S. Gong, and D. Peroulis, “Simultaneous Analog Tuning of the Series- and Anti-Resonances of Acoustic Wave Resonators” in 2018 IEEE 19th Wireless and Microwave Technology Conference (WAMICON) (Oral presentation). 
+T. Manzaneque, R. Lu, Y. Yang, and S. Gong, “Realizing Radio Frequency Acoustic Delays and Transversal Filtering with Sub-2 dB Insertion Loss and 10% Fractional Bandwidth,” Proceedings of the 2018 Solid-State Sensors, Actuators and Microsystems Workshop (Hilton Head 2018), June 2018. (accepted)
+R. Lu, T. Manzaneque, Y. Yang, A. Gao, L. Gao, and S. Gong, “A Radio Frequency Non-reciprocal Network Based on Switched Low-loss Acoustic Delay Lines”, Proceedings of the 2018 Solid-State Sensors, Actuators and Microsystems Workshop (Hilton Head 2018), June 2018. 
+Y. Yang, R. Lu, T. Manzaneque, and S. Gong, “Towards Ka Band Acoustics: Lithium Niobate Asymmetrical Mode Piezoelectric MEMS Resonators” in IEEE International Frequency Control Symposium. July 2018 (Oral presentation and best student paper finalist).
+Y. Yang, R. Lu, T. Manzaneque, and S. Gong, “GHz Lithium Niobate MEMS Resonators with FoM of 336 and f∙Q of 9.15×1012,” 2018 IEEE/MTT-S International Microwave Symposium - IMS, Philadelphia, PA, 2018, pp. 563-566. (Oral presentation and 2nd place in Best Student Paper Competition). 
+A. Kourani, R. Lu, T. Manzaneque, and S. Gong, “A 175 MHz 72 uW Voltage Controlled Oscillator with 1.4% Tuning Range based on Lithium Niobate MEMS Resonator and 65 nm CMOS,” 2018 IEEE/MTT-S International Microwave Symposium - IMS, Philadelphia, PA, 2018, pp. 567-570. (Oral Presentation)
+C. Tu, C. Zhao, R. Lu, T. Mananeque, D. P. Shoemaker, and S. Gong, "A Chip-scale Magnetoelectric MEMS Gyrator for RF Non-reciprocal Networks" in 2018 GOMACTech conference. Miami, FL. 2018. 
+S. M. Bowers, P. Bassirian, A. Gao, T. Manzaneque, A. Roy, J. Moody, B. H. Calhoun, and S. Gong, “Nanowatt Level Wake-up Receivers Using Co-Designed CMOS-MEMS Technol-ogies”, in 2018 GOMACTech conference. Miami, FL. 2018 (Oral Presentation).
+R. Lu, T. Manzaneque, Y. Yang and S. Gong, "Exploiting parallelism in resonators for large voltage gain in low power wake up radio front ends," 2018 IEEE Micro Electro Mechanical Systems (MEMS), Belfast, United Kingdom, 2018, pp. 747-750.
+T. Manzaneque, R. Lu, Y. Yang, and S. Gong, “An SH0 Lithium Niobate Trans-impedance Chirp Compressor with High Voltage Gain”, in 2018 IEEE Micro Electro Mechanical Systems (MEMS), Belfast, United Kingdom, 2018, pp. 783-786.
+P. Bassirian, J. Moody, A. Gao, T. Manzaneque, B. H. Calhoun, N. S. Barker, S. Gong and S. M. Bowers, "A passive 461 MHz AlN-CMOS RF front-end for event-driven wakeup receivers," 2017 IEEE SENSORS, Glasgow, 2017, pp. 1-3.
+A. Kar, A. Gao, L. L. Goddard and S. Gong, "Characterization of lithium niobate microdisk resonators with grating couplers," 2017 IEEE Photonics Conference (IPC), Orlando, FL, 2017, pp. 221-222.
+A. Gao, J. Zou and S. Gong, "A 3.5 GHz AlN S1 lamb mode resonator," 2017 IEEE International Ultrasonics Symposium (IUS), Washington, DC, 2017, pp. 1-4.
+J. Krol, and S. Gong, "Theoretical limits on loss and noise figure of nonreciprocal devices based on parametric modulation," in 2017 Napa Microsystems Workshop, August, 2017.
+M. Breen, R. Lu, A. Gao, and S. Gong, "Parametric and nonlinear phenomena in aluminum nitride MEMS resonators, " in 2017 Napa Microsystems Workshop, August, 2017.
+S. Gong, Y. H. Song, T. Manzaneque, R. Lu, Y. Yang and A. Kourani, "Lithium niobate MEMS devices and subsystems for radio frequency signal processing," 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, 2017, pp. 45-48 (Invited).
+J. Krol and S. Gong, "A non-magnetic gyrator utilizing switched delay lines," 2017 47th European Microwave Conference (EuMC), Nuremberg, 2017, pp. 452-455.
+R. Lu, T. Manzaneque, Y. Yang, and S. Gong, "Lithium niobate phononic crystals for radio frequency SH0 waves," 2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS), Besancon, 2017, pp. 846-849. (Oral Presenta-tion and Best Paper Award).
+T. Manzaneque, R. Lu, Y. Yang, and S. Gong, "An SH0 lithium niobate correlator for orthogonal frequency coded spread spectrum communications," 2017 Joint Conference of the European Frequency and Time Forum and IEEE International Frequency Control Symposium (EFTF/IFCS), Besancon, 2017, pp. 143-147. (Oral Presentation).
+Y. -H. Song and S. Gong, "A 1.17 GHz wideband MEMS filter using higher order SH0 lithium niobate resonators," 2017 19th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS), Kaohsiung, 2017, pp. 806-809. (Oral Presentation).
+T. Manzaneque, R. Lu, Y. Yang and S. Gong, "A high FoM lithium niobate resonant transformer for passive voltage amplification," 2017 19th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS), Kaohsiung, 2017, pp. 798-801. (Oral Presentation).
+W. Huang, J. Zhou, P. Froeter, K. Walsh, S. Liu, J. Michaels, M. Li, S. Gong, and X. Li, "CMOS-compatible on-chip self-rolled-up inductors for RF/mm-wave applications," 2017 IEEE MTT-S International Microwave Symposium (IMS), Honololu, HI, 2017, pp. 1645-1648. (Oral Presentation). 
+B. Arakawa, L. Gao, Y. Yang, and S. Gong, "Simultaneous wireless power transfer and communication to chip-scale devices," 2017 IEEE MTT-S International Microwave Symposium (IMS), Honololu, HI, 2017, pp. 311-314. (Oral Presentation).
+A. Kourani, Y-H. Song, and S. Gong, "A 150 MHz voltage controlled oscillator using lithium niobate RF-MEMS resonator," 2017 IEEE MTT-S International Microwave Symposium (IMS), Honololu, HI, 2017, pp. 1307-1310. (Oral Presentation).
+Y. Yang, A. Gao, R. Lu and S. Gong, "5 GHz lithium niobate MEMS resonators with high FoM of 153," 2017 IEEE 30th International Conference on Micro Electro Mechanical Systems (MEMS), Las Vegas, NV, 2017, pp. 942-945.
+T. Manzaneque, R. Lu, Y. Yang and S. Gong, "An SH0 Lithium Niobate dispersive delay line for chirp compression-enabled low power radios," 2017 IEEE 30th International Conference on Micro Electro Mechanical Systems (MEMS), Las Vegas, NV, 2017, pp. 155-158. (Oral Presentation).
+M. Breen, W. Streyer, R. Lu, A. Gao, D. Wasserman, and S. Gong, “High Speed Mid-Infrared Detectors Based on MEMS Resonators and Spectrally Selective Metamaterials,” 2016 IEEE International Frequency Control Symposium (IFCS), New Orleans, LA, 2016, pp. 1-6. (Oral Presentation).
+A. Gao and S. Gong, “Mitigation of A0 Spurious Modes in AlN MEMS Resonators with SiO2 Addendums,” 2016 IEEE International Frequency Control Symposium (IFCS), New Orleans, LA, 2016, pp. 1-5. (Oral Presentation).
+R. Jhaveri, R. Lu, S. Gong, and M. Kamon, “Distributed and thermos-acoustically coupled modeling for accurate thermal nonlinearity prediction for piezoelectric MEMS resonators,” Hilton Head Solid-State Sensors, Actuators and Microsystems Workshop, June 2016.
+R. Lu, A. Gao and S. Gong, “A piezoelectric parametric oscillator with extremely low phase noise,” Hilton Head Solid-State Sensors, Actuators and Microsystems Workshop, June 2016 (Oral Presentation).
+L. Gao, Y. Yang, J. Postma, B. Arakawa and S. Gong, "Wireless power transfer to chip-scale apparatuses", in 2016 IEEE MTT-S International Microwave Symposium (IMS), San Francisco, CA, 2016, pp. 1-4. (Oral Presentation).
+R. Lu, M. Breen, A. Gao, and S. Gong, "Piezoelectric RF resonant transformers for IoT applications", 2016 IEEE MTT-S International Microwave Symposium (IMS), San Francisco, CA, 2016, pp. 1-4. (Oral Presentation)
+W. Huang, M. Li, S. Gong and X. Li, "Extremly Miniaturized and High Performance RFIC Transformer by Self-rolled-up Membrane Nanotechnology" InterPACKICNMM2015. 
+W. Huang, M. Li, S. Gong, and X. Li, "Self-rolled-up tube transformers: Extreme miniaturization and performance enhancement," Device Research Conference (DRC), 2015 73rd Annual, pp.223-224, 21-24 June 2015. 
+S. Gong, H. Shen, and N. S. Barker, "A Broadband Cryogenic DC contact RF-MEMS switch," in 2009 IEEE MTT-S int. Microwave Symp. Dig., vol. 1, 209, pp. 227-230.
+H. Shen, S. Gong, and N. S. Barker, "DC-Contact RF-MEMS switches using thin film cantilever," in Microwave Integrated Circuit Conference, 2008. EuMIC 2008. European, Oct.2008, pp. 382-385. 
+ S. Gong, T. Reck, and N.S. Barker, "A temperature insensitive DC-contact RF-MEMS switch," Microwave Conference (EuMC), 2010 European, pp.1114,1117, 28-30 Sept. 2010
+S. Gong, and N. S. Barker, "Design of a V-band phase shifter using SP4T RF-MEMS Switches with Sonnet," 27th Annual Review of Progress in Applied Computational Electromagnetic, pp.418-421, March, 2011.
+ S. Gong, N. Kuo, and G. Piazza, "GHz AlN lateral overmoded bulk acoustic wave resonators with a fQ of 1.17E13," Frequency Control and the European Frequency and Time Forum (FCS), 2011 Joint Conference of the IEEE International, pp.1-5, 2-5 May 2011.
+S. Gong, N. Kuo, and G. Piazza, "A 1.75 GHz piezoelectrically-transduced SiC lateral overmoded bulk acoustic-wave resonator," Solid-State Sensors, Actuators and Microsystems Conference (TRANSDUCERS), 2011 16th International , pp.922,925, 5-9 June 2011.
+ N. Kuo, S. Gong, and G. Piazza, "Ultra High Frequency Fractal Phononic Crystal in Silicon Carbide," Solid-State Sensors, Actuators and Microsystems Conference (TRANSDUCERS), 2011 16th International, pp. 2486-2489, June, 2011.
+
+ N. Kuo, S. Gong, J. Hartman, J. Kelliher, W. Miller, J. Parke, S. V. Krishaswamy, J. D. Adam, and G. Piazza, "Micromachined sapphire GHz lateral overtone bulk acoustic resonators transduced by aluminum nitride," in Micro Electro Mechanical Systems (MEMS), 2012, IEEE 25th International Conference on, pp. 27-30, Jan 2012.
+S. Gong, N. Kuo, and G. Piazza, "Geometry Optimization for Quality Factor Enhancement in SiC-based Lateral Overmoded Bulk Acoustic-wave Resonators," in Micro Electro Mechanical Systems(MEMS), 2012, IEEE 25th International Conference on, pp. 692-695, 2012.
+S. Gong and G. Piazza, "Weighted Electrode Configuration for Electromechanical Coupling Enhancement in a New Class of Micromachined Lithium Niobate Laterally Vibrating Resonators," in 2012 IEEE International Electron Device Meeting (IEDM). Dec 2012.
+S. Gong, L. Shi, and G. Piazza, "High electromechanical coupling resonators using ion sliced X-cut LiNbO3 thin film," in 2012 IEEE MTT-S int. Microwave Symp. Dig. pp. 1-3, 17-22, June, 2012.
+S. Gong and G. Piazza, "Laterally Vibrating Lithium Niobate MEMS Resonators with High Electromechanical Coupling and Quality Factor," in 2012 IEEE International Ultrasonic Symposium. Oct 2012
+S. Gong and G. Piazza, "Multi-Frequency Wideband RF Filters using High Electromechanical Coupling Laterally Vibrating Lithium Niobate MEMS Resonators," in Micro Electro Mechanical Systems(MEMS), 2013, IEEE 26th International Conference on, 2013.
+S. Gong and G. Piazza, "Large Frequency Tuning of Lithium Niobate Laterally Vibrating MEMS Resonators Via Electric Boundary Reconfiguration," in Solid-State Sensors, Actuators and Microsystems Conference (TRANSDUCERS), 2013 17th International, June 2013.
+S. Gong and G. Piazza, "An 880MHz Ladder Filter Formed by Arrays of Laterally Vibrating Thin Film Lithium Niobate Resonators" in in Micro Electro Mechanical Systems(MEMS), 2014, IEEE 26th International Conference on, Jan 2014.
+S. Gong and G. Piazza, "Study of Shear Horizontal Wave MEMS resonators based on X-cut Lithium Niobate thin film" in 2014 IEEE International Ultrasonic Symposium, pp.568,571, 3-6 Sept. 2014.
+R. Lu, A. Gao and S. Gong, "Parametric Excitation in Geometrically Optimized Contour Mode AlN Resonators," in Frequency Control and the European Frequency and Time Forum (FCS), 2015 Joint Conference of the IEEE International.
+R. Lu and S. Gong, "Study of Thermal Nonlinearity in Lithium Niobate-Based MEMS Resonators," in Solid-State Sensors, Actuators and Microsystems Conference (TRANSDUCERS), 2015 18th International, June 2015. 
+Y-H. Song and S. Gong, "Spurious Mode Suppression in SH0 Lithium Niobate Laterally Vibrated MEMS Resonators" in 2015 IEEE International Electron Device Meeting (IEDM). pp.18.5.1-18.5.4, Dec 2015. 
+Y-H. Song and S. Gong, "Arraying SH0 lithium niobate laterally vibrating resonators for mitiga-tion of higher order spurious modes ", in Micro Electro Mechanical Systems(MEMS), IEEE 28th International Conference on, pp.111-114, Jan 2016. 
+A. Gao and S. Gong, "Eradication of asymmetrical spurious modes in AlN MEMS resonators using mode conversion", in Micro Electro Mechanical Systems (MEMS), IEEE 28th International Conference on, pp.119-122, Jan 2016.
+R. Lu, A. Gao and S. Gong, "Deciphering intermodulation in AlN laterally vibrating resonators", in Micro Electro Mechanical Systems(MEMS), IEEE 28th International Conference on,pp.671-674, Jan 2016. 
+Click for more
+Journal Editorships
+Associate Editor, Journal of Microwaves (2019-Now)
+Associate Editor, Journal of MicroElectroMechanical Systems (JMEMS) (2019- Now)
+Associate Editor,  Transactions of the Ultrasonics, Ferroelectrics and Frequency Control (T-UFFC). (Feb 2019- Jan 2023)
+Guest editor for 2018 IFCS Special Issue of the Transactions of the Ultrasonics, Ferroelectrics and Frequency Control (T-UFFC).
+Guest editor for the special issue of "RF-MEMS" in the Journal of Micromechanics and Micro-engineering.
+
+Professional Societies
+OSA Member
+Technical Committee Member of IEEE MTT-6 Microwave Acoustics and MEMS
+IEEE Ultrasonics, Ferroelectrics and Frequency Control Society
+IEEE Electron Devices Society
+IEEE Microwave Theory and Techniques Society
+IEEE Senior Member
+Click for more
+Teaching Honors
+List of Teachers Ranked as Excellent by Their Students - ECE 447 Active Microwave Circuits  (2017)
+List of Teachers Ranked as Excellent by Their Students - ECE 457 Microwave Devices and Circuits  (2015)
+List of Teachers Ranked as Excellent by Their Students - ECE 329 Fields and Waves  (2014)
+
+Research Honors
+3rd Place Best Paper Competition at 2018 International Microwave Symposium (6/15/2020)
+Best Paper Award at 2020 International Ultrasonic Symposium (9/15/2020)
+Best Paper Award at 2019 International Ultrasonic Symposium (10/1/2019)
+IEEE Ultrasonics Early Career Investigator Award (10/1/2019)
+DARPA Young Faculty Award 2014 (9/13/2014)
+Intel Alumni Fellow 2017-now (4/1/2017)
+NASA Early Career Faculty Award 2017 (3/5/2017)
+Best Paper Award at 2017 International Frequency Control Symposium (7/1/2017)
+2nd Place Best Paper Competition at 2018 International Microwave Symposium (6/5/2018)
+Best Paper Award at 2018 International Ultrasonic Symposium (10/15/2018)
+Best Paper Award at 2019 International Frequency Control Symposium (4/16/2019)
+Dean's Award for Excellence in Research, College of Engineering, UIUC (4/29/2019)
+Click for more
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 350 X - Fields and Waves II
+ECE 447 - Active Microwave Ckt Design
+ECE 453 - Wireless Communication Systems
+ECE 457 - Microwave Devices & Circuits
+Click for more
+
+
+
+
+
+
+Related News
+
+
+ECE graduate students share experience from Rising Stars 2022 Workshop
+
+
+Celebrating our Graduates: Kourani shares Illinois experiences, advice for current students
+
+
+Illinois ECE graduate student wins IUS Best Student Paper Award
+
+
+Gong receives IEEE Ultrasonics Early Career Investigation Award
+
+
+Gong awarded Best Paper for work on 5G filter
+
+
+ECE ILLINOIS promoted faculty includes Borisov, Gong, Gruev, Haken, and Schmitz
+
+
+
+
+
+
+
+

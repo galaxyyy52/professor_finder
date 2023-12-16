@@ -1,0 +1,255 @@
+
+
+
+
+
+
+
+ 
+
+
+Elizabeth T Hsiao-Wecksler 
+
+
+
+Grayce Wicall Gauthier Professor; Interim Director, Health Care Engineering Systems Center
+(217) 333-3415
+ethw@illinois.edu
+2022 Sidney Lu Mech Engr Bldg
+
+
+
+For More Information
+Human Dynamics and Controls Lab
+
+Education
+Ph.D., Mechanical Engineering, University of California-Berkeley, 2000
+M.S.	Mech. Eng.	Rochester Institute of Technology	1994
+B.S.	Mech. Eng.	Cornell University	1987
+
+Academic Positions
+Grayce Wicall Gauthier Professor, Mechanical Science and Engineering, UIUC, February 2023 - present
+Faculty Affiliate, Coordinated Sciences Laboratory, UIUC, February 2022 - present
+Interim Director, Health Care Engineering Systems Center, UIUC, January 2022 - August 2023
+Adjunct Professor, Zhejiang University – University of Illinois College of Engineering Joint Institute, Haining, China, 09/18-01/19
+Faculty Affiliate, Co-Course Director, Clinical Neuroscience, Carle Illinois College of Medicine, 03/17 – present 
+Visiting Affiliate Faculty, Prosthetics & Orthotics Program, School of Biological Sciences, Georgia Institute of Technology, January 2017-May 2017
+
+Associate Head for Undergraduate Programs, Department of Mechanical Science and Engineering, UIUC, August 16, 2015-August 15, 2019
+Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2015-date
+Faculty Affiliate, Beckman Institute, UIUC, February 2014-date
+Faculty Affiliate, Neuroscience Program, UIUC, March 2011-date
+Associate Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2009-August 16, 2015
+Faculty Affiliate, Center on Health, Aging and Disability, UIUC, 2008-date
+Faculty Affiliate, Department of Industrial and Enterprise Systems Engineering, UIUC, August 16, 2005-date
+Faculty Affiliate, Bioengineering Department, UIUC, October 31, 2002-date
+Assistant Professor, Department of Mechanical Science and Engineering, UIUC, July 21, 2002-August 15, 2009
+Postdoctoral Fellow, Boston University and Harvard Medical School, Boston, MA, April 2000-June 2002
+Click for more
+Other Professional Employment
+Research Assistant, University of California-San Francisco and San Francisco General Hospital, San Francisco, CA, January 1995-March 2000
+Xerox Corporation, Rochester, NY. Associate Engineer (7/87-4/88), Engineer (4/88-8/90), Senior Project Engineer (8/90-8/94)
+
+Other Professional Activities
+Co-Founder and Scientific Advisor, IntelliWheels, Inc., Champaign, IL, May 2010 – January 2018 
+
+Research StatementI direct the Human Dynamics and Controls Laboratory (HDCL) in the Department of Mechanical Science and Engineering. Our research group uses methods from design, control theory, mechatronics, pneumatics and soft robotics, musculoskeletal biomechanics, and movement analysis. The HDCL focuses on investigating and improving movement control and function through two main areas: assistive device development and locomotion biomechanics. The HDCL’s interest in assistive device development stems from a desire to improve function and the quality of life of persons with disability. 
+Research Interests
+Locomotion biomechanics
+
+Wearable devices and autonomous apparel for mitigating anxiety
+Robotic medical education task trainers
+Rolling mobility devices: wheelchairs (including ball-based wheelchairs)
+Design and control of mechatronic devices in healthcare
+
+
+Research Areas
+Dynamics  & Controls
+Health and Bio
+
+
+Selected Articles in Journals
+Petrucci, M.N., DiBerardino, L.A., MacKinnon, C.D. and Hsiao-Wecksler, E.T. “A Neuromechanical Model of Reduced Dorsiflexor Torque During the Anticipatory Postural Adjustments of Gait Initiation”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 26(11):2210-2216, 2018.
+
+Petrucci, M.N., MacKinnon, C.D., and Hsiao-Wecksler, E.T. "Modulation of Anticipatory Postural Adjustments Using a Powered Ankle Orthosis in People with Parkinson's Disease and Freezing of Gait", Gait and Posture, 72: 188-194, 2019.
+
+Slavens, B. A, Jahanian, O., Schnorenberg, A. J., and Hsiao-Wecksler, E. T. “A comparison of glenohumeral joint kinematics and muscle activation during standard and geared manual wheelchair mobility”, Medical Engineering & Physics, 70: 1-8, 2019. 
+Liang, J., Pei, Y., Ewoldt, R.H., Tippett, S.R., and Hsiao-Wecksler, E.T. “Passive Hydraulic Training Simulator for Upper Arm Spasticity”, ASME Journal of Mechanisms and Robotics, 12(4): 045001, August, 2020. (9 pages)
+
+Pei, Y., Han, T., Zallek, C.M., Liu, T., Yang, L., and Hsiao-Wecksler, E.T. “Design and Clinical Validation of a Robotic Ankle-Foot Simulator with Series Elastic Actuator for Ankle Clonus Assessment Training”. Presented at 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China, May 30-June 5, 2021. IEEE Robotics and Automation Letters, 6(2): 3793-3800, April 2021.
+
+Pei, Y., Ewoldt, R.H., Zallek, C.M., and Hsiao-Wecksler, E.T. “Design Framework and Clinical Evaluation of a Passive Hydraulic Patient Simulator for Biceps Spasticity Assessment Training”, Journal of Mechanisms and Robotics, 13(4): 041006, August 2021 (12 pages).
+
+Fox, M.C., Konigsberg, L.W., Hsiao-Wecksler, E.T., Whitcome, K.K., and Polk, J.D. “"Scaling of linear anthropometric dimensions in living humans,” American Journal of Physical Anthropology, 176(1): 134-143, 2021.
+
+Petrucci, M.N., Huffmaster, S.A., Chung, J.W., Hsiao-Wecksler, E.T., and MacKinnon, C.D. “Can people with Parkinson’s disease self-trigger gait initiation? A comparison of cueing strategies”, Journal of Parkinson's Disease, 12(2): 607-619, 2022.
+
+Jahanian, O., Muqeet, V., Hsiao-Wecksler, E. T., Slavens, B. A, and Schnorenberg, A. J. “Glenohumeral joint dynamics and shoulder muscle activity during geared manual wheelchair propulsion on carpeted floor in individuals with spinal cord injury”, Journal of Electromyography and Kinesiology, 62: 102318 (10 pages), 2022. 
+Jahanian, O., Gaglio, A., Cho, C.C., Muqeet, V., Smith, R., Morrow, M.M.B, Hsiao-Wecksler, E. T., and Slavens, B. A. “Hand-rim biomechanics during geared manual wheelchair propulsion over different ground conditions in individuals with spinal cord injury”, Journal of Biomechanics, 142:111235 (8 pages), 2022. 
+Song, S.Y, Pei, Y., and Hsiao-Wecksler, E.T. “Estimating Relative Angles Using Two Inertial Measurement Units Without Magnetometers”, IEEE Sensors Journal, 22(20): 19688-19699, 2022. 
+
+Overton, K.D., Coiado, O., and Hsiao-Wecksler, E.T.  “Exploring the Intersection of Engineering and Medicine through a Neuroscience Challenge Laboratory”, Medical Science Educator, November 10, 2022. 
+
+Xiao, C., Jahanian, O., Slavens, B.A., Hsiao-Wecksler, E.T. “Biomechanical Evaluation of Pneumatic Sleeve Orthosis for Lofstrand Crutches”, IEEE Transactions on Neural Systems and Rehabilitation Engineering, 31: 789-797, 2023. 
+
+Click for more
+Articles in Conference Proceedings
+Edward, S., Mansouri, M., Hsiao-Wecksler, E.T. , and Krishnan, G. “Experimental Characterization and Modeling of a Unit Soft Air Bladder”, to be presented at the ASME 2022 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC/CIE2022, August 14-17, 2022, St. Louis, Missouri (10 pages)
+
+He, M., Mansouri, M., Pei, Y., Pedroza, I., Zallek, C.M., and Hsiao-Wecksler, E.T. “Clinical Validation Testing of an Upper Limb Robotic Medical Education Training Simulator for Rigidity Assessment”, 21st Annual Design of Medical Devices Conference, Minneapolis, MN, USA. April 11-14, 2022. (7 pages)
+
+Mansouri, M., Krishnan, G., and Hsiao-Wecksler, E.T. “Design Guidelines for Moving a Human Body on a Bed Using Traveling Waves”, 21st Annual Design of Medical Devices Conference, April 11-14, 2022. (4 pages)
+
+Pei, Y., Zallek, C.M., and Hsiao-Wecksler, E.T. “Control Design and Preliminary Evaluation of a Medical Education Simulator for Ankle Tendon Reflex Assessment Training”, 21st Annual Design of Medical Devices Conference, April 11-14, 2022. (5 pages)
+
+Gim, K.G., He, M., Mansouri, M., Pei, Y., Ripperger, E., Zallek, C.M., and Hsiao-Wecksler, E.T. “Development of a Series Elastic Elbow Neurological Exam Training Simulator for the Lead-pipe Rigidity”, 2021 IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China, May 30-June 5, 2021. pp. 10340-6
+
+McDonagh, D., Arquines, K., Hsiao-Wecksler, E.T., Mansouri, M., Krishnan, G., and Zallek, C.M., “User Centered Approach to the Supra-functional Needs of People Living with Amyotrophic Lateral Sclerosis (ALS)”, Proceedings of the 2021 Design of Medical Devices Conference. 2021 Design of Medical Devices Conference. Minneapolis, MN, USA. April 12–15, 2021. ASME Frontiers in Biomedical Devices, 2018 Design of Medical Devices Conference ():V001T07A002. (6 pages)
+
+Thompson, N., Kocheril, A.G., Hsiao-Wecksler, E.T., Krishnan, G. “A Soft Active Heart Simulator for Transseptal Puncture Training”, Proceedings of the 2021 Design of Medical Devices Conference. 2021 Design of Medical Devices Conference. Minneapolis, MN, USA. April 12–15, 2021. ASME Frontiers in Biomedical Devices, 2018 Design of Medical Devices Conference ():V001T02A007 (4 pages)
+
+Thompson, N., Zhang, X., Ayala, F., Hsiao-Wecksler, E.T., Krishnan, G. “Augmented Joint Stiffness and Actuation using Architectures of Soft Pneumatic Actuators”, 2018 IEEE International Conference on Robotics and Automation (ICRA), Brisbane, Australia, May 21-25, 2018. pp. 1533-8
+
+Song, S.Y, Pei, Y., Tippett, S.R., Lamichhane, D., Zallek, C.M., Hsiao-Wecksler, E.T. "Validation of a Wearable Position, Velocity, and Resistance Meter for Assessing Spasticity and Rigidity", Design of Medical Devices Conference, Minneapolis, MN, April 10-12, 2018. ASME Frontiers in Biomedical Devices, 2018 Design of Medical Devices Conference ():V001T10A007 (4 pages)
+
+Pei, Y., Ewoldt, R.H., Zallek, C.M., Hsiao-Wecksler, E.T. “Revised Design of a Passive Hydraulic Training Simulator of Biceps Spasticity”, Design of Medical Devices Conference, Minneapolis, MN, April 10-12, 2018. ASME Frontiers in Biomedical Devices, 2018 Design of Medical Devices Conference (): V001T11A007 (4 pages)
+
+Garag, P., Chen, A., McDonagh, D., Hsiao-Wecksler, E.T. “Design and Evaluation of the PosturSense Cushion”, Design of Medical Devices Conference, Minneapolis, MN, April 10-12, 2018. ASME Frontiers in Biomedical Devices, 2018 Design of Medical Devices Conference ():V001T11A008 (4 pages)
+
+Song, S.Y., Y. Pei, J. Liang, and E.T.Hsiao-Wecksler, “Design of a Portable Position, Velocity, and Resistance Meter (PVRM) for Convenient Clinical Evaluation of Spasticity or Rigidity,” Design of Medical Devices Conference, Minneapolis, MN, April 11-13, 2017. ASME. Frontiers in Biomedical Devices, 2017 Design of Medical Devices Conference ():V001T11A021 (2 pages). 
+
+Gaglio, A., S. Daigle, E. Gacek, O. Jahanian, B. Slavens, I. Rice, and E.T. Hsiao-Wecksler, “Validation of an Instrumented Wheelchair Hand Rim,” Design of Medical Devices Conference, Minneapolis, MN, April 11-13, 2017. ASME. Frontiers in Biomedical Devices, 2017 Design of Medical Devices Conference ():V001T05A012 (2 pages), October 31, 2017 
+
+Xiao, C., O. Jahanian, A. Schnorenberg, B.Slavens, and E.T.Hsiao-Wecksler, “Design and Biomechanical Evaluation of Pneumatic Ergonomic Crutch,” Design of Medical Devices Conference, Minneapolis, MN, April 11-13, 2017. ASME. Frontiers in Biomedical Devices, 2017 Design of Medical Devices Conference ():V001T11A020 (2 pages).
+
+Singh, G., C. Xiao, E.T. Hsiao-Wecksler, and G. Krishnan, “Design and Analysis of Soft Pneumatic Sleeve for Arm Orthosis,” ASME 2016 International Design Engineering Technical Conferences and Computers and Information in Engineering Conference, IDETC /CIEC 2016, Charlotte, North Carolina, August 21-24, 2016.
+
+Farooq, D., O. Jahanian, , B.A. Slavens, and E.T Hsiao-Wecksler, “Evaluation of the Effects of a Wrist Orthosis on Lofstrand Crutch-Assisted Gait,” 38th Annual International IEEE EMBS Conference, Lake Buena Vista (Orlando), FL, August 16-20, 2016. pp. 5042-5
+
+Gaglio, A., J. Liang, S. Daigle, and E.T. Hsiao-Wecksler, “Design of a Universal Instrumented Wheelchair Hand Rim,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. September 2016; 10(3): 030956. (2 pages)
+
+Xiao, C., Y. Oo, D. Farooq, G. Singh, G. Krishnan, and E.T. Hsiao-Wecksler, “Pneumatic Sleeve Orthosis for Lofstrand Crutches: Application of Soft Pneumatic FREE Actuator,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. June 2016; 10(2): 020959 (2 pages)
+
+Liang, J., R.H. Ewoldt, S.R. Tippett, and E.T. Hsiao-Wecksler, “Design and Modelling of a Passive Hydraulic Device for Muscle Spasticity Simulation,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. June 2016; 10(2): 020954 (2 pages)
+
+Wang, Z. and E.T. Hsiao-Wecksler, “Design of a Compact High Torque Actuation System for Portable Powered Ankle-Foot Orthosis,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. September 2016; 10(3): 030963 (2 pages)
+
+Islam, M. and E.T. Hsiao-Wecksler, “Developing a Classification Algorithm for Plantarflexor Actuation Timing of a Powered Ankle-Foot Orthosis,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. September 2016; 10(3): 030961 (2 pages)
+
+Islam, M., M.T. Hagan, and E.T. Hsiao-Wecksler, “Gait State Estimation for Powered Ankle Orthosis using Modified Fractional Timing and Artificial Neural Network,” Design of Medical Devices Conference, Minneapolis, MN, April 11-14, 2016. ASME. J. Med. Devices. June 2016; 10(2): 020920 (2 pages)
+
+Petrucci, M.N., C.D. MacKinnon, and E.T. Hsiao-Wecksler, “Modulation of Anticipatory Postural Adjustments of Gait Using a Portable Powered Ankle-Foot Orthosis," IEEE 13th International Conference on Rehabilitation Robotics (ICORR 2013), Seattle, WA, June 24-26, 2013. (6 pages)
+
+Li, Y.D. and E.T. Hsiao-Wecksler, “Gait Mode Recognition and Control for a Portable-Powered Ankle-Foot Orthosis,” IEEE 13th International Conference on Rehabilitation Robotics (ICORR 2013), Seattle, WA, June 24-26, 2013. (8 pages)
+
+Boes, M.K., M. Islam, Y. D. Li, and E.T. Hsiao-Wecksler, “Fuel Efficiency of a Portable Powered Ankle-Foot Orthosis,” IEEE 13th International Conference on Rehabilitation Robotics (ICORR 2013), Seattle, WA, June 24-26, 2013. (6 pages)
+
+Li, Y.D. and E.T. Hsiao-Wecksler, "Gait Mode Recognition Using an Inertial Measurement Unit to Control an Ankle-Foot Orthosis During Stair Ascent and Descent," Dynamic Systems and Control Conference (DSCC), Fort Lauderdale, FL, October 17-19, 2012. pp. 743-52 (Best paper in session) 
+
+Hsu, M-K. I., C. Jayaraman, S. Culp, I. M. Rice, E. T. Hsiao-Wecksler, and J. J. Sosnoff, “Variability and Complexity of Shoulder Motion During Wheelchair Propulsion,” Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) 2012 Annual Conference, Baltimore, MD, June 28 – July 3, 2012. (4 pages)  (Honorable Mention - Student Scientific Paper competition)
+
+Tilton, A., E. T. Hsiao-Wecksler, and P. G. Mehta, “Filtering with Rhythms: Application to Estimation of Gait Cycle,” 2012 American Control Conference (ACC), Montréal, Canada, June 27-29, 2012. pp. 3433-8.
+Morris, E. A., K. A. Shorter, Y. Li, G. F. Kogler, T. Bretl, W. K. Durfee, and E. T. Hsiao-Wecksler, “Actuation Timing Strategies for a Portable Powered Ankle Foot Orthosis,” Dynamic Systems and Control Conference (DSCC) and Bath/ASME Symposium on Fluid Power and Motion Control, Arlington, VA, October 31-November 2, 2011. Volume 2, pp. 807-14
+
+Li, Y., K. A. Shorter, E. T. Hsiao-Wecksler, and T. Bretl, “Simulation and Experimental Analysis of a Portable Powered Ankle-Foot Orthosis Control,” Dynamic Systems and Control Conference (DSCC) and Bath/ASME Symposium on Fluid Power and Motion Control, Arlington, VA, October 31-November 2, 2011. Volume 1, pp. 77-84.
+
+Shorter, K.A., Y. Li, E. A. Morris, G. F. Kogler, and E. T. Hsiao-Wecksler, “Experimental Evaluation of a Portable Powered Ankle-Foot Orthosis,” 33rd Annual International IEEE EMBS Conference, Boston, MA, August 30 - September 3, 2011. pp. 624-7. 
+
+Click for more
+Refereed Conference Papers and Presentations
+Song, S.Y., Pei, Y., Hsiao-Wecksler, E.T. “Simple and Low-Cost Methods of Computing Joint Angles Using Inertial Measurement Units Without Magnetometers,” 44th American Society of Biomechanics Annual Meeting, Atlanta, GA, August 4-7, 2020.
+
+
+Patents
+Hsiao-Wecksler, E. T., Pei, Y., Gim, K., Garag, P., Ripperger, E., and Zallek, C.M. “Training Simulator for Healthcare Training”, invention disclosures submitted February 25, 2021 and March 8, 2021. U.S. Non-provisional Patent Application #63/229,723, submitted August 5, 2021
+
+Bleakney, A.W., Elliott, J.R., Hsiao-Wecksler, E.T., Malik, P.B., McDonagh, D.C., Rausin, A.K., Norris, W.R., Almeida de Souza Ramos, J.L, Xiao, C., Chen, Y., Pei, Y., Song, S.Y, “A Low-Profile and High-load Ball-Balancing Rolling System”, Invention disclosure submitted, July 25, 2020. U.S. Non-provisional Patent Application No.: 63/074,126, submitted September 3, 2020
+
+Song, S.Y., Hsiao-Wecksler, E. T., and Zallek, C.M. “Method and apparatus for muscle tone and limb movement measurement and assessment”, invention disclosure submitted, June 27, 2019. U.S. Provisional Patent Application submitted January 17, 2020. U.S. Non-provisional Application No.: 17/147,654 filed on January 13, 2021
+
+Hsiao-Wecksler, E.T. and S.C. Daigle, IntelliWheels: The Automatic Gear-Shifting System for Manually Propelled Wheelchairs, United States Patent (Pub. No.: US9707138 B2). Filing date: July 27, 2012. Publication date: July 18, 2017.
+
+Hsiao-Wecksler, E.T., D. Farooq, C. Xiao, G. Krishnan, G. Singh, Y.L. Oo, Forearm and Wrist Support for Crutch Users. United States Patent (Pub. No.: US9662263 B2). Filing date: Oct 13, 2015. Publication date: May 30, 2017.
+
+Hsiao-Wecksler, E.T., K.A. Shorter, V. Gervasi, D.L. Cook, R. Remmers, G.F. Kogler, and W.K. Durfee, "Portable active pneumatically powered ankle-foot orthosis," United States Patent (Pub. No.: US9480618 B2). Filing date: Mar 14, 2012. Publication date: Nov 1, 2016.
+
+Liang, J., E.T. Hsiao-Wecksler, R.H. Ewoldt, and S.R. Tippett, “Passive Hydraulic Medical Training Simulator for Mimicking Joint Spasticity and Rigidity,” Invention disclosure submitted November 24, 2015. U.S. Provisional Patent Application #62/321,360 submitted April 12, 2016.
+
+Hsiao-Wecksler, E.T., E. Loth, G. Kogler, K.A. Shorter, J.A. Thomas, and J.N. Gilmer, "Portable Active Pneumatically Powered Ankle-Foot Orthosis," United States Patent (Pub. No.: US 2011/0112447 A1).
+
+Click for more
+Professional Societies
+Fellow, American Society of Biomechanics - Past President, 2022-2023, President, 2021-2022, President Elect 2020-2021, Elected Annual Meeting Program Chair, 2010-2012, Woman in Science Committee, 2007-2009, New Member Committee, 2007
+Fellow, American Society of Mechanical Engineers - Design and Rehabilitation Committee of the Bioengineering Division, 2008-present, Conference Reviewer (2010, 2013)
+Member, American Association for the Advancement of Science
+Member, IEEE
+Member, Pi Tau Sigma
+Member, World Association for Chinese Biomedical Engineers
+Click for more
+Service on Campus Committees
+Provost's Executive Committee for the Illinois Design Initiative, 2016-2018
+Chancellor and Provost's Committee on LGBT Concerns, 2004-2005, 2012-2018
+
+
+
+Honors
+Grayce Wicall Gauthier Professor (2023)
+Presidential line (President-Elect, President, Past-President)  (2020-2023)
+Distinguished Engineering Educator Awardee - Society of Women Engineers (2018)
+Fellow - American Society of Biomechanics (2018)
+Fellow - ASME (2015)
+Technical Program Chair for 2012 Annual Meeting (Program Chair-Elect, Program Chair) (2010-2012)
+Click for more
+Teaching Honors
+Engineering Council Award for Excellence in Advising (2008, 2009, 2015, 2016)
+List of Teachers Ranked as Excellent by Their Students (Fall 2005, Fall 2006, Spring 2013, Fall 2013, Fall 2018, Spring 2020)
+
+Research Honors
+Dean's Award for Excellence in Research (2013)
+Willett Faculty Scholar (2013)
+Fellow (2004-2005)
+
+Other Honors
+“150 for 150” Top 150 accomplished women at the University of Illinois in celebration of its sequential 1867-2017  (2017)
+
+
+Recent Courses TaughtBIOE 497 ETH - Individual Study
+ENG 298 LRM - LEGO Robotics Mentoring
+ME 370 - Mechanical Design I
+ME 481 (BIOE 481) - Whole-Body Musculoskel Biomech
+TAM 210 - Introduction to Statics
+TAM 211 - Statics
+Click for more
+
+
+
+
+
+
+Related News
+
+	May 17, 2023
+	Three more faculty honored at investiture ceremony
+
+	March 20, 2023
+	Hands-free wheelchair prototype achieves major milestone
+
+	January 17, 2023
+	Historic number of MechSE faculty honored with named professorships
+
+	December 8, 2022
+	Women faculty highlight their research impact
+
+	January 14, 2022
+	Hsiao-Wecksler named HCESC interim director
+
+	August 14, 2021
+	Hsiao-Wecksler named President of ASB
+
+
+
+
+
+
+
+

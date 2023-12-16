@@ -1,0 +1,76 @@
+
+
+
+
+
+
+
+ 
+
+
+Siyi Xu 
+
+
+
+Assistant Professor, starting August 2024
+
+siyixu@illinois.edu
+ 
+
+
+
+For More Information
+Personal Website
+
+Education
+B.S., Materials Science and Engineering, University of Illinois at Urbana-Champaign, 2016
+M.S., Engineering Sciences - Mechanical Engineering and Materials Science, Harvard University, 2018
+Ph.D., Engineering Sciences - Mechanical Engineering and Materials Science, Harvard University, 2022
+
+Academic Positions
+Postdoctoral Fellow, Harvard University, 2022-2023
+Postdoctoral Fellow, Northwestern University, 2023-present
+Assistant Professor, University of Illinois at Urbana-Champaign, starting August 2024
+
+Research Interests
+Soft robotics
+Electrically-responsive soft actuators and transducers
+Stretchable and flexible sensors
+Wearable and implantable electronics
+
+
+
+Selected Articles in Journals
+Xu, S., Nunez, C. M., Souri, M., Wood, R. J., An electrically-driven dynamic soft peristaltic pump for soft fluidic robots, Science Robotics, 8(79), 2023
+Poccard-Saudart, J., Xu, S., Teeple C. B., Hyun, N.P., Becker, K.P., and Wood, R. J., Controlling soft fluidic actuators using sot DEA-based valves, Robotics and Automation Letters, 7(4), pp.8837-8844, 2022
+
+Xu, S., Chen, Y., Hyun, N.P., Becker, K.P., A dynamic electrically-driven soft valve for control of fluidic soft actuators, Proceedings of the National Academy of Sciences, 118(34),
+2021.
+Chen, Y., Xu, S., Ren, Z., Chirarattananon, P. Collision Resilient Insect-Scale Soft-Actuated Aerial Robots With High Agility. IEEE Transactions on Robotics, 2021.
+Xu, S., Vogt, D., Osborne, J., Walsh, T., Foster, J., Sullivan, S., Smith, V., Rousing, A., Goldfield, E., Wood, R. J., “Biocompatible Soft Fluidic Strain and Force Sensors for Wearable Devices”, Advanced Functional Materials, 29(7), 2019 (Cover Article)
+Fang, H.†, Yu, K.J.†, Gloschat, C., Yang, Z., Song, E., Chiang, C.H., Zhao, J., Won, S.M., Xu, S., Trumpis, M. and Zhong, Y., “Capacitively coupled arrays of multiplexed flexible silicon transistors for long-term cardiac electrophysiology”, Nature biomedical engineering, 1(3), pp.1-12, 2017. (†authors contributed equally to this work)
+Feng, Di†, Zhang, H.†, Xu, S., Tian, Li., and Song N., “Stretchable array of metal nanodisks on a 3D sinusoidal wavy elastomeric substrate for frequency tunable plasmonics”, Nanotechnology, 28(11), 2017. (†authors contributed equally to this work
+Feng, D., Zhang, H., Xu, S., Tian, L., and Song, N. Fabrication of plasmonic nanoparticles on a wave shape PDMS substrate. Plasmonics, 12(5), 1627-1631, 2017
+Gao, L., Zhang, Y., Zhang, H., Doshay, S., Xie, X., Luo, H., Shah, D., Shi, Y., Xu S.,
+Fang, H. and Fan, J.A., Optics and nonlinear buckling mechanics in large-area, highly stretchable arrays of plasmonic nanostructures. Acs Nano, 9(6), 5968-5975, 2015.
+Click for more
+Research Honors
+IEEE Transactions on Robotics King-Sun Fu Memorial Best Paper Award (2021)
+Rising Stars in Mechanical Engineering (2021)
+
+
+
+
+
+
+
+
+Related News
+
+
+
+
+
+
+
+

@@ -1,0 +1,112 @@
+
+
+
+
+
+
+
+ 
+
+
+Geoffrey Lindsay Herman he/him/his
+
+
+
+Severns Teaching Associate Professor
+
+glherman@illinois.edu
+3213 Siebel Center for Comp Sci
+
+
+
+For More Information
+http://publish.illinois.edu/glherman/
+
+BiographyDr. Geoffrey L. Herman is the Severns Teaching Associate Professor in the Department of Computer Science at the University of Illinois at Urbana-Champaign. He earned his Ph.D. in Electrical and Computer engineering from the University of Illinois at Urbana-Cha¬mpaign as a Mavis Future Faculty Fellow and conducted postdoctoral research in the School of Engineering Education at Purdue University. His was awarded the IEEE Education Society Mac Van Valkenburg Early Career Teaching Award and the Scott H. Fisher Computer Science Teaching Award. He helped found the Grainger College of Engineering’s Strategic Instructional Innovations Program, which has been empowering faculty innovation in teaching for over 10 years and has provided seed funding that has led to several millions of dollars in external grant funding and hundreds of research papers. He is also a leader in faculty professional development, leading national workshops on professional development for computer science teaching faculty and creating peer mentoring networks for engineering teaching faculty through the Teaching Professionals Program. His research focuses on how students learn engineering and computing concepts and studying processes for creating systemic change in how engineering and computer science are taught in college settings. His research on students’ misconceptions in programming was awarded the best paper in the first 50 years of the ACM Special Interest Group, Computer Science Education. His research has been awarded over $7 million in external funding and has resulted in over 120 peer-reviewed journal articles and conference papers. He is a board member of the Computer Research Association Education committee. He is also an associate editor for the Journal of Engineering Education.
+Teaching StatementStudents are humans.Students are not brains on sticks. When I first began teaching, I missed this. I focused so much on crafting perfect explanations and was dismayed when students didn’t learn well. I responded by studying cognitive psychology to understand why learning is difficult. This knowledge improved my teaching, but was also inadequate, addressing my students’ cognition but not the rest of their being. Students come to my courses with complex and varied motivations, experiences, and knowledge all contextualized by history, politics, and culture. I’ve since become a student of organizational psychology, sociology, counseling psychology, and history. I’m beginning to understand the systemic factors that give some students a head start and keep others shackled at the starting line. I’ve started to scratch the surface of how things like cultural narratives and social media can paralyze students with fears of inadequacy and drive them away from a field where they could thrive. I am cultivating what I hope is a holistic teaching philosophy that embraces the needs of all my students. I design sequences of activities that require students to put their knowledge and skills into action. Before coming to class in CS 233 Computer Architecture, students watch short video lectures and then complete a short, autograded assignment. Then in class, students solve problems on the same material in a group with their peers. These assignments require students to use their knowledge in many ways, explaining their reasoning to peers, answering autograded questions, and wrestling with reflection questions that ask them why a solution was sufficient or how concepts interact. These multi-modality activities are critical for helping students develop robust knowledge and the ability to use it flexibly. Students then engage the same material yet again after class through short homework assignments and longer lab assignments. I try to directly build on knowledge from one module to the next. If not possible, I assign short exercises late in the semester to remind students of content from earlier in the course. The possibility of success or failure, the immediate feedback, the minimal points, and the repeated exercises on the same content all help students’ bodies and minds experience the information as important and give them enough practice to begin automating their use of knowledge to achieve higher-level performance.I design my courses with my students’ mental and emotional health in mind. While some stress is needed to trigger deeper learning, too much stress makes learning impossible. Rather than having a few high-stakes exams, I use many lower stakes quizzes to minimize test anxiety. I also provide students with a second chance on quizzes for when they perform poorly. These techniques make stress more manageable and also reinforce active learning with spaced repetition in their learning. I also share about my own struggles with mental health and frequently remind students about the accommodations we provide. The use of frequent assessments and course rhythms helps me detect when students are struggling. For example, students who are struggling with their emotional health during my class frequently start by missing deadlines for the labs and then missing quizzes and then homework assignments. By monitoring when students miss multiple deadlines, I have been better able to reach out to students before they enter a freefall and get them the help and accommodations they need. I use collaborative learning for my in-class activities to fight these historic injustices. We require all students in CS 233 to rotate group members for the first couple weeks of the semester so that isolated students have a chance to network and build their social capital and find study partners. When we need to assign students to teams, we make sure that students from minoritized groups are not isolated on their teams but get to see other minoritized students in CS and normalize their own presence. I also focus on hiring students from underrepresented groups to my course staff to help student teams during class and further increase their visible representation in my classroom. Collaborative learning also provides a context where students feel that they are not alone in their struggles to learn but instead build connections with others through shared struggles. The use of collaborative learning also gives me the freedom to devote more of my attention and energy to students who are struggling. When helping teams during class, I normalize failure and struggle by always reinforcing that each team had a question or made a mistake that I had seen other teams have and that groups were not alone in their struggles. I essentially get to give 8 hours of individualized attention to students every week, even in a class of 400.I am committed to continuing to learn as a teacher and grow as a person so that I can better dignify and humanize my students, caring for their whole persons and not just their learning outcomes.
+Graduate Research OpportunitiesI mentor students who are interested in engineering education research and who are interested in learning how to design better instruction.
+Undergraduate Research OpportunitiesI welcome any student who is interested in improving engineering and computer science education to join me in improving their own learning experiences and those of their peers through undergraduate research opportunities. I am currently primarily interested in studying how we can help students learn in courses like CS 225 (Data Structures) and CS 233 (Computer Architecture) and in how we can use technologies like the Computer-Based Testing Facility to help students learn more.
+
+Research Areas
+Computers and Education
+
+
+Selected Articles in Journals
+Johnson-Glauch, N. & Herman, G. L. (2020). How engineering students use domain knowledge when problem solving using different visual representations, Journal of Engineering Education, 109(3), 443-469.
+
+Faulkner, B., Johnson-Glauch, N., Choi, D., & Herman, G. L. (2020). Where does the calculus go in engineering coursework? Journal of Engineering Education, 109(3), 402-423.
+
+Morphew, J., Silva, M., Herman, G. L., West, M. (2019). Frequent mastery testing with second-chance exams leads to enhanced student learning in undergraduate STEM. Applied Cognitive Psychology. https://doi.org/10.1002/acp.3605.
+
+Johnson-Glauch, N. & Herman, G. L. (2019). Engineering representations guide student problem solving in Statics, Journal of Engineering Education. 108(2), 220-247.
+
+Ma, S., Herman, G. L., West, M., Tomkin, J., & Mestre, J. (2019). Studying STEM faculty communities of practice through social network analysis, Journal of Higher Education, 90(5), 773-799. DOI: https://doi.org/10.1080/00221546.2018.1557100
+
+Herman, G. L., Green, J. C., Hahn, L., Mestre, J., Tomkin, J., & West, M. (2018). Implementing evidence-based instructional practices across STEM departments at a large research university, Journal of College Science Teaching, 47(6), 32-38.
+Herman, G. L., Loewenstein, J. (2017). Evidence-based change practices, Journal of Engineering Education, 106(1), 1-10. DOI: 10.1002/jee.20152
+Montfort, D. B., Herman, G. L., Brown S. A., Matusovich, H. M., & Streveler, R. A., Adesope, O. (2015). Patterns of student conceptual understanding across engineering content areas. International Journal of Engineering Education, 31(6A), 1587-1604.
+Herman, G. L., Zilles, C., & Loui, M. C. (2014). A psychometric evaluation of the Digital Logic Concept Inventory. Computer Science Education, 24(4), 277-303. DOI:10.1080/08993408.2014.970781 
+Herman, G. L., Loui, M. C., Kaczmarczyk, L., & Zilles, C. (2012). Describing the what and why of students’ difficulties in Boolean logic. ACM Transactions on Computing Education, 12(1), 3:1-28.
+
+Herman, G. L., Zilles, C., & Loui, M. C. (2012). Flip-flops in students' conceptions of state. IEEE Transactions in Education, 55 (1), 88–98.
+Click for more
+Refereed Conference Papers and Presentations
+Herman, G. L., Huang, S., Peterson, P. A., Oliva, L., Golaczewski, E., & Sherman, A. T. (2023). Psychometric Evaluation of the Cybersecurity Curriculum Assessment. In Proceedings of the 54th Technical Symposium on Computer Science Education (SIGCSE ’23). March 15-18, 2023, Toronto, ON, Canada. DOI: 10.1145/3545945.3569762. (Best Paper Award)
+Poulsen, S., Gertner, Y., Cosman, B., West, M., Herman, G. (2023). Efficiency of Learning from Proof Blocks Versus Writing Proofs. In Proceedings of the 54th Technical Symposium on Computer Science Education (SIGCSE ’23). March 15-18, 2023, Toronto, ON, Canada.
+
+Herman, G. L., Jiang, Y., Jiang, Y., Poulsen, S., West, M., Silva, M. (2022). An Analytic Comparison of Student-Scheduled and Instructor-Scheduled Collaborative Learning in Online Contexts, In Proceedings of the 2022 American Society for Engineering Education Annual Conference and Exposition.
+
+Poulsen, S., Viswanathan, M., Herman, G. L., West, M. (2021). Evaluating proof blocks problems as exam questions, In Proceedings of the 14th ACM Conference on International Computing Education Research (ICER 2021), Aug. 16-19, 2021, Virtual Event, 12 pages. https://doi.org/10.1145/3446871.3469741. (Honorable Mention Award)
+
+Herman, G. L., Cai, Z., Bretl, T., Zilles, C., West, M. (2020). Comparison of grade replacement and weighted averages for second-chance exams. In Proceedings of the 2020 ACM Conference on International 
+ Computing Education Research, August, pp. 56-66. 
+Herman, G. L. & Azad, S. (2020). A comparison of peer instruction with collaborative problem solving in computer architecture course, In Proceedings of the ACM Special Interests Group on Computer Science Education (SIGCSE ’20), pp. 461-467. https://doi.org/10.1145/3328778.3366819
+
+Herman, G., L. & Choi, D. S. (2017). The affordances and constraints of diagrams on students’ reasoning about state machines, In Proceedings of the 2017 ACM Conference on International Computing Education Research (ICER 2017), Seattle, WA, August 18-20. DOI: 10.1145/3105726.3106172 . Acceptance Rate: 16%
+Click for more
+
+Recent Courses TaughtCS 199 233 - Supplementary proj for CS-233
+CS 233 - Computer Architecture
+CS 296 33 - Honors Course
+CS 498 GH3 (CS 498 GH4, CS 498 OL3, CS 498 OL4) - Intro to Online Learning Sys
+CS 500 - Topics in Comp Ed Rsrch
+CS 591 CED - Computers and Education
+CS 598 GLE (CS 598 GLH) - Learning and Comp Science
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Herman's Study Furthering Cybersecurity Curriculum Assessment Earns Best Paper Award
+
+
+Illinois CS Places 28 Faculty on CITL List of Teachers Ranked as Excellent By Their Students
+
+
+Newly Funded Research Projects Showcase CS Faculty's Ability to Innovate
+
+
+Grainger Engineering Investitures Honor Seven Distinguished CS Faculty
+
+
+Silva Leads Team Studying Interconnections Between Online Learning, Equity, and Access
+
+
+Four Illinois CS Students Earn Highly Coveted NSF Graduate Research Fellowships
+
+
+
+News Notes
+
+
+
+
+
+
+
+

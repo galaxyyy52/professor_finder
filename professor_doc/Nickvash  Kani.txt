@@ -1,0 +1,74 @@
+
+
+
+
+
+
+
+ 
+
+
+Nickvash Kani 
+
+
+
+Research Assistant Professor
+
+kani@illinois.edu
+265 Coordinated Science Lab
+
+
+
+For More Information
+Group website.
+Personal website.
+
+
+Education
+Ph.D. in Electrical and Computer Engineering; Georgia Institute of Technology; 2017
+M.S. in Electrical and Computer Engineering; Georgia Institute of Technology; 2013
+B.S. in Computer Engineering; Boston University; 2010
+
+Academic Positions
+Research Assistant Professor; University of Illinois at Urbana-Champaign; Electrical and Computer Engineering; October 2019 - present
+
+Research Interests
+Mathematical Language Processing
+
+Data retrieval systems
+Scientific Computing 
+
+
+
+Selected Articles in Journals
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "A probability-density function approach to capture the stochastic dynamics of the nanomagnet and impact on circuit performance." IEEE Transactions on Electron Devices 63.10 (2016): 4119-4126.
+Kani, Nickvash, John T. Heron, and Azad Naeemi. "Strain-mediated magnetization reversal through spin-transfer torque." IEEE Transactions on Magnetics 53.11 (2017): 1-8.
+Kani, Nickvash, and Azad Naeemi. "Analytical models for coupling reliability in identical two-magnet systems during slow reversals." Journal of Applied Physics 122.22 (2017): 223902.
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "Analytic modeling of dipolar field requirements for robust coupling in a non-identical biaxial two-magnet system." Journal of Applied Physics 124.2 (2018): 023901.
+
+Articles in Conference Proceedings
+Kani, Nickvash, and Azad Naeemi. "Wiring resource minimization for physically-complex Network-on-Chip architectures." 2014 27th IEEE International System-on-Chip Conference (SOCC). IEEE, 2014.
+Kani, Nickvash, Shaloo Rakheja, and Azad Naeemi. "A probability-density function approach to capture the stochastic dynamics of the nanomagnet and impact on circuit performance." IEEE Transactions on Electron Devices 63.10 (2016): 4119-4126.
+
+
+Recent Courses TaughtCS 374 BL1 (CS 374 BYA, CS 374 BYB, CS 374 BYC, CS 374 BYD, CS 374 BYE, CS 374 BYF, CS 374 CSP, ECE 374 BL1, ECE 374 BLZ, ECE 374 BYA, ECE 374 BYB, ECE 374 BYC, ECE 374 BYD, ECE 374 BYE, ECE 374 BYF, ECE 374 CSP, ECE 374 ZJ1, ECE 374 ZJU) - Intro to Algs & Models of Comp
+ECE 342 - Electronic Circuits
+
+
+
+
+
+
+
+Related News
+
+
+A simple approach to a big win
+
+
+
+
+
+
+
+

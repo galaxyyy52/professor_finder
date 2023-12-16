@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+ 
+
+
+Douglas L Jones 
+
+
+Administrative TitlesWilliam L. Everitt Distinguished Professor in Electrical and Computer Engineering
+
+William L. Everitt Distinguished Professor Emeritus
+(217) 244-6823
+dl-jones@illinois.edu
+115 Coordinated Science Lab
+
+
+
+For More Information
+Prof. Jones' Home Page
+
+Education
+PhD   Electrical Engineering   Rice University, Houston, TX   May 1987
+
+BiographyDouglas L. Jones received the BSEE, MSEE, and Ph.D. degrees from Rice University in 1983, 1986, and 1987, respectively. During the 1987-1988 academic year, he was at the University of Erlangen-Nuremberg in Germany on a Fulbright postdoctoral fellowship. Since 1988, he has been with the University of Illinois at Urbana-Champaign, where he is currently a Professor in Electrical and Computer Engineering, Neuroscience, the Coordinated Science Laboratory, and the Beckman Institute. He was on sabbatical leave at the University of Washington in Spring 1995 and at the University of California at Berkeley in Spring 2002. In the Spring semester of 1999 he served as the Texas Instruments Visiting Professor at Rice University. He is now serving as the Director of the Advanced Digital Sciences Centre (ADSC) Illinois at Singapore.  He is an author of two DSP laboratory textbooks, and was selected as the 2003 Connexions Author of the Year. He is a Fellow of the IEEE. He served on the Board of Governors of the IEEE Signal Processing Society from 2002-2004. His research interests are in digital signal processing, including nonstationary signal analysis, adaptive processing, multisensor data processing, OFDM, and various applications such as low-power implementations, biology and neuroengineering, and advanced hearing aids and other audio systems.
+Major Consulting Activities
+Sonistic, LLC, Co-Founder and Scientific Advisor
+
+Teaching StatementProfessor Jones teaches from the freshman to graduate levels in the general area of Electrical and Computer Engineering, with an emphasis on signal processing.  He is particularly interested in laboratory-based instruction, and has developed ECE 420: Digital Signal Processing Laboratory, the laboratory for ECE 210, and the laboratory-intensive ECE 101 general education course. He has also developed and taught a course in signal analysis for neuroscientists participating in an interdisciplinary Neuroengineering program and an interdisciplinary neuroengineering research course. Professor Jones is committed to enhancing engineering education world-wide, and has made his instructional texts for digital signal processing laboratory and advanced signal processing algorithms openly available for use and reuse through the Connexions open-source textbook project; they have been used at a number of universities and translated into several languages.
+Research Interests
+Neuro-engineering
+VLSI implementation of digital signal processing
+Biological applications of signal processing
+Multichannel estimation and denoising
+Signal Processing for MEMS
+Digital signal processing for hearing aids, audio, and acoustic applications
+Signal Processing for Communications
+Time-varying and Time-frequency Analysis
+Digital Signal Processing
+Click for more
+
+Research Areas
+Adaptive signal processing
+Audio, speech, music and auditory processing
+Biomedical Imaging, Bioengineering, and Acoustics
+Circuits
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Machine learning
+Signal Processing
+VLSI architectures and integrated circuits for DSP and communications
+Click for more
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+Bioelectronics and Bioinformatics
+Healthcare and medical technologies
+Human computer interactions
+Neuro-engineering
+Sensing systems
+Speech, language, and audio processing
+Click for more
+Honors
+Connexions Author of the Year, 2003
+Fellow, IEEE, 2001
+Texas Instruments Visiting Professor, Rice University, 1999
+Fulbright Postdoctoral Fellow, 1987-1988
+
+Teaching Honors
+ECE Ronald W. Pratt Faculty Outstanding Teaching Award (2006)
+
+Research Honors
+NSF Research Initiation Award, 1991
+
+Public Service Honors
+Board of Governors, IEEE Signal Processing Society, 2002-2005
+
+
+Recent Courses TaughtECE 120 - Introduction to Computing
+
+
+
+
+
+
+
+Related News
+
+
+ECE faculty members lead new cybersecurity initiative in Singapore
+
+
+Three new named professorships announced
+
+
+Researchers explore the mystery of neuron coding and its applications
+
+
+Robo-whiskers developed at Illinois could aid laparoscopic surgery
+
+
+New Computer Engineering curriculum includes emphasis on computing systems
+
+
+ADSC extends time, funding for research in Singapore
+
+
+
+
+
+
+
+

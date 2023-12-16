@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+ 
+
+
+ Bill Gropp he/him/his
+
+
+
+Grainger Distinguished Chair
+(217) 244-6720
+wgropp@illinois.edu
+4314 Siebel Center for Comp Sci
+
+
+
+For More Information
+William Gropp's home page
+
+BiographyWilliam Gropp is Director of the National Center for Supercomputing Applications and holds the Thomas M. Siebel Chair in the Department of Computer Science at the University of Illinois in Urbana-Champaign. He received his Ph.D. in Computer Science from Stanford University in 1982.  He was on the faculty of the Computer Science Department of Yale University from 1982-1990 and from 1990-2007, he was a member of the Mathematics and Computer Science Division at Argonne National Laboratory.  His research interests are in parallel computing, software for scientific computing, and numerical methods for partial differential equations.  He is a Fellow of AAAS, ACM, IEEE, and SIAM and a member of the National Academy of Engineering.
+Research Interests
+High Performance Computing
+Programming models for scientific computing
+Scalable Numerical Algorithms
+Scientific Computing
+Parallel Computing
+
+
+Research Areas
+Architecture, Compilers, and Parallel Computing
+Parallel / High-Performance Computing
+Scientific Computing
+
+
+Reports
+Future Directions for NSF Advanced Computing Infrastructure to Support U.S. Science and Engineering in 2017–2020, National Academies of Sciences, Engineering, and Medicine, The National Academies Press, 2016
+
+Research Honors
+AAAS Fellow (2018)
+ACM/IEEE-CS Ken Kennedy Award (2016
+)
+SIAM/ACM Prize in Computational Science and Engineering (2015)
+SIAM/SC Career Prize (2014)
+Tau Beta Pi Daniel C. Drucker Eminent Faculty Award (2013)
+SIAM Fellow (2011
+)
+IEEE Medal of Excellence in Scalable Computing (2010)
+Elected Member, National Academy of Engineering (2010)
+IEEE Fellow (2010)
+R & D 100 for PETSc (2009)
+IEEE Sidney Fernbach Award (2008
+)
+ACM Fellow (2006)
+R & D 100 for MPICH2 (2005)
+Gordon Bell Prize, 1999, with Anderson, Kaushik, Keyes and Smith (1999)
+Click for more
+
+
+
+
+
+
+
+Related News
+
+
+NCSA Director and CS professor Bill Gropp recognized for leadership in high performance computing
+
+
+Gropp, Amato assume roles on CRA Board of Directors 
+
+
+Warnow, Gropp Among Faculty Members Honored with 2023 Campus Awards for Excellence in Faculty Leadership
+
+
+UIUC, U of I System Commit $50 Million to Support NCSA Services for Campus Researchers
+
+
+NCSA's Delta Now Fully Operational
+
+
+ Learning from China's Bootstrapped Supercomputer 
+
+
+
+News Notes
+
+
+
+
+
+
+
+

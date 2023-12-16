@@ -1,0 +1,254 @@
+
+
+
+
+
+
+
+ 
+
+
+Sameh Tawfick 
+
+
+
+Associate Professor; Ralph A. Andersen Faculty Scholar
+(217) 244-6303
+tawfick@illinois.edu
+4412 Mechanical Engineering Lab
+
+
+
+For More Information
+Personal website
+
+Education
+Ph.D. ME University of Michigan 2012
+M.S. ME Cairo University, Egypt 2007
+B.M.E. Cairo University, Egypt 2003
+
+Academic Positions
+Visiting Professor, Institute for Manufacturing, Department of Engineering, University of Cambridge, January 2023 - July 2023
+Beaufort Visiting Fellow, St. John's College, University of Cambridge, January 2023 - July 2023
+Associate Professor, Mechanical Science and Engineering, University of Illinois, August 2020 - date
+Part-time Faculty, Beckman Institute for Advanced Science and Technologies, University of Illinois, June 2019 - date
+Assistant Professor, Mechanical Science and Engineering, University of Illinois, August 2013 - August 2020
+Postdoctoral Associate, Laboratory for Manufacturing and Productivity, Massachusetts Institute of Technology, January 2013 - August 2013
+Click for more
+Research Interests
+Actuators and Robotic Mechanisms
+Carbon Nanomaterials: Carbon Nanotubes and Graphene
+Additive Manufacturing of Polymeric and Composite Materials
+Data-Driven Manufacturing and Machine Learning
+Nanomechanics and Nanomanufacturing
+Solid Mechanics and Materials
+Click for more
+
+Research Areas
+Applied Physics
+Chemistry
+Manufacturing
+Security and Defense
+Solid Mechanics and Materials
+Transportation
+Click for more
+
+Chapters in Books
+Hart, A.J., S.J. Park, M. De Volder, S. Tawfick, and E.R. Meshot, “Principles and Methods for Integration of Carbon Nanotubes in Miniaturized Systems”  in "Microelectronics to Nanoelectronics: Materials, Devices & Manufacturability" Editor: Anupama B. Kaul, CRC Press 2013.
+
+
+Selected Articles in Journals
+Kanj, A., A. Vakakis and S. Tawfick "Buckling-induced Transmission Switching in Phononic Waveguides" The Journal of the Acoustical Society of America , 154, 1640–1659, 2023.
+Tsai, S., Y. Wang, Q. Wang, W. King, and S. Tawfick " Miniature Soft Jumping Robots Made by Additive Manufacturing" Smart Materials and Structures 32 (10) 105022, 2023.
+Kim, H., S. Tawfick and W.P. King, "Buckling Elastomeric Springs and Lattices for Tailored Energy Absorption " Materials Today Communications 35  106417, 2023. 
+Ha, J., Y. Kim, C. Li, J. Hwang, S. Leung, R. Siu, and S. Tawfick, "Polymorphic Display and Texture Integrated Systems Controlled by Capillarity " Science Advances 9, eadh1321, 2023.
+Shah, A., J. A Schiller I. Ramos; D. Adams, S. Tawfick, and E. Ertekin, "Automated Image Segmentation of Scanning Electron Microscopy" Materials Today Communications 35, 106127, 2023.
+Kanj, A., P. Ferrari, A. van der Zande, A. Vakakis and S. Tawfick, "Ultra-tuning of Nonlinear Drumhead MEMS Resonators by Electro-thermoelastic Buckling" Mechanical Systems and Signal Processing (196) 1 110331, 2023.
+Surana, M., G. Ananthakrishnan, M. Poss, J. Yaacoub, K. Zhang, T. Ahmed, N. Admal, P. Pochet, H. Johnson, and S. Tawfick, "Strain-driven Faceting of Graphene-catalyst Interface" Nano Letters 23 (5), 1659–1665, 2023.
+Jing, J., S. Tawfick and G. Bahl, "Frequency Response and Eddy Current Power Loss in Magneto-Mechanical Transmitters" accepted in Transactions on Antennas and Propagation, 71 (4), 3642 - 3653, 2023.
+Wang, Y., Q. Wang, M. Liu, Y. Qin, L. Cheng, O. Bolmina, M. Alleyne, A. Wissa, R. Baughman, D. Vella, and S. Tawfick, "Insect-scale Jumping Robots Enabled by a Dynamic Buckling Cascade " PNAS, 120 (5) e2210651120, 2023. Selected for PNAS Science Session Podcast and Video: https://www.pnas.org/post/podcast/rise-bioinspired-robots
+Wang, C., S. Tawfick, and A. Vakakis, "Non-reciprocal Frequency Conversion in a Two-dimensional Waveguide Incorporating a Local Nonlinear Gate" Communications in Nonlinear Science and Numerical Simulation, 118, 107041, 2023.
+
+Wang, C., A. Mojahed, S. Tawfick, and A. Vakakis, "Machine Learning Non-reciprocity of a Linear Waveguide with a Local Nonlinear, Asymmetric Gate: Case of Strong Coupling" ASME J. of Computational and Nonlinear Dynamics, 8(3), 031004, 2023.
+
+Kim, H., S. Tawfick, and W. King, "Modeling and Design of Zero-stiffness Elastomer Springs Using Machine Learning" Advanced Intelligent Systems, 2200225, 2022.
+
+Davydovich, O., J. Paul, J. Feist, J. Aw, F. Balta Bonner, J. Lessard, S. Tawfick, Y. Xia, N. Sottos, and J. Moore, "Frontal Polymerization of Dihydrofuran Comonomer Facilitates Thermoset Deconstruction" Chemistry of Materials 34 (19) 8790–8797, 2022.
+
+Wang, C., A. Mojahed, S. Tawfick, and A. Vakakis, "Machine Learning Non-reciprocity of a Linear Waveguide with a Local Nonlinear, Asymmetric Gate: Case of Weak Coupling" Journal of Sound and Vibration 537, 117211, 2022.
+
+Wang, C., S Tawfick, and A. Vakakis, "Two-dimensional Granular-thin Plate Interface for Shock Mitigation" International Journal of Non-Linear Mechanics 146, 104168, 2022.
+
+McGregor, D, M. Bimrose, C. Shao, S. Tawfick, and W. King, "Using Machine Learning to Predict Dimensions and Qualify Diverse Part Designs Across Multiple Additive Machines and Materials" Additive Manufacturing 55, 102848, 2022.
+
+McGregor, D., M. Bimrose, S. Tawfick, and W. King, "Large Batch Metrology on Internal Features of Additively Manufactured Parts Using X-ray Computed Tomography" Journal of Materials Processing Technology, 306, 1176052021, 2022.
+
+Hwang, J., J. Ha, R. Siu, Y. Kim, and S. Tawfick, "Swelling, Softening and Elastocapillary Adhesion of Cooked Pasta" Physics of Fluids, special issue on Kitchen Flows 34, 042105, 2022.
+
+Kanj. A., R. Parithimal, C. Lee, J. Kulikowsky, G. Bahl and S. Tawfick, "Dynamics, Dissipation and Design of a Torsional Magnetic Spring Mechanism" Mechanical Systems and Signal Processing 179, 109307, 2022.
+
+Yang, Y., D. McGregor, S. Tawfick, W.P. King, and C. Shao, "Hierarchical Data Models Improve the Accuracy of Feature Level Predictions for Additively Manufactured Parts" Additive Manufacturing 51, 102621, 2022.
+
+Ha, J., Y. Kim, R. Siu, and S. Tawfick, "Dynamic Pattern Selection in Polymorphic Elastocapillarity" Soft Matter 18 (2), 262-271, 2022. (Selected for Cover Article)
+
+Thanalakshme, R., A. Kanj, J. Kim, E. Wilken-Resman, J. Jing, I. Grinberg, J. Bernhard, S. Tawfick, and Gaurav Bahl, "Magneto-Mechanical Transmitters for Ultra-Low Frequency Near-Field Data Transfer" IEEE Transactions on Antennas and Propagation, 70 (5), 3710-3722, 2021.
+
+Kim, S., J. Bunyan, P. Ferrari, A. Kanj, A. Vakakis, A. Van Der Zande, and S. Tawfick, "Buckling-mediated Phase Transitions in Nano-Electromechanical Phononic Waveguides" Nano Lett. 21 (15) 6416–6424, 2021.
+
+Wang, C., S. Tawfick, and A. Vakakis, "Time Scale Disparity Yielding Acoustic Nonreciprocity in a Two-dimensional Granular-Elastic Solid Interface with Asymmetry" Physical Review E 104 (4), 044906, 2021.
+
+Ananthakrishnan, G., M. Surana, K. Zhang, J. Yaacoub, N. Admal, P. Pochet, S. Tawfick and H.J. Johnson, "Graphene-Mediated Stabilization of Surface Facets on Metal Substrates" Journal of Applied Physics 130 (16), 165302, 2021.
+
+Kanj, A., C. Wang, A. Mojahed, A. Vakakis, and S. Tawfick, "Wave Redirection, Localization and Non-reciprocity in a Dissipative Nonlinear Lattice by Macroscopic Landau-Zenner Tunneling: Experimental Results", AIP Advances 11, 065328, 2021.
+
+Wang, C., A. Kanj, A. Mojahed, S. Tawfick, and A. Vakakis, "Wave Redirection, Localization and Non-reciprocity in a Dissipative Nonlinear Lattice by Macroscopic Landau-Zenner Tunneling: Theoretical Results", Journal of Applied Physics 129 (9), 095105 (special issue on Acoustic Metamaterials), 2021.
+
+McGregor, D., S. Rylowicz, A. Brenzel, D. Baker, C. Wood, D. Pick, H. Deutchman, C. Shao, S. Tawfick, and W.P. King, "Analyzing Part Accuracy and Sources of Variability for Additively Manufactured Lattice Parts Made on Multiple Printers" Additive Manufacturing 40, 101924, 2021.
+
+63.	Chu, H., X. Hu, Z. Wang, J. Mu, N. Li, X. Zhou, S. Fang, C. Haines, J.W. Park, S. Qin, N. Yuan, J. Xu, S. Tawfick, H.J. Kim, P. Conlin, M. Cho, K. Cho, J. Oh, S. Nielsen, K. Alberto, J. Razal, J. Foroughi, G. Spinks, S.J. Kim, J. Ding, J. Leng, and R. Baughman "Unipolar-stroke, Electroosmotic-pump Carbon Nanotube Yarn Muscles" Science 371 (6528), 494-498, 2021.
+Schiller, J., R. Toro, A. Shah, M. Surana, K. Zhang, M. Robertson, K. Miller, K. Cruse, K. Liu, B. Seong, C. Seol, I. Foster, B. Blaiszek, B. Galewsky, D. Adams, D. Katz, P. Ferreira, E. Ertekin, and S. Tawfick, "Crowd-sourced Data and Analysis Tools for Advancing Chemical Vapor Deposition of Graphene" ACS Applied Nano Materials 3 (10), 10144-10155, 2020.
+
+Ha, J., Y. Kim, K. Jiang, R. Siu, and S. Tawfick, "Hydrodynamic Capillary Morphing of Hair Bundles" Physical Review Letters 125 (25), 254503, 2020. (also selected as Editor's Suggestion in PRL, and as Synopsis in Physics)
+
+King, W. et al., [55 authors listed alphabetically after the first author who was the project lead; the authors include my PhD student D. McGregor and myself] "Emergency Ventilator for COVID-19" PloS one 15 (12), e0244963, 2020.
+Wang, C., A. Kanj, A. Mojahed, S. Tawfick, and A. Vakakis, "Experimental Landau-Zener Tunneling for Wave Redirection in Nonlinear Waveguides" Physical Review Applied 14 (3), 034053, 2020.
+
+Zhang, K., M. Surana, R. Haasch, and S. Tawfick, "Elastic Modulus Scaling in Graphene-Metal Nanocomposites" Journal of Physics D: Applied Physics, 53 (18), 185305, 2020.
+
+Wang C., S. Tawfick and A. Vakakis, "Irreversible Energy Transfer, Localization and Non-reciprocity in Weakly Coupled, Nonlinear Lattices with Asymmetry" Physica D: Nonlinear Phenoman, 132229, 2019.
+
+Tawfick, A., and Y. Tang, "Stronger Artificial Muscles, with a Twist" Science, 365(6449): 125-126, 2019.
+
+Mojahed, A., J. Bunyan, S. Tawfick, and A. Vakakis, "Tunable Acoustic Nonreciprocity in Nonlinear Asymmetric Waveguides " Physical Review Applied Physical Review Applied 12 (3), 034033, 2019.
+
+Kovanko L. and S. Tawfick, "Dynamics of Capillary-Driven Hair Twisting" Langmuir 35 (41), 13421-13426, 2019.
+
+McGregor D., S. Tawfick, and W.P. King, "Automated Metrology and Geometric Analysis of Additively Manufactured Lattice Structures" Additive Manufacturing 28: 535-545, 2019.
+
+Lamuta, C., H. He, K. Zhang, M. Rogalski, N. Sottos, and S. Tawfick, "Digital Texture Voxels for Stretchable Morphing Skin Applications" Advanced Materials Technologies 4(8) 1900260, 2019.
+
+Tawfick S., N. Nayakanti, C. Prohoda, and A.J. Hart, "Geometric Tailoring of Strength and Toughness in Self-locking Interleaved Laminates" Extreme Mechanics Letters 27: 94-101, 2019.
+
+Sandin, C., T. Talukdar, J. Abelson, and S. Tawfick, "Bottom-Up Synthesis and Mechanical Behavior of Refractory Coatings Made of Carbon Nanotube-Hafnium Diboride Composites" ACS Applied Materials and Interfaces 11 (1): 1487-1495, 2019.
+
+McGregor D., S. Tawfick, and W. P. King, “Mechanical Properties of Hexagonal Lattice Structures Fabricated Using Continuous Liquid Interface Production Additive Manufacturing” Additive Manufacturing, 25:10-18, 2019.
+
+Bunyan, J. and S. Tawfick, "Exploiting Structural Instability to Design Architected Materials Having Essentially Nonlinear Stiffness" Advanced Engineering Materials, 21 (2): 1800791, 2019. (also selected for Cover Article)
+
+Fronk M., S. Tawfick, C. Daraio, S. Li, A. Vakakis, and M. Leamy, "Acoustic Non-Reciprocity in Lattices with Nonlinearity, Internal Hierarchy and Asymmetry: Computation Study" ASME J. of Vibrations and Acoustics, 141 (5), 051011, 2019.
+
+Zhang K., C. Androulidakis, M. Chen, and S. Tawfick, "Gilding with Graphene: Rapid Chemical Vapor Deposition Synthesis of Graphene on Thin Metal Leaves” Advanced Functional Materials 28: 1804068, 2018.
+
+Androuilidakis C., E. N. Koukaras, M. Poss, K. Papagelis, C. Galiotis, and S. Tawfick, “Strained Hexagonal Boron Nitride: Phonon Shift and Grüneisen Parameter” Physical Review B Rapid Communications 97: 241414(R), 2018.
+
+Shin, D. and S. Tawfick, “Polymorphic Elastocapillarity: Kinetically Reconfigurable Self-assembly of Hair Bundles by Varying The Drain Rate” Langmuir 34 (21): 6231-6236, 2018.
+
+Bunyan J., K. Moore, A. Mojahed, M. Fronk, S. Tawfick, M. Leamy, and A. Vakakis, "Accoustic Non-reciprocity in a Lattice Incorporating Nonlinearity, Asymmetry and Internal Scale Hierarchy: Experimental Study" Physical Review E 97: 052211, 2018.
+
+Androulidakis C., K. Zhang, M. Robertson, and S. Tawfick*, "Tailoring the Mechanical Properties of 2D Materials and Heterostructures" 2D Materials 5 (3), 2018. (*invited)
+
+Lamuta C., S. Messelot, and S. Tawfick, "Theory of the Tensile Actuation of Fiber Reinforced Coiled Muscles" Smart Materials and Structures 27: 055018, 2018.
+
+Moore, K., J. Bunyan, S. Tawfick, O. Gentleman, S. Li, M. Leamy, and A. Vakakis, "Non-Reciprocity in the Dynamics of Coupled Oscillators with Nonlinearity, Asymmetry and Scale Hierarchy" Physical Review E 97: 012219, 2018.
+
+Nayakanti, N., S. Tawfick, and A.J. Hart, "Deployable Multi-Stable Structures from Twist-Coupled Kirigami" Extreme Mechanics Letters 21: 17-24, 2018.
+
+Zhang, K., M. Poss, P. Chen, and S. Tawfick, "Strengthening Nickel by In Situ Graphene Synthesis" Advanced Engineering Materials 19 (12), 2017.
+
+Pagano, A., T. Yan, B. Chien, A. Wissa, and S. Tawfick, “A Crawling Robot Driven by Multi-Stable Origami” Smart Materials and Structures 26 (9), 2017.
+
+Bunyan J. and S. Tawfick, “Mechanical Behavior of PDMS at Low Pressure” Materials Research Express 4 (7), 2017.
+
+Liang, Y., D. Sias, P. Chen, and S. Tawfick, "Tough Nano-Architectured Conductive Textile Made by Capillary Splicing of Carbon Nanotubes” Advanced Engineering Materials 19 (7), 2017.
+
+Rao, A., S. Tawfick, B. Bedewy, and A.J. Hart, "Morphology-Dependent Load Transfer Governs The Strength and Failure Mechanism of Carbon Nanotube Yarns," Extreme Mechanics Letters 9 (1), 55-65, 2016.
+Zhang, K., K. Han, S. Shi, G. Bahl, and S. Tawfick, "Highly Stretchable Conductors Made by Laser Draw-Casting of Ultralong Metal Nanowires" Advanced Electronic Materials 2 (6), 2016.
+Lee, K. and S. Tawfick, "Micro-Architectured Electro-Elasto-Kinematic Muscles" Extreme Mechanics Letters 8: 64-69, 2016.
+
+ Tawfick, S.*, J. Bico, and S. Barcelo, "Three-dimensional Lithography by Elasto-Capillary Engineering of Filamentary Materials" MRS Bulletin 41 (2), 104-114, 2016. (*invited)
+Bunyan, J., A.F. Vakakis, and S. Tawfick, "Mechanisms for Impulsive Energy Dissipation and Small-Scale Effects in Microgranular Media" Physical Review E 92 (6): 062206, 2015.
+
+Li, S., W. Hua, M. Liang, M. Tuo, S. Tawfick, A.J. Hart, Q. Zhu, and H. Xin, "Anisotropic Microwave Conductivity Dispersion of Horizontally Aligned Multi-Walled Carbon-Nanotube Thin Film on Flexible Substrate" IEEE Transactions on Microwave Theory and Techniques 63 (11): 3588-3594, 2015.
+Park, S., A. Schmidt, S. Tawfick, and A.J. Hart, "Precise Control of Elastocapillary Densification of Nanostructures via Low-Pressure Condensation" Journal of Micromechanics and Microengineering, 24 (6): 065019, 2014.
+Brieland-Shoultz, A.*, S. Tawfick*, S. Park, M. Bedewy, M. Maschmann, J.W. Baur, and A.J. Hart, “Scaling the Stiffness, Strength and Toughness of Ceramic Coated Nanotube Foams into the Structural Regime” Advanced Functional Materials 24 (36): 5728-5735, 2014. * equal contribution.
+De Volder, M., S. Park, S. Tawfick, and A.J. Hart, “Strain-Engineered Manufacturing of Freeform Carbon Nanotube Microstructures” Nature Communications 5: 4512, 2014.
+Tawfick, S., Z. Zhao, M. Maschmann, A. Brieland-Schultz, M. De Volder, J.W. Baur, W. Lu, and A.J. Hart, "Mechanics of Capillary Forming of Carbon Nanotubes" Langmuir 29 (17): 5190-5198, 2013.
+De Volder, M., S. Tawfick, R. Baughman, and A.J. Hart, “Carbon Nanotubes – Present and Future Commercial Applications” Science 339: 535-589, 2013.
+Tawfick, S., M. De Volder, and A.J. Hart, “Structurally Programmed Folding of Vertical Nanostructures”  Langmuir 27 (10): 6389-6394, 2011.
+Zhao, Z., S. Tawfick, S.J. Park, M. De Volder, A.J. Hart, and W. Lu, “Formation of Asymmetric Filament Assemblies by Elastocapillary Densification” Physical Review E 82: 041605, 2010.
+De Volder, M.*, S. Tawfick*, S. Park, D. Copic, Z. Zhao, W. Lu, and A.J. Hart, “Diverse 3D Microarchitectures Made by Capillary Forming of Carbon Nanotubes” Advanced Materials 22: 4384-4389, 2010 (*equal contribution).
+Tawfick, S., X. Deng, A.J. Hart, and J. Lahann, “Nanocomposite Microstructures with Controllable Mechanical and Chemical Properties” Physical Chemistry and Chemical Physics 12: 4446-4451, 2010.
+De Volder, M., D.O. Vidaud, E.R. Meshot, S. Tawfick, and A.J. Hart, "Self-Similar Organization of Arrays of Individual Carbon Nanotubes and Carbon Nanotube Micropillars" Microelectronic Engineering 87 (5-8):1233-1238, 2010.
+Tawfick, S., K. O’Brien, and A.J. Hart, “Flexible High Conductivity Carbon Nanotube Interconnects Made by Rolling and Printing” Small, 5 (21): 2467-2473, 2009.
+Meshot, E.R., D.L. Plata, S. Tawfick, Y. Zhang, E. Verploegen, and A.J. Hart, “Engineering Vertically Aligned Carbon Nanotube Growth by Decoupled Thermal Treatment of Precursor and Catalyst” ACS Nano, 3 (9): 2477-2486, 2009.
+Click for more
+Bulletins
+Tawfick, S. "The Route Towards Engineered Multifunctional Hair and Fur" imechanica.org Journal Club for August 2022.
+
+Professional Societies
+Society of Manufacturing Engineers, 2015 - 2018
+ASM International, 2015 - 2017
+American Physical Society, member, 2009 - date
+Materials Research Society, member, 2008 - date
+American Society of Mechanical Engineers, member, 2004 - date
+
+Honors
+Dean's Award for Excellence in Research (Associate Professor) (2023)
+Beaufort Visiting Fellowship (2023)
+AFOSR Young Investigator Program (2018)
+Chao and Trigger Young Manufacturing Engineer (2017)
+Outstanding Young Manufacturing Engineer Award (2016)
+Rackham Predoctoral Fellowship (2011)
+The Ivor K. McIvor Award for Outstanding Research in Applied Mechanics (2011)
+Azarkhin Scholarship for Outstanding Research in Applied Mechanics (2010)
+Robert M. Caddell Memorial Award for Outstanding Manufacturing Research
+ (2010)
+Click for more
+Teaching Honors
+Stanley H. Pierce Award for Empathetic Student-faculty Cooperation (Engineering Council) (2022)
+Two-Year Alumni Effective Teaching Award (2020)
+Everett Award for Teaching Excellence (Engineering Council) (2018)
+Engineering Council Award for Excellence in Advising (2016, 2017, 2022, 2023)
+Teachers Ranked Excellent by Their Students (Spring 2015, Spring 2017, Fall 2018, Spring 2019, Fall 2021, Fall 2022)
+
+
+Recent Courses TaughtBIOE 497 SHT - Individual Study
+ME 370 - Mechanical Design I
+ME 430 - Failure of Engrg Materials
+ME 498 SHT - Fundamentals of nanomanufact
+ME 598 ST - Additive Manufacturing
+TAM 424 - Mechanics of Structural Metals
+Click for more
+
+
+
+
+
+
+Related News
+
+	August 21, 2023
+	More faculty from MechSE earn promotion and named appointments
+
+	July 1, 2023
+	Displays controlled by flexible fins and liquid droplets more versatile, efficient than LED screens
+
+	May 1, 2023
+	MechSE sweeps Outstanding Advisor Awards
+
+	March 20, 2023
+	Tawfick honored with Dean's Award
+
+	January 24, 2023
+	ME 470 teams help physician innovators bring new hospital bedside table design to life
+
+	January 23, 2023
+	Click beetle-inspired robots jump using elastic energy
+
+
+
+
+
+
+
+

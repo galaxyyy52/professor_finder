@@ -1,0 +1,106 @@
+
+
+
+
+
+
+
+ 
+
+
+Jonathan Makela 
+
+
+
+Professor
+(217) 265-9470
+jmakela@illinois.edu
+5044 Electrical & Computer Eng Bldg
+
+
+
+For More Information
+Professor Makela's Homepage
+
+Education
+Ph.D., Electrical and Computer Engineering, Cornell University, 2003
+B.S., Electrical Engineering, Cornell University, 1999
+
+BiographyProf. Makela earned his B.S. (1999) and Ph.D. (2003) degrees from Cornell University from the School of Electrical and Computer Engineering in Cornell's College of Engineering.  From 2002-2004 he was a post-doctoral research associate at the Naval Research Laboratory, researching in the Thermosphere-Ionosphere Research Applications group.  He joined ECE ILLINOIS' faculty in 2004 where he is currently a Professor.  He has received several awards for his research and teaching, including the 2011 Mac Van Valkenburg Early Career Teaching Award from the IEEE Education Society and the 2008 Zeldovich Medal form the international Committee on Space Research and Russian Academy of Sciences.
+Research StatementProf. Makela's research interests lie in multi-technique remote sensing of the Earth's upper atmosphere. He works with ground- and satellite-based instrumentation to study both the quiet-time and storm-time behavior of this region at low- and mid-latitudes. To accomplish this, his group develops, tests, and deploys suites of sensors to sites around the world.  These instruments include portable imaging systems, Global Navigation Satellite System (GNSS) receivers, and Fabry-Perot interferometers.  His research group is currently working on developing new techniques and algorithms to simultaneously analyze these multiple datasets to better understand the underlying electrodynamics of instability processes in the equatorial and mid-latitude ionosphere, as well as the physics coupling of the neutral atmosphere to the electrified plasma in the ionosphere.  They developed algorithms used by NASA's Ionospheric Connection Explorer mission, which studies the upward coupling between the atmosphere and near-space environment. His group’s work has implications for improving specification and forecasting of space weather, natural hazards warnings, improving distributed sensing techniques, and furthering our understanding of basic space plasma physics.
+Research Interests
+Optical and radio remote sensing techniques from both ground- and satellite-based platforms.
+Response of the Earth's ionosphere to geomagnetic storms.
+Ionospheric physics, especially irregularities at low- and mid-latitudes and their effects on trans-ionospheric satellite signals.
+
+
+Research Areas
+Atmospheric and ionospheric measurements
+Atmospheric and ionospheric theory
+Atmospheric waves
+Electromagnetics and Optics
+Radio and optical wave propagation
+Remote Sensing
+Click for more
+
+Research Topics
+Data science and analytics
+Imaging science and systems
+Sensing systems
+
+Teaching Honors
+Ronald W. Pratt Faculty Outstanding Teaching Award, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2009
+Mac Van Valkenburg Early Career Teaching Award, IEEE Education Society, 2011
+
+Research Honors
+CEDAR Prize Lecture, “Thermospheric dynamics as observed through the lens of networked FPIs” (2015)
+International Union of Radio Scientists (URSI) - United States National Committee Henry G. Booker Fellowship (2008)
+Committee on Space Research (COSPAR) and Russian Academy of Sciences Zeldovich Medal (2008)
+Faculty Early Career Development Program (CAREER) Award, National Science Foundation (2007-2012)
+National Research Council Post-Doctoral Research Associateship (2002-2004)
+National Science Foundation Graduate Research Fellowship (1999-2002)
+Click for more
+Public Service Honors
+Member, Space Physics and Aeronomy Executive Committee, American Geophysical Union, 2008-2010
+Editors' Citation for Excellence in Refereeing for Geophysical Research Letters, 2005
+Member, NSF CEDAR Science Steering Committee, 2003-2006
+
+
+Recent Courses TaughtECE 110 - Introduction to Electronics
+ECE 456 (AE 456) - Global Nav Satellite Systems
+ENG 199 PUR - PURE Research Program
+TE 398 DPI - Discovery Partners Int &Onsit
+
+
+
+
+
+
+
+Related News
+
+
+ECE ILLINOIS researchers contribute to NASA ICON mission
+
+
+Grawe wins OSPA award for space hazards research
+
+
+Alumnus helps Amazon commits $1 million for science and engineering "redshirt" program
+
+
+Engineers SPEAK teaches students to communicate technical ideas
+
+
+New atmospheric wave phenomenon observed after solar eclipse
+
+
+ECE's IEEE-HKN chapter wins national recognition
+
+
+
+
+
+
+
+

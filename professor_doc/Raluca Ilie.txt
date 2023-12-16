@@ -1,0 +1,187 @@
+
+
+
+
+
+
+
+ 
+
+
+Raluca Ilie she/her/hers
+
+
+
+Associate Professor
+(217) 300-5358
+rilie@illinois.edu
+5054 Electrical & Computer Eng Bldg
+
+
+
+For More Information
+Prof. Ilie's group website
+
+Education
+Ph.D, Space and Planetary Physics, University of Michigan, 2010
+
+Research StatementSpace Weather impacts numerous facets of everyday life and can have detrimental effects on engineering infrastructure, such as the power grid, satellites, navigation systems, avionics, air travel, telecommunications and more. Therefore space weather prediction is critical to forewarning of solar events that could generate severe space weather at Earth.My research addresses this need for predictive capabilities by developing and improving high-performance, first-principles computational models to describe and predict the hazardous conditions in the near Earth space leading to geomagnetic storms. I employ a combination of global, multi-physics, large-scale numerical models together with measurements from space borne instruments and ground based stations to study the dynamics of plasmas and electromagnetic fields in the geospace environment. These include three-dimensional global magnetohydrodynamics (MHD) magnetospheric modeling, kinetic drift physics simulations as well as data analysis and interpretation from the TWINS, Cluster, NOAA-POES, THEMIS, Van Allen Probes spacecrafts.Combining numerical modeling with space mission data quantitatively addresses the flow of energetic particles through the magnetosphere as influenced by global fields, kinetic effects, and loss processes. This provides critical insight into the complex physics describing the Sun's effects on near Earth space in global unified way.
+Undergraduate Research OpportunitiesProf. Ilie welcomes motivated undergraduate students to work in her research group.
+Research Interests
+Kinetic theory and modeling
+Multi-physics, large-scale simulations of plasma transport and dynamics 
+Developing theoretical and predictive models of the space environment
+
+
+Research Areas
+Electromagnetics and Optics
+Remote Sensing
+
+
+Books Authored or Co-Authored (Original Editions)
+Ring Current Investigations-the Quest for Space Weather Prediction
+
+Books Edited or Co-Edited (Original Editions)
+Ring Current Investigations-the Quest for Space Weather Prediction
+
+Chapters in Books
+K. Seki, A. Nagy, C. M. Jackman, F. Crary, D. Fontaine, P. Zarka, P. Wurz, A. Milillo, J. A. Slavin, D. C. Delcourt, M. Wiltberger, R. Ilie,
+X. Jia, S. A. Ledvina and R. W. Schunk (2015), A review of general processes related to plasma sources and losses for solar system
+magnetospheres, Space Science Reviews, Volume 192, Issue 1, pp 27-89, doi:10.1007/s11214-015-0170-y.
+D. Welling, M. Andre, I. Dandouras, D. Delcourt, A. Fazakerley, D. Fontaine, J. Foster, R. Ilie, L. Kistler, J. Lee, M. W. Liemohn, J.
+A. Slavin, C.-P. Wang, M. Wiltberger, A. Yau (2015), The Earth: Plasma Sources, Losses, and Transport, Processes, Space Science
+Reviews, 2015, Volume 192, Issue 1, pp 145-208, doi:10.1007/s11214-015-0187-2.
+
+Monographs
+E. A. Kronberg , E. E. Grigorenko, R. Ilie, L. Kistler and D. Welling (2021), Impact of ionospheric ions on magnetospheric dynamics, (eds R. Maggiolo, N. André, H. Hasegawa, D.T. Welling, Y. Zhang and L.J. Paxton). https://doi.org/10.1002/9781119815624.ch23, Geophysical Monograph Series
+A Brief Review of the Ring Current and Outstanding Problems,  Raluca Ilie, Muhammad Fraz Bashir, Elena A. Kronberg, Geophysical Monograph Series
+
+Selected Articles in Journals
+22.	R. Ilie, L. K. S. Daldorff, M. W. Liemohn, G. Toth (2017), Calculating the inductive electric field in the terrestrial magnetosphere, J.Geophys. Res. Space Physics, 122, 5391– 5403, doi:10.1002/2017JA023877 
+R. Ilie, M. W. Liemohn (2016), The outflow of ionospheric nitrogen ions: a possible tracer for the altitude dependent transport
+and energization processes of ionospheric plasma, J. Geophys. Res. Space Physics,  121,  9250– 9255, doi:10.1002/2015JA022162
+R.M. Katus, M.W. Liemohn, A.M. Keesee, T.J. Immel, R. Ilie, D. T. Welling, N. Yu. Ganushkina, N.J. Perlongo, and A. J. Ridley (2016),
+Geomagnetic disturbance intensity dependence on the universal timing of the storm peak,J. Geophys. Res. Space Physics, 121,
+doi:10.1002/2016JA022967.
+M. W. Liemohn, S. Xu, C. Dong, S. Bougher, B. Johnson, R. Ilie, D. De Zeeuw (2017), Ionospheric control of the dawn-dusk asymmetry
+of the Mars magnetotail current sheet, J. Geophys. Res. Space Physics, 122, doi: 10.1002/2016JA023707
+M. W. Liemohn, N. Y. Ganushkina, R. Ilie, D. T. Welling (2016), Challenges associated with near-Earth nightside current systems, J. Geophys. Res. Space Physics, 121, 6763– 6768, doi:10.1002/2016JA022948.
+R. Ilie, N. Ganushkina, G. Toth, S. Dubyagin, and M. W. Liemohn (2015), Testing the magnetotail configuration based on observations
+of low-altitude isotropic boundaries during quiet times, J. Geophys. Res. Space Physics, 120, 10,557–10,573,
+doi:10.1002/2015JA021858.
+R. Ilie, M. W. Liemohn, G. Toth, N. Yu Ganushkina, and L. K. S. Daldorff (2015), Assessing the role of oxygen on ring current formation
+and evolution through numerical experiments. J. Geophys. Res. Space Physics, 120, 4656–4668. doi: 10.1002/2015JA021157
+N. Y. Ganushkina, M. W. Liemohn, S. Dubyagin, I. A. Daglis, I. Dandouras, D. L. De Zeeuw, Y. Ebihara, R. Ilie, R. Katus, M. Kubyshkina,
+S. E. Milan, S. Ohtani, N. Ostgaard, J. P Reistad, P. Tenfjord, F. Toffoletto, S. Zaharia, O. Amariutei (2015), Defining and resolving
+current systems in geospace, J Annales Geophysicae, doi:10.5194/angeo-33-1369-2015.
+R. M. Katus, M. W. Liemohn, E. L. Ionides, R. Ilie, D. Welling, and L. K. Sarno-Smith (2015), Statistical analysis of the geomagnetic
+response to different solar wind drivers and the dependence on storm intensity, J. Geophys. Res. Space Physics, 120, 310–327,
+doi:10.1002/2014JA020712.
+R. Ilie, R. Skoug, H. Funsten, M. W. Liemohn, J. Bailey, M. Gruntman (2013), The impact of geocoronal density on ring current
+development, JASTP, doi:10.1016/j.jastp.2012.03.010.
+R. Ilie, R. Skoug, P. W. Valek, H. Funsten, A. Glocer (2013), Global view of the inner magnetosphere composition during storm
+time, Journal of Geophysical Research, 118, 7074-7084, doi:10.1002/2012JA018468.
+P. W. Valek, J. Goldstein, D. J. McComas, R. Ilie, N. Buzulukova, M. -C. Fok, J. D. Perez (2012), Oxygen-Hydrogen differentiated
+observations from TWINS: The 22 July 2009 storm, Journal of Geophysical Research, 118, 3377–3393, doi:10.1002/jgra.50204.
+R. Ilie, M. W. Liemohn, G. Toth, R. Skoug (2012), Kinetic model of the inner magnetosphere with arbitrary magnetic field, Journal
+of Geophysical Research, doi:10.1029/2011JA017189
+M. W. Liemohn, D. L. De Zeeuw, R. Ilie; N. Y. Ganushkina (2012), Deciphering magnetospheric cross-field currents, Geophysical
+Research Letters, doi:10.1029/2011GL049611.
+C. Cattell, J. Dombeck, A. Preiwisch, S. Thaller, P. Vo, L. B. Wilson, J. Wygant, S. B. Mende, H. U. Frey, R. Ilie, G. Lu (2011), Observations
+of a high-latitude stable electron auroral emission at 16 MLT during a large substorm, Journal of Geophysical Research,
+116, A07215, doi:10.1029/2010JA016132.
+M. W. Liemohn, R. Ilie, N. Y. Ganushkina, A. J. Ridley, J. U. Kozyra, M. F. Thomsen, J. E. Borovsky (2011), Testing the necessity of
+transient spikes in the storm time ring current drivers, Journal of Geophysical Research, 116, A04226, doi:10.1029/2010JA015914.
+R. Ilie, M. W. Liemohn, J. U. Kozyra, J.Borovsky (2010), An investigation of the magnetosphere-ionosphere response to real and
+idealized CIR events through global MHD simulations, Proceedings of the Royal Society A: Mathematical, Physical and Engineering
+Sciences, vol. 466, issue 2123, pp. 3279-3303.
+Ganushkina N. Yu, M. W. Liemohn, M. V. Kubyshkina, R. Ilie, H. J. Singer (2010), Distortions of the magnetic field by storm time
+current systems in Earth’s magnetosphere, Annales Geophysicae, Volume 28, Issue 1, pp.123-140.
+R. Ilie, M. W. Liemohn, A. J. Ridley (2010), Effect of smoothed solar wind inputs on global modeling results, Journal of Geophysical
+Research, Volume 115, Issue A1.
+M. W. Liemohn, J. C. Zhang, M. F. Thomsen, J. E. Borovsky, J. U. Kozyra, and R. Ilie (2008), Plasma properties of superstorms at
+geosynchronous orbit: How different are they?, Geophysical Research Letters, 35, L06S06, doi:10.1029/2007GL031717.
+R. Ilie, M. W. Liemohn, M. F. Thomsen, J. E. Borovsky, and J. Zhang (2008), Influence of epoch time selection on the results of
+superposed epoch analysis using ACE and MPA data, Journal of Geophysical Research, 113, A00A14, doi:10.1029/2008JA013241.
+R. Ilie, G. B. Thompson, D. D. Reid (2006), A numerical study of the correspondence between paths in a causal set and geodesics
+in the continuum, Class. Quantum Grav. 23, 3275-32 85.
+Click for more
+Professional Societies
+American Geophysical Union, Member (since 2005)
+American Society for Engineering Education, Member (since 2019)
+American Geophysical Union: SCARF Award Committee, Member (2019- 2020)
+American Geophysical Union: SCARF Award Committee, Chair (2021-2022)
+NSF Geospace Environment Modeling, Research Area Coordinator (2018-2024)
+NSF Geospace Environment Modeling Steering Committee, Member (2018-2024)
+The National Academies of Sciences, Engineering, and Medicine: "Decadal Survey for Solar and Space Physics (Heliophysics)" Committee, Member (2022-2023)
+Click for more
+Honors
+NASA Jack Eddy Postdoctoral Fellowship  (for graduate student Mei-Yun Lin) (2023)
+P. D. Coleman Outstanding Research Award (for graduate student Mei-Yun Lin) (2023)
+NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST)  Fellowship (for graduate student Hsinju Chen) (2022)
+Yuen T. Lo Outstanding Graduate Research Award (for graduate student Mei-Yun Lin) (2021)
+Indira Gunda Saladi Engineering Research Prize (for undergraduate student Shiru Shong) in 2021 (2021)
+NASA Future Investigators in NASA Earth and Space Science and Technology (FINESST)  Fellowship (for graduate student Mei-Yun Lin) (2021)
+Outstanding Student Presentation Award (for graduate student Mei-Yun Lin), American Geophysical Union, 2020 (2020)
+Outstanding Student Presentation Award (for graduate student Mei-Yun Lin), American Geophysical Union, 2019 (2019)
+NSF CAREER Award (2019)
+NASA Heliophysics Early Career Investigator Award (2019)
+Research Area Coordinator, NSF Geospace Environment Modeling Program (2018-2024)
+Best Student Presentation Award (for graduate student Mei-Yun Lin), NFS Geospace Environment Modeling Meeting, 2018. (2018)
+The Air Force Office of Scientific Research: Young Investigator Program (YIP) (2018)
+Click for more
+Teaching Honors
+LIST OF TEACHERS RANKED AS EXCELLENT BY THEIR STUDENTS (Fall 2022)
+Collins Award for Innovative Teaching (Spring 2021)
+LIST OF TEACHERS RANKED AS EXCELLENT BY THEIR STUDENTS (Spring 2020)
+
+Research Honors
+NSF Geospace Environment Modeling Postdoctoral Fellowship (2011-2013)
+International Space Science Institute (Bern, Switzerland) - Early Career Scientist (2012, 2015)
+International Space Science Institute (Bern, Switzerland) - Team Leader (2016-2017)
+The Air Force Office of Scientific Research: Young Investigator Program (YIP) (2018)
+NSF CAREER Award (2019)
+NASA Heliophysics Early Career Investigator Award (2019)
+International Space Science Institute (Bern, Switzerland) - Team Leader (2022-2023)
+Click for more
+
+Recent Courses TaughtECE 210 - Analog Signal Processing
+ECE 211 - Analog Circuits & Systems
+ECE 329 - Fields and Waves I
+ECE 398 RI1 (ECE 398 RI2, ECE 398 RI3, ECE 398 RI4, ECE 398 RI5) - Special Topics in ECE
+ECE 590 RSO (ECE 590 RSS) - Space Science & Remote Sensing
+ECE 598 IW (ECE 598 RIO) - EM of Continuum Media
+Click for more
+
+
+
+
+
+
+Related News
+
+
+Past the point of no return: ECE student investigates the link between electrodynamics and planet habitability
+
+
+ECE congratulates five faculty on recent promotions
+
+
+ECE graduate student awarded NASA FINESST Fellowship 
+
+
+ECE faculty members receive 2021 College of Engineering Awards
+
+
+PhD student awarded Outstanding Student Presentation Award at American Geophysical Union
+
+
+Illinois ECE graduate student elected Student Representative of NSF Geospace Environment Modeling program
+
+
+
+
+
+
+
+

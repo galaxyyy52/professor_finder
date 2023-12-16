@@ -1,0 +1,196 @@
+
+
+
+
+
+
+
+ 
+
+
+Gang Wang 
+
+
+
+Associate Professor
+(217) 244-1008
+gangw@illinois.edu
+4316 Siebel Center for Comp Sci
+
+
+
+For More Information
+Gang Wang's website.
+
+
+BiographyGang Wang received his Ph.D. from UC Santa Barbara in 2016 (under the direction of Ben Y. Zhao and Heather Zheng), and a B.E. from Tsinghua University in 2010. After working as an Assistant Professor at Virginia Tech (2016 - 2019), he joined the University of Illinois at Urbana-Champaign in 2019. Currently, he is an Associate Professor in the Department of Computer Science and also has affiliate faculty appointments in the Department of Electrical and Computer Engineering (ECE) and the Informatics Program of the School of Information Sciences at the University of Illinois. He is a recipient of the NSF CAREER Award (2018), Amazon Research Award (2021), Google Faculty Research Award (2017), and Best Paper Awards from IMWUT 2019, ACM CCS 2018, and SIGMETRICS 2013. His projects have been covered by media outlets such as MIT Technology Review, The New York Times, Boston Globe, CNN, and ACM TechNews.            Gang Wang's research interests are Security and Privacy, Internet Measurement, and Data Mining. His work takes a data-driven approach to addressing emerging security threats in massive communication systems (social media, email services), crowdsourcing systems, mobile applications, and enterprise networks. His major contribution is a series of measurement methodologies that have revealed previously overlooked security threats, including crowdturfing activities in online social networks, security certification failures in the payment card industry, email spoofing vulnerabilities in major email providers, and the deep link usage in mobile app ecosystems. Another key contribution is his work on applying machine learning in security applications (e.g., bot detection, malware classification) to handle adversarial behaviors and concept drift. Gang Wang's current focus is on developing robust data-driven methods (e.g., machine learning models, graph models) to enable accurate, scalable, and user-friendly security applications for malware analysis and online abuse mitigation. The key challenge Wang is tackling is to effectively engineer human-machine collaboration pipelines to improve the efficacy and efficiency of both parties against adaptive attackers in the respective fields. Wang is currently collaborating with industry partners and researchers from related fields such as HCI and AI to address these problems.  
+Academic Positions
+Associate Professor, Department of Computer Science,  
+University of Illinois at Urbana-Champaign, Urbana, IL, Aug. 2023 - Present 
+Affiliate Faculty, Coordinated Science Laboratory (CSL) University of Illinois at Urbana-Champaign, Urbana, IL, Sep. 2023 - Present
+Affiliate Faculty, Informatics Programs, School of Information Sciences, University of Illinois at Urbana-Champaign, Urbana, IL, Sep. 2021 - Present
+Affiliate Faculty, Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, Urbana, IL, Nov. 2020 - Present
+Assistant Professor, Department of Computer Science,  
+University of Illinois at Urbana-Champaign, Urbana, IL, 
+Aug. 2019 - Aug. 2023 
+
+
+Research Areas
+Security and Privacy
+Systems and Networking
+
+
+Selected Articles in Journals
+Huandong Wang, Yong Li, Gang Wang, and Depeng Jin. ”Linking Multiple User Identities of Multiple
+Services from Massive Mobility Traces.” In ACM Transactions on Intelligent Systems and Technology (TIST), 2021.
+Huan Yan, Tzu-Heng Lin, Gang Wang, Yong Li, Haitao Zheng, Depeng Jin, and Ben Y. Zhao. “On Migratory
+Behavior in Video Consumption.” In IEEE Transactions on Network and Service Management (TNSM), 2020.
+Huandong Wang, Chen Gao, Yong Li, Gang Wang, Depeng Jin, and Jingbo Sun. “Anonymization and De-anonymization of Mobility Trajectories: Dissecting the Gaps between Theory and Practice.” In IEEE Transactions on Mobile Computing (TMC), 2019.
+Steve T.K. Jan, Chun Wang, Qing Zhang, and Gang Wang. “Analyzing Payment-driven Targeted Q&A Systems.” In ACM Transactions on Social Computing (TSC), 2018.
+Gang Wang, Bolun Wang, Tianyi Wang, Ana Nika, Haitao Zheng, and Ben Y. Zhao. “Ghost Riders: Sybil Attacks on Crowdsourced Mobile Mapping Services.” In ACM/IEEE Transactions on Networking (TON), 2018.
+Gang Wang, Xinyi Zhang, Shiliang Tang, Christo Wilson, Haitao Zheng, and Ben Y. Zhao. “Clickstream User Behavior Models.” In ACM Transactions on the Web (TWEB), 2017.
+Tianyi Wang, Gang Wang, Bolun Wang, Divya Sambasivan, Zengbin Zhang, Xing Li, Haitao Zheng, and Ben Y. Zhao. “Value and Misinformation in Collaborative Investing Platforms.” In ACM Transactions on the Web (TWEB), 2017.
+Tianyi Wang, Yang Chen, Yi Wang, Bolun Wang, Gang Wang, Xing Li, Haitao Zheng, and Ben Y. Zhao. “The Power of Comments: Fostering Social Interactions in Microblog Networks.” In Springer Frontiers of Computer Science (FCS), 2015.
+Xia Zhou, Zengbin Zhang, Gang Wang, Xiaoxiao Yu, Ben Y. Zhao, and Haitao Zheng. “Practical Conflict Graphs in the Wild.” In ACM Transactions on Networking (TON), 2014.
+Click for more
+Articles in Conference Proceedings
+Margie Ruffin, Haeseung Seo, Aiping Xiong, and Gang Wang. “Does It Matter Who Said It? Exploring the
+Impact of Deepfake-Enabled Profiles On User Perception Towards Disinformation.” In Proceedings of The International AAAI
+Conference on Web and Social Media (ICWSM), Buffalo, NY, June 2024. (Acceptance rate = TBA)
+Akul Goyal, Gang Wang, and Adam Bates. “R-CAID: Embedding Root Cause Analysis within Provenancebased Intrusion Detection.” In Proceedings of The 45th IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2023. (Acceptance rate = TBA)
+Ali Ahad, Gang Wang, Chung Hwan Kim, Suman Jana, Zhiqiang Lin, and Yonghwi Kwon. “FreePart:
+Hardening Data Processing Software via Framework-based Partitioning and Isolation.” In Proceedings of the ACM
+International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), CA, March 2024. (Acceptance rate = TBA)
+Xiaojun Xu, Qingying Hao, Zhuolin Yang, Bo Li, David Liebovitz, Gang Wang, and Carl Gunter. “How to Cover up Anomalous Accesses to Electronic Health Records.” In Proceedings of the 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023. (Acceptance rate = 29%)
+Jiahao Yu, Wenbo Guo, Qi Qin, Gang Wang, Ting Wang, and Xinyu Xing. “AIRS: Explanation for Deep Reinforcement Learning based Security Applications.” In Proceedings of the 32nd USENIX Security Symposium (USENIX Security), Anaheim, CA, August 2023. (Acceptance rate = 29%)
+Faysal Hossain Shezan, Minjun Long, David Hasani, Gang Wang, and Yuan Tian. “SenRev: Measurement of Personal Information Disclosure in Online Health Communities.” In Proceedings of Privacy Enhancing Technologies Symposium (PoPETs/PETS), Lausanne, Switzerland, July 2023. (Acceptance rate = 20%)
+Jaron Mink, Hadjer Benkraouda, Limin Yang, Arridhana Ciptadi, Ali Ahmadzadeh, Daniel Votipka, and Gang Wang. “Everybody’s Got ML, Tell Me What Else You Have: Practitioners' Perception of ML-Based Security Tools and Explanations.” In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2023. (Acceptance rate = 17.0%)
+Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, and Gang Wang. “Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.” In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2023. (Acceptance rate = 17.0%)
+Yaman Yu, Saidivya Ashok, Smirity Kaushik, Yang Wang, and Gang Wang. “Design and Evaluation of Inclusive Email Security Indicators for People with Visual Impairments.” In Proceedings of The 44th IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2023. (Acceptance rate = 17.0%)
+Akul Goyal, Xueyuan Han, Gang Wang, and Adam Bates. “Sometimes, You Aren’t What You Do: Mimicry Attacks against Provenance Graph Host Intrusion Detection Systems.” In Proceedings of The Network and Distributed System Security Symposium (NDSS), San Diego, CA, February 2023. (Acceptance rate = 16.2% )
+Margie Ruffin, Gang Wang, and Kirill Levchenko. “Explaining Why Fake Photos are Fake: Does It Work?” In
+Proceedings of ACM International Conference on Supporting Group Work (GROUP), Sanibel Island, FL, January 2023. (Acceptance
+rate = 35.7%)
+Margie Ruffin, Israel Lopez-Toledo, Kirill Levchenko and Gang Wang. “Casing the Vault: Security Analysis of Vault Applications”. In Proceedings of Workshop on Privacy in the Electronic Society (WPES), in conjunction with ACM Conference on Computer and Communications Security (CCS), Los Angeles, CA, November 2022. (Acceptance rate = 33.8%).
+Jaron Mink, Licheng Luo, Nata M. Barbosa, Olivia Figueira, Yang Wang, and Gang Wang. “DeepPhish: Understanding User Trust Towards Artificially Generated Profiles in Online Social Networks”. In Proceedings of The 31st USENIX Security Symposium (USENIX Security), Boston, MA, August 2022. (Acceptance rate = 18.0%)
+Chenkai Wang, and Gang Wang. “Revisiting Email Forwarding Security under the Authenticated Received Chain
+Protocol”. In Proceedings of The ACM Web Conference (WWW), Lyon, France. April 2022. (Acceptance rate = 17.7%)
+Ziyi Zhang, Shuofei Zhu, Jaron Mink, Aiping Xiong, Linhai Song, and Gang Wang. “Beyond Bot Detection:
+Combating Fraudulent Online Survey Takers”. In Proceedings of The ACM Web Conference (WWW), Lyon, France. April 2022.
+(Acceptance rate = 17.7%)
+Dongliang Mu, Yuhang Wu, Yueqi Chen, Zhenpeng Lin, Chensheng Yu, Xinyu Xing, and Gang Wang. “An In-depth Analysis of Duplicated Linux Kernel Bug Reports”.  In Proceedings of The Network and Distributed System Security Symposium (NDSS), San Diego, CA, February 2022. (Acceptance rate = 16.2%)
+Rishabh Chhabra, Paul Murley, Deepak Kumar, Michael Bailey, and Gang Wang. “Measuring DNS-over-HTTPS Performance Around the World.” In Proceedings of The ACM Internet Measurement Conference (IMC), Virtual Event, November 2021. (Acceptance rate = 27.5%)
+Qingying Hao, Licheng Luo, Steve TK Jan, and Gang Wang. “It's Not What It Looks Like: Manipulating Perceptual Hashing based Applications.” In Proceedings of The ACM Conference on Computer and Communications Security (CCS), Seoul, South Korea, November 2021. (Acceptance rate = 22.2%)
+Nata Miccael Barbosa, Gang Wang, Blase Ur, and Yang Wang. “Who Am I? A Design Probe Exploring Real-Time Transparency About Online and Offline User Profiling Underlying Targeted Ads.” In Proceedings of The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), September 2021. (Journal article + conference presentation; no longer provide acceptance rate). 
+Jose Rodrigo Sanchez Vicarte, Gang Wang, and Christopher Fletcher. “Double-Cross Attacks: Subverting Active Learning Systems.” In Proceedings of The 30th USENIX Security Symposium (USENIX Security), Vancouver, BC, Canada, August 2021. (Acceptance rate = 19.0%)
+Shinan Liu, Xiang Cheng, Hanchao Yang, Yuanchao Shu, Xiaoran Weng, Ping Guo, Kexiong (Curtis) Zeng, Gang Wang, and Yaling Yang. Stars Can Tell: A Robust Method to Defend against GPS Spoofing using Off-the-shelf Chipset. In Proceedings of The 30th USENIX Security Symposium (USENIX Security), Vancouver, BC, Canada, August 2021. (Acceptance rate = 19.0%)
+Limin Yang, Wenbo Guo, Qingying Hao, Arridhana Ciptadi, Ali Ahmadzadeh, Xinyu Xing, and Gang
+Wang. “CADE: Detecting and Explaining Concept Drift Samples for Security Applications.” In Proceedings of The 30th
+USENIX Security Symposium (USENIX Security), Vancouver, BC, Canada, August 2021. (Acceptance rate = 19.0%)
+Hang Hu, Steve T.K. Jan, Yang Wang, and Gang Wang. “Assessing Browser-level Defense against
+IDN-based Phishing.” In Proceedings of The 30th USENIX Security Symposium (USENIX Security), Vancouver, BC, Canada, August 2021. (Acceptance rate = 19.0%)
+Trung Tin Nguyen, Duc Cuong Nguyen, Michael Schilling, Gang Wang, and Michael Backes. “Measuring User
+Perception for Detecting Unexpected Access to Sensitive Resource in Mobile Apps.” In Proceedings of The ACM Asia
+Conference on Computer and Communications Security (AsiaCCS), Hong Kong, China, June 2021. (Acceptance rate = 18.9%)
+Junjie Liang, Wenbo Guo, Tongbo Luo, Vasant Honavar, Gang Wang, and Xinyu Xing. “FARE: Enabling Finegrained Attack Categorization under Low-quality Labeled Data.” In Proceedings of The Network and Distributed System Security Symposium (NDSS), Virtual Conference, February 2021. (Acceptance rate = 15.2%)
+Faysal Hossain Shezan, Hang Hu, Gang Wang, and Yuan Tian. “VerHealth: Vetting Medical Voice
+Applications through Policy Enforcement.” In Proceedings of The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), December 2020. (Journal article + conference presentation; no longer provide acceptance rate). 
+Shuofei Zhu, Jianjun Shi, Limin Yang, Boqin Qin, Ziyi Zhang, Linhai Song and Gang Wang. “Measuring and Modeling the Label Dynamics of Online Anti-Malware Engines.” In Proceedings of The 29th USENIX Security Symposium (USENIX Security), Boston, MA, August 2020. (Acceptance rate = 16.1%)
+Steve T.K. Jan, Qingying Hao, Tianrui Hu, Jiameng Pu, Sonal Oswal, Gang Wang, and Bimal Viswanath. “Throwing Darts in the Dark? Detecting Bots with Limited Data using Neural Data Augmentation.” In Proceedings of The 41st IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2020. (Acceptance rate = 12.3%)
+Faysal Hossain Shezan, Hang Hu, Jiamin Wang, Gang Wang and Yuan Tian. “Read Between the Lines: An Empirical Measurement of Sensitive Applications of Voice Personal Assistant Systems.” In Proceedings of The Web Conference (WWW), Taipei, April 2020. (Acceptance rate = 19.2%)
+Sazzadur Rahaman, Gang Wang, and Danfeng Yao. “Security Certification in Payment Card Industry: Testbeds, Measurements, and Recommendations.” In Proceedings of The 26th ACM Conference on Computer and Communications Security (CCS), London, UK, November 2019 (CSAW ’20 Applied Research Competition Finalist). (Acceptance rate = 16.0%)
+Mshabab Alrizah, Sencun Zhu, Xinyu Xing, and Gang Wang. “Errors, Misunderstandings, and Vulnerabilities: Analyzing the Crowdsourcing Process of Ad-blocking Systems.” In Proceedings of The ACM SIGCOMM Internet Measurement Conference (IMC), Amsterdam, Netherlands, October 2019. (Acceptance rate = 19.80%)
+Peng Peng, Limin Yang, Linhai Song, and Gang Wang. “Opening the Blackbox of VirusTotal: Analyzing Online Phishing Scan Engines.” In Proceedings of The ACM SIGCOMM Internet Measurement Conference (IMC), Amsterdam, Netherlands, October 2019. (Acceptance rate = 19.80%)
+Peng Peng, Chao Xu, Luke Quinn, Hang Hu, Bimal Viswanath, and Gang Wang. “What Happens After You Leak Your Password: Understanding Credential Sharing on Phishing Sites.” In Proceedings of The 14th ACM Asia Conference on Information, Computer and Communications Security (AsiaCCS), Auckland, New Zealand, July 2019. (Acceptance rate = 17.0%)
+Ying Dong, Wenbo Guo, Yueqi Chen, Xinyu Xing, Yuqing Zhang, and Gang Wang. “Towards the Detection of Inconsistencies in Public Security Vulnerability Reports.” In Proceedings of The 28th USENIX Security Symposium (USENIX Security), Santa Clara, CA, August 2019. (Acceptance rate = 16.21%)
+Huandong Wang, Yong Li, Sihan Zeng, Gang Wang, Pengyu Zhang, Pan Hui, and Depeng Jin. “Modeling Spatio-Temporal App Usage for a Large User Population.” In Proceedings of The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), London, UK, September 2019. (Journal article + conference presentation; no longer provide acceptance rate). 
+Hang Hu, Peng Peng, and Gang Wang. “Characterizing Pixel Tracking through the Lens of Disposable Email Services.” In Proceedings of The 40th IEEE Symposium on Security and Privacy (IEEE SP), San Francisco, CA, May 2019. (Acceptance rate = 12.5%)
+Steve T.K. Jan, Joseph Messou, Yen-Chen Lin, Jia-Bin Huang, and Gang Wang. “Connecting the Digital and Physical World: Improving the Robustness of Adversarial Attacks.” In Proceedings of The Thirty-Third AAAI Conference on Artificial Intelligence (AAAI), Honolulu, HI, January 2019 (Spotlight). (Acceptance rate = 16.20%)
+Ke Tian, Steve T.K. Jan, Hang Hu, Danfeng Yao, and Gang Wang. “Needle in a Haystack: Tracking Down Elite Phishing Domains in the Wild.” In Proceedings of ACM Internet Measurement Conference (IMC), Boston, MA, October 2018. (Acceptance rate = 24.70%)
+Wenbo Guo, Dongliang Mu, Jun Xu, Purui Su, Gang Wang, and Xinyu Xing. “LEMNA: Explaining Deep Learning based Security Applications.” In Proceedings of The 25th ACM Conference on Computer and Communications Security (CCS), Toronto, Canada, October 2018 (Outstanding Paper Award). (Acceptance rate = 16.60%)
+Zhen Tu, Runtong Li, Yong Li, Gang Wang, Di Wu, Pan Hui, Li Su, and Depeng Jin. “Your Apps Give You Away: Distinguishing Mobile Users by Their App Usage Fingerprints.” In Proceedings of The ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), Singapore, October 2018 (IMWUT Distinguished Paper Award). (Journal article + conference presentation; no longer provide acceptance rate). 
+Hang Hu, and Gang Wang. “End-to-End Measurements of Email Spoofing Attacks.” In Proceedings of The 27th USENIX Security Symposium (USENIX Security), Baltimore, MD, August 2018. (Acceptance rate = 19.10%)
+Dongliang Mu, Alejandro Cuevas, Limin Yang, Hang Hu, Bing Mao, Xinyu Xing, and Gang Wang. “Understanding the Reproducibility of Crowd-reported Security Vulnerabilities.” In Proceedings of The 27th USENIX Security Symposium (USENIX Security), Baltimore, MD, August 2018. (Acceptance rate = 19.10%)
+Kexiong (Curtis) Zeng, Shinan Liu, Yuanchao Shu, Dong Wang, Haoyu Li, Yanzhi Dou, Gang Wang, and Yaling Yang. “All Your GPS Are Belong to Us: Towards Stealthy Manipulation of Road Navigation Systems.” In Proceedings of The 27th USENIX Security Symposium (USENIX Security), Baltimore, MD, August 2018. (Acceptance rate = 19.10%)
+Xiangwen Wang, Peng Peng, Chun Wang, and Gang Wang. “You Are Your Photographs: Detecting Multiple Identities of Vendors in the Darknet Marketplaces.” In Proceedings of The ACM Asia Conference on Computer and Communications Security (AsiaCCS), Songdo, Incheon, Korea, June 2018. (Acceptance rate = 20.00%)
+Huandong Wang, Chen Gao, Yong Li, Gang Wang, Depeng Jin, and Jingbo Sun. “De-anonymization of Mobility Trajectories: Dissecting the Gaps between Theory and Practice.” In Proceedings of The 25th Annual Network & Distributed System Security Symposium (NDSS), San Diego, CA, February 2018. (Acceptance rate = 20.00%)
+Rupinder Paul Khandpur, Taoran Ji, Steve T.K. Jan, Gang Wang, Chang-Tien Lu, and Naren Ramakrishnan. “Crowdsourcing Cybersecurity: Cyber Attack Detection using Social Media.” In Proceedings of The 26th ACM International Conference on Information and Knowledge Management (CIKM), Singapore, November 2017. (Acceptance rate = 20.85%)
+Huan Yan, Tzu-Heng Lin, Gang Wang, Yong Li, Haitao Zheng, Depeng Jin, and Ben Y. Zhao. “On Migratory Behavior in Video Consumption.” In Proceedings of The 26th ACM International Conference on Information and Knowledge Management (CIKM), Singapore, November 2017. (Acceptance rate = 20.85%)
+Fang Liu, Chun Wang, Andres Pico, Danfeng Yao, and Gang Wang. “Measuring the Insecurity of Mobile Deep Links of Android.” In Proceedings of The 26th USENIX Security Symposium (USENIX Security), Vancouver, Canada, August 2017. (Acceptance rate = 16.28%)
+Xinyi Zhang, Shiliang Tang, Yun Zhao, Gang Wang, Haitao Zheng, and Ben Y. Zhao. “Cold Hard E-Cash: Friends and Vendors in the Venmo Digital Payments System.” In Proceedings of International AAAI Conference on Web and Social Media (ICWSM), Montreal, Canada, May 2017. (Acceptance rate = 13.73%)
+Amiangshu Bosu, Fang Liu, Danfeng Yao, and Gang Wang. “Collusive Data Leak and More: Large-scale Threat Analysis of Inter-app Communications.” In Proceedings of ACM Asia Conference on Computer and Communications Security (AsiaCCS), Abu Dhabi, UAE, April 2017. (Acceptance rate = 20.33%)
+Bolun Wang, Xinyi Zhang, Gang Wang, Haitao Zheng, and Ben Y. Zhao. “Anatomy of a Personalized Livestreaming System.” In Proceedings of The 16th ACM SIGCOMM Internet Measurement Conference (IMC), Santa Monica, CA, November 2016. (Acceptance rate = 25.27%)
+Gang Wang, Bolun Wang, Tianyi Wang, Ana Nika, Haitao Zheng, and Ben Y. Zhao. “Defending Against Sybil Devices in Crowdsourced Mapping Services.” In Proceedings of The 14th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys), Singapore, June 2016. (Acceptance rate = 15.70%)
+Gang Wang, Sarita Schoenebeck, Haitao Zheng, and Ben Y. Zhao. “Will Check-in for Badges: Understanding Bias and Misbehavior on Location-based Social Networks.” In Proceedings of The 10th International AAAI Conference on Web and Social Media (ICWSM), Cologne, Germany, May 2016. (Acceptance rate = 17.00%)
+Gang Wang, Xinyi Zhang, Shiliang Tang, Haitao Zheng, and Ben Y. Zhao. “Unsupervised Clickstream Clustering for User Behavior Analysis.” In Proceedings of SIGCHI Conference on Human Factors in Computing Systems (CHI), San Jose, CA, May 2016. (Acceptance rate = 23.40%)
+Gang Wang, Tianyi Wang, Bolun Wang, Divya Sambasivan, Zengbin Zhang, Haitao Zheng, and Ben Y. Zhao. “Crowds on Wall Street: Extracting Value from Collaborative Investing Platforms.” In Proceedings of The 18th ACM conference on Computer-Supported Cooperative Work and Social Computing (CSCW), Vancouver, BC, Canada, March 2015. (Acceptance rate = 28.30%)
+Gang Wang, Bolun Wang, Tianyi Wang, Ana Nika, Haitao Zheng, and Ben Y. Zhao. “Whispers in the Dark: Analysis of an Anonymous Social Network.” In Proceedings of The 14th Internet Measurement Conference (IMC), Vancouver, BC, Canada, November 2014. (Acceptance rate = 22.87%)
+Gang Wang, Tianyi Wang, Haitao Zheng, and Ben Y. Zhao. “Man vs. Machine: Practical Adversarial Detection of Malicious Crowdsourcing Workers.” In Proceedings of The 23rd USENIX Security Symposium (USENIX Security), San Diego, CA, August 2014. (Acceptance rate = 19.14%)
+Gianluca Stringhini, Gang Wang, Manuel Egele, Christopher Kruegel, Giovanni Vigna, Haitao Zheng, and Ben Y. Zhao. “Follow the Green: Growth and Dynamics in Twitter Follower Markets.” In Proceedings of The 13th Internet Measurement Conference (IMC), Barcelona, Spain, October 2013. (Acceptance rate = 23.60%)
+Gang Wang, Tristan Konolige, Christo Wilson, Xiao Wang, Haitao Zheng, and Ben Y. Zhao. “You are How You Click: Clickstream Analysis for Sybil Detection.” In Proceedings of The 22nd USENIX Security Symposium (USENIX Security), Washington, DC, August 2013. (Acceptance rate = 16.25%)
+Gang Wang, Jack Stokes, Cormac Herley, and David Felstead. “Detecting Malicious Landing Pages in Malware Distribution Networks.” In Proceedings of The 43rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN), Budapest, Hungary, June 2013. (Acceptance rate = 19.62%)
+Xia Zhou, Zengbin Zhang, Gang Wang, Xiaoxiao Yu, Ben Y. Zhao, and Haitao Zheng. “Practical Conflict Graphs for Dynamic Spectrum Distribution.” In Proceedings of ACM International Conference on Measurement and Modeling of Computer Systems (SIGMETRICS), Pittsburgh, PA, June 2013 (Best Practical Paper Award). (Acceptance rate = 13.78%)
+Gang Wang, Konark Gill, Manish Mohanlal, Haitao Zheng, and Ben Y. Zhao. “Wisdom in the Social Crowd: An Analysis of Quora.” In Proceedings of The 22nd International World Wide Web Conference (WWW), Rio de Janeiro, Brazil, May 2013. (Acceptance rate = 15.04%)
+Gang Wang, Manish Mohanlal, Christo Wilson, Xiao Wang, Miriam Metzger, Haitao Zheng, and Ben Y. Zhao. “Social Turing Tests: Crowdsourcing Sybil Detection.” In Proceedings of The 20th Annual Network & Distributed System Security Symposium (NDSS), San Diego, CA, February 2013. (Acceptance rate = 18.80%)
+Gang Wang, Christo Wilson, Xiaohan Zhao, Yibo Zhu, Manish Mohanlal, Haitao Zheng, and Ben Y. Zhao. “Serf and Turf: Crowdturfing for Fun and Profit.” In Proceedings of The 21st International World Wide Web Conference (WWW), Lyon, France, April 2012. (Acceptance rate = 12.20%)
+Zengbin Zhang, Xia Zhou, Weile Zhang, Yuanyang Zhang, Gang Wang, Ben Y. Zhao, and Haitao Zheng. “I am the Antenna: Accurate Outdoor AP Location using Smartphones.” In Proceedings of The 17th Annual International Conference on Mobile Computing and Networking (MobiCom), Las Vegas, NV, September 2011. (Acceptance rate = 13.55%)
+Click for more
+Honors
+USENIX Security Noteworthy Reviewers, USENIX Security (2023)
+ACM CCS Best Reviewer Award, ACM CCS (2022)
+Amazon Research Award (2021)
+Teacher Ranked as Excellent/Outstanding by their Students, UIUC (2021)
+CSAW '20 Applied Research Competition Finalist (2020)
+Teacher Ranked as Excellent/Outstanding by their Students, UIUC (2020)
+Teacher Ranked as Excellent/Outstanding by their Students, UIUC (2019)
+IMWUT Distinguished Paper Award (2019)
+Outstanding New Assistant Professor Award at Virginia Tech (2019)
+ACM CCS Outstanding Paper Award (2018)
+NSF CAREER Award (2018)
+Google Faculty Research Award (2017)
+Outstanding Dissertation Award, UC Santa Barbara (2016)
+Graduate Division Dissertation Fellowship, UC Santa Barbara (2015)
+SIGMETRICS Best Practical Paper Award (2013)
+Click for more
+
+Recent Courses TaughtCS 463 (ECE 424) - Computer Security II
+CS 562 - Adv. Trustworthy Mach. Lrng.
+CS 598 GW - ML for Sys, Netwrks & Security
+
+
+
+
+
+
+
+Related News
+
+
+AI fake nudes are booming. It’s ruining real teens’ lives.
+
+
+AI-made deepfake political ads targeted by Michigan lawmakers
+
+
+Scammers Threaten Quality of Research Survey Data
+
+
+NSF Supports New AI Institute for Agent-based Cyber Threat Intelligence and OperatioN
+
+
+Can You Trust What You See Online?
+
+
+Several CS Students Earn Fellowships that Recognize Research Efforts
+
+
+
+News Notes
+
+
+
+
+
+
+
+

@@ -1,0 +1,212 @@
+
+
+In This SectionPeopleFaculty
+Faculty Members
+Lecturers
+Affiliates
+Adjunct
+Emeritus
+Faculty Awards and Endowments
+
+
+Administration
+Academic Office Contacts
+Graduate Students
+Postdocs
+
+
+
+
+ 
+
+
+Cedric Langbort 
+
+
+
+Professor
+(217) 265-6236
+langbort@illinois.edu
+363 Coordinated Science Lab
+
+
+
+Education
+Ph.D., Theoretical & Applied Mechanics, Cornell University, 2005
+M.S., Turbulence & Dynamical Systems, INLN/Universite de Nice, 2000
+M.S., Control Theory, ENSAE/Supaero, 1999
+Engineering Degree, Aerospace Engineering, ENSAE/Supaero, 1999
+
+Academic Positions
+Professor,  Aerospace Engineering,  06/2020-present
+Research( Associate )Professor, Information Trust Institute, University of Illinois at Urbana-Champaign, 08/2012-present (0%)
+Research (Associate) Professor, Coordinated Science Laboratory (Decision & Control Group), University of Illinois at Urbana-Champaign, 08/2012-present (0%)
+
+Research Interests
+Algorithm fairness and transparency
+Control, optimization, and design of distributed systems
+Aerospace information technology , transportation cyber-physical systems
+Control theory, in particular optimal, robust, distributed, and secure control; convex optimization methods for control; distributed and networked systems; applications to air-traffic control, multi-agent systems, large-scale infrastructures and cyber-security.
+
+
+Research Areas
+Controls, Dynamical Systems and Estimation
+
+
+Chapters in Books
+K. Mihcak, E. Akyol, T. Basar, and C. Langbort, Scalar Quadratic-Gaussian Soft Watermarking Games,  in Q. Zhu, (editor), Proceedings of GameSec 2016,  Lecture Notes in Control and Information Sciences,  vol. 9996, Springer Verlag, 2016.
+ C. Sandvig, K. Hamilton, K. Karahalios, and C. Langbort, C, ``An Algorithm Audit'', In: Seeta Pena Gangadharan (ed.), Data and Discrimination: Collected Essays, pp. 6--10. Washington, DC: New America Foundation, 2014.
+C. Langbort, A mechanism design approach to dynamic price-based control of multi-agent systems, to appear in A. Rantzer and R. Johansson, (editors), “Decision-Making and Control”, Lecture Notes in Control and Information Sciences, vol. 417, pp. 113-129, Springer Verlag, 2012 (volume appeared in December 2011).
+C. Langbort, V. Gupta, and R.M. Murray, Distributed control over failing channels, in P. Tabuada and P. Antsaklis (Editors), Networked Embedded Sensing and Control, Lecture Notes in Control and Information Sciences series, vol. 331, Spring Verlag, 2006.
+R. D'Andrea, C. Langbort, and R.S. Chandra, A state space approach to control of interconnected systems, in J. Rosenthal and D.S. Gilliam (Editors), Mathematical Systems Theory in Biology, Communications, Computation, and Finance, IMA Volume in Mathematics and its Applications, vol. 134, Springer Verlag, 2002.
+
+Selected Articles in Journals
+M. Deghat, V. Ugrinovskii,  I. Shames, and C. Langbort, Detection and Mitigation of Biasing Attacks on Distributed Estimation Networks, Automatica, Vol. 99, pp. 369-381, 2019
+L. Li, C. Langbort, Iterative Computation of Security Strategies of Matrix Games with Growing
+Action Set,  Dynamic Games and Applications, pp. 942-964, Volume 9, Issue 4 , 2019.
+L. Li, C. Langbort, and J. S. Shamma, An LP approach for Solving Two-Player Zero-Sum Repeated
+Bayesian Games, IEEE Transactions on Automatic Control, 64(9): 3716-3731 (2019)
+V. S. S. Nadendla, C. Langbort, T. Başar, Effects of Subjective Biases on Strategic Information Transmission, IEEE Transactions on Communications, vol. 66. issue 12, pp. 6040 - 6049, 2018. 
+A. Dutta and C. Langbort, Confiscating Flight Control System by Stealthy Output Injection Attack.
+AIAA Journal of Aerospace Information Systems, Vol. 14, pp. 203-213, 2017
+S. D. Bopardikar, A. Speranzon, C. Langbort, Convergence analysis of Iterated Best Response for a trusted computation game, Automatica, Volume 78, Pages 88-96, April 2017
+
+E. Akyol, C. Langbort, and T. Basar, Information-Theoretic Approach to Strategic Communication as a Hierarchical Game. Proceedings of IEEE, Special Issue on Science of Information, vol. 105, no. 2, pp. 205-218,  2017
+F. Farokhi, A. Teixeira, C. Langbort, Estimation with Strategic Sensors. IEEE Transactions on
+Automatic Control, pp. 724-739, Vol. 62, issue 2, 2017.
+
+A. Gupta, C. Langbort, and T. Basar, Dynamic Games with Asymmetric Information and Resource
+Constrained Players with Applications to Security of Cyber-Physical Systems. IEEE Transactions on Network
+Control Systems, (Special Issue on Security of Cyber-Physical Systems), pp. 71-81, Vol. 4. issue 1,
+2017
+V. Ugrinovskii and C. Langbort, Controller-Jammer Game Models of Denial-of-Service Attacks on
+Control Systems Operating Over Packet-Dropping Links.  Automatica, 84:128-141, 2017
+T. Tanaka, F. Farokhi, and C. Langbort, Faithful Implementations of Distributed Algorithms and
+Control Laws.  IEEE Transactions on Control of Network Systems , vol. 4, issue 2, pp. 191-201, June 2017.
+C. Sandvig, K. Hamilton, K. Karahalios, and C. Langbort, When the Algorithm Itself is a
+Racist: Diagnosing Ethical Harm in the Basic Components of Software. International Journal of Communication, vol. 10, pp. 4972-4990, 2016.
+ A. Dutta and C. Langbort, Stealth Output Injection Attacks on Control Systems with Bounded Variables. International Journal of Control, pp. 1-14, July 2016.
+
+S. Bopardikar and C. Langbort, On Incremental Approximate Saddle-point Computation in Zero-sum
+Matrix Games. Automatica, vol. 69, pp. 150-156, July 2016.
+H. Arneson, N. Dousse, and C. Langbort, A Linear Programming Approach to Routing Control in
+Networks of Constrained Nonlinear Positive Systems with Concave Flow Rates.  Automatica, vol. 68, pp. 357-368, June 2016.
+A. Gupta, S. Yuksel, T. Basar, C. Langbort, On the existence of optimal policies in a class of sequential
+dynamic teams. SIAM Journal on Control & Optimization Vol. 53, No. 3, pp. 1681--1712, 2015
+A. Mishra, C. Langbort, G. Dullerud, Decentralized Control of Linear Switched Nested Systems
+with l2-induced Norm Performance. IEEE Transactions on Control of Network Systems, vol. 2, no. 4, pp. 
+420-432, 2015
+A. Mishra, C. Langbort, G. Dullerud, Team Optimal Control of Stochastically Switched Systems
+with Local Parameter Knowledge. IEEE Transactions on Automatic Control, vol. 60, No. 8, pp. 2086--
+2101, 2015.
+A. Gupta, A. Nayyar, C. Langbort, and T. Basar, Common Information Based Markov Perfect
+Equilibria for Stochastic Games with Asymmetric Information : LQG Games. SIAM Journal on Control
+& Optimization, Vol. 52, No. 5, pp. 3228-3260, 2014.
+B. Touri and C. Langbort, On Endogenous Random Consensus and Averaging Dynamics. IEEE Transactions on Control of Network Systems, vol. 1, no. 3, pp. 241-248, 2014.
+A. Nayyar, A. Gupta, C. Langbort, T. Basar, Common Information Based Markov Perfect Equilibria
+for Stochastic Games with Asymmetric Information : Finite Games. IEEE Transactions on Automatic
+Control, Volume 59, Issue 3, pp. 555-570, 2014.
+V. Srivastava, R. Carli, C. Langbort, and F. Bullo, Attention Allocation for Decision Making Queues. Automatica, vol. 50, no.2, pp. 378-388, 2014.
+T. Tanaka, C. Langbort, and V. Ugrinovskii, DC-Dominant Property of Cone-Preserving Transfer
+Functions. Systems & Control Letters, Volume 62, Issue 8, pp. 699-707, 2013.
+T. Tanaka, C. Langbort, L. K. Mestha, A. Gil, Blind Source Separation by Nuclear Norm Minimization
+and Local Recoverability Analysis. IEEE Signal Processing Letters, Volume 20, Issue 8, pp. 827-830,
+2013.
+F. Farokhi, C. Langbort, K.H. Johansson, Decentralized Disturbance Accommodation with Limited Plant Model Information. SIAM Journal on Control & Optimization, vol. 51, no. 2, pp. 1543-1573, 2013.
+A. Ortiz and C. Langbort, Multi-UAV Velocity and Trajectory Scheduling Strategies for Target Classification by a Single Human Operator". Journal of Intelligent & Robotic Systems, Volume 70, Issue 1-4 , pp 255-274.
+T. Tanaka and C. Langbort, A Symmetric Formulation of the Kalman-Yakubovich-Popov Lemma
+and Its Exact Losslessness Condition. IEEE Transactions on Automatic Control, Volume 58, Issue 6, pp.
+1486-1496, 2013.
+F. Farokhi, C. Langbort, and K. H. Johansson, Optimal Control Design with Limited Model Information.  Automatica , volume 49, issue 2, pp. 326-337, February 2013.
+H. Arneson and C. Langbort, A Linear Programming Approach to Routing Control in Networks of Linear Positive Systems.  Automatica, Volume 48, Issue 5, May 2012, Pages 800-807.
+A. Ortiz and C. Langbort, Scheduling Multiple UAVs for Online Target Classification by a Single Human Operator. AIAA Journal of Aerospace Computing, Information, and Communication, vol.8 no.12 (328-345), 2011.
+V. Ugrinovskii and C. Langbort, Distributed H infinity consensus-based estimation of uncertain systems via dissipativity theory. IET Control Theory & Applications, vol. 5, issue 12, pp. 1458-1469, 2011.
+T. Tanaka and C. Langbort, The bounded real lemma for internally positive systems and H-infinity structured static state feedback.  IEEE Transactions on Automatic Control, Volume 56 (2011), Issue 9 (September), pp. 2218-2223.
+
+T. Tanaka and C. Langbort, On limitations in H-infinity suboptimal decentralized control derived from the 
+generalized structured singular value. Systems & Control Letters, vol. 60, issue 5, pp. 318-324, May 2011.
+C. Langbort and V. Ugrinovskii, Diagonal stability of stochastic systems subject to nonlinear disturbances and diagonal H2 Norms.  Automatica,   Volume 47, issue 7, pp. 1427-1434, July 2011.
+C. Langbort and J.C. Delvenne, Distributed Design Methods for Linear Quadratic Control and Their Limitations. IEEE Transactions on Automatic Control,vol. 55, no. 9, pp. 2085-2093, September 2010.
+C. Langbort, and V. Gupta, Minimal Topology in Distributed Control Design. SIAM Journal on Control and Optimization, Volume 48, Issue 1, pp. 397-413, 2009.
+R.S. Chandra, C. Langbort and R. D'Andrea, Distributed Conrol Design for Spatially Interconnected Systems with Robustness to Small Communication Delays. Systems & Control Letters, vol. 58, issue 4, pp. 296-303, 2009.
+C. Langbort and R. D'Andrea, Distributed Control of Spatially Reversible Interconnected Systems with Boundary Conditions. SIAM Journal on Control and Optimization, vol. 44, no 1, pp. 1-28, June 2005.
+C. Langbort, R.S. Chandra and R. D'Andrea, Distributed Control Design for Systems Interconnected over an Arbitrary Graph. IEEE Transactions on Automatic Control, vol. 49, no. 9, pp. 1502-1519, Sept. 2004.
+C. Langbort, Bifurcation of Relative Equilibria in the Main Problem of Artificial Satellite Theory for a Prolate Body. Celestial Mechanics and Dynamical Astronomy, no. 84-vol., pp. 369-385, 2002.
+Click for more
+Articles in Conference Proceedings
+Y. Cheng, C. Langbort, Hopf bifurcation in the informational nudging of boundedly rational decision makers. In Proceedings of the 2019 American Control Conference (Philadelphia, PA), July 2019.
+O. Massicot, C. Langbort, Public Signals and Persuasion for Road Network Congestion Games under
+Vagaries,  in Proceedings of the 2018 IFAC Conference on Cyber-Physical-Human-Systems
+(Miami, FL), December 2018
+O. Massicot, C. Langbort, On the comparative performance of information provision policies in
+network routing games,  in Proceedings of the 2018 Asilomar Conference, October 2018.
+L. Li, O. Massicot, C. Langbort. Sequential Public Signaling in Routing Games with Feedback
+Information, in Proceedings of the 2018 IEEE Conference on Decision and Control, (Miami, FL), December 2018.
+Y. Cheng, C. Langbort, On Informational Nudging for Boundedly Rational Decision Makers, in Proceedings of the 2018 IEEE Conference on Decision and Control, (Miami, FL), December 2018.
+V. S. S. Nadendla, C. Langbort, On Estimating Multi-Attribute Choice Preferences using Private Signals and Matrix Factorization. In Proceedings of the 2018 Conference on Information Signals and Systems (CISS 2018), Princeton 2018.
+E. Akyol, C. Langbort, and T. Basar, Networked Estimation-Privacy Games. In Proceedings of
+IEEE GlobalSIP 2017, November 2017.
+S. Nadendla, E. Akyol, C. Langbort, and T. Basar, Strategic Communication Between Prospect
+Theoretic Agents over a Gaussian Test Channel. In Proceedings of Milcom 2017, October 2017
+L. Li, C. Langbort, Iterative Computation of Security Strategies in Matrix Games with Growing
+Action Set. In Proceedings of the 2017 IEEE Conference on Decision and Control, (Melbourne, VIC, Australia),
+December 2017
+E. Akyol, T. Basar, C. Langbort, Signaling Games in Networked Cyber-Physical Systems with
+Strategic Elements. In Proceedings of the 2017 IEEE Conference on Decision and Control, (Melbourne,
+VIC, Australia), December 2017.
+L. Li, C. Langbort, and J. S. Shamma, Computing Security Strategies in Finite Horizon Repeated Bayesian Games. In Proceedings of the 2017 American Control Conference, January 2017.
+Click for more
+Magazine Articles
+Research supported by NSF Career Award featured in ``A beautiful defense for smart grids", an article published by NSF's Office of Legislative and Public Affairs, as part of Cybersecurity Awareness Month Published online on October 30, 2015.
+Research on algorithm audits featured as part of the New Scientist's cover story "No one in control : The
+algorithms that run our lives" (February 2015), as well as in its article ``The secret system controlling your
+Facebook News Feed" (July 2014).
+
+Journal Editorships
+Guest Associate Editor, Special Issue on “Human-In-The-Loop Mobile Networks", IEEE Journal on Selected Areas in Communications , 2017
+Associate Editor, Systems & Control Letters, 2016-2018
+Subject Editor "Theory and Applications of Distributed Systems" for  Optimal Control Applications and Methods (OCAM-Wiley), 2011-2013
+Guest Associate Editor for the Special Issue on "Information Processing and Decision Making in Distributed Control Systems", International Journal of Systems, Control and Communications, vol. 2, nos. 1/2/3/ 2010.
+
+Conferences Organized or Chaired
+Co-Chair, Technical Program Committee, IEEE GlobalSIP Symposium on Control and Information Theoretic
+Approaches to Privacy and Security, 2017 (Montreal, QC)
+Co-organizer, NSF-sponsored workshop on "Auditing Algorithms", September 2017, University of Michigan
+
+Research Honors
+Best paper in session  (2014)
+Invited Visiting Professor (F 2012, S 2013)
+Best paper in session  (2012)
+CAREER Award (02/2012)
+Best student paper award winner (as adviser, student: T. Tanaka) (12/2011)
+Best student paper award finalist (as adviser, student: T. Tanaka) (09/2010)
+Visiting Fellow  (05-06/2011)
+Invited Visiting Professor (06/2010)
+Invited Visiting Professor (11-12/2009)
+Invited main speaker, "Distributed Optimization in Control and Estimation" (07/2009)
+Summer Faculty Research Fellowship, (Air Vehicle Directorate, Wright-Patterson Air Force Base) (2008)
+Best Paper in Session (2008)
+Best Presentation in Session (2006)
+Best Presentation in Session (2006)
+Best Student Paper Award Finalist (as student) (2003)
+Click for more
+Public Service Honors
+Special Service Citation “for the organization of the Region III student research conference”, AIAA  (2009)
+Outstanding Reviewer, IEEE Transactions on Automatic Control (2006)
+
+
+Recent Courses TaughtAE 202 - Aerospace Flight Mechanics
+AE 352 - Aerospace Dynamical Systems
+AE 454 - Systems Dynamics & Control
+AE 504 - Optimal Aerospace Systems
+AE 556 - Robust Control
+AE 590 A (AE 590 AO, AE 590 ONL) - Seminar
+Click for more
+
+
+
+
+
+
+
+

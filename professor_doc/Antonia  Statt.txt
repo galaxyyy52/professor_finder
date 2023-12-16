@@ -1,0 +1,129 @@
+
+
+
+
+
+
+
+ 
+
+
+
+Antonia Statt 
+
+
+
+
+
+Assistant Professor, Materials Science and Engineering
+
+
+(217) 244-1728
+statt@illinois.edu
+204A Materials Science & Eng Bld
+Focuses on understanding fundamental phenomena in soft matter systems through the integration of empirical model development, statistical mechanics, applications of machine learning techniques, and simulations.
+
+
+
+
+
+
+Overview
+Research
+Publications
+Awards
+
+
+
+
+For More Information
+Designing Functional Polymer Materials
+
+Education
+PhD, Physics, University of Mainz, Oct 2015
+Diploma, Physics, University of Mainz, 2012
+
+Academic Positions
+Assistant Professor (0% Appointment), Chemical & Bimolecular Engineering, January 2023 - present 
+Postdoctoral Fellow, Chemical and Biological Engineering, Princeton University, Princeton, NJ, April 2016 - November 2019 
+Affiliate Assistant Professor,  Beckman Institute, April 2020 - present 
+Assistant Professor, Materials Research Lab, November 2019 - present
+Assistant Professor, Materials Science & Engineering, November 2019 - present
+
+
+
+Research StatementOur lab’s research focuses on understanding fundamental phenomena in soft matter systems, motivated by challenges in energy, environment, and technology. We are particularly interested in crystallization and aggregation of polymers and colloidal systems, and non-equilibrium effects like flow or evaporation. Our work integrates empirical model development, statistical mechanics, applications of machine learning techniques, and highly efficient GPU-accelerated simulations. 
+Undergraduate Research Opportunities If you are interested in joining the lab please send us an email, describing background, research interests, what you hope to get out of your research experience, and how much time you want to spend in the lab. You don’t need any previous research experience, just be motivated and curious to learn! International students may be able to join our lab if you have funding, either with an REU program or external fellowships.
+Graduate Research OpportunitiesWe are always looking for motivated, excited graduate students! If you are at UIUC, please send a short description of your research interests and background to us, and some times to meet. For graduate students at other institutions, you might be able to do an internship at our group if you have external funding or a fellowship, please send a brief description of your background and interests and the contact details of your primary research advisor. For applying to grad school at UIUC, please find all relevant information on our department webpage. 
+For More Information
+Designing Functional Polymer Materials
+
+
+
+Selected Articles in Journals
+Predicting aggregate morphology of sequence-defined macromolecules with recurrent neural networks
+D Bhattacharya, DC Kleeblatt, A Statt, WF Reinhart,
+Soft matter 18 (27), 5037-5051, 2022
+Computational Study of Mechanochemical Activation in Nanostructured Triblock Copolymers Z Huo, SJ Skala, L Falck, JE Laaser, A. Statt , ACS Polymers Au,2, 6, 467–477, 2022
+
+Opportunities and Challenges for Inverse Design of Nanostructures with Sequence Defined Macromolecules WF
+Reinhart, A. Statt, Accounts of Materials Research 2 (9), 697-700, 2021
+Unsupervised learning of sequence-specific aggregation behavior for a model copolymer A. Statt, DC Kleeblatt,
+WF Reinhart Soft Matter 17 (33), 7697-7707, 2021
+ Michael P. Howard,  Antonia Statt,  Howard A. Stone, and  Thomas M. Truskett "Stability of force-driven shear flows in nonequilibrium molecular simulations with periodic boundaries"
+J. Chem. Phys. 152, 214113 (2020)
+Statt A, Casademunt H, Brangwynne, CP, Panagiotopoulos AZ (2020), "Model for disordered proteins with strongly sequence-dependent liquid phase behavior", The Journal of Chemical Physics 152 (7), 075101
+Howard MP, Statt A, Madutsa F, Truskett TM and Panagiotopoulos AZ (2019), "Quantized bounding volume hierarchies for neighbor search in molecular simulations on graphics processing units", Computational Materials Science. Vol. 164, pp. 139-146. Elsevier.
+
+Statt A, Howard MP and Panagiotopoulos AZ (2019), "Unexpected secondary flows in reverse nonequilibrium shear flow simulations", Physical Review Fluids. Vol. 4(4), pp. 043905. American Physical Society.
+
+Moghimi E, Chubak I, Statt A, Howard MP, Founta D, Polymeropoulos G, Ntetsikas K, Hadjichristidis N, Panagiotopoulos AZ, Likos CN and others (2019), "Self-Organization and Flow of Low-Functionality Telechelic Star Polymers with Varying Attraction", ACS Macro Letters. Vol. 8(7), pp. 766-772. American Chemical Society.
+Statt A, Howard MP and Panagiotopoulos AZ (2018), "Influence of hydrodynamic interactions on stratification in drying mixtures", The Journal of Chemical Physics. Vol. 149(2)
+Stalter S, Yelash L, Emamy N, Statt A, Hanke M, Lukáčová-Medvid’ová M and Virnau P (2018), "Molecular dynamics simulations in hybrid particle-continuum schemes: Pitfalls and caveats", Computer Physics Communications. Vol. 224, pp. 198-208. North-Holland.
+Koß P, Statt A, Virnau P and Binder K (2018), "The phase coexistence method to obtain surface free energies and nucleation barriers: A brief review", Molecular Physics. Vol. 116(21-22), pp. 2977-2986. Taylor & Francis.
+Howard MP, Statt A and Panagiotopoulos AZ (2017), "Note: Smooth torsional potentials for degenerate dihedral angles", The Journal of chemical physics. Vol. 146(22), pp. 226101. AIP Publishing LLC.
+Statt A, Howard MP and Panagiotopoulos AZ (2017), "Solvent quality influences surface structure of glassy polymer thin films after evaporation", The Journal of chemical physics. Vol. 147(18), pp. 184901. AIP Publishing LLC.
+Koß P, Statt A, Virnau P and Binder K (2017), "Free-energy barriers for crystal nucleation from fluid phases", Physical Review E. Vol. 96(4), pp. 042609. American Physical Society.
+Statt A, Pinchaipat R, Turci F, Evans R and Royall CP (2016), "Direct observation in 3d of structural crossover in binary hard sphere mixtures", The Journal of chemical physics. Vol. 144(14), pp. 144506. AIP Publishing LLC.
+Statt A, Schmitz F, Virnau P and Binder K (2016), "Monte Carlo simulation of crystal-liquid phase coexistence", In High Performance Computing in Science and Engineering’ 15. , pp. 75-87. Springer, Cham.
+Statt A, Koß P, Virnau P and Binder K (2016), "Estimation of Nucleation Barriers from Simulations of Crystal Nuclei Surrounded by Fluid in Equilibrium", In High Performance Computing in Science and Engineering’ 16. , pp. 49-59. Springer, Cham.
+Rios de Anda I, Statt A, Turci F and Royall CP (2015), "Low-density crystals in charged colloids: Comparison with Yukawa theory", Contributions to Plasma Physics.
+Schmitz F, Statt A, Virnau P and Binder K (2015), "Investigation of Finite-Size Effects in the Determination of Interfacial Tensions", In High Performance Computing in Science and Engineering ‘14. , pp. 5-18. Springer, Cham.
+Statt A, Virnau P and Binder K (2015), "Finite-size effects on liquid-solid phase coexistence and the estimation of crystal nucleation barriers", Physical review letters. Vol. 114(2), pp. 026101. American Physical Society.
+Statt A, Virnau P and Binder K (2015), "Crystal nuclei in melts: A Monte Carlo simulation of a model for attractive colloids", Molecular Physics. Taylor & Francis.
+Binder K, Virnau P and Statt A (2014), "Perspective: The Asakura Oosawa model: A colloid prototype for bulk and interfacial phase behavior", The Journal of chemical physics. Vol. 141(14), pp. 559. American Institute of Physics.
+Block B, Deb D, Schmitz F, Statt A, Tröster A, Winkler A, Zykova-Timan T, Virnau P and Binder K (2014), "Computer simulation of heterogeneous nucleation of colloidal crystals at planar walls", The European Physical Journal Special Topics. Vol. 223(3), pp. 347-361. Springer Berlin Heidelberg.
+Winkler A, Winter D, Chaudhuri P, Statt A, Virnau P, Horbach J and Binder K (2013), "Computer simulations of structure, dynamics, and phase behavior of colloidal fluids in confined geometry and under shear", The European Physical Journal Special Topics. Vol. 222(11), pp. 2787-2801. Springer Berlin Heidelberg.
+Winkler A, Statt A, Virnau P and Binder K (2013), "Phase transitions and phase equilibria in spherical confinement", Physical Review E. Vol. 87(3), pp. 032307. APS.
+Statt A, Winkler A, Virnau P and Binder K (2013), "Phase Separation of Colloid Polymer Mixtures Under Confinement", In High Performance Computing in Science and Engineering ‘13. , pp. 19-31. Springer, Cham.
+Statt A, Winkler A, Virnau P and Binder K (2012), "Controlling the wetting properties of the Asakura--Oosawa model and applications to spherical confinement", Journal of Physics: Condensed Matter. Vol. 24(46), pp. 464122. IOP Publishing.
+Click for more
+
+
+For More Information
+Designing Functional Polymer Materials
+
+
+
+
+
+
+
+
+
+Related News
+
+
+Summer camp introduces high schoolers to chemical and biomolecular engineering 
+
+
+ChBE students and faculty named winners and finalists in 2021 SCS Science Image Challenge 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+ 
+
+
+Andrew R Stillwell 
+
+
+
+Assistant Professor
+(217) 300-7400
+andrewrs@illinois.edu
+4054 Electrical & Computer Eng Bldg
+
+
+
+For More Information
+Stillwell Power Group
+
+Education
+Ph.D., Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2019
+M.S., Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2016
+B.S., Electrical Engineering, University of Missouri-Columbia, 2005
+B.S., Computer Engineering, University of Missouri-Columbia, 2005
+
+Other Professional Employment
+Group Manager, National Instruments, Austin, TX, 2006-2013 
+
+Research Interests
+Power Electronics
+Alternative and Renewable Energy Systems
+Transportation Electrification
+Wide Bandgap Power Devices 
+Design Optimization
+
+
+Research Areas
+Efficient energy management and conversion for lighting, communications, information technology, transportation, and appliances
+Energy storage conversion, management, and control
+Gallium nitride power semiconductors
+Power and Energy Systems
+Power electronics
+
+
+Research Topics
+Electric transportation
+Solar and renewable technology
+Storage and conversion
+
+Selected Articles in Journals
+M. E. Blackwell, A. Stillwell and R. C. N. Pilawa-Podgurski, "Dynamic Level Changing for Full Range ZVS in Flying Capacitor Multi-Level Converters," in IEEE Open Journal of Power Electronics, vol. 3, pp. 574-586, 2022, doi: 10.1109/OJPEL.2022.3200371.
+Hoque, M. J., Günay, A., Stillwell, A., Gurumukhi, Y., Pilawa-Podgurski, R. C. N., and Miljkovic, N. (February 22, 2021). "Modular Heat Sinks for Enhanced Thermal Management of Electronics." ASME. J. Electron. Packag. June 2021; 143(2): 020903.
+P. Birbarah, T. Gebrael, T. Foulkes, A. Stillwell, A. Moore, R. C. N. Pilawa-Podgurski, N. Miljkovic, "Water immersion cooling of high power density electronics," in International Journal of Heat and Mass Transfer, vol. 147, pp 118918, Feb. 2020
+A. Stillwell and R. C. N. Pilawa-Podgurski, "A Resonant Switched-Capacitor Converter with GaN Transistors for High Efficiency Power Delivery to Series-Stacked Processors," in IEEE Journal of Emerging and Selected Topics in Power Electronics
+A. Stillwell, E. Candan and R. C. N. Pilawa-Podgurski, "Active Voltage Balancing in Flying Capacitor Multi-Level Converters With Valley Current Detection and Constant Effective Duty Cycle Control," in IEEE Transactions on Power Electronics, vol. 34, no. 11, pp. 11429-11441, Nov. 2019.
+A. Stillwell and R. C. N. Pilawa-Podgurski, “A 5-Level Flying Capacitor Multi-
+Level Converter with Integrated Auxiliary Power Supply and Start-Up,” in IEEE
+Transactions on Power Electronics, vol. 34, no. 3, pp. 2900-2913, March 2019.
+Y. Lei, C. Barth, S. Qin, W. C. Liu, I. Moon, A. Stillwell, D. Chou, T. Foulkes,
+Z. Ye, Z. Liao, and R. C. N. Pilawa-Podgurski, “A 2-kW Single-Phase Seven-Level Flying Capacitor Multilevel Inverter With an Active Energy Buffer,” in IEEE Transactions on Power Electronics, vol. 32, no. 11, pp. 8570-8581, Nov. 2017.
+Click for more
+Articles in Conference Proceedings
+[C.12] N. Pallo, M. G. Taul, A. Stillwell and R. C. N. Pilawa-Podgurski, "Short-Circuit Fault Ride-Through of Flying-Capacitor Multilevel Converters through Rapid Fault Detection and Idle-mode Operation," 2020 IEEE 21st Workshop on Control and Modeling for Power Electronics (COMPEL), Aalborg, Denmark, 2020, pp. 1-8,
+[C.11] A. Stillwell and R. C. N. Pilawa-Podgurski, "Design Optimization of a 1500 V GaN-Based Solar Inverter Using Flying Capacitor Multi-Level Converter Stages," 2019 IEEE Energy Conversion Congress and Exposition (ECCE), Baltimore, MD, USA, 2019, pp. 4605-4612.
+doi: 10.1109/ECCE.2019.8913007
+[C.10] E. Candan, A. Stillwell, N. C. Brooks, R. A. Abramson, J. Strydom and R. C. N. Pilawa-Podgurski, "A 6-level Flying Capacitor Multi-level Converter for Single Phase Buck-type Power Factor Correction," 2019 IEEE Applied Power Electronics Conference and Exposition (APEC), Anaheim, CA, USA, 2019, pp. 1180-1187.
+doi: 10.1109/APEC.2019.8722199
+[C.9] A. Stillwell, E. Candan and R. C. N. Pilawa-Podgurski, “Constant Effective Duty Cycle Control for Flying Capacitor Balancing in flying Capacitor Multi-Level Converters,” 2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL), Padua, Italy, 2018, pp. 1-8. doi: 10.1109/COMPEL.2018.8460000
+[C.8] M. E. Blackwell, A. Stillwell and R. C. N. Pilawa-Podgurski, “Dynamic Level Selection for Full Range ZVS in Flying Capacitor Multi-Level Converters,” 2018 IEEE 19th Workshop on Control and Modeling for Power Electronics (COMPEL), Padua, Italy, 2018, pp. 1-8. doi:10.1109/COMPEL.2018.8460086
+[C.7] A. Stillwell, M. E. Blackwell and R. C. N. Pilawa-Podgurski, “Design of a 1 kV Bidirectional DC-DC Converter with 650 V GaN Transistors,” 2018 IEEE Applied Power Electronics Conference and Exposition (APEC), San Antonio, TX, USA, 2018, pp. 1155-1162. doi: 10.1109/APEC.2018.8341162
+[C.6] A. Stillwell and R. C. N. Pilawa-Podgurski, “A 5-Level Flying Capacitor Multi-Level Converter with Integrated Auxiliary Power Supply and Start-up,” 2017 IEEE Applied Power Electronics Conference and Exposition (APEC), Tampa, FL, USA, 2017, pp. 2932-2938. doi:10.1109/APEC.2017.7931113
+[C.5] A. Stillwell, D. Heeger, C. Meyer, S. Bedair and R. C. N. Pilawa-Podgurski, “An Interleaved 1-to-6 Step-up Resonant Switched-Capacitor Converter Utilizing Split-Phase Control,” 2016 IEEE Energy Conversion Congress and Exposition (ECCE), Milwaukee, WI, USA, 2016, pp. 1-8. doi: 10.1109/ECCE.2016.7854854
+[C.4] E. Candan, A. Stillwell and R. C. N. Pilawa-Podgurski, “A Reliability Assessment of Series-Stacked Servers with Server-to-Bus Differential Power Processing,” 2016 IEEE International Telecommunications Energy Conference (INTELEC), Austin, TX, USA, 2016, pp. 1-7. doi: 10.1109/INTLEC.2016.7749094
+[C.3] A. Stillwell, Y. Lei and R. C. N. Pilawa-Podgurski, “A Method to Extract Low-Voltage Auxiliary Power from a Flying Capacitor Multi-Level Converter,” 2016 IEEE 17th Workshop on Control and Modeling for Power Electronics (COMPEL), Trondheim, Norway, 2016, pp. 1-8. doi: 10.1109/COMPEL.2016.7556747
+[C.2] Y. Lei, C. Barth, S. Qin, W. C. Liu, I. Moon, A. Stillwell, D. Chou, T. Foulkes, Z. Ye, Z. Liao, and R. C. N. Pilawa-Podgurski, “A 2 kW, Single-Phase, 7-level, GaN Inverter with an Active Energy Buffer Achieving 216 W/in3 Power Density and 97.6% Peak Efficiency,” 2016 IEEE Applied Power Electronics Conference and Exposition (APEC), Long Beach, CA, USA, 2016, pp. 1512-1519. doi: 10.1109/APEC.2016.7468068
+[C.1] A. Stillwell and R. C. N. Pilawa-Podgurski, “A Resonant Switched-Capacitor Converter with GaN Transistors for Series-Stacked Processors with 99.8% Power Delivery Efficiency,” 2015 IEEE Energy Conversion Congress and Exposition (ECCE), Montreal, QC, 2015, pp.563-570. doi: 10.1109/ECCE.2015.7309739
+Click for more
+Professional Societies
+Member, IEEE
+
+Teaching Honors
+ISEE Levenick Teaching Sustainability Fellow (2020-21)
+
+
+Recent Courses TaughtABE 498 XW1 - Eng Design for Solar SmartHome
+ECE 333 - Green Electric Energy
+ECE 464 - Power Electronics
+ECE 469 - Power Electronics Laboratory
+ECE 598 ARO (ECE 598 ARS, ECE 598 AS) - Advanced Power Electronics
+
+
+
+
+
+
+
+Related News
+
+
+ECE students and faculty involved in building new solar-powered home for donation
+
+
+
+
+
+
+
+

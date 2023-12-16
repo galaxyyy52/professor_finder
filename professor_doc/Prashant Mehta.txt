@@ -1,0 +1,140 @@
+
+
+
+
+
+
+
+ 
+
+
+ Prashant Mehta 
+
+
+
+Professor
+(217) 244-9536
+mehtapg@illinois.edu
+359 Coordinated Science Lab
+
+
+
+For More Information
+Research Website
+
+Education
+Ph.D.	Mathematics	Cornell University, Ithaca, NY	2004
+M.S.	Electrical & Computer Engineering	University of Massachusetts, Amherst, MA	1996
+B.E.	Electrical & Electronics Engineering	Birla Institute of Technology & Sciences, Pilani, India	1993
+
+Academic Positions
+Professor, Department of Mechanical Science and Engineering, UIUC, September 2020-date
+Associate Professor, Department of Mechanical Science and Engineering, UIUC, August 16, 2011-August 2020
+Assistant Professor, Department of Mechanical Science and Engineering, UIUC, September 2005-August 15, 2011
+
+Other Professional Employment
+Chief Science Officer, Rithmio, Chicago, IL, 2014-2017
+Research Engineer, United Technologies Research Center, East Hartford, CT, 1996-1998, 2001-2005
+
+Research StatementProfessor Prashant Mehta's research focus is broadly in two areas - (I) Controlled interacting particle systems where the emphasis is on developing particle-based algorithms for nonlinear estimation and mean-field optimal control. In particular, Mehta's research group at UIUC invented the feedback particle filter (FPF) algorithm for nonlinear estimation. (II) Application of such algorithms to machine learning problems. In Mehta's research group and at his startup, the FPF algorithm was applied to solve the human activity recognition (HAR) problem using real-time data from body-worn motion sensors (accelerometer and gyroscope).  Prior to joining Illinois, Professor Mehta worked at the United Technologies Research Center (UTRC) in the area of modeling and control of combustion instabilities in jet engines and afterburners.  The state-of-the-art in control of rotating wave combustion instabilities in jet engines and afterburners is based on a “symmetry breaking” solution that Professor Mehta invented together with his colleagues at UTRC.  
+
+Research Areas
+Dynamics  & Controls
+Energy
+Security and Defense
+
+
+Selected Articles in Journals
+Zhang, C., A. Taghvaei, and P. G. Mehta, "A Mean-field Optimal Control Formulation for Global Optimization," IEEE Transactions on Automatic Control, 64:1, 279-286, January 2019.
+Zhang, C., A. Taghvaei, and P. G. Mehta, "Feedback Particle Filter for Riemannian Manifolds and Matrix Lie Groups," IEEE Transactions on Automatic Control, 63:8, 2465-2480, August 2018. 
+Yang, T. and P. G. Mehta, "Probabilistic Data Association-Feedback Particle Filter for Multiple Target Tracking Applications," ASME Journal of Dynamic Systems, Measurement, and Control, 140(3), 030905, March 2018.
+Taghvaei, A., J., de Wiljes, P. G. Mehta, and S. Reich, "Kalman filter and its modern extensions for the continuous-time nonlinear filtering problem," ASME Journal of Dynamic Systems, Measurement, and Control, 140(3), 030904, March 2018.
+Yang, T., R. Laugesen, P. G. Mehta, and S. P. Meyn, “Multivariable Feedback Particle Filter,” Automatica, 71, 10-23, September 2016.
+
+Yang, T., P. G. Mehta, and S. P. Meyn. "Feedback Particle Filter for a Continuous-time Markov Chain," IEEE Transactions on Automatic Control, 61:2, 556-561, January 2016.
+Deng, K., Y. Sun, S. Li, Y. Lu, J. Brouwer, P. G. Mehta, M. C. Zhou, and A. Chakraborty, “Model Predictive Control of Central Chiller Plant with Thermal Energy Storage via Dynamic Programming and Mixed Integer Linear Programming,” IEEE Transactions on Automation Science and Engineering, 12:2, 565-579, April 2015.
+Laugesen, R., P. G. Mehta, S. P. Meyn, and M. Ragnisky, “Poisson’s Equation in Nonlinear Filtering,” SIAM Journal of Optimization and Control, 53:1, 501-525, January 2015.
+Deng, K., S. Goyal, P. Barooah, and P. G. Mehta, "Structure-Preserving Model Reduction of Nonlinear Building Thermal Models," Automatica, 50:4, 1188-1195, April 2014.
+
+Yin, H., P. G. Mehta, S. P. Meyn, and U. V. Shanbhag, “Learning in Mean-field Games," IEEE Transactions on Automatic Control, 59:3, 629-644, March 2014.
+Yin, H., P. G. Mehta, S. P. Meyn, and U. V. Shanbhag, “On the Efficiency of Equilibria in Mean-field Oscillator Games," Dynamic Games and Applications, 4:2, 177-207, June 2014.
+Yang, T., P. G. Mehta, and S. P. Meyn, “Feedback Particle Filter,” IEEE Transactions on Automatic Control, 58:10, 2465-2480, October 2013.
+Yin, H., P. G. Mehta, S. P. Meyn, and U. V. Shanbhag, "Synchronization of Coupled Oscillators is a Game," IEEE Transactions on Automatic Control, 57:4, 920-935, April 2012.
+Hur, P., K. Shorter, P. G. Mehta, and E. Hsiao-Wecksler, "Invariant Density Analysis: Modeling and Analysis of the Postural Control System using Markov Chains," IEEE Transactions on Biomedical Engineering, 59:4, 1094-1100, April 2012.
+Deng, K., P. G. Mehta, and S. P. Meyn, "Optimal Kullback-Leibler Aggregation via the Spectral Theory of Markov Chains," IEEE Transactions on Automatic Control, 56:12, 2793-2808, December 2011.
+Yin, H., U. V. Shanbhag, and P. G. Mehta, "Nash Equilibrium Problems with Scaled Congestion Costs and Shared Constraints," IEEE Transactions on Automatic Control, 56:7, 1702-1708, July 2011.
+Hao, H., P. Barooah, and P. G. Mehta, "Stability Margin Scaling of Distributed Formation Control as a Function of Network Structure," IEEE Transactions on Automatic Control, 56:4, 923-929, April 2011.
+Sun, Y. and P. G. Mehta, “The Kullback-Leibler Rate Pseudo-Metric for Comparing Dynamical Systems,” IEEE Transactions on Automatic Control, 55:7,  1585-1598, July 2010.
+Sun, Y. and P. G. Mehta, “Bode-like Fundamental Performance Limitations in Control of Nonlinear Systems,” IEEE Transactions on Automatic Control, 55:6, 1390-1405, June 2010.
+Vaidya, U., P. G. Mehta, and U. Shanbhag, "Nonlinear Stabilization via Control	Lyapunov Measure," IEEE Transactions on Automatic Control, 55:6, 1314-1328, June 2010.
+Yin, H., P. Wang, T. Alpcan, and P. G. Mehta, “Hopf Bifurcation and Oscillations in Communication Networks with Heterogeneous Delays,” Automatica, 45:10, 2358-2367, October 2009.
+
+
+Mehta, P. G., “Controlling Combustion,” IEEE Control Systems Magazine, 29:4, 14-17, August 2009.
+Barooah, P., P. G. Mehta, and J. Hespanha, “Mistuning-based Control Design to Improve Closed-loop Stability of Vehicular Platoons,” IEEE Transactions on Automatic Control, 54:9, 2100-2113, September 2009.
+Alpcan, T., P. Wang, P. G. Mehta, and T. Basar, “A Non-equilibrium Analysis and Control Framework for Active Queue Management,” Automatica, 44:10, 2474-2486, October 2008.
+Mehta, P. G., U. Vaidya, and A. Banaszuk, “Markov Chains, Entropy, and Fundamental Limitations in Nonlinear Stabilization,” IEEE Transactions on Automatic Control, 53:3, 784-791, April 2008.
+Vaidya, U. and P. G. Mehta, “Lyapunov Measure for Almost Everywhere Stability,” IEEE Transactions on Automatic Control, 53:1, 307-324, March 2008.
+Banaszuk, A., P. G. Mehta, and G. Hagen, “The Role of Control in Design: From Fixing Problems to Design of Dynamics,” Control Engineering Practice, 15:10, 1292-1305, October 2007.
+Mehta, P. G., G. Hagen, and A. Banaszuk, “Symmetry and Symmetry-breaking for a Wave Equation with Feedback,” SIAM Journal of Applied Dynamical Systems, 6:3, 549-575, July 2007.
+Mehta, P. G. and B. A. Eisenhower, “Computational Modeling and Analysis of Multiple Steady-states in Vapor Compression Systems,” ASME Journal of Computational and Nonlinear Dynamics, 2:2, 132:140, April 2007.
+Mehta, P. G., M. Hessel, and M. Dellnitz, “Symmetry of Attractors and the Perron-Frobenius Operator,” Journal of Difference Equations and Applications, 12:11, 1147-1178, November 2006.
+Banaszuk, A., P. G. Mehta, C. Jacobson, and A. I. Khibnik, “Limits of Achievable Performance of Controlled Combustion Processes,” IEEE Transactions on Control Systems Technology, 14:5, 881-895, September 2006.
+Mehta, P. G., G. Hagen, and A. Banaszuk, “Dynamical Systems in Jet Engines: A Symmetry Based Approach,” Invited Article for Dynamical Systems Magazine (DS Web), Society of Industrial and Applied Mathematics, October 2005. http://www.dynamicalsystems.org/ma/ma/display?item=128
+Mehta, P. G. and T. J. Healey, “On Steady Solutions of Symmetry Preserving Perturbations of the 2D Couette Flow Problems," Physics of Fluids, 17:10, October 2005.
+Mehta, P. G., M. C. Soteriou, and A. Banaszuk, “Impact of Exothermicity on Steady and Linearized Response of Premixed Ducted Flame,“ Combustion & Flame, 141:4, 392-405, June 2005.
+Healey, T. J. and P. G. Mehta, “Straightforward Computations of Spatial Equilbria of Geometrically Exact Cosserat Rods,“ International Journal of Bifurcation & Chaos, 15:3, 949-965, March 2005.
+Mehta, P. G., “A Unified Well-posed Computational Approach to the 2D Orr-Sommerfeld Problem,“ Journal of Computations Physics, 199:2, 541-557, September 2004.
+Click for more
+Professional Societies
+Member, ASME Energy Systems (ES) subcommittee
+Senior Member, IEEE Control Systems Society
+Member, SIAM Dynamical Systems Group
+
+Teaching Honors
+Incomplete List of Teachers Ranked as Excellent, University of Illinois, Spring 2010
+Excellence in Undergraduate Advising Award, College of Engineering, University of Illinois, 2010
+Incomplete List of Teachers Ranked as Excellent, University of Illinois, Fall 2009
+Incomplete List of Teachers Ranked as Excellent, University of Illinois, Spring 2009
+Excellence in Undergraduate Advising Award, College of Engineering, University of Illinois, 2008
+Outstanding Teaching Assistant Award, Department of Electrical and Computer Engineering, University of Massachusetts, Amherst, 1994
+Click for more
+
+Recent Courses TaughtECE 515 (ME 540) - Control System Theory & Design
+ME 360 AL2 - Signal Processing
+TAM 541 - Mathematical Methods I
+TAM 542 - Mathematical Methods II
+
+
+
+
+
+
+
+Related News
+
+	December 4, 2023
+	Kim's doctoral thesis receives honors at CSL
+
+	February 24, 2023
+	Reaching like an octopus: a biology-inspired model opens the door to soft robot control
+
+	February 4, 2021
+	Mehta presents COVID-related research at C3.ai symposium
+
+	June 24, 2020
+	Mehta, West receive C3.ai DTI award
+
+	January 10, 2020
+	Kim wins best paper award at IEEE conference
+
+	June 28, 2019
+	Mehta, Gazzola part of cyberoctopus team
+
+
+
+
+
+
+
+

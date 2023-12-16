@@ -1,0 +1,77 @@
+
+
+
+
+
+
+
+ 
+
+
+Huan Zhang he/him/his
+
+
+
+Assistant Professor
+
+huanz@illinois.edu
+262 Coordinated Science Lab
+
+
+
+For More Information
+Personal Website
+
+
+Education
+Ph.D. in Computer Science, University of California Los Angeles, 2020
+
+M.S. in Computer Engineering, University of California Davis, 2014
+
+Bachelor of Engineering, Zhejiang University, 2012
+
+
+Research Interests
+Trustworthy Machine Learning
+Formal Verification of Machine Learning
+
+AI Safety, Robustness, and Reliability
+
+
+Research Areas
+Formal methods and software verification
+Machine learning
+Machine learning and pattern recognition
+
+
+Research Topics
+Autonomous Systems and Artificial Intelligence
+
+Honors
+Winner of International Verification of Neural Networks Competition (VNN-COMP) (leader of the team), 2021, 2022, 2023
+
+Schmidt Futures AI2050 Early Career Fellowship
+
+
+
+Recent Courses TaughtECE 120 - Introduction to Computing
+ECE 584 (CS 584) - Embedded System Verification
+
+
+
+
+
+
+
+Related News
+
+
+ECE welcomes seven new faculty
+
+
+
+
+
+
+
+
