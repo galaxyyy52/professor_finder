@@ -51,8 +51,10 @@ class ProfessorSearch:
         stemmed_query = self._stem_text(query)
         # Tokenize and expand the query        
         tokenized_query = stemmed_query.split(" ")
-        expanded_query = tokenized_query.copy()
         print(f"word,STEM word:{query, tokenized_query}")
+        tokenized_query += query.split(" ")
+        expanded_query = tokenized_query.copy() 
+        
         # To support synonyms search, expand each term in the query with synonyms
         for term in tokenized_query:
             expanded_query.extend(get_synonyms(term, max_synonyms=5))
