@@ -44,3 +44,7 @@ uvicorn main:app --reload
 
 http://127.0.0.1:8000
 
+**Project Demo:**
+
+https://www.youtube.com/watch?v=KN9P4RIZmRQ
+
